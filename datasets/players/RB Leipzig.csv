@@ -1,0 +1,353 @@
+name,position,age,value,team,season
+Benjamin Bellot,GK,24,350 Tsd. €,RB Leipzig,2014
+Fabio Coltorti,GK,34,300 Tsd. €,RB Leipzig,2014
+Thomas Dähne,GK,21,200 Tsd. €,RB Leipzig,2014
+Marvin Compper,CB,30,"1,30 Mio. €",RB Leipzig,2014
+Rodnei,CB,29,750 Tsd. €,RB Leipzig,2014
+Anthony Jung,CB,23,700 Tsd. €,RB Leipzig,2014
+Niklas Hoheneder,CB,28,600 Tsd. €,RB Leipzig,2014
+Lukas Klostermann,CB,19,500 Tsd. €,RB Leipzig,2014
+Tim Sebastian,CB,31,450 Tsd. €,RB Leipzig,2014
+Tobias Willers,CB,28,300 Tsd. €,RB Leipzig,2014
+Fabian Franke,CB,26,300 Tsd. €,RB Leipzig,2014
+Henrik Ernst,CB,28,150 Tsd. €,RB Leipzig,2014
+Mikko Sumusalo,LB,25,250 Tsd. €,RB Leipzig,2014
+John-Patrick Strauß,LB,19,150 Tsd. €,RB Leipzig,2014
+Georg Teigl,RB,24,900 Tsd. €,RB Leipzig,2014
+Joshua Kimmich,CDM,20,"5,00 Mio. €",RB Leipzig,2014
+Rani Khedira,CDM,21,"1,30 Mio. €",RB Leipzig,2014
+Diego Demme,CDM,23,800 Tsd. €,RB Leipzig,2014
+Dominik Kaiser,CM,26,900 Tsd. €,RB Leipzig,2014
+Zsolt Kalmár,CM,20,800 Tsd. €,RB Leipzig,2014
+Clemens Fandrich,CM,24,300 Tsd. €,RB Leipzig,2014
+Stefan Hierländer,RM,24,600 Tsd. €,RB Leipzig,2014
+Sebastian Heidinger,RM,29,350 Tsd. €,RB Leipzig,2014
+Denis Thomalla,CAM,22,750 Tsd. €,RB Leipzig,2014
+Federico Palacios,CAM,20,350 Tsd. €,RB Leipzig,2014
+Ante Rebić,LW,21,"2,50 Mio. €",RB Leipzig,2014
+Emil Forsberg,LW,23,"2,00 Mio. €",RB Leipzig,2014
+Omer Damari,ST,26,"3,50 Mio. €",RB Leipzig,2014
+Yussuf Poulsen,ST,21,"2,50 Mio. €",RB Leipzig,2014
+Terrence Boyd,ST,24,"1,50 Mio. €",RB Leipzig,2014
+Yordy Reyna,ST,21,"1,25 Mio. €",RB Leipzig,2014
+Daniel Frahn,ST,28,500 Tsd. €,RB Leipzig,2014
+Smail Prevljak,ST,20,350 Tsd. €,RB Leipzig,2014
+Matthias Morys,ST,28,200 Tsd. €,RB Leipzig,2014
+Tom Nattermann,ST,22,-,RB Leipzig,2014
+Péter Gulácsi,GK,26,700 Tsd. €,RB Leipzig,2015
+Fabio Coltorti,GK,35,300 Tsd. €,RB Leipzig,2015
+Benjamin Bellot,GK,25,250 Tsd. €,RB Leipzig,2015
+Willi Orbán,CB,23,"2,50 Mio. €",RB Leipzig,2015
+Atınç Nukan,CB,22,"2,50 Mio. €",RB Leipzig,2015
+Marcel Halstenberg,CB,24,"2,50 Mio. €",RB Leipzig,2015
+Lukas Klostermann,CB,20,"2,00 Mio. €",RB Leipzig,2015
+Anthony Jung,CB,24,800 Tsd. €,RB Leipzig,2015
+Marvin Compper,CB,31,600 Tsd. €,RB Leipzig,2015
+Tim Sebastian,CB,32,350 Tsd. €,RB Leipzig,2015
+Alexander Sorge,CB,23,100 Tsd. €,RB Leipzig,2015
+John-Patrick Strauß,LB,20,150 Tsd. €,RB Leipzig,2015
+Georg Teigl,RB,25,750 Tsd. €,RB Leipzig,2015
+Stefan Ilsanker,CDM,27,"2,00 Mio. €",RB Leipzig,2015
+Rani Khedira,CDM,22,900 Tsd. €,RB Leipzig,2015
+Diego Demme,CDM,24,900 Tsd. €,RB Leipzig,2015
+Gino Fechner,CDM,18,100 Tsd. €,RB Leipzig,2015
+Marcel Sabitzer,CM,22,"4,00 Mio. €",RB Leipzig,2015
+Dominik Kaiser,CM,27,"1,50 Mio. €",RB Leipzig,2015
+Zsolt Kalmár,CM,21,400 Tsd. €,RB Leipzig,2015
+Idrissa Touré,CM,18,200 Tsd. €,RB Leipzig,2015
+Felix Beiersdorf,CM,17,-,RB Leipzig,2015
+Stefan Hierländer,RM,25,300 Tsd. €,RB Leipzig,2015
+Ken Gipson,RM,20,200 Tsd. €,RB Leipzig,2015
+Emil Forsberg,LW,24,"5,00 Mio. €",RB Leipzig,2015
+Massimo Bruno,RW,22,"2,50 Mio. €",RB Leipzig,2015
+Agyemang Diawusie,RW,18,150 Tsd. €,RB Leipzig,2015
+Yussuf Poulsen,ST,22,"4,00 Mio. €",RB Leipzig,2015
+Davie Selke,ST,21,"4,00 Mio. €",RB Leipzig,2015
+Terrence Boyd,ST,25,900 Tsd. €,RB Leipzig,2015
+Nils Quaschner,ST,22,500 Tsd. €,RB Leipzig,2015
+Péter Gulácsi,GK,27,"3,00 Mio. €",RB Leipzig,2016
+Marius Müller,GK,23,750 Tsd. €,RB Leipzig,2016
+Fabio Coltorti,GK,36,200 Tsd. €,RB Leipzig,2016
+Benjamin Bellot,GK,26,150 Tsd. €,RB Leipzig,2016
+Willi Orbán,CB,24,"8,00 Mio. €",RB Leipzig,2016
+Dayot Upamecano,CB,18,"7,50 Mio. €",RB Leipzig,2016
+Kyriakos Papadopoulos,CB,25,"7,00 Mio. €",RB Leipzig,2016
+Marcel Halstenberg,CB,25,"6,00 Mio. €",RB Leipzig,2016
+Bernardo,CB,22,"5,00 Mio. €",RB Leipzig,2016
+Lukas Klostermann,CB,21,"3,00 Mio. €",RB Leipzig,2016
+Atınç Nukan,CB,23,"1,50 Mio. €",RB Leipzig,2016
+Marvin Compper,CB,32,"1,50 Mio. €",RB Leipzig,2016
+Anthony Jung,CB,25,800 Tsd. €,RB Leipzig,2016
+Dominik Franke,LB,18,200 Tsd. €,RB Leipzig,2016
+John-Patrick Strauß,LB,21,150 Tsd. €,RB Leipzig,2016
+Benno Schmitz,RB,22,"1,75 Mio. €",RB Leipzig,2016
+Diego Demme,CDM,25,"7,50 Mio. €",RB Leipzig,2016
+Stefan Ilsanker,CDM,28,"5,50 Mio. €",RB Leipzig,2016
+Rani Khedira,CDM,23,750 Tsd. €,RB Leipzig,2016
+Naby Keïta,CM,22,"27,00 Mio. €",RB Leipzig,2016
+Marcel Sabitzer,CM,23,"13,00 Mio. €",RB Leipzig,2016
+Dominik Kaiser,CM,28,"2,50 Mio. €",RB Leipzig,2016
+Zsolt Kalmár,CM,22,500 Tsd. €,RB Leipzig,2016
+Ken Gipson,RM,21,200 Tsd. €,RB Leipzig,2016
+Federico Palacios,CAM,22,225 Tsd. €,RB Leipzig,2016
+Kamil Wojtkowski,CAM,19,150 Tsd. €,RB Leipzig,2016
+Timo Werner,LW,21,"25,00 Mio. €",RB Leipzig,2016
+Emil Forsberg,LW,25,"22,00 Mio. €",RB Leipzig,2016
+Massimo Bruno,RW,23,"2,00 Mio. €",RB Leipzig,2016
+Yussuf Poulsen,ST,23,"10,00 Mio. €",RB Leipzig,2016
+Oliver Burke,ST,20,"7,00 Mio. €",RB Leipzig,2016
+Davie Selke,ST,22,"6,00 Mio. €",RB Leipzig,2016
+Nils Quaschner,ST,23,500 Tsd. €,RB Leipzig,2016
+Péter Gulácsi,GK,28,"8,00 Mio. €",RB Leipzig,2017
+Yvon Mvogo,GK,24,"3,00 Mio. €",RB Leipzig,2017
+Fabio Coltorti,GK,37,200 Tsd. €,RB Leipzig,2017
+Philipp Köhn,GK,20,100 Tsd. €,RB Leipzig,2017
+Dayot Upamecano,CB,19,"30,00 Mio. €",RB Leipzig,2017
+Willi Orbán,CB,25,"15,00 Mio. €",RB Leipzig,2017
+Lukas Klostermann,CB,22,"12,00 Mio. €",RB Leipzig,2017
+Ibrahima Konaté,CB,19,"8,00 Mio. €",RB Leipzig,2017
+Marcel Halstenberg,CB,26,"8,00 Mio. €",RB Leipzig,2017
+Bernardo,CB,23,"6,00 Mio. €",RB Leipzig,2017
+Marvin Compper,CB,33,"1,00 Mio. €",RB Leipzig,2017
+Konrad Laimer,RB,21,"8,00 Mio. €",RB Leipzig,2017
+Benno Schmitz,RB,23,"1,00 Mio. €",RB Leipzig,2017
+Diego Demme,CDM,26,"9,00 Mio. €",RB Leipzig,2017
+Stefan Ilsanker,CDM,29,"4,50 Mio. €",RB Leipzig,2017
+Niclas Stierlin,CDM,18,-,RB Leipzig,2017
+Naby Keïta,CM,23,"65,00 Mio. €",RB Leipzig,2017
+Marcel Sabitzer,CM,24,"25,00 Mio. €",RB Leipzig,2017
+Kevin Kampl,CM,27,"18,00 Mio. €",RB Leipzig,2017
+Dominik Kaiser,CM,29,"1,50 Mio. €",RB Leipzig,2017
+Federico Palacios,CAM,23,500 Tsd. €,RB Leipzig,2017
+Timo Werner,LW,22,"60,00 Mio. €",RB Leipzig,2017
+Emil Forsberg,LW,26,"25,00 Mio. €",RB Leipzig,2017
+Bruma,LW,23,"12,50 Mio. €",RB Leipzig,2017
+Ademola Lookman,Second Striker,20,"12,00 Mio. €",RB Leipzig,2017
+Jean-Kévin Augustin,ST,21,"20,00 Mio. €",RB Leipzig,2017
+Oliver Burke,ST,21,"10,00 Mio. €",RB Leipzig,2017
+Yussuf Poulsen,ST,24,"10,00 Mio. €",RB Leipzig,2017
+Péter Gulácsi,GK,29,"12,00 Mio. €",RB Leipzig,2018
+Yvon Mvogo,GK,25,"3,00 Mio. €",RB Leipzig,2018
+Marius Müller,GK,25,500 Tsd. €,RB Leipzig,2018
+Julian Krahl,GK,19,200 Tsd. €,RB Leipzig,2018
+Ibrahima Konaté,CB,20,"45,00 Mio. €",RB Leipzig,2018
+Dayot Upamecano,CB,20,"30,00 Mio. €",RB Leipzig,2018
+Lukas Klostermann,CB,23,"30,00 Mio. €",RB Leipzig,2018
+Marcel Halstenberg,CB,27,"22,00 Mio. €",RB Leipzig,2018
+Willi Orbán,CB,26,"20,00 Mio. €",RB Leipzig,2018
+Atınç Nukan,CB,25,500 Tsd. €,RB Leipzig,2018
+Marcelo Saracchi,LB,21,"10,00 Mio. €",RB Leipzig,2018
+Konrad Laimer,RB,22,"17,00 Mio. €",RB Leipzig,2018
+Nordi Mukiele,RB,21,"15,00 Mio. €",RB Leipzig,2018
+Diego Demme,CDM,27,"17,00 Mio. €",RB Leipzig,2018
+Tyler Adams,CDM,20,"13,00 Mio. €",RB Leipzig,2018
+Stefan Ilsanker,CDM,30,"4,50 Mio. €",RB Leipzig,2018
+Niclas Stierlin,CDM,19,400 Tsd. €,RB Leipzig,2018
+Erik Majetschak,CDM,19,200 Tsd. €,RB Leipzig,2018
+Marcel Sabitzer,CM,25,"25,00 Mio. €",RB Leipzig,2018
+Kevin Kampl,CM,28,"22,00 Mio. €",RB Leipzig,2018
+Amadou Haidara,CM,21,"20,00 Mio. €",RB Leipzig,2018
+Tom Krauß,CM,18,-,RB Leipzig,2018
+Emile Smith Rowe,CAM,18,"4,00 Mio. €",RB Leipzig,2018
+Max Winter,CAM,18,-,RB Leipzig,2018
+Timo Werner,LW,23,"65,00 Mio. €",RB Leipzig,2018
+Emil Forsberg,LW,27,"25,00 Mio. €",RB Leipzig,2018
+Bruma,LW,24,"10,00 Mio. €",RB Leipzig,2018
+Massimo Bruno,RW,25,"1,70 Mio. €",RB Leipzig,2018
+Oliver Bias,RW,18,-,RB Leipzig,2018
+Fabrice Hartmann,RW,18,-,RB Leipzig,2018
+Yussuf Poulsen,ST,25,"35,00 Mio. €",RB Leipzig,2018
+Jean-Kévin Augustin,ST,22,"16,00 Mio. €",RB Leipzig,2018
+Matheus Cunha,ST,20,"15,00 Mio. €",RB Leipzig,2018
+Lukas Krüger,ST,19,-,RB Leipzig,2018
+Péter Gulácsi,GK,30,"9,50 Mio. €",RB Leipzig,2019
+Yvon Mvogo,GK,26,"2,40 Mio. €",RB Leipzig,2019
+Philipp Tschauner,GK,34,325 Tsd. €,RB Leipzig,2019
+Tim Schreiber,GK,18,-,RB Leipzig,2019
+Dayot Upamecano,CB,21,"45,00 Mio. €",RB Leipzig,2019
+Ibrahima Konaté,CB,21,"40,50 Mio. €",RB Leipzig,2019
+Lukas Klostermann,CB,24,"28,00 Mio. €",RB Leipzig,2019
+Marcel Halstenberg,CB,28,"17,50 Mio. €",RB Leipzig,2019
+Willi Orbán,CB,27,"16,00 Mio. €",RB Leipzig,2019
+Ethan Ampadu,CB,19,"9,00 Mio. €",RB Leipzig,2019
+Frederik Jäkel,CB,19,150 Tsd. €,RB Leipzig,2019
+Malik Talabidi,CB,18,150 Tsd. €,RB Leipzig,2019
+Angeliño,LB,23,"17,50 Mio. €",RB Leipzig,2019
+Marcelo Saracchi,LB,22,"9,00 Mio. €",RB Leipzig,2019
+Konrad Laimer,RB,23,"24,00 Mio. €",RB Leipzig,2019
+Nordi Mukiele,RB,22,"20,00 Mio. €",RB Leipzig,2019
+Hugo Novoa,RB,17,-,RB Leipzig,2019
+Diego Demme,CDM,28,"13,50 Mio. €",RB Leipzig,2019
+Tyler Adams,CDM,21,"11,50 Mio. €",RB Leipzig,2019
+Stefan Ilsanker,CDM,31,"2,40 Mio. €",RB Leipzig,2019
+Marcel Sabitzer,CM,26,"32,00 Mio. €",RB Leipzig,2019
+Kevin Kampl,CM,29,"17,50 Mio. €",RB Leipzig,2019
+Amadou Haidara,CM,22,"15,50 Mio. €",RB Leipzig,2019
+Mads Bidstrup,CM,19,900 Tsd. €,RB Leipzig,2019
+Tom Krauß,CM,19,300 Tsd. €,RB Leipzig,2019
+Dani Olmo,CAM,22,"31,50 Mio. €",RB Leipzig,2019
+Timo Werner,LW,24,"64,00 Mio. €",RB Leipzig,2019
+Emil Forsberg,LW,28,"22,50 Mio. €",RB Leipzig,2019
+Hannes Wolf,RW,21,"11,00 Mio. €",RB Leipzig,2019
+Fabrice Hartmann,RW,19,350 Tsd. €,RB Leipzig,2019
+Joscha Wosz,RW,17,-,RB Leipzig,2019
+Ademola Lookman,Second Striker,22,"13,50 Mio. €",RB Leipzig,2019
+Christopher Nkunku,ST,22,"28,00 Mio. €",RB Leipzig,2019
+Yussuf Poulsen,ST,26,"24,00 Mio. €",RB Leipzig,2019
+Patrik Schick,ST,24,"20,00 Mio. €",RB Leipzig,2019
+Matheus Cunha,ST,21,"13,50 Mio. €",RB Leipzig,2019
+Jean-Kévin Augustin,ST,23,"9,50 Mio. €",RB Leipzig,2019
+Dennis Borkowski,ST,18,-,RB Leipzig,2019
+Péter Gulácsi,GK,31,"13,00 Mio. €",RB Leipzig,2020
+Josep Martínez,GK,23,"2,50 Mio. €",RB Leipzig,2020
+Philipp Tschauner,GK,35,300 Tsd. €,RB Leipzig,2020
+Dayot Upamecano,CB,22,"60,00 Mio. €",RB Leipzig,2020
+Ibrahima Konaté,CB,22,"35,00 Mio. €",RB Leipzig,2020
+Lukas Klostermann,CB,25,"27,00 Mio. €",RB Leipzig,2020
+Willi Orbán,CB,28,"16,00 Mio. €",RB Leipzig,2020
+Marcel Halstenberg,CB,29,"14,00 Mio. €",RB Leipzig,2020
+Angeliño,LB,24,"35,00 Mio. €",RB Leipzig,2020
+Konrad Laimer,RB,24,"26,00 Mio. €",RB Leipzig,2020
+Nordi Mukiele,RB,23,"25,00 Mio. €",RB Leipzig,2020
+Benjamin Henrichs,RB,24,"12,00 Mio. €",RB Leipzig,2020
+Hugo Novoa,RB,18,400 Tsd. €,RB Leipzig,2020
+Tyler Adams,CDM,22,"20,00 Mio. €",RB Leipzig,2020
+Eric Martel,CDM,19,"1,80 Mio. €",RB Leipzig,2020
+Marcel Sabitzer,CM,27,"42,00 Mio. €",RB Leipzig,2020
+Amadou Haidara,CM,23,"24,00 Mio. €",RB Leipzig,2020
+Kevin Kampl,CM,30,"10,00 Mio. €",RB Leipzig,2020
+Lazar Samardžić,CM,19,"3,00 Mio. €",RB Leipzig,2020
+Sidney Raebiger,CM,16,-,RB Leipzig,2020
+Dani Olmo,CAM,23,"45,00 Mio. €",RB Leipzig,2020
+Dominik Szoboszlai,CAM,20,"25,00 Mio. €",RB Leipzig,2020
+Justin Kluivert,CAM,22,"14,00 Mio. €",RB Leipzig,2020
+Emil Forsberg,LW,29,"20,00 Mio. €",RB Leipzig,2020
+Joscha Wosz,RW,18,400 Tsd. €,RB Leipzig,2020
+Fabrice Hartmann,RW,20,350 Tsd. €,RB Leipzig,2020
+Ademola Lookman,Second Striker,23,"11,00 Mio. €",RB Leipzig,2020
+Christopher Nkunku,ST,23,"43,00 Mio. €",RB Leipzig,2020
+Yussuf Poulsen,ST,27,"21,00 Mio. €",RB Leipzig,2020
+Alexander Sørloth,ST,25,"16,00 Mio. €",RB Leipzig,2020
+Hee-chan Hwang,ST,25,"11,00 Mio. €",RB Leipzig,2020
+Dennis Borkowski,ST,19,"1,20 Mio. €",RB Leipzig,2020
+Péter Gulácsi,GK,32,"8,00 Mio. €",RB Leipzig,2021
+Josep Martínez,GK,24,"2,20 Mio. €",RB Leipzig,2021
+Philipp Tschauner,GK,36,300 Tsd. €,RB Leipzig,2021
+Fabian Eutinger,GK,18,100 Tsd. €,RB Leipzig,2021
+Mohamed Simakan,CB,22,"22,00 Mio. €",RB Leipzig,2021
+Lukas Klostermann,CB,26,"18,00 Mio. €",RB Leipzig,2021
+Willi Orbán,CB,29,"10,00 Mio. €",RB Leipzig,2021
+Marcel Halstenberg,CB,30,"5,00 Mio. €",RB Leipzig,2021
+David Lelle,CB,19,-,RB Leipzig,2021
+Josko Gvardiol,LB,20,"35,00 Mio. €",RB Leipzig,2021
+Angeliño,LB,25,"30,00 Mio. €",RB Leipzig,2021
+Konrad Laimer,RB,25,"28,00 Mio. €",RB Leipzig,2021
+Nordi Mukiele,RB,24,"20,00 Mio. €",RB Leipzig,2021
+Benjamin Henrichs,RB,25,"14,00 Mio. €",RB Leipzig,2021
+Hugo Novoa,RB,19,"3,00 Mio. €",RB Leipzig,2021
+Solomon Bonnah,RB,18,750 Tsd. €,RB Leipzig,2021
+Tyler Adams,CDM,23,"17,00 Mio. €",RB Leipzig,2021
+Amadou Haidara,CM,24,"24,00 Mio. €",RB Leipzig,2021
+Marcel Sabitzer,CM,28,"15,00 Mio. €",RB Leipzig,2021
+Ilaix Moriba,CM,19,"9,00 Mio. €",RB Leipzig,2021
+Kevin Kampl,CM,31,"6,00 Mio. €",RB Leipzig,2021
+Sidney Raebiger,CM,17,750 Tsd. €,RB Leipzig,2021
+Ben Klefisch,CM,19,200 Tsd. €,RB Leipzig,2021
+Dani Olmo,CAM,24,"40,00 Mio. €",RB Leipzig,2021
+Dominik Szoboszlai,CAM,21,"28,00 Mio. €",RB Leipzig,2021
+Emil Forsberg,LW,30,"11,00 Mio. €",RB Leipzig,2021
+Mehmet Ibrahimi,LW,19,-,RB Leipzig,2021
+Joscha Wosz,RW,19,350 Tsd. €,RB Leipzig,2021
+Fabrice Hartmann,RW,21,300 Tsd. €,RB Leipzig,2021
+Christopher Nkunku,ST,24,"80,00 Mio. €",RB Leipzig,2021
+André Silva,ST,26,"32,00 Mio. €",RB Leipzig,2021
+Hee-chan Hwang,ST,26,"16,00 Mio. €",RB Leipzig,2021
+Yussuf Poulsen,ST,28,"14,00 Mio. €",RB Leipzig,2021
+Brian Brobbey,ST,20,"9,00 Mio. €",RB Leipzig,2021
+Péter Gulácsi,GK,33,"5,00 Mio. €",RB Leipzig,2022
+Janis Blaswich,GK,32,"2,50 Mio. €",RB Leipzig,2022
+Ørjan Nyland,GK,32,600 Tsd. €,RB Leipzig,2022
+Jonas Nickisch,GK,19,200 Tsd. €,RB Leipzig,2022
+Timo Schlieck,GK,17,200 Tsd. €,RB Leipzig,2022
+Oskar Preil,GK,19,100 Tsd. €,RB Leipzig,2022
+Mohamed Simakan,CB,23,"25,00 Mio. €",RB Leipzig,2022
+Lukas Klostermann,CB,27,"12,00 Mio. €",RB Leipzig,2022
+Willi Orbán,CB,30,"10,00 Mio. €",RB Leipzig,2022
+Abdou Diallo,CB,27,"10,00 Mio. €",RB Leipzig,2022
+Marcel Halstenberg,CB,31,"3,50 Mio. €",RB Leipzig,2022
+Josko Gvardiol,LB,21,"75,00 Mio. €",RB Leipzig,2022
+David Raum,LB,25,"14,00 Mio. €",RB Leipzig,2022
+Konrad Laimer,RB,26,"28,00 Mio. €",RB Leipzig,2022
+Benjamin Henrichs,RB,26,"15,00 Mio. €",RB Leipzig,2022
+Hugo Novoa,RB,20,"4,30 Mio. €",RB Leipzig,2022
+Sanoussy Ba,RB,19,500 Tsd. €,RB Leipzig,2022
+Xaver Schlager,CM,25,"22,00 Mio. €",RB Leipzig,2022
+Amadou Haidara,CM,25,"17,00 Mio. €",RB Leipzig,2022
+Kevin Kampl,CM,32,"3,50 Mio. €",RB Leipzig,2022
+Dominik Szoboszlai,CAM,22,"50,00 Mio. €",RB Leipzig,2022
+Dani Olmo,CAM,25,"40,00 Mio. €",RB Leipzig,2022
+Caden Clark,CAM,20,"2,00 Mio. €",RB Leipzig,2022
+Timo Werner,LW,27,"25,00 Mio. €",RB Leipzig,2022
+Emil Forsberg,LW,31,"7,00 Mio. €",RB Leipzig,2022
+Christopher Nkunku,ST,25,"80,00 Mio. €",RB Leipzig,2022
+André Silva,ST,27,"15,00 Mio. €",RB Leipzig,2022
+Alexander Sørloth,ST,27,"12,00 Mio. €",RB Leipzig,2022
+Yussuf Poulsen,ST,29,"7,00 Mio. €",RB Leipzig,2022
+Péter Gulácsi,GK,34,"3,00 Mio. €",RB Leipzig,2023
+Janis Blaswich,GK,33,"2,00 Mio. €",RB Leipzig,2023
+Timo Schlieck,GK,18,500 Tsd. €,RB Leipzig,2023
+Leopold Zingerle,GK,30,400 Tsd. €,RB Leipzig,2023
+Castello Lukeba,CB,21,"40,00 Mio. €",RB Leipzig,2023
+Mohamed Simakan,CB,24,"35,00 Mio. €",RB Leipzig,2023
+El Chadaille Bitshiabu,CB,19,"12,00 Mio. €",RB Leipzig,2023
+Willi Orbán,CB,31,"10,00 Mio. €",RB Leipzig,2023
+Lukas Klostermann,CB,28,"8,00 Mio. €",RB Leipzig,2023
+Jonathan Norbye,CB,17,-,RB Leipzig,2023
+Tim Köhler,CB,19,-,RB Leipzig,2023
+David Raum,LB,26,"20,00 Mio. €",RB Leipzig,2023
+Christopher Lenz,LB,29,"1,50 Mio. €",RB Leipzig,2023
+Benjamin Henrichs,RB,27,"20,00 Mio. €",RB Leipzig,2023
+Hugo Novoa,RB,21,"2,50 Mio. €",RB Leipzig,2023
+Xaver Schlager,CM,26,"28,00 Mio. €",RB Leipzig,2023
+Amadou Haidara,CM,26,"20,00 Mio. €",RB Leipzig,2023
+Nicolas Seiwald,CM,23,"16,00 Mio. €",RB Leipzig,2023
+Kevin Kampl,CM,33,"3,50 Mio. €",RB Leipzig,2023
+Ilaix Moriba,CM,21,"3,00 Mio. €",RB Leipzig,2023
+Xavi Simons,CAM,21,"80,00 Mio. €",RB Leipzig,2023
+Dani Olmo,CAM,26,"50,00 Mio. €",RB Leipzig,2023
+Eljif Elmas,CAM,24,"20,00 Mio. €",RB Leipzig,2023
+Christoph Baumgartner,CAM,24,"18,00 Mio. €",RB Leipzig,2023
+Fábio Carvalho,CAM,21,"14,00 Mio. €",RB Leipzig,2023
+Nuha Jatta,CAM,18,-,RB Leipzig,2023
+Timo Werner,LW,28,"17,00 Mio. €",RB Leipzig,2023
+Emil Forsberg,LW,32,"5,00 Mio. €",RB Leipzig,2023
+Loïs Openda,ST,24,"60,00 Mio. €",RB Leipzig,2023
+Benjamin Sesko,ST,21,"50,00 Mio. €",RB Leipzig,2023
+Yussuf Poulsen,ST,30,"6,00 Mio. €",RB Leipzig,2023
+Yannick Eduardo,ST,18,-,RB Leipzig,2023
+Maarten Vandevoordt,GK,23,"8,00 Mio. €",RB Leipzig,2024
+Péter Gulácsi,GK,35,"2,50 Mio. €",RB Leipzig,2024
+Leopold Zingerle,GK,31,400 Tsd. €,RB Leipzig,2024
+Castello Lukeba,CB,22,"50,00 Mio. €",RB Leipzig,2024
+El Chadaille Bitshiabu,CB,20,"12,00 Mio. €",RB Leipzig,2024
+Willi Orbán,CB,32,"10,00 Mio. €",RB Leipzig,2024
+Lukas Klostermann,CB,28,"8,00 Mio. €",RB Leipzig,2024
+David Raum,LB,27,"25,00 Mio. €",RB Leipzig,2024
+Lutsharel Geertruida,RB,24,"27,00 Mio. €",RB Leipzig,2024
+Benjamin Henrichs,RB,28,"17,00 Mio. €",RB Leipzig,2024
+Kosta Nedeljkovic,RB,19,"8,50 Mio. €",RB Leipzig,2024
+Ridle Baku,RB,27,"7,00 Mio. €",RB Leipzig,2024
+Arthur Vermeeren,CDM,20,"22,00 Mio. €",RB Leipzig,2024
+Amadou Haidara,CM,27,"20,00 Mio. €",RB Leipzig,2024
+Xaver Schlager,CM,27,"18,00 Mio. €",RB Leipzig,2024
+Nicolas Seiwald,CM,24,"16,00 Mio. €",RB Leipzig,2024
+Assan Ouédraogo,CM,19,"10,00 Mio. €",RB Leipzig,2024
+Kevin Kampl,CM,34,"3,00 Mio. €",RB Leipzig,2024
+Xavi Simons,CAM,22,"70,00 Mio. €",RB Leipzig,2024
+Christoph Baumgartner,CAM,25,"15,00 Mio. €",RB Leipzig,2024
+Viggo Gebel,CAM,17,350 Tsd. €,RB Leipzig,2024
+Antonio Nusa,LW,20,"28,00 Mio. €",RB Leipzig,2024
+Tidiam Gomis,LW,18,"3,00 Mio. €",RB Leipzig,2024
+Benjamin Sesko,ST,21,"65,00 Mio. €",RB Leipzig,2024
+Loïs Openda,ST,25,"60,00 Mio. €",RB Leipzig,2024
+Yussuf Poulsen,ST,30,"5,00 Mio. €",RB Leipzig,2024

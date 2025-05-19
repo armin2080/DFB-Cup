@@ -1,0 +1,330 @@
+name,position,age,value,team,season
+Andy Hubert,GK,24,-,Bonner SC,2014
+Martin Michel,GK,22,-,Bonner SC,2014
+Michael Schwinn,GK,23,-,Bonner SC,2014
+David Weidner,GK,19,-,Bonner SC,2014
+Andreas Dick,CB,26,-,Bonner SC,2014
+Assimiou Touré,CB,27,-,Bonner SC,2014
+Mario Weber,CB,25,-,Bonner SC,2014
+Markus Wipperfürth,LB,19,-,Bonner SC,2014
+Tobias Berg,LB,21,-,Bonner SC,2014
+Amir-Ali Mostowfi,RB,25,-,Bonner SC,2014
+Bastian Wernscheid,CDM,25,-,Bonner SC,2014
+Andreas Akbari,CDM,24,-,Bonner SC,2014
+Gordon Addai,CDM,33,-,Bonner SC,2014
+Tom Maiwald,CDM,25,-,Bonner SC,2014
+Miles Tafese,Midfielder,22,-,Bonner SC,2014
+Fabian Hager,CDM,22,-,Bonner SC,2014
+Johannes Wenning,CDM,23,-,Bonner SC,2014
+Yannick Walbröl,CDM,27,-,Bonner SC,2014
+Daniel Lingen,CDM,19,-,Bonner SC,2014
+Bünyamin Kilic,CM,28,-,Bonner SC,2014
+Rachid Eckert,RM,28,-,Bonner SC,2014
+Florian Mager,CAM,23,-,Bonner SC,2014
+Timo Schmidt,CAM,19,-,Bonner SC,2014
+Dominik Schröer,CAM,24,-,Bonner SC,2014
+Daniel Somuah,RW,25,-,Bonner SC,2014
+Kelvin Lunga,RW,21,-,Bonner SC,2014
+Lucas Musculus,ST,24,-,Bonner SC,2014
+Robin Schmidt,ST,22,-,Bonner SC,2014
+Christian Brückers,ST,20,-,Bonner SC,2014
+Martin Michel,GK,23,-,Bonner SC,2015
+Andy Hubert,GK,25,-,Bonner SC,2015
+Yusuke Harada,GK,25,-,Bonner SC,2015
+Andreas Dick,CB,27,-,Bonner SC,2015
+Ricardo Retterath,CB,24,-,Bonner SC,2015
+Burak Özmen,CB,18,-,Bonner SC,2015
+Florian Schell,CB,21,-,Bonner SC,2015
+Mario Weber,CB,26,-,Bonner SC,2015
+Markus Wipperfürth,LB,20,-,Bonner SC,2015
+Adis Omerbasic,RB,21,25 Tsd. €,Bonner SC,2015
+Andreas Akbari,CDM,25,-,Bonner SC,2015
+Recep Kartal,CDM,27,-,Bonner SC,2015
+Gordon Addai,CDM,34,-,Bonner SC,2015
+Noel Huschke,Midfielder,19,-,Bonner SC,2015
+Deniz Dogan,CDM,19,-,Bonner SC,2015
+Daniel Lingen,CDM,20,-,Bonner SC,2015
+Gentrit Sulejmani,CM,19,-,Bonner SC,2015
+Rachid Eckert,RM,29,-,Bonner SC,2015
+Florian Mager,CAM,24,-,Bonner SC,2015
+Abdelkader Maouel,CAM,28,-,Bonner SC,2015
+Marcel Kaiser,CAM,25,-,Bonner SC,2015
+Dominik Schröer,CAM,25,-,Bonner SC,2015
+Dennis Eck,LW,25,-,Bonner SC,2015
+Daniel Somuah,RW,26,-,Bonner SC,2015
+Benjamin Nuhi,ST,20,100 Tsd. €,Bonner SC,2015
+Lucas Musculus,ST,25,-,Bonner SC,2015
+Christian Brückers,ST,21,-,Bonner SC,2015
+Martin Michel,GK,24,75 Tsd. €,Bonner SC,2016
+Andy Hubert,GK,26,50 Tsd. €,Bonner SC,2016
+Yusuke Harada,GK,26,25 Tsd. €,Bonner SC,2016
+Andreas Dick,CB,28,75 Tsd. €,Bonner SC,2016
+Ricardo Retterath,CB,25,75 Tsd. €,Bonner SC,2016
+Mario Weber,CB,27,50 Tsd. €,Bonner SC,2016
+Joran Sobiech,CB,21,50 Tsd. €,Bonner SC,2016
+Uğur Dündar,LB,24,75 Tsd. €,Bonner SC,2016
+Markus Wipperfürth,LB,21,50 Tsd. €,Bonner SC,2016
+Günter Mabanza,LB,21,50 Tsd. €,Bonner SC,2016
+Adis Omerbasic,RB,22,50 Tsd. €,Bonner SC,2016
+Anil Capkin,RB,21,50 Tsd. €,Bonner SC,2016
+Andreas Akbari,CDM,26,50 Tsd. €,Bonner SC,2016
+Tim Lünenbach,CDM,24,50 Tsd. €,Bonner SC,2016
+Kris Fillinger,CDM,24,50 Tsd. €,Bonner SC,2016
+Recep Kartal,CDM,28,25 Tsd. €,Bonner SC,2016
+Gordon Addai,CDM,35,25 Tsd. €,Bonner SC,2016
+Connor Krempicki,CM,22,125 Tsd. €,Bonner SC,2016
+Dario Schumacher,CM,24,125 Tsd. €,Bonner SC,2016
+Marcel Kaiser,CAM,26,50 Tsd. €,Bonner SC,2016
+Abdelkader Maouel,CAM,29,50 Tsd. €,Bonner SC,2016
+Dominik Schröer,CAM,26,25 Tsd. €,Bonner SC,2016
+Gjorgji Antoski,CAM,25,25 Tsd. €,Bonner SC,2016
+Roberto Guirino,CAM,25,-,Bonner SC,2016
+Daniel Somuah,RW,27,100 Tsd. €,Bonner SC,2016
+Kelvin Lunga,RW,23,100 Tsd. €,Bonner SC,2016
+Lucas Musculus,ST,26,150 Tsd. €,Bonner SC,2016
+Thiemo-Jérôme Kialka,ST,28,50 Tsd. €,Bonner SC,2016
+David Bors,ST,22,50 Tsd. €,Bonner SC,2016
+Benjamin Nuhi,ST,21,25 Tsd. €,Bonner SC,2016
+Luca Sasso-Sant,ST,19,25 Tsd. €,Bonner SC,2016
+Alexander Monath,GK,24,100 Tsd. €,Bonner SC,2017
+Martin Michel,GK,25,50 Tsd. €,Bonner SC,2017
+Andy Hubert,GK,27,25 Tsd. €,Bonner SC,2017
+Sebastian Spinrath,CB,26,125 Tsd. €,Bonner SC,2017
+Nico Perrey,CB,24,100 Tsd. €,Bonner SC,2017
+Mario Weber,CB,28,75 Tsd. €,Bonner SC,2017
+Joran Sobiech,CB,22,50 Tsd. €,Bonner SC,2017
+David Marvin Gerber,CB,18,-,Bonner SC,2017
+Uğur Dündar,LB,25,75 Tsd. €,Bonner SC,2017
+Günter Mabanza,LB,22,50 Tsd. €,Bonner SC,2017
+Adis Omerbasic,RB,23,100 Tsd. €,Bonner SC,2017
+Dennis Engelman,RB,23,75 Tsd. €,Bonner SC,2017
+Sebastian Hirsch,RB,28,50 Tsd. €,Bonner SC,2017
+Kris Fillinger,CDM,25,75 Tsd. €,Bonner SC,2017
+Jannik Stoffels,CDM,21,50 Tsd. €,Bonner SC,2017
+Gordon Addai,CDM,36,25 Tsd. €,Bonner SC,2017
+Dario Schumacher,CM,25,150 Tsd. €,Bonner SC,2017
+Marco Ban,CM,23,25 Tsd. €,Bonner SC,2017
+Marcel Kaiser,CAM,27,75 Tsd. €,Bonner SC,2017
+Vojno Jesic,CAM,24,75 Tsd. €,Bonner SC,2017
+Abdelkader Maouel,CAM,30,50 Tsd. €,Bonner SC,2017
+Aleksandar Pranjes,RW,27,50 Tsd. €,Bonner SC,2017
+Daniel Somuah,RW,28,50 Tsd. €,Bonner SC,2017
+Lars Lokotsch,ST,22,75 Tsd. €,Bonner SC,2017
+David Bors,ST,23,50 Tsd. €,Bonner SC,2017
+Martin Michel,GK,26,75 Tsd. €,Bonner SC,2018
+Alexander Monath,GK,25,75 Tsd. €,Bonner SC,2018
+Jens Fikisi,GK,19,25 Tsd. €,Bonner SC,2018
+Andy Hubert,GK,28,25 Tsd. €,Bonner SC,2018
+Mario Weber,CB,29,100 Tsd. €,Bonner SC,2018
+Nico Perrey,CB,25,100 Tsd. €,Bonner SC,2018
+Cedrik Mvondo,CB,21,75 Tsd. €,Bonner SC,2018
+Wael Karim,CB,23,50 Tsd. €,Bonner SC,2018
+David Marvin Gerber,CB,19,-,Bonner SC,2018
+Markus Wipperfürth,LB,23,100 Tsd. €,Bonner SC,2018
+Koray Kacinoglu,LB,24,75 Tsd. €,Bonner SC,2018
+Adis Omerbasic,RB,24,125 Tsd. €,Bonner SC,2018
+Dennis Engelman,RB,24,50 Tsd. €,Bonner SC,2018
+Sebastian Hirsch,RB,29,50 Tsd. €,Bonner SC,2018
+Kris Fillinger,CDM,26,100 Tsd. €,Bonner SC,2018
+Bernard Mwarome,CDM,22,75 Tsd. €,Bonner SC,2018
+Jannik Stoffels,CDM,22,50 Tsd. €,Bonner SC,2018
+Gordon Addai,CDM,37,-,Bonner SC,2018
+Samuel Fontana,Midfielder,19,-,Bonner SC,2018
+Dennis Brock,CM,24,75 Tsd. €,Bonner SC,2018
+Jukiya Fujishima,LM,22,25 Tsd. €,Bonner SC,2018
+Nils Rütten,CAM,23,150 Tsd. €,Bonner SC,2018
+Suheyel Najar,CAM,23,75 Tsd. €,Bonner SC,2018
+Vojno Jesic,CAM,25,75 Tsd. €,Bonner SC,2018
+Ertugrul Ünal,CAM,19,-,Bonner SC,2018
+Hamza Salman,RW,21,100 Tsd. €,Bonner SC,2018
+Vincent-Louis Stenzel,RW,22,75 Tsd. €,Bonner SC,2018
+Daniel Somuah,RW,29,75 Tsd. €,Bonner SC,2018
+David Bors,ST,24,125 Tsd. €,Bonner SC,2018
+Robin Schmidt,ST,26,50 Tsd. €,Bonner SC,2018
+Shunya Hashimoto,ST,23,-,Bonner SC,2018
+Robin Benz,GK,24,100 Tsd. €,Bonner SC,2019
+Jens Fikisi,GK,20,25 Tsd. €,Bonner SC,2019
+Andy Hubert,GK,29,25 Tsd. €,Bonner SC,2019
+Nico Perrey,CB,26,100 Tsd. €,Bonner SC,2019
+Mario Weber,CB,30,75 Tsd. €,Bonner SC,2019
+Babacar M'Bengue,CB,28,50 Tsd. €,Bonner SC,2019
+Cedrik Mvondo,CB,22,50 Tsd. €,Bonner SC,2019
+David Winke,CB,20,50 Tsd. €,Bonner SC,2019
+Armin Pjetrovic,CB,23,-,Bonner SC,2019
+Markus Wipperfürth,LB,24,100 Tsd. €,Bonner SC,2019
+Fabio Menzel,LB,20,-,Bonner SC,2019
+Adis Omerbasic,RB,25,125 Tsd. €,Bonner SC,2019
+Sebastian Hirsch,RB,30,50 Tsd. €,Bonner SC,2019
+Cebrail Makreckis,RB,20,50 Tsd. €,Bonner SC,2019
+Jan Holldack,CDM,24,125 Tsd. €,Bonner SC,2019
+Kris Fillinger,CDM,27,100 Tsd. €,Bonner SC,2019
+Bernard Mwarome,CDM,23,75 Tsd. €,Bonner SC,2019
+Carlo Cavalar,CDM,18,25 Tsd. €,Bonner SC,2019
+Kelana Mahessa,CDM,19,25 Tsd. €,Bonner SC,2019
+Dario Schumacher,CM,27,125 Tsd. €,Bonner SC,2019
+Jasper Löffelsend,CM,22,-,Bonner SC,2019
+Burak Gençal,CAM,25,100 Tsd. €,Bonner SC,2019
+Marcel Kaiser,CAM,29,75 Tsd. €,Bonner SC,2019
+Tiziano Lo Iacono,CAM,26,-,Bonner SC,2019
+Patrick Schikowski,LW,28,150 Tsd. €,Bonner SC,2019
+Aloy Ihenacho,LW,24,50 Tsd. €,Bonner SC,2019
+Kenan Dünnwald-Turan,LW,24,50 Tsd. €,Bonner SC,2019
+Daniel Somuah,RW,30,75 Tsd. €,Bonner SC,2019
+Evangelos Skraparas,ST,29,25 Tsd. €,Bonner SC,2019
+Robin Schmidt,ST,27,25 Tsd. €,Bonner SC,2019
+Celal Kanli,ST,25,-,Bonner SC,2019
+Jonas Hupe,GK,21,75 Tsd. €,Bonner SC,2020
+Justin Dautzenberg,GK,23,25 Tsd. €,Bonner SC,2020
+Eamonn Klein,GK,19,10 Tsd. €,Bonner SC,2020
+Marian Sarr,CB,26,100 Tsd. €,Bonner SC,2020
+David Winke,CB,21,75 Tsd. €,Bonner SC,2020
+Sören Lippert,CB,21,75 Tsd. €,Bonner SC,2020
+Cedrik Mvondo,CB,23,50 Tsd. €,Bonner SC,2020
+Jan Roschlaub,CB,20,25 Tsd. €,Bonner SC,2020
+Marius Samoura,CB,20,25 Tsd. €,Bonner SC,2020
+Paul Wiese,RB,20,75 Tsd. €,Bonner SC,2020
+Nils Teixeira,CDM,30,100 Tsd. €,Bonner SC,2020
+Kris Fillinger,CDM,28,75 Tsd. €,Bonner SC,2020
+Dominik Bilogrevic,CDM,22,75 Tsd. €,Bonner SC,2020
+Kelana Mahessa,CDM,20,50 Tsd. €,Bonner SC,2020
+Carlo Cavalar,CDM,19,10 Tsd. €,Bonner SC,2020
+Dario Schumacher,CM,28,100 Tsd. €,Bonner SC,2020
+Dario Bezerra-Ehret,CM,22,75 Tsd. €,Bonner SC,2020
+Julian Engels (Büscher),CM,28,50 Tsd. €,Bonner SC,2020
+Miguel Blanco-Lopez,CM,22,25 Tsd. €,Bonner SC,2020
+Rudolf González,RM,22,75 Tsd. €,Bonner SC,2020
+Marcel Damaschek,LM,24,75 Tsd. €,Bonner SC,2020
+Daniel Schaal,LM,27,25 Tsd. €,Bonner SC,2020
+Burak Gençal,CAM,26,100 Tsd. €,Bonner SC,2020
+Marcel Kaiser,CAM,30,75 Tsd. €,Bonner SC,2020
+Masaaki Takahara,LW,25,50 Tsd. €,Bonner SC,2020
+Aloy Ihenacho,LW,25,25 Tsd. €,Bonner SC,2020
+Georgios Touloupis,LW,21,25 Tsd. €,Bonner SC,2020
+Daniel Somuah,RW,31,75 Tsd. €,Bonner SC,2020
+Luis-Felipe Monteiro,RW,19,50 Tsd. €,Bonner SC,2020
+Serhat-Semih Güler,ST,23,75 Tsd. €,Bonner SC,2020
+Metin Kizil,ST,26,50 Tsd. €,Bonner SC,2020
+Alexander-Tackie Sai,ST,19,25 Tsd. €,Bonner SC,2020
+Kevin Birk,GK,30,75 Tsd. €,Bonner SC,2021
+Ron Meyer,GK,24,25 Tsd. €,Bonner SC,2021
+Eamonn Klein,GK,20,10 Tsd. €,Bonner SC,2021
+Fabius Leipelt,GK,19,10 Tsd. €,Bonner SC,2021
+Mark Depta,GK,24,-,Bonner SC,2021
+Bastian Balensiefer,CB,18,-,Bonner SC,2021
+Leander Goralski,CB,28,100 Tsd. €,Bonner SC,2021
+Matti Fiedler,CB,26,75 Tsd. €,Bonner SC,2021
+Massaman Keita,CB,22,50 Tsd. €,Bonner SC,2021
+Yannick Filipovic,CB,24,10 Tsd. €,Bonner SC,2021
+Robin Afamefuna,LB,25,75 Tsd. €,Bonner SC,2021
+Isidor Akpeko,LB,22,10 Tsd. €,Bonner SC,2021
+Nils Teixeira,CDM,31,100 Tsd. €,Bonner SC,2021
+Lars Holtkamp,CDM,20,75 Tsd. €,Bonner SC,2021
+Kris Fillinger,CDM,29,50 Tsd. €,Bonner SC,2021
+Maximilian Pommer,CDM,24,50 Tsd. €,Bonner SC,2021
+Creighton Braun,CDM,20,25 Tsd. €,Bonner SC,2021
+Ismael Maloko,CDM,19,25 Tsd. €,Bonner SC,2021
+Ishak Adahchur,CDM,18,-,Bonner SC,2021
+Dario Bezerra-Ehret,CM,23,50 Tsd. €,Bonner SC,2021
+Rudolf González,RM,23,100 Tsd. €,Bonner SC,2021
+Justin Klein,RM,27,25 Tsd. €,Bonner SC,2021
+Dustin Bohlem,LM,19,-,Bonner SC,2021
+Mohamed Loum,CAM,24,-,Bonner SC,2021
+Masaaki Takahara,LW,26,75 Tsd. €,Bonner SC,2021
+Jonas Berg,RW,20,50 Tsd. €,Bonner SC,2021
+Daniel Somuah,RW,32,50 Tsd. €,Bonner SC,2021
+Luis-Felipe Monteiro,RW,20,50 Tsd. €,Bonner SC,2021
+Serhat-Semih Güler,ST,24,125 Tsd. €,Bonner SC,2021
+Enzo Wirtz,ST,26,75 Tsd. €,Bonner SC,2021
+Alexander-Tackie Sai,ST,20,50 Tsd. €,Bonner SC,2021
+Albert Bunjaku,ST,38,-,Bonner SC,2021
+Etienne Mukanya,ST,27,-,Bonner SC,2021
+Ron Meyer,GK,25,-,Bonner SC,2022
+Kevin Birk,GK,31,-,Bonner SC,2022
+Andy Hubert,GK,32,-,Bonner SC,2022
+Lennard Hövel,GK,18,-,Bonner SC,2022
+Massaman Keita,CB,23,-,Bonner SC,2022
+Nico Perrey,CB,29,-,Bonner SC,2022
+Bilal-Badr Ksiouar,CB,20,-,Bonner SC,2022
+Maximilian Decker,CB,20,-,Bonner SC,2022
+Dan-Patrick Poggenberg,LB,31,-,Bonner SC,2022
+Tom Wieschebrock,LB,18,-,Bonner SC,2022
+Tim Schirmer,LB,20,-,Bonner SC,2022
+Jan-Luca Prangenberg,RB,24,-,Bonner SC,2022
+Maximilian Pommer,CDM,25,-,Bonner SC,2022
+Ismael Maloko,CDM,20,-,Bonner SC,2022
+Hajdar Shala,CDM,24,-,Bonner SC,2022
+Benny Boboy,CDM,18,-,Bonner SC,2022
+Meric-Nuh Gültekin,CDM,18,-,Bonner SC,2022
+Ishak Adahchur,CDM,19,-,Bonner SC,2022
+Felix Erken,CDM,20,-,Bonner SC,2022
+Rudolf González,RM,24,-,Bonner SC,2022
+Ben Hompesch,LM,20,-,Bonner SC,2022
+Dustin Bohlem,LM,20,-,Bonner SC,2022
+Leon Augusto,CAM,23,-,Bonner SC,2022
+Nam-ju Lee,LW,18,-,Bonner SC,2022
+Noah Tomson,LW,18,-,Bonner SC,2022
+Burak Yeşilay,LW,22,-,Bonner SC,2022
+Jonas Berg,RW,21,-,Bonner SC,2022
+Daniel Somuah,RW,33,-,Bonner SC,2022
+Samir Malaab,RW,24,-,Bonner SC,2022
+Ole Lichter,Second Striker,19,-,Bonner SC,2022
+Alexander-Tackie Sai,ST,21,-,Bonner SC,2022
+Ergün Yildiz,ST,25,-,Bonner SC,2022
+Dominic Sinanoglu,ST,19,-,Bonner SC,2022
+Kevin Birk,GK,32,-,Bonner SC,2023
+Martin Michel,GK,31,-,Bonner SC,2023
+Andy Hubert,GK,33,-,Bonner SC,2023
+Tarik Dogan,CB,27,-,Bonner SC,2023
+Massaman Keita,CB,24,-,Bonner SC,2023
+Leander Goralski,CB,30,-,Bonner SC,2023
+Maximilian Decker,CB,21,-,Bonner SC,2023
+Markus Wipperfürth,LB,28,-,Bonner SC,2023
+Tim Schirmer,LB,21,-,Bonner SC,2023
+Kotaro Nakanishi,LB,24,-,Bonner SC,2023
+Adis Omerbasic,RB,29,-,Bonner SC,2023
+Joshua Osawe,RB,19,-,Bonner SC,2023
+Jan-Luca Prangenberg,RB,25,-,Bonner SC,2023
+Maximilian Pommer,CDM,26,-,Bonner SC,2023
+Creighton Braun,CDM,22,-,Bonner SC,2023
+Felix Erken,CDM,21,-,Bonner SC,2023
+Cedric Abresch,CM,19,-,Bonner SC,2023
+Rudolf González,RM,25,-,Bonner SC,2023
+Volkan Ballicalioglu,RM,20,-,Bonner SC,2023
+Ben Hompesch,LM,21,-,Bonner SC,2023
+Bilal El Morabiti,LM,25,-,Bonner SC,2023
+Leon Augusto,CAM,24,-,Bonner SC,2023
+Armando Rexhepaj,CAM,22,-,Bonner SC,2023
+Eray Isik,CAM,19,-,Bonner SC,2023
+Burak Yeşilay,LW,23,25 Tsd. €,Bonner SC,2023
+Michael Okoroafor,LW,24,-,Bonner SC,2023
+Nam-ju Lee,LW,19,-,Bonner SC,2023
+Jonas Berg,RW,22,-,Bonner SC,2023
+Samir Malaab,RW,25,-,Bonner SC,2023
+Hendrik Strobl,Second Striker,22,-,Bonner SC,2023
+Marco Königs,ST,34,-,Bonner SC,2023
+Serhat Koruk,ST,28,-,Bonner SC,2023
+Kevin Birk,GK,33,-,Bonner SC,2024
+Jens Fikisi,GK,25,-,Bonner SC,2024
+Andy Hubert,GK,34,-,Bonner SC,2024
+Massaman Keita,CB,25,-,Bonner SC,2024
+Bilal-Badr Ksiouar,CB,22,-,Bonner SC,2024
+Tarik Dogan,CB,,-,Bonner SC,2024
+Markus Wipperfürth,LB,29,-,Bonner SC,2024
+Kotaro Nakanishi,LB,,-,Bonner SC,2024
+Adis Omerbasic,RB,30,-,Bonner SC,2024
+Maximilian Pommer,CDM,27,-,Bonner SC,2024
+Kelana Mahessa,CDM,24,-,Bonner SC,2024
+Felix Erken,CDM,,-,Bonner SC,2024
+Cedric Abresch,CM,,-,Bonner SC,2024
+Rudolf González,RM,26,-,Bonner SC,2024
+Masahiro Fujiwara,RM,24,-,Bonner SC,2024
+Leon Augusto,CAM,25,-,Bonner SC,2024
+Eray Isik,CAM,,-,Bonner SC,2024
+Michael Okoroafor,LW,,-,Bonner SC,2024
+Jonas Berg,RW,23,-,Bonner SC,2024
+Robin Bird,RW,23,-,Bonner SC,2024
+Hamza Salman,RW,27,-,Bonner SC,2024
+Hendrik Strobl,Second Striker,,-,Bonner SC,2024
+Serhat Koruk,ST,29,-,Bonner SC,2024
+Marc Brasnic,ST,28,-,Bonner SC,2024
+Denys Vyrych,ST,21,-,Bonner SC,2024

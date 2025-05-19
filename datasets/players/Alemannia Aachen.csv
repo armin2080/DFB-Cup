@@ -1,0 +1,350 @@
+name,position,age,value,team,season
+Frederic Löhe,GK,26,200 Tsd. €,Alemannia Aachen,2014
+Jonas Ermes,GK,23,50 Tsd. €,Alemannia Aachen,2014
+Kengo Fukudome,GK,28,25 Tsd. €,Alemannia Aachen,2014
+Tim Stienemann,GK,19,25 Tsd. €,Alemannia Aachen,2014
+Marcus Hoffmann,CB,27,200 Tsd. €,Alemannia Aachen,2014
+Peter Hackenberg,CB,26,150 Tsd. €,Alemannia Aachen,2014
+Kris Thackray,CB,27,75 Tsd. €,Alemannia Aachen,2014
+Jannik Stevens,LB,22,75 Tsd. €,Alemannia Aachen,2014
+Dominik Ernst,RB,24,200 Tsd. €,Alemannia Aachen,2014
+Niko Opper,RB,23,50 Tsd. €,Alemannia Aachen,2014
+Michael Lejan,CDM,32,125 Tsd. €,Alemannia Aachen,2014
+Aïmen Demai,CDM,32,100 Tsd. €,Alemannia Aachen,2014
+Bastian Müller,CDM,23,100 Tsd. €,Alemannia Aachen,2014
+Tim Lünenbach,CDM,22,75 Tsd. €,Alemannia Aachen,2014
+Marvin Brauweiler,CDM,23,25 Tsd. €,Alemannia Aachen,2014
+Tim Jerat,CM,33,150 Tsd. €,Alemannia Aachen,2014
+Florian Abel,CM,25,50 Tsd. €,Alemannia Aachen,2014
+Sebastian Wirtz,RM,22,25 Tsd. €,Alemannia Aachen,2014
+Rafael García,LM,21,100 Tsd. €,Alemannia Aachen,2014
+Tobias Mohr,LM,19,50 Tsd. €,Alemannia Aachen,2014
+Fabian Graudenz,CAM,23,175 Tsd. €,Alemannia Aachen,2014
+Dennis Dowidat,CAM,25,150 Tsd. €,Alemannia Aachen,2014
+Domagoj Duspara,CAM,27,75 Tsd. €,Alemannia Aachen,2014
+Roberto Guirino,CAM,23,50 Tsd. €,Alemannia Aachen,2014
+Taku Ito,LW,21,50 Tsd. €,Alemannia Aachen,2014
+Maciej Zieba,RW,28,100 Tsd. €,Alemannia Aachen,2014
+Kevin Behrens,ST,24,150 Tsd. €,Alemannia Aachen,2014
+Viktor Maier,ST,25,125 Tsd. €,Alemannia Aachen,2014
+Abedin Krasniqi,ST,29,75 Tsd. €,Alemannia Aachen,2014
+Sahin Dagistan,ST,27,75 Tsd. €,Alemannia Aachen,2014
+Frederic Löhe,GK,27,150 Tsd. €,Alemannia Aachen,2015
+Pierre Kleinheider,GK,26,150 Tsd. €,Alemannia Aachen,2015
+Philip Sprint,GK,23,75 Tsd. €,Alemannia Aachen,2015
+Gilles Deusings,GK,18,25 Tsd. €,Alemannia Aachen,2015
+Jannik Löhden,CB,26,150 Tsd. €,Alemannia Aachen,2015
+Jerome Propheter,CB,26,125 Tsd. €,Alemannia Aachen,2015
+Peter Hackenberg,CB,27,125 Tsd. €,Alemannia Aachen,2015
+Maximilian Rossmann,CB,21,50 Tsd. €,Alemannia Aachen,2015
+Nils Hühne,CB,20,-,Alemannia Aachen,2015
+David Vrzogic,LB,26,150 Tsd. €,Alemannia Aachen,2015
+Karim Kucharzik,LB,18,-,Alemannia Aachen,2015
+Dominik Ernst,RB,25,200 Tsd. €,Alemannia Aachen,2015
+Nils Winter,RB,22,100 Tsd. €,Alemannia Aachen,2015
+Timo Staffeldt,CDM,32,150 Tsd. €,Alemannia Aachen,2015
+Bastian Müller,CDM,24,125 Tsd. €,Alemannia Aachen,2015
+Aïmen Demai,CDM,33,100 Tsd. €,Alemannia Aachen,2015
+Tim Lünenbach,CDM,23,75 Tsd. €,Alemannia Aachen,2015
+Meik Kühnel,CDM,21,50 Tsd. €,Alemannia Aachen,2015
+Felix Korb,CDM,21,25 Tsd. €,Alemannia Aachen,2015
+Tobias Mohr,LM,20,50 Tsd. €,Alemannia Aachen,2015
+Fabian Graudenz,CAM,24,150 Tsd. €,Alemannia Aachen,2015
+Dennis Dowidat,CAM,26,125 Tsd. €,Alemannia Aachen,2015
+Taku Ito,LW,22,50 Tsd. €,Alemannia Aachen,2015
+Maciej Zieba,RW,29,125 Tsd. €,Alemannia Aachen,2015
+Florian Rüter,RW,26,100 Tsd. €,Alemannia Aachen,2015
+Daniel Engelbrecht,ST,25,175 Tsd. €,Alemannia Aachen,2015
+Viktor Maier,ST,26,100 Tsd. €,Alemannia Aachen,2015
+Shpend Hasani,ST,20,50 Tsd. €,Alemannia Aachen,2015
+Philipp Gödde,ST,22,50 Tsd. €,Alemannia Aachen,2015
+Tim Gerhards,ST,21,25 Tsd. €,Alemannia Aachen,2015
+Pascal Nagel,GK,26,100 Tsd. €,Alemannia Aachen,2016
+Philip Sprint,GK,24,50 Tsd. €,Alemannia Aachen,2016
+Mark Depta,GK,19,25 Tsd. €,Alemannia Aachen,2016
+Jerome Propheter,CB,27,150 Tsd. €,Alemannia Aachen,2016
+Tobias Haitz,CB,25,125 Tsd. €,Alemannia Aachen,2016
+Jannik Löhden,CB,27,125 Tsd. €,Alemannia Aachen,2016
+Maurice Pluntke,CB,23,100 Tsd. €,Alemannia Aachen,2016
+Karim Kucharzik,LB,19,25 Tsd. €,Alemannia Aachen,2016
+Dominik Ernst,RB,26,175 Tsd. €,Alemannia Aachen,2016
+Nils Winter,RB,23,125 Tsd. €,Alemannia Aachen,2016
+Timo Staffeldt,CDM,33,150 Tsd. €,Alemannia Aachen,2016
+Necirwan Khalil Mohammad,CDM,25,75 Tsd. €,Alemannia Aachen,2016
+Meik Kühnel,CDM,22,75 Tsd. €,Alemannia Aachen,2016
+David Pütz,CDM,20,50 Tsd. €,Alemannia Aachen,2016
+Haydar Kilic,CDM,18,-,Alemannia Aachen,2016
+Tobias Mohr,LM,21,75 Tsd. €,Alemannia Aachen,2016
+Dennis Dowidat,CAM,27,150 Tsd. €,Alemannia Aachen,2016
+Mergim Fejzullahu,CAM,23,100 Tsd. €,Alemannia Aachen,2016
+Senol Ak,CAM,20,25 Tsd. €,Alemannia Aachen,2016
+Joy-Lance Mickels,LW,23,75 Tsd. €,Alemannia Aachen,2016
+Leroy Mickels,LW,22,25 Tsd. €,Alemannia Aachen,2016
+Florian Rüter,RW,27,125 Tsd. €,Alemannia Aachen,2016
+Meguru Odagaki,RW,20,25 Tsd. €,Alemannia Aachen,2016
+Philipp Gödde,ST,23,75 Tsd. €,Alemannia Aachen,2016
+Daniel Hammel,ST,24,75 Tsd. €,Alemannia Aachen,2016
+Christos Draganidis,ST,19,25 Tsd. €,Alemannia Aachen,2016
+Ryo Suzuki,ST,26,25 Tsd. €,Alemannia Aachen,2016
+Mark Depta,GK,20,75 Tsd. €,Alemannia Aachen,2017
+Patrick Nettekoven,GK,31,75 Tsd. €,Alemannia Aachen,2017
+Akif Sahin,GK,22,25 Tsd. €,Alemannia Aachen,2017
+Alexander Foerster,CB,19,25 Tsd. €,Alemannia Aachen,2017
+Peter Hackenberg,CB,29,150 Tsd. €,Alemannia Aachen,2017
+Alexander Heinze,CB,24,125 Tsd. €,Alemannia Aachen,2017
+Maurice Pluntke,CB,24,100 Tsd. €,Alemannia Aachen,2017
+Matti Fiedler,CB,22,75 Tsd. €,Alemannia Aachen,2017
+Karim Kucharzik,LB,20,25 Tsd. €,Alemannia Aachen,2017
+Nils Winter,RB,24,150 Tsd. €,Alemannia Aachen,2017
+Meik Kühnel,CDM,23,125 Tsd. €,Alemannia Aachen,2017
+David Pütz,CDM,21,100 Tsd. €,Alemannia Aachen,2017
+Severin Buchta,CDM,21,75 Tsd. €,Alemannia Aachen,2017
+Kai Bösing,CDM,24,50 Tsd. €,Alemannia Aachen,2017
+Ilias Azaouaghi,CDM,22,50 Tsd. €,Alemannia Aachen,2017
+Haydar Kilic,CDM,19,25 Tsd. €,Alemannia Aachen,2017
+Mardochee Tchakoumi,CDM,19,25 Tsd. €,Alemannia Aachen,2017
+Tobias Mohr,LM,22,150 Tsd. €,Alemannia Aachen,2017
+Marcel Damaschek,LM,21,75 Tsd. €,Alemannia Aachen,2017
+Mergim Fejzullahu,CAM,24,150 Tsd. €,Alemannia Aachen,2017
+Tobias Lippold,CAM,24,75 Tsd. €,Alemannia Aachen,2017
+Dogukan Türkmen,CAM,19,-,Alemannia Aachen,2017
+Emre Yesilova,LW,24,50 Tsd. €,Alemannia Aachen,2017
+Joy-Slayd Mickels,LW,24,50 Tsd. €,Alemannia Aachen,2017
+Arda Nebi,RW,27,50 Tsd. €,Alemannia Aachen,2017
+Manuel Konate-Lueken,RW,22,25 Tsd. €,Alemannia Aachen,2017
+Junior Torunarigha,ST,28,125 Tsd. €,Alemannia Aachen,2017
+Daniel Hammel,ST,25,75 Tsd. €,Alemannia Aachen,2017
+Ryo Suzuki,ST,27,25 Tsd. €,Alemannia Aachen,2017
+Marc Kleefisch,ST,18,-,Alemannia Aachen,2017
+Niklas Jakusch,GK,29,100 Tsd. €,Alemannia Aachen,2018
+Daniel Zeaiter,GK,24,75 Tsd. €,Alemannia Aachen,2018
+Leon Tigges,GK,20,25 Tsd. €,Alemannia Aachen,2018
+Ben Voll,GK,18,-,Alemannia Aachen,2018
+Alexander Heinze,CB,25,150 Tsd. €,Alemannia Aachen,2018
+Peter Hackenberg,CB,30,150 Tsd. €,Alemannia Aachen,2018
+Marco Müller,CB,25,125 Tsd. €,Alemannia Aachen,2018
+Matti Fiedler,CB,23,125 Tsd. €,Alemannia Aachen,2018
+Patrick Salata,CB,21,100 Tsd. €,Alemannia Aachen,2018
+Mohamed Redjeb,CB,23,50 Tsd. €,Alemannia Aachen,2018
+Alan Stulin,LB,29,75 Tsd. €,Alemannia Aachen,2018
+Sebastian Schmitt,LB,22,50 Tsd. €,Alemannia Aachen,2018
+David Pütz,CDM,22,150 Tsd. €,Alemannia Aachen,2018
+Kai Bösing,CDM,25,100 Tsd. €,Alemannia Aachen,2018
+Steven Rakk,CDM,20,75 Tsd. €,Alemannia Aachen,2018
+Joshua Holtby,CM,23,125 Tsd. €,Alemannia Aachen,2018
+Robin Garnier,CM,25,125 Tsd. €,Alemannia Aachen,2018
+Manuel Glowacz,RM,31,100 Tsd. €,Alemannia Aachen,2018
+Marcel Kaiser,CAM,28,75 Tsd. €,Alemannia Aachen,2018
+Blendi Idrizi,CAM,21,75 Tsd. €,Alemannia Aachen,2018
+Stipe Batarilo,LW,25,150 Tsd. €,Alemannia Aachen,2018
+Florian Rüter,RW,29,75 Tsd. €,Alemannia Aachen,2018
+Dimitry Imbongo,ST,29,150 Tsd. €,Alemannia Aachen,2018
+Vincent Boesen,ST,20,75 Tsd. €,Alemannia Aachen,2018
+Mahmut Temür,ST,29,50 Tsd. €,Alemannia Aachen,2018
+Marc Kleefisch,ST,19,-,Alemannia Aachen,2018
+Joshua Mroß,GK,23,100 Tsd. €,Alemannia Aachen,2019
+Ricco Cymer,GK,24,100 Tsd. €,Alemannia Aachen,2019
+Nikolai Rehnen,GK,23,100 Tsd. €,Alemannia Aachen,2019
+André Krul,GK,33,50 Tsd. €,Alemannia Aachen,2019
+Mario Zelic,GK,20,50 Tsd. €,Alemannia Aachen,2019
+Valentin Manzenreiter,GK,19,-,Alemannia Aachen,2019
+Kylian Huijnen,GK,19,-,Alemannia Aachen,2019
+Alexander Heinze,CB,26,150 Tsd. €,Alemannia Aachen,2019
+Matti Fiedler,CB,24,150 Tsd. €,Alemannia Aachen,2019
+André Wallenborn,CB,25,125 Tsd. €,Alemannia Aachen,2019
+Marco Müller,CB,26,125 Tsd. €,Alemannia Aachen,2019
+Peter Hackenberg,CB,31,100 Tsd. €,Alemannia Aachen,2019
+Patrick Salata,CB,22,75 Tsd. €,Alemannia Aachen,2019
+Lorik Islami,CB,18,-,Alemannia Aachen,2019
+Sebastian Schmitt,LB,23,125 Tsd. €,Alemannia Aachen,2019
+Takashi Uchino,RB,19,-,Alemannia Aachen,2019
+David Pütz,CDM,23,100 Tsd. €,Alemannia Aachen,2019
+Can Özkan,CDM,20,100 Tsd. €,Alemannia Aachen,2019
+Kai Bösing,CDM,26,75 Tsd. €,Alemannia Aachen,2019
+Steven Rakk,CDM,21,75 Tsd. €,Alemannia Aachen,2019
+Frederic Baum,CDM,19,25 Tsd. €,Alemannia Aachen,2019
+Robin Garnier,CM,26,125 Tsd. €,Alemannia Aachen,2019
+Manuel Glowacz,RM,32,50 Tsd. €,Alemannia Aachen,2019
+Jeff-Denis Fehr,LM,25,75 Tsd. €,Alemannia Aachen,2019
+Muja Arifi,CAM,19,50 Tsd. €,Alemannia Aachen,2019
+Stipe Batarilo,LW,26,150 Tsd. €,Alemannia Aachen,2019
+Sergio Gucciardo,LW,21,50 Tsd. €,Alemannia Aachen,2019
+Daniel Sopo,LW,18,-,Alemannia Aachen,2019
+Nils Blumberg,RW,23,125 Tsd. €,Alemannia Aachen,2019
+Florian Rüter,RW,30,100 Tsd. €,Alemannia Aachen,2019
+Vincent Boesen,ST,21,125 Tsd. €,Alemannia Aachen,2019
+Gary Noël,ST,30,100 Tsd. €,Alemannia Aachen,2019
+David Bors,ST,25,100 Tsd. €,Alemannia Aachen,2019
+Jonathan Benteke,ST,25,100 Tsd. €,Alemannia Aachen,2019
+Oluwabori Falaye,ST,21,-,Alemannia Aachen,2019
+Joshua Mroß,GK,24,125 Tsd. €,Alemannia Aachen,2020
+Mario Zelic,GK,21,50 Tsd. €,Alemannia Aachen,2020
+Valentin Manzenreiter,GK,20,25 Tsd. €,Alemannia Aachen,2020
+Alexander Heinze,CB,27,125 Tsd. €,Alemannia Aachen,2020
+Franko Uzelac,CB,26,125 Tsd. €,Alemannia Aachen,2020
+Marco Müller,CB,27,125 Tsd. €,Alemannia Aachen,2020
+André Wallenborn,CB,26,100 Tsd. €,Alemannia Aachen,2020
+Matti Fiedler,CB,25,100 Tsd. €,Alemannia Aachen,2020
+Peter Hackenberg,CB,32,75 Tsd. €,Alemannia Aachen,2020
+Aldin Dervisevic,CB,19,50 Tsd. €,Alemannia Aachen,2020
+Nick Galle,LB,22,125 Tsd. €,Alemannia Aachen,2020
+Sebastian Schmitt,LB,24,75 Tsd. €,Alemannia Aachen,2020
+Takashi Uchino,RB,20,100 Tsd. €,Alemannia Aachen,2020
+Leon Gaedicke,RB,19,50 Tsd. €,Alemannia Aachen,2020
+Kai Bösing,CDM,27,75 Tsd. €,Alemannia Aachen,2020
+Steven Rakk,CDM,22,75 Tsd. €,Alemannia Aachen,2020
+Dustin Zahnen,CDM,25,75 Tsd. €,Alemannia Aachen,2020
+Frederic Baum,CDM,20,50 Tsd. €,Alemannia Aachen,2020
+Miguel Mohamed El Jammal,Midfielder,19,-,Alemannia Aachen,2020
+Theofilos Kelemis,CDM,19,-,Alemannia Aachen,2020
+Simon Seferings,CM,25,75 Tsd. €,Alemannia Aachen,2020
+Matti Cebulla,CM,19,50 Tsd. €,Alemannia Aachen,2020
+Robin Garnier,CM,27,-,Alemannia Aachen,2020
+Mergim Fejzullahu,CAM,27,100 Tsd. €,Alemannia Aachen,2020
+Oğuzhan Aydoğan,CAM,24,75 Tsd. €,Alemannia Aachen,2020
+Muja Arifi,CAM,20,50 Tsd. €,Alemannia Aachen,2020
+Stipe Batarilo,LW,27,100 Tsd. €,Alemannia Aachen,2020
+Sven Schiffer,LW,18,-,Alemannia Aachen,2020
+Florian Rüter,RW,31,100 Tsd. €,Alemannia Aachen,2020
+Nils Blumberg,RW,24,100 Tsd. €,Alemannia Aachen,2020
+Hamdi Dahmani,ST,33,100 Tsd. €,Alemannia Aachen,2020
+Vincent Boesen,ST,22,75 Tsd. €,Alemannia Aachen,2020
+Marwin Studtrucker,ST,31,75 Tsd. €,Alemannia Aachen,2020
+Terence Groothusen,ST,24,50 Tsd. €,Alemannia Aachen,2020
+Oluwabori Falaye,ST,22,50 Tsd. €,Alemannia Aachen,2020
+Joshua Mroß,GK,25,100 Tsd. €,Alemannia Aachen,2021
+Mario Zelic,GK,22,-,Alemannia Aachen,2021
+Luka Losic,GK,21,-,Alemannia Aachen,2021
+Jan Strauch,GK,19,-,Alemannia Aachen,2021
+Tjorben Uphoff,CB,27,100 Tsd. €,Alemannia Aachen,2021
+Franko Uzelac,CB,27,100 Tsd. €,Alemannia Aachen,2021
+Marco Müller,CB,28,100 Tsd. €,Alemannia Aachen,2021
+Alexander Heinze,CB,28,100 Tsd. €,Alemannia Aachen,2021
+Lukas Wilton,CB,27,75 Tsd. €,Alemannia Aachen,2021
+Aldin Dervisevic,CB,20,50 Tsd. €,Alemannia Aachen,2021
+Peter Hackenberg,CB,33,-,Alemannia Aachen,2021
+Sebastian Schmitt,LB,25,100 Tsd. €,Alemannia Aachen,2021
+Lars Oeßwein,LB,24,25 Tsd. €,Alemannia Aachen,2021
+Jannis Held,RB,22,75 Tsd. €,Alemannia Aachen,2021
+Tugrul Erat,RB,30,75 Tsd. €,Alemannia Aachen,2021
+Vleron Statovci,RB,18,50 Tsd. €,Alemannia Aachen,2021
+Dustin Zahnen,CDM,26,50 Tsd. €,Alemannia Aachen,2021
+Frederic Baum,CDM,21,25 Tsd. €,Alemannia Aachen,2021
+Okan Keskin,Midfielder,19,-,Alemannia Aachen,2021
+Luca-Andre Kozlyuk,Midfielder,18,-,Alemannia Aachen,2021
+André Dej,CM,30,100 Tsd. €,Alemannia Aachen,2021
+Dino Bajric,CM,26,75 Tsd. €,Alemannia Aachen,2021
+Matti Cebulla,CM,20,25 Tsd. €,Alemannia Aachen,2021
+Christian Gartner,CM,28,-,Alemannia Aachen,2021
+Timo Kondziella,CM,19,-,Alemannia Aachen,2021
+Ricardo Antonaci,RM,27,50 Tsd. €,Alemannia Aachen,2021
+Marcel Damaschek,LM,25,75 Tsd. €,Alemannia Aachen,2021
+Mergim Fejzullahu,CAM,28,75 Tsd. €,Alemannia Aachen,2021
+Tim Korzuschek,LW,23,100 Tsd. €,Alemannia Aachen,2021
+Selim Gündüz,LW,28,100 Tsd. €,Alemannia Aachen,2021
+Sven Schiffer,LW,19,-,Alemannia Aachen,2021
+Nazif Tchadjei,RW,19,10 Tsd. €,Alemannia Aachen,2021
+Nils Blumberg,RW,25,-,Alemannia Aachen,2021
+Jannik Mause,ST,23,100 Tsd. €,Alemannia Aachen,2021
+Hamdi Dahmani,ST,34,75 Tsd. €,Alemannia Aachen,2021
+Ergün Yildiz,ST,24,50 Tsd. €,Alemannia Aachen,2021
+Tim Buchheister,ST,23,25 Tsd. €,Alemannia Aachen,2021
+Oluwabori Falaye,ST,23,25 Tsd. €,Alemannia Aachen,2021
+Se-jin Pyo,ST,19,-,Alemannia Aachen,2021
+Marcel Johnen,GK,20,125 Tsd. €,Alemannia Aachen,2022
+Yannik Bangsow,GK,25,75 Tsd. €,Alemannia Aachen,2022
+Jan Strauch,GK,20,10 Tsd. €,Alemannia Aachen,2022
+Franko Uzelac,CB,28,125 Tsd. €,Alemannia Aachen,2022
+Marco Müller,CB,29,100 Tsd. €,Alemannia Aachen,2022
+Lukas Wilton,CB,28,75 Tsd. €,Alemannia Aachen,2022
+Alexander Heinze,CB,29,75 Tsd. €,Alemannia Aachen,2022
+Aldin Dervisevic,CB,21,75 Tsd. €,Alemannia Aachen,2022
+Dario De Vita,CB,23,25 Tsd. €,Alemannia Aachen,2022
+Milan Hofland,CB,18,-,Alemannia Aachen,2022
+Justin Tholens,CB,18,-,Alemannia Aachen,2022
+Sebastian Schmitt,LB,26,100 Tsd. €,Alemannia Aachen,2022
+Lars Oeßwein,LB,25,50 Tsd. €,Alemannia Aachen,2022
+Jannis Held,RB,23,100 Tsd. €,Alemannia Aachen,2022
+Pepijn Schlösser,RB,25,75 Tsd. €,Alemannia Aachen,2022
+David Sauerland,RB,26,50 Tsd. €,Alemannia Aachen,2022
+Vleron Statovci,RB,19,25 Tsd. €,Alemannia Aachen,2022
+Yasa Eyrice,RB,18,-,Alemannia Aachen,2022
+Julian Schwermann,CDM,23,125 Tsd. €,Alemannia Aachen,2022
+Frederic Baum,CDM,22,75 Tsd. €,Alemannia Aachen,2022
+Dino Bajric,CM,27,100 Tsd. €,Alemannia Aachen,2022
+Benjamin Hemcke,CM,20,75 Tsd. €,Alemannia Aachen,2022
+Exaucé Andzouana,CM,29,25 Tsd. €,Alemannia Aachen,2022
+Marcel Damaschek,LM,26,75 Tsd. €,Alemannia Aachen,2022
+Ulrich Bapoh,CAM,24,125 Tsd. €,Alemannia Aachen,2022
+Antonio Ivic,CAM,18,-,Alemannia Aachen,2022
+Tim Korzuschek,LW,24,100 Tsd. €,Alemannia Aachen,2022
+Elsamed Ramaj,LW,27,100 Tsd. €,Alemannia Aachen,2022
+Felix Heim,RW,21,50 Tsd. €,Alemannia Aachen,2022
+Jannik Mause,ST,24,225 Tsd. €,Alemannia Aachen,2022
+Dimitry Imbongo,ST,33,50 Tsd. €,Alemannia Aachen,2022
+Marcel Johnen,GK,21,200 Tsd. €,Alemannia Aachen,2023
+Leroy Zeller,GK,23,25 Tsd. €,Alemannia Aachen,2023
+Jan Strauch,GK,21,10 Tsd. €,Alemannia Aachen,2023
+Radomir Novakovic,GK,24,-,Alemannia Aachen,2023
+Jan-Luca Rumpf,CB,24,175 Tsd. €,Alemannia Aachen,2023
+Mika Hanraths,CB,25,175 Tsd. €,Alemannia Aachen,2023
+Franko Uzelac,CB,29,100 Tsd. €,Alemannia Aachen,2023
+Julius Schell,CB,24,75 Tsd. €,Alemannia Aachen,2023
+Aldin Dervisevic,CB,22,75 Tsd. €,Alemannia Aachen,2023
+Noah Förster,CB,19,-,Alemannia Aachen,2023
+Inas Islamovic,CB,19,-,Alemannia Aachen,2023
+Sasa Strujic,LB,32,150 Tsd. €,Alemannia Aachen,2023
+Robin Afamefuna,LB,27,75 Tsd. €,Alemannia Aachen,2023
+Leo Mirgartz,LB,18,25 Tsd. €,Alemannia Aachen,2023
+Lars Oeßwein,LB,26,25 Tsd. €,Alemannia Aachen,2023
+Florian Heister,RB,27,150 Tsd. €,Alemannia Aachen,2023
+Nils Winter,RB,30,150 Tsd. €,Alemannia Aachen,2023
+Vleron Statovci,RB,20,50 Tsd. €,Alemannia Aachen,2023
+Julian Schwermann,CDM,24,150 Tsd. €,Alemannia Aachen,2023
+Frederic Baum,CDM,23,100 Tsd. €,Alemannia Aachen,2023
+Bastian Müller,CDM,32,100 Tsd. €,Alemannia Aachen,2023
+Aaron Herzog,CM,26,125 Tsd. €,Alemannia Aachen,2023
+Ulrich Bapoh,CAM,25,125 Tsd. €,Alemannia Aachen,2023
+Kilian Pagliuca,CAM,27,125 Tsd. €,Alemannia Aachen,2023
+Sascha Marquet,CAM,34,75 Tsd. €,Alemannia Aachen,2023
+Beyhan Ametov,CAM,25,75 Tsd. €,Alemannia Aachen,2023
+Lukas Scepanik,LW,30,150 Tsd. €,Alemannia Aachen,2023
+Elsamed Ramaj,LW,28,75 Tsd. €,Alemannia Aachen,2023
+Anton Heinz,RW,26,200 Tsd. €,Alemannia Aachen,2023
+Dustin Willms,RW,25,125 Tsd. €,Alemannia Aachen,2023
+Vincent Schaub,RW,25,75 Tsd. €,Alemannia Aachen,2023
+Anas Bakhat,ST,24,150 Tsd. €,Alemannia Aachen,2023
+Thilo Töpken,ST,25,150 Tsd. €,Alemannia Aachen,2023
+Cas Peters,ST,31,125 Tsd. €,Alemannia Aachen,2023
+Marc Brasnic,ST,27,75 Tsd. €,Alemannia Aachen,2023
+Kirito Tanaka,ST,18,-,Alemannia Aachen,2023
+Jan Olschowsky,GK,23,600 Tsd. €,Alemannia Aachen,2024
+Marcel Johnen,GK,22,175 Tsd. €,Alemannia Aachen,2024
+Elias Bördner,GK,23,100 Tsd. €,Alemannia Aachen,2024
+Leroy Zeller,GK,24,25 Tsd. €,Alemannia Aachen,2024
+Mika Hanraths,CB,25,250 Tsd. €,Alemannia Aachen,2024
+Lamar Yarbrough,CB,29,250 Tsd. €,Alemannia Aachen,2024
+Jan-Luca Rumpf,CB,25,200 Tsd. €,Alemannia Aachen,2024
+Patrick Nkoa,CB,25,200 Tsd. €,Alemannia Aachen,2024
+Sasa Strujic,LB,33,175 Tsd. €,Alemannia Aachen,2024
+Felix Meyer,LB,22,150 Tsd. €,Alemannia Aachen,2024
+Lars Oeßwein,LB,27,25 Tsd. €,Alemannia Aachen,2024
+Florian Heister,RB,28,150 Tsd. €,Alemannia Aachen,2024
+Nils Winter,RB,31,150 Tsd. €,Alemannia Aachen,2024
+Gianluca Gaudino,CDM,28,225 Tsd. €,Alemannia Aachen,2024
+Danilo Wiebe,CDM,31,200 Tsd. €,Alemannia Aachen,2024
+Julian Schwermann,CDM,25,125 Tsd. €,Alemannia Aachen,2024
+Bentley Baxter Bahn,CM,32,225 Tsd. €,Alemannia Aachen,2024
+Mika Pobric,CM,17,-,Alemannia Aachen,2024
+Soufiane El-Faouzi,CAM,22,250 Tsd. €,Alemannia Aachen,2024
+Sascha Marquet,CAM,35,75 Tsd. €,Alemannia Aachen,2024
+Faton Ademi,CAM,18,-,Alemannia Aachen,2024
+Lukas Scepanik,LW,31,175 Tsd. €,Alemannia Aachen,2024
+Leandro Putaro,LW,28,175 Tsd. €,Alemannia Aachen,2024
+Anton Heinz,RW,27,225 Tsd. €,Alemannia Aachen,2024
+Anas Bakhat,ST,25,225 Tsd. €,Alemannia Aachen,2024
+Kevin Goden,ST,26,200 Tsd. €,Alemannia Aachen,2024
+Daouda Beleme,ST,24,175 Tsd. €,Alemannia Aachen,2024
+Charlison Benschop,ST,35,175 Tsd. €,Alemannia Aachen,2024
+Niklas Castelle,ST,22,150 Tsd. €,Alemannia Aachen,2024
+Leon Rashica,ST,18,-,Alemannia Aachen,2024

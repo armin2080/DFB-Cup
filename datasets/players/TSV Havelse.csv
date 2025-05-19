@@ -1,0 +1,336 @@
+name,position,age,value,team,season
+Alexander Meyer,GK,24,150 Tsd. €,TSV Havelse,2014
+Alexander Dlugaiczyk,GK,32,25 Tsd. €,TSV Havelse,2014
+Benjamin Halstenberg,CB,29,100 Tsd. €,TSV Havelse,2014
+Pascal Gos,CB,23,100 Tsd. €,TSV Havelse,2014
+Deniz Tayar,CB,31,100 Tsd. €,TSV Havelse,2014
+Kevin Kalinowski,CB,21,75 Tsd. €,TSV Havelse,2014
+Yanik Strunkey,CB,27,75 Tsd. €,TSV Havelse,2014
+Patrick Jöcks,CB,23,50 Tsd. €,TSV Havelse,2014
+Noah Plume,CB,18,25 Tsd. €,TSV Havelse,2014
+Gianluca Ziegler,CB,19,25 Tsd. €,TSV Havelse,2014
+Fabian Wenzel,LB,18,25 Tsd. €,TSV Havelse,2014
+Daniel Degner,RB,25,100 Tsd. €,TSV Havelse,2014
+Denis Kina,RB,22,75 Tsd. €,TSV Havelse,2014
+Florian Bertalan,RB,30,-,TSV Havelse,2014
+Daniel Hintzke,CDM,28,125 Tsd. €,TSV Havelse,2014
+Patrick Rogalski,CDM,20,-,TSV Havelse,2014
+Mitchell Jordan,CM,20,25 Tsd. €,TSV Havelse,2014
+Martin Zakrzewski,CM,24,-,TSV Havelse,2014
+Björn Engemann,RM,20,25 Tsd. €,TSV Havelse,2014
+Erhan Yilmaz,CAM,20,100 Tsd. €,TSV Havelse,2014
+Denis Wolf,CAM,32,75 Tsd. €,TSV Havelse,2014
+Daniel-Kofi Kyereh,CAM,19,25 Tsd. €,TSV Havelse,2014
+Maurice Maletzki,LW,23,100 Tsd. €,TSV Havelse,2014
+Hilal El-Helwe,ST,20,100 Tsd. €,TSV Havelse,2014
+Christian Knappmann,ST,34,75 Tsd. €,TSV Havelse,2014
+Tim Scheffler,ST,23,75 Tsd. €,TSV Havelse,2014
+Marvin Ibekwe,ST,23,75 Tsd. €,TSV Havelse,2014
+Deniz Undav,ST,18,25 Tsd. €,TSV Havelse,2014
+Jovan Grozdanic,ST,21,25 Tsd. €,TSV Havelse,2014
+Adem Lukac,ST,20,-,TSV Havelse,2014
+Alexander Meyer,GK,25,175 Tsd. €,TSV Havelse,2015
+Alexander Dlugaiczyk,GK,33,25 Tsd. €,TSV Havelse,2015
+Andreas Mikroulis,GK,19,25 Tsd. €,TSV Havelse,2015
+Deniz Tayar,CB,32,100 Tsd. €,TSV Havelse,2015
+Tobias Holm,CB,27,100 Tsd. €,TSV Havelse,2015
+Niklas Kiene,CB,24,75 Tsd. €,TSV Havelse,2015
+Yanik Strunkey,CB,28,75 Tsd. €,TSV Havelse,2015
+Noah Plume,CB,19,75 Tsd. €,TSV Havelse,2015
+Tobias Fölster,CB,22,50 Tsd. €,TSV Havelse,2015
+Marcel Kohn,CB,21,50 Tsd. €,TSV Havelse,2015
+Gianluca Ziegler,CB,20,25 Tsd. €,TSV Havelse,2015
+Bastian Stech,CB,19,-,TSV Havelse,2015
+Marco Hansmann,LB,28,125 Tsd. €,TSV Havelse,2015
+Fabian Wenzel,LB,19,50 Tsd. €,TSV Havelse,2015
+Rafael Hotes,LB,19,-,TSV Havelse,2015
+Denis Kina,RB,23,125 Tsd. €,TSV Havelse,2015
+Daniel Degner,RB,26,50 Tsd. €,TSV Havelse,2015
+Marcel Ottenbreit,RB,19,-,TSV Havelse,2015
+Daniel Hintzke,CDM,29,150 Tsd. €,TSV Havelse,2015
+Sirk Kisch,CDM,20,25 Tsd. €,TSV Havelse,2015
+Christopher Stern,CDM,23,-,TSV Havelse,2015
+Mitchell Jordan,CM,21,-,TSV Havelse,2015
+Philipp Rusteberg,RM,22,50 Tsd. €,TSV Havelse,2015
+Yasin Scharf,RM,19,-,TSV Havelse,2015
+Kriseld Doko,LM,20,25 Tsd. €,TSV Havelse,2015
+Denis Wolf,CAM,33,100 Tsd. €,TSV Havelse,2015
+Deniz Cicek,CAM,23,75 Tsd. €,TSV Havelse,2015
+Daniel-Kofi Kyereh,CAM,20,25 Tsd. €,TSV Havelse,2015
+Philipp Rockahr,LW,27,75 Tsd. €,TSV Havelse,2015
+Torben Deppe,LW,29,50 Tsd. €,TSV Havelse,2015
+Deniz Undav,ST,19,75 Tsd. €,TSV Havelse,2015
+George Kelbel,ST,23,75 Tsd. €,TSV Havelse,2015
+Milislav Popovic,ST,19,50 Tsd. €,TSV Havelse,2015
+Morten Jensen,GK,29,75 Tsd. €,TSV Havelse,2016
+Alexander Dlugaiczyk,GK,34,25 Tsd. €,TSV Havelse,2016
+Sascha Quast,GK,19,-,TSV Havelse,2016
+Noah Plume,CB,20,125 Tsd. €,TSV Havelse,2016
+Tobias Holm,CB,28,100 Tsd. €,TSV Havelse,2016
+Deniz Tayar,CB,33,75 Tsd. €,TSV Havelse,2016
+Tobias Fölster,CB,23,75 Tsd. €,TSV Havelse,2016
+Marcel Kohn,CB,22,50 Tsd. €,TSV Havelse,2016
+Jonas Sonnenberg,CB,24,25 Tsd. €,TSV Havelse,2016
+Niklas Tasky,CB,26,25 Tsd. €,TSV Havelse,2016
+Fernando Lopez-Hasegawa,CB,18,-,TSV Havelse,2016
+Jake Wilton,CB,18,-,TSV Havelse,2016
+Oliver-Otto Pfeuffer,CB,19,-,TSV Havelse,2016
+Fabian Wenzel,LB,20,50 Tsd. €,TSV Havelse,2016
+Rafael Hotes,LB,20,25 Tsd. €,TSV Havelse,2016
+Marco Menneking,LB,30,-,TSV Havelse,2016
+Denis Kina,RB,24,125 Tsd. €,TSV Havelse,2016
+Daniel Degner,RB,27,75 Tsd. €,TSV Havelse,2016
+Andrey Startsev,CDM,23,125 Tsd. €,TSV Havelse,2016
+Cetin Erbek,CDM,25,75 Tsd. €,TSV Havelse,2016
+Tom Christian Merkens,CM,27,50 Tsd. €,TSV Havelse,2016
+René Legien,CM,25,-,TSV Havelse,2016
+Marcel Goslar,RM,28,-,TSV Havelse,2016
+Luis Prior Bautista,RM,18,-,TSV Havelse,2016
+Deniz Cicek,CAM,24,125 Tsd. €,TSV Havelse,2016
+Christoph Rischker,CAM,28,100 Tsd. €,TSV Havelse,2016
+Daniel-Kofi Kyereh,CAM,21,50 Tsd. €,TSV Havelse,2016
+Boua Karim Dagnogo,CAM,18,-,TSV Havelse,2016
+Torben Deppe,LW,30,50 Tsd. €,TSV Havelse,2016
+Niclas Bahn,LW,20,25 Tsd. €,TSV Havelse,2016
+Deniz Undav,ST,20,175 Tsd. €,TSV Havelse,2016
+Marcel Kunstmann,ST,29,-,TSV Havelse,2016
+Brian Klein,ST,19,-,TSV Havelse,2016
+Can Gökdemir,ST,18,-,TSV Havelse,2016
+Aladdin Süer,ST,18,-,TSV Havelse,2016
+Morten Jensen,GK,30,75 Tsd. €,TSV Havelse,2017
+Alexander Rehberg,GK,22,50 Tsd. €,TSV Havelse,2017
+Oliver Lassoff,GK,46,-,TSV Havelse,2017
+Francesco Rizzo,GK,19,-,TSV Havelse,2017
+Pascal Paatzsch,GK,18,-,TSV Havelse,2017
+Lars Holm,GK,18,-,TSV Havelse,2017
+Noah Plume,CB,21,150 Tsd. €,TSV Havelse,2017
+Tobias Holm,CB,29,100 Tsd. €,TSV Havelse,2017
+Jonas Sonnenberg,CB,25,75 Tsd. €,TSV Havelse,2017
+Tobias Fölster,CB,24,75 Tsd. €,TSV Havelse,2017
+Niklas Tasky,CB,27,75 Tsd. €,TSV Havelse,2017
+Marcel Kohn,CB,23,-,TSV Havelse,2017
+Fabian Wenzel,LB,21,50 Tsd. €,TSV Havelse,2017
+Rafael Hotes,LB,21,25 Tsd. €,TSV Havelse,2017
+Daniel Degner,RB,28,50 Tsd. €,TSV Havelse,2017
+Max Radowski,RB,20,25 Tsd. €,TSV Havelse,2017
+Melvin Meyer,RB,20,25 Tsd. €,TSV Havelse,2017
+Tim-Alexander Meier,CDM,19,25 Tsd. €,TSV Havelse,2017
+Tim Stiller,CDM,18,-,TSV Havelse,2017
+Can Tuna,CM,23,100 Tsd. €,TSV Havelse,2017
+Tom Christian Merkens,CM,28,100 Tsd. €,TSV Havelse,2017
+Daniel-Kofi Kyereh,CAM,22,150 Tsd. €,TSV Havelse,2017
+Christoph Rischker,CAM,29,100 Tsd. €,TSV Havelse,2017
+Yannik Jaeschke,CAM,24,75 Tsd. €,TSV Havelse,2017
+Deniz Cicek,CAM,25,75 Tsd. €,TSV Havelse,2017
+Boua Karim Dagnogo,CAM,19,-,TSV Havelse,2017
+David Lucic,CAM,19,-,TSV Havelse,2017
+Andrea Rizzo,LW,24,100 Tsd. €,TSV Havelse,2017
+Maurice Maletzki,LW,26,75 Tsd. €,TSV Havelse,2017
+Niclas Bahn,LW,21,-,TSV Havelse,2017
+Julius Langfeld,RW,23,25 Tsd. €,TSV Havelse,2017
+Semih Kurtoglu,RW,19,-,TSV Havelse,2017
+Can Gökdemir,ST,19,75 Tsd. €,TSV Havelse,2017
+Felix Krüger,ST,25,25 Tsd. €,TSV Havelse,2017
+Brian Klein,ST,20,25 Tsd. €,TSV Havelse,2017
+Utku Kani,ST,19,25 Tsd. €,TSV Havelse,2017
+Alexander Rehberg,GK,23,50 Tsd. €,TSV Havelse,2018
+Sascha Quast,GK,21,25 Tsd. €,TSV Havelse,2018
+Alexander Dlugaiczyk,GK,36,25 Tsd. €,TSV Havelse,2018
+Noah Plume,CB,22,100 Tsd. €,TSV Havelse,2018
+Jonas Sonnenberg,CB,26,75 Tsd. €,TSV Havelse,2018
+Tobias Fölster,CB,25,75 Tsd. €,TSV Havelse,2018
+Niklas Tasky,CB,28,75 Tsd. €,TSV Havelse,2018
+Besfort Kolgeci,CB,21,50 Tsd. €,TSV Havelse,2018
+Marco Schleef,CB,20,50 Tsd. €,TSV Havelse,2018
+Fabian Wenzel,LB,22,75 Tsd. €,TSV Havelse,2018
+Torge Bremer,LB,24,75 Tsd. €,TSV Havelse,2018
+Rafael Hotes,LB,22,50 Tsd. €,TSV Havelse,2018
+Denis Kina,RB,26,75 Tsd. €,TSV Havelse,2018
+Max Radowski,RB,21,50 Tsd. €,TSV Havelse,2018
+Melvin Meyer,RB,21,50 Tsd. €,TSV Havelse,2018
+Tim Stiller,CDM,19,25 Tsd. €,TSV Havelse,2018
+Tim-Alexander Meier,CDM,20,25 Tsd. €,TSV Havelse,2018
+Can Tuna,CM,24,75 Tsd. €,TSV Havelse,2018
+Erhan Yilmaz,CAM,24,100 Tsd. €,TSV Havelse,2018
+Deniz Cicek,CAM,26,75 Tsd. €,TSV Havelse,2018
+Yannik Jaeschke,CAM,25,50 Tsd. €,TSV Havelse,2018
+David Lucic,CAM,20,25 Tsd. €,TSV Havelse,2018
+Maurice Maletzki,LW,27,75 Tsd. €,TSV Havelse,2018
+Julius Langfeld,RW,24,50 Tsd. €,TSV Havelse,2018
+Almir Kasumovic,ST,25,75 Tsd. €,TSV Havelse,2018
+Can Gökdemir,ST,20,50 Tsd. €,TSV Havelse,2018
+Brian Klein,ST,21,25 Tsd. €,TSV Havelse,2018
+Utku Kani,ST,20,25 Tsd. €,TSV Havelse,2018
+Felix Krüger,ST,26,25 Tsd. €,TSV Havelse,2018
+Manassé Eshele,ST,20,-,TSV Havelse,2018
+Antonio Brandt,GK,20,75 Tsd. €,TSV Havelse,2019
+Alexander Rehberg,GK,24,50 Tsd. €,TSV Havelse,2019
+Norman Quindt,GK,23,50 Tsd. €,TSV Havelse,2019
+Sascha Quast,GK,22,25 Tsd. €,TSV Havelse,2019
+Alexander Dlugaiczyk,GK,37,25 Tsd. €,TSV Havelse,2019
+Aaron Tietje,GK,18,-,TSV Havelse,2019
+Noah Plume,CB,23,100 Tsd. €,TSV Havelse,2019
+Niklas Tasky,CB,29,100 Tsd. €,TSV Havelse,2019
+Marco Schleef,CB,21,75 Tsd. €,TSV Havelse,2019
+Jonas Sonnenberg,CB,27,75 Tsd. €,TSV Havelse,2019
+Tobias Fölster,CB,26,75 Tsd. €,TSV Havelse,2019
+Robin Benecke,CB,20,25 Tsd. €,TSV Havelse,2019
+Kevin Schumacher,LB,22,75 Tsd. €,TSV Havelse,2019
+Niklas Teichgräber,LB,24,75 Tsd. €,TSV Havelse,2019
+Torge Bremer,LB,25,75 Tsd. €,TSV Havelse,2019
+Denis Kina,RB,27,75 Tsd. €,TSV Havelse,2019
+Max Radowski,RB,22,50 Tsd. €,TSV Havelse,2019
+Vico Meien,CDM,22,50 Tsd. €,TSV Havelse,2019
+Julian Rufidis,CDM,19,50 Tsd. €,TSV Havelse,2019
+Tim-Alexander Meier,CDM,21,25 Tsd. €,TSV Havelse,2019
+Deniz Cicek,CAM,27,125 Tsd. €,TSV Havelse,2019
+Yannik Jaeschke,CAM,26,125 Tsd. €,TSV Havelse,2019
+David Lucic,CAM,21,50 Tsd. €,TSV Havelse,2019
+Torben Engelking,LW,24,100 Tsd. €,TSV Havelse,2019
+Maurice Maletzki,LW,28,-,TSV Havelse,2019
+Julius Langfeld,RW,25,50 Tsd. €,TSV Havelse,2019
+Leon Damer,RW,20,50 Tsd. €,TSV Havelse,2019
+Fynn Lakenmacher,ST,20,25 Tsd. €,TSV Havelse,2019
+Utku Kani,ST,21,-,TSV Havelse,2019
+Norman Quindt,GK,24,75 Tsd. €,TSV Havelse,2020
+Antonio Brandt,GK,21,50 Tsd. €,TSV Havelse,2020
+Alexander Rehberg,GK,25,25 Tsd. €,TSV Havelse,2020
+Alexander Dlugaiczyk,GK,38,10 Tsd. €,TSV Havelse,2020
+Noah Plume,CB,24,100 Tsd. €,TSV Havelse,2020
+Niklas Tasky,CB,30,100 Tsd. €,TSV Havelse,2020
+Marco Schleef,CB,22,75 Tsd. €,TSV Havelse,2020
+Tobias Fölster,CB,27,75 Tsd. €,TSV Havelse,2020
+Jonas Sonnenberg,CB,28,50 Tsd. €,TSV Havelse,2020
+Niklas Teichgräber,LB,25,75 Tsd. €,TSV Havelse,2020
+Torge Bremer,LB,26,75 Tsd. €,TSV Havelse,2020
+Kevin Schumacher,LB,23,75 Tsd. €,TSV Havelse,2020
+Erik Henschel,RB,24,50 Tsd. €,TSV Havelse,2020
+Denis Kina,RB,28,50 Tsd. €,TSV Havelse,2020
+Vico Meien,CDM,23,75 Tsd. €,TSV Havelse,2020
+Julian Rufidis,CDM,20,25 Tsd. €,TSV Havelse,2020
+Nikos Elfert,CDM,20,10 Tsd. €,TSV Havelse,2020
+Tim-Alexander Meier,CDM,22,-,TSV Havelse,2020
+Max Kummer,CM,20,25 Tsd. €,TSV Havelse,2020
+Jannis Neugebauer,CM,19,10 Tsd. €,TSV Havelse,2020
+Deniz Cicek,CAM,28,125 Tsd. €,TSV Havelse,2020
+Yannik Jaeschke,CAM,27,125 Tsd. €,TSV Havelse,2020
+Torben Engelking,LW,25,75 Tsd. €,TSV Havelse,2020
+Ilir Qela,LW,20,10 Tsd. €,TSV Havelse,2020
+Leon Damer,RW,21,125 Tsd. €,TSV Havelse,2020
+Julius Langfeld,RW,26,25 Tsd. €,TSV Havelse,2020
+Fynn Lakenmacher,ST,21,25 Tsd. €,TSV Havelse,2020
+Norman Quindt,GK,25,150 Tsd. €,TSV Havelse,2021
+Tobias Stirl,GK,22,50 Tsd. €,TSV Havelse,2021
+Alexander Dlugaiczyk,GK,39,10 Tsd. €,TSV Havelse,2021
+Tobias Fölster,CB,28,125 Tsd. €,TSV Havelse,2021
+Noah Plume,CB,25,100 Tsd. €,TSV Havelse,2021
+Niklas Tasky,CB,31,75 Tsd. €,TSV Havelse,2021
+Marco Schleef,CB,23,50 Tsd. €,TSV Havelse,2021
+Jonas Sonnenberg,CB,29,50 Tsd. €,TSV Havelse,2021
+Niklas Teichgräber,LB,26,125 Tsd. €,TSV Havelse,2021
+Nils Piwernetz,LB,22,75 Tsd. €,TSV Havelse,2021
+Fynn Arkenberg,RB,26,100 Tsd. €,TSV Havelse,2021
+Denis Kina,RB,29,50 Tsd. €,TSV Havelse,2021
+Erik Henschel,RB,25,50 Tsd. €,TSV Havelse,2021
+Leonardo Gubinelli,CDM,21,150 Tsd. €,TSV Havelse,2021
+Vico Meien,CDM,24,50 Tsd. €,TSV Havelse,2021
+Julian Rufidis,CDM,21,25 Tsd. €,TSV Havelse,2021
+Oliver Daedlow,CM,22,125 Tsd. €,TSV Havelse,2021
+Florian Riedel,RM,32,125 Tsd. €,TSV Havelse,2021
+Kianz Froese,CAM,26,175 Tsd. €,TSV Havelse,2021
+Julius Düker,CAM,26,150 Tsd. €,TSV Havelse,2021
+Yannik Jaeschke,CAM,28,125 Tsd. €,TSV Havelse,2021
+Linus Meyer,CAM,30,100 Tsd. €,TSV Havelse,2021
+Deniz Cicek,CAM,29,75 Tsd. €,TSV Havelse,2021
+Torben Engelking,LW,26,50 Tsd. €,TSV Havelse,2021
+Ilir Qela,LW,21,25 Tsd. €,TSV Havelse,2021
+Leon Damer,RW,22,175 Tsd. €,TSV Havelse,2021
+Julius Langfeld,RW,27,75 Tsd. €,TSV Havelse,2021
+Fynn Lakenmacher,ST,22,200 Tsd. €,TSV Havelse,2021
+Norman Quindt,GK,26,100 Tsd. €,TSV Havelse,2022
+Tom Opitz,GK,19,25 Tsd. €,TSV Havelse,2022
+Jannes Tasche,GK,24,10 Tsd. €,TSV Havelse,2022
+Alexander Dlugaiczyk,GK,40,10 Tsd. €,TSV Havelse,2022
+Dominic Minz,CB,24,75 Tsd. €,TSV Havelse,2022
+Niklas Tasky,CB,32,75 Tsd. €,TSV Havelse,2022
+Marco Schleef,CB,24,50 Tsd. €,TSV Havelse,2022
+Besfort Kolgeci,CB,25,50 Tsd. €,TSV Havelse,2022
+Gabriel Michalek,CB,19,10 Tsd. €,TSV Havelse,2022
+Louis Spitzer,CB,19,10 Tsd. €,TSV Havelse,2022
+Niklas Teichgräber,LB,27,75 Tsd. €,TSV Havelse,2022
+Björn Liebnau,LB,23,50 Tsd. €,TSV Havelse,2022
+Timo Friedrich,RB,25,100 Tsd. €,TSV Havelse,2022
+Mika Stuhlmacher,CDM,20,75 Tsd. €,TSV Havelse,2022
+Julian Rufidis,CDM,22,50 Tsd. €,TSV Havelse,2022
+Jannik Oltrogge,CDM,28,25 Tsd. €,TSV Havelse,2022
+Martin Jakubietz,CM,18,-,TSV Havelse,2022
+Florian Riedel,RM,33,100 Tsd. €,TSV Havelse,2022
+Eliakim Kukanda,LM,24,25 Tsd. €,TSV Havelse,2022
+Yannik Jaeschke,CAM,29,125 Tsd. €,TSV Havelse,2022
+Deniz Cicek,CAM,30,50 Tsd. €,TSV Havelse,2022
+Berkan Cakir,CAM,22,25 Tsd. €,TSV Havelse,2022
+Dong-woo Kim,CAM,19,10 Tsd. €,TSV Havelse,2022
+Torben Engelking,LW,27,50 Tsd. €,TSV Havelse,2022
+Ilir Qela,LW,22,25 Tsd. €,TSV Havelse,2022
+Julius Langfeld,RW,28,75 Tsd. €,TSV Havelse,2022
+Marco Drawz,RW,24,50 Tsd. €,TSV Havelse,2022
+Amoro Diedhiou,RW,20,10 Tsd. €,TSV Havelse,2022
+Serkan Dursun,ST,22,25 Tsd. €,TSV Havelse,2022
+Marko Ilic,ST,24,25 Tsd. €,TSV Havelse,2022
+Tom Opitz,GK,20,50 Tsd. €,TSV Havelse,2023
+Alexander Dlugaiczyk,GK,41,10 Tsd. €,TSV Havelse,2023
+Antonio Brandt,GK,24,-,TSV Havelse,2023
+Lucas-Johannes Ollek,GK,20,-,TSV Havelse,2023
+Dominic Minz,CB,25,75 Tsd. €,TSV Havelse,2023
+Marco Schleef,CB,25,50 Tsd. €,TSV Havelse,2023
+Besfort Kolgeci,CB,26,50 Tsd. €,TSV Havelse,2023
+Niklas Tasky,CB,33,50 Tsd. €,TSV Havelse,2023
+Irichad Behrens,CB,20,10 Tsd. €,TSV Havelse,2023
+Niklas Teichgräber,LB,28,-,TSV Havelse,2023
+Mika Stuhlmacher,CDM,21,75 Tsd. €,TSV Havelse,2023
+Vladislav Cherny,CDM,21,75 Tsd. €,TSV Havelse,2023
+Julian Rufidis,CDM,23,50 Tsd. €,TSV Havelse,2023
+Jannik Oltrogge,CDM,29,25 Tsd. €,TSV Havelse,2023
+Silas Steinwedel,CDM,22,10 Tsd. €,TSV Havelse,2023
+Martin Jakubietz,CM,19,10 Tsd. €,TSV Havelse,2023
+Florian Riedel,RM,34,50 Tsd. €,TSV Havelse,2023
+Emre Aytun,LM,24,50 Tsd. €,TSV Havelse,2023
+Eliakim Kukanda,LM,25,25 Tsd. €,TSV Havelse,2023
+Julius Düker,CAM,28,150 Tsd. €,TSV Havelse,2023
+Yannik Jaeschke,CAM,30,75 Tsd. €,TSV Havelse,2023
+Dong-woo Kim,CAM,20,10 Tsd. €,TSV Havelse,2023
+Deniz Cicek,CAM,31,-,TSV Havelse,2023
+Torben Engelking,LW,28,50 Tsd. €,TSV Havelse,2023
+Julius Langfeld,RW,29,75 Tsd. €,TSV Havelse,2023
+Amoro Diedhiou,RW,21,10 Tsd. €,TSV Havelse,2023
+Hasan Özdemir,RW,20,-,TSV Havelse,2023
+Luca Mittelstädt,ST,24,50 Tsd. €,TSV Havelse,2023
+Nikky Goguadze,ST,25,25 Tsd. €,TSV Havelse,2023
+Marko Ilic,ST,25,25 Tsd. €,TSV Havelse,2023
+Tom Opitz,GK,21,100 Tsd. €,TSV Havelse,2024
+Jonah Busse,GK,19,25 Tsd. €,TSV Havelse,2024
+Alexander Dlugaiczyk,GK,42,10 Tsd. €,TSV Havelse,2024
+Dominic Minz,CB,26,100 Tsd. €,TSV Havelse,2024
+Besfort Kolgeci,CB,27,75 Tsd. €,TSV Havelse,2024
+Noah Plume,CB,28,75 Tsd. €,TSV Havelse,2024
+Marco Schleef,CB,26,50 Tsd. €,TSV Havelse,2024
+Niklas Tasky,CB,34,25 Tsd. €,TSV Havelse,2024
+Irichad Behrens,CB,21,10 Tsd. €,TSV Havelse,2024
+Timo Friedrich,RB,27,75 Tsd. €,TSV Havelse,2024
+Vladislav Cherny,CDM,21,75 Tsd. €,TSV Havelse,2024
+Julian Rufidis,CDM,24,50 Tsd. €,TSV Havelse,2024
+Jannik Oltrogge,CDM,29,50 Tsd. €,TSV Havelse,2024
+Silas Steinwedel,CDM,23,10 Tsd. €,TSV Havelse,2024
+Olivér Schindler,CM,25,25 Tsd. €,TSV Havelse,2024
+Tim Dierßen,CM,29,25 Tsd. €,TSV Havelse,2024
+Florian Riedel,RM,35,50 Tsd. €,TSV Havelse,2024
+Emre Aytun,LM,25,100 Tsd. €,TSV Havelse,2024
+Julius Düker,CAM,29,150 Tsd. €,TSV Havelse,2024
+Mick Gudra,CAM,24,75 Tsd. €,TSV Havelse,2024
+Yannik Jaeschke,CAM,31,50 Tsd. €,TSV Havelse,2024
+Torben Engelking,LW,28,50 Tsd. €,TSV Havelse,2024
+Robin Müller,RW,24,100 Tsd. €,TSV Havelse,2024
+Hasan Özdemir,RW,21,10 Tsd. €,TSV Havelse,2024
+Marko Ilic,ST,25,100 Tsd. €,TSV Havelse,2024
+Lorenzo Paldino,ST,25,75 Tsd. €,TSV Havelse,2024
+Affam Ifeadigo,ST,28,50 Tsd. €,TSV Havelse,2024

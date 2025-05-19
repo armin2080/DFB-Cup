@@ -1,0 +1,325 @@
+name,position,age,value,team,season
+Sebastian Tiszai,GK,27,-,FC Gütersloh,2014
+Hendrik Müller,GK,26,-,FC Gütersloh,2014
+Christopher Rump,GK,19,-,FC Gütersloh,2014
+Simon Schubert,CB,24,-,FC Gütersloh,2014
+Waldemar Jurez,CB,29,-,FC Gütersloh,2014
+Lars Beuckmann,CB,25,-,FC Gütersloh,2014
+Timon Weinreich,CB,18,-,FC Gütersloh,2014
+Thomas Rath,LB,27,-,FC Gütersloh,2014
+Gerrit Weinreich,LB,21,-,FC Gütersloh,2014
+Philippe Soethe,LB,24,-,FC Gütersloh,2014
+Zakaria Azrioual,LB,19,-,FC Gütersloh,2014
+Lucas Meiertoberens,RB,20,-,FC Gütersloh,2014
+Florian Kraus,CDM,28,-,FC Gütersloh,2014
+Lasse Fischer-Riepe,CDM,30,-,FC Gütersloh,2014
+Janis Kraus,CDM,25,-,FC Gütersloh,2014
+René Kagels,Midfielder,28,-,FC Gütersloh,2014
+Alexander Schiller,CDM,39,-,FC Gütersloh,2014
+Matthäus Wieckowicz,CM,27,-,FC Gütersloh,2014
+Fatih Gürer,RM,22,-,FC Gütersloh,2014
+Dastin Szymanski,RM,23,-,FC Gütersloh,2014
+Tugay Yilmaz,CAM,21,-,FC Gütersloh,2014
+Kamil Orhan,ST,30,-,FC Gütersloh,2014
+Nico Schürmann,ST,22,-,FC Gütersloh,2014
+Ufuk Basdas,ST,30,-,FC Gütersloh,2014
+Lars Schröder,ST,25,-,FC Gütersloh,2014
+Vadim Thomas,ST,26,-,FC Gütersloh,2014
+Marc Birkenhake,ST,25,-,FC Gütersloh,2014
+Christopher Rump,GK,20,-,FC Gütersloh,2015
+Hendrik Müller,GK,27,-,FC Gütersloh,2015
+Yannick Ellguth,GK,22,-,FC Gütersloh,2015
+Simon Schubert,CB,25,-,FC Gütersloh,2015
+Waldemar Jurez,CB,30,-,FC Gütersloh,2015
+Lars Beuckmann,CB,26,-,FC Gütersloh,2015
+Cinar Sansar,LB,21,-,FC Gütersloh,2015
+Zakaria Azrioual,LB,20,-,FC Gütersloh,2015
+Sedekia Haukambe,RB,30,-,FC Gütersloh,2015
+Enis Cömert,Midfielder,22,-,FC Gütersloh,2015
+Samy Benmbarek,CDM,21,-,FC Gütersloh,2015
+Florian Kraus,CDM,29,-,FC Gütersloh,2015
+Lasse Fischer-Riepe,CDM,31,-,FC Gütersloh,2015
+Janis Kraus,CDM,26,-,FC Gütersloh,2015
+Lennard Warweg,CM,28,-,FC Gütersloh,2015
+Matthäus Wieckowicz,CM,28,-,FC Gütersloh,2015
+Thomas Specht,CM,20,-,FC Gütersloh,2015
+Christian Schröer,CM,26,-,FC Gütersloh,2015
+Fatih Gürer,RM,23,-,FC Gütersloh,2015
+Dastin Szymanski,RM,24,-,FC Gütersloh,2015
+Vidoje Matic,CAM,20,-,FC Gütersloh,2015
+Nico Schürmann,ST,23,-,FC Gütersloh,2015
+Sherif Alassane,ST,22,-,FC Gütersloh,2015
+Ufuk Basdas,ST,31,-,FC Gütersloh,2015
+Lars Schröder,ST,26,-,FC Gütersloh,2015
+Vadim Thomas,ST,27,-,FC Gütersloh,2015
+Marc Birkenhake,ST,26,-,FC Gütersloh,2015
+Radoslaw Libera,GK,22,-,FC Gütersloh,2016
+Berkay Yilmaz,GK,20,-,FC Gütersloh,2016
+Yannick Ellguth,GK,23,-,FC Gütersloh,2016
+Charalampos Chantzopoulos,CB,22,25 Tsd. €,FC Gütersloh,2016
+Simon Schubert,CB,26,-,FC Gütersloh,2016
+Sinan Karadağ,CB,22,-,FC Gütersloh,2016
+Lars Beuckmann,CB,27,-,FC Gütersloh,2016
+Odysseas Myloulis,CB,20,-,FC Gütersloh,2016
+Don Niketta,CB,26,-,FC Gütersloh,2016
+Cinar Sansar,LB,22,-,FC Gütersloh,2016
+Amir Tahiri,LB,23,-,FC Gütersloh,2016
+Zakaria Azrioual,LB,21,-,FC Gütersloh,2016
+Sedekia Haukambe,RB,31,-,FC Gütersloh,2016
+Thomas Wieckowicz,Midfielder,27,-,FC Gütersloh,2016
+Turgay Gemicibaşı,CDM,21,-,FC Gütersloh,2016
+Kevin Malena,Midfielder,26,-,FC Gütersloh,2016
+Matthäus Wieckowicz,CM,29,-,FC Gütersloh,2016
+Exaucé Andzouana,CM,23,-,FC Gütersloh,2016
+Jakub Cesarek,RM,24,-,FC Gütersloh,2016
+Fatih Gürer,RM,24,-,FC Gütersloh,2016
+Matic Predanic,RM,21,-,FC Gütersloh,2016
+Muhammed Bulut,CAM,28,-,FC Gütersloh,2016
+Saban Kaptan,CAM,24,-,FC Gütersloh,2016
+Ardian Ibrahimi,CAM,20,-,FC Gütersloh,2016
+Vidoje Matic,CAM,21,-,FC Gütersloh,2016
+Khalil Rhilane,LW,24,-,FC Gütersloh,2016
+Sinan Aygün,RW,22,-,FC Gütersloh,2016
+Lars Schröder,ST,27,-,FC Gütersloh,2016
+Serge Sterling McNichol Strickland,ST,24,-,FC Gütersloh,2016
+Izjah Delolli,ST,18,-,FC Gütersloh,2016
+Mergim Deljiu,ST,21,-,FC Gütersloh,2016
+Hüseyin Demir,ST,19,-,FC Gütersloh,2016
+Kevin Böhler,ST,-,-,FC Gütersloh,2016
+Bressa Monteiro,ST,-,-,FC Gütersloh,2016
+Jannis Flaskamp,ST,26,-,FC Gütersloh,2016
+Jonas Brammen,GK,20,-,FC Gütersloh,2017
+Sebastian Wessel,GK,36,-,FC Gütersloh,2017
+Radoslaw Libera,GK,23,-,FC Gütersloh,2017
+Tim-Anton Kampermann,GK,-,-,FC Gütersloh,2017
+Leo Hisamatsu,GK,-,-,FC Gütersloh,2017
+Simon Schubert,CB,27,-,FC Gütersloh,2017
+Sinan Karadağ,CB,23,-,FC Gütersloh,2017
+Lars Beuckmann,CB,28,-,FC Gütersloh,2017
+Odysseas Myloulis,CB,21,-,FC Gütersloh,2017
+Don Niketta,CB,27,-,FC Gütersloh,2017
+Zakaria Azrioual,LB,22,-,FC Gütersloh,2017
+Orkun Tosun,RB,24,-,FC Gütersloh,2017
+Denis Kina,RB,25,-,FC Gütersloh,2017
+Hakan Gökdemir,CDM,25,-,FC Gütersloh,2017
+Petrick Piontek,CDM,27,-,FC Gütersloh,2017
+Jetfat Abrashi,Midfielder,20,-,FC Gütersloh,2017
+Ivan Skara,CM,-,-,FC Gütersloh,2017
+Matthäus Wieckowicz,CM,30,-,FC Gütersloh,2017
+Jakub Cesarek,RM,25,-,FC Gütersloh,2017
+Andreas Balaskas,RM,21,-,FC Gütersloh,2017
+Fatih Gürer,RM,25,-,FC Gütersloh,2017
+Muhammed Bulut,CAM,29,-,FC Gütersloh,2017
+Saban Kaptan,CAM,25,-,FC Gütersloh,2017
+Tugay Gündogan,CAM,22,-,FC Gütersloh,2017
+Premtim Gashi,CAM,20,-,FC Gütersloh,2017
+Özgür Köse,LW,20,-,FC Gütersloh,2017
+Sinan Aygün,RW,23,-,FC Gütersloh,2017
+Lars Schröder,ST,28,-,FC Gütersloh,2017
+Kamil Popowicz,ST,21,-,FC Gütersloh,2017
+Vasyl Shcherbyna,ST,23,-,FC Gütersloh,2017
+Serge Sterling McNichol Strickland,ST,25,-,FC Gütersloh,2017
+Kevin Böhler,ST,-,-,FC Gütersloh,2017
+Mergim Deljiu,ST,22,-,FC Gütersloh,2017
+Kacper Rak,ST,23,-,FC Gütersloh,2017
+Jannis Flaskamp,ST,27,-,FC Gütersloh,2017
+Frederic Westergerling,GK,25,-,FC Gütersloh,2018
+Jan Laser,GK,-,-,FC Gütersloh,2018
+Berkay Yilmaz,GK,22,-,FC Gütersloh,2018
+Hendrik Müller,GK,30,-,FC Gütersloh,2018
+David Schwesig,CB,31,-,FC Gütersloh,2018
+Markus Baum,CB,20,-,FC Gütersloh,2018
+Ju-il Kim,CB,21,-,FC Gütersloh,2018
+Lars Beuckmann,CB,29,-,FC Gütersloh,2018
+Marcel Lücke,CB,23,-,FC Gütersloh,2018
+Pascal Widdecke,LB,24,-,FC Gütersloh,2018
+Alexander Schiller,CDM,43,-,FC Gütersloh,2018
+Samy Benmbarek,CDM,24,-,FC Gütersloh,2018
+Tim Manstein,CDM,29,-,FC Gütersloh,2018
+Theodoros Tragoudas,CDM,20,-,FC Gütersloh,2018
+Matthäus Wieckowicz,CM,31,-,FC Gütersloh,2018
+Nico Bartling,CM,23,-,FC Gütersloh,2018
+Serdar Erdogmus,RM,32,-,FC Gütersloh,2018
+Temel Hop,RM,31,-,FC Gütersloh,2018
+Saban Kaptan,CAM,26,-,FC Gütersloh,2018
+Martin Aciz,CAM,22,-,FC Gütersloh,2018
+Premtim Gashi,CAM,21,-,FC Gütersloh,2018
+Sinan Aygün,RW,24,-,FC Gütersloh,2018
+Lars Schröder,ST,29,-,FC Gütersloh,2018
+Eric Yahkem,ST,27,-,FC Gütersloh,2018
+Vadim Thomas,ST,30,-,FC Gütersloh,2018
+Mergim Deljiu,ST,23,-,FC Gütersloh,2018
+Nick Flock,ST,19,-,FC Gütersloh,2018
+Marcel Rump,ST,24,-,FC Gütersloh,2018
+Jannis Flaskamp,ST,28,-,FC Gütersloh,2018
+Jarno Peters,GK,27,-,FC Gütersloh,2019
+Berkay Yilmaz,GK,23,-,FC Gütersloh,2019
+Patrick Richter,GK,24,-,FC Gütersloh,2019
+David Schwesig,CB,32,-,FC Gütersloh,2019
+Markus Baum,CB,21,-,FC Gütersloh,2019
+Lars Beuckmann,CB,30,-,FC Gütersloh,2019
+Marcel Lücke,CB,24,-,FC Gütersloh,2019
+Pascal Widdecke,LB,25,-,FC Gütersloh,2019
+Alexander Schiller,CDM,44,-,FC Gütersloh,2019
+André Kording,CDM,31,-,FC Gütersloh,2019
+Tim Manstein,CDM,30,-,FC Gütersloh,2019
+Samy Benmbarek,CDM,25,-,FC Gütersloh,2019
+Steffen Müller,Midfielder,22,-,FC Gütersloh,2019
+Theodoros Tragoudas,CDM,21,-,FC Gütersloh,2019
+Berkant Güner,CM,22,-,FC Gütersloh,2019
+Matthäus Wieckowicz,CM,32,-,FC Gütersloh,2019
+Nico Bartling,CM,24,-,FC Gütersloh,2019
+Serdar Erdogmus,RM,33,-,FC Gütersloh,2019
+Saban Kaptan,CAM,27,-,FC Gütersloh,2019
+Marco Pollmann,CAM,22,-,FC Gütersloh,2019
+Ilias Illig,CAM,22,-,FC Gütersloh,2019
+Sinan Aygün,RW,25,-,FC Gütersloh,2019
+Eric Yahkem,ST,28,-,FC Gütersloh,2019
+Lars Schröder,ST,30,-,FC Gütersloh,2019
+Fabio Kristkowitz,ST,20,-,FC Gütersloh,2019
+Nick Flock,ST,20,-,FC Gütersloh,2019
+Marcel Rump,ST,25,-,FC Gütersloh,2019
+Jarno Peters,GK,28,-,FC Gütersloh,2020
+Berkay Yilmaz,GK,24,-,FC Gütersloh,2020
+Patrick Richter,GK,25,-,FC Gütersloh,2020
+Markus Baum,CB,22,-,FC Gütersloh,2020
+Lars Beuckmann,CB,31,-,FC Gütersloh,2020
+Marcel Lücke,CB,25,-,FC Gütersloh,2020
+Pascal Widdecke,LB,26,-,FC Gütersloh,2020
+André Kording,CDM,32,-,FC Gütersloh,2020
+Jannik Schröder,CDM,31,-,FC Gütersloh,2020
+Tim Manstein,CDM,31,-,FC Gütersloh,2020
+Samy Benmbarek,CDM,26,-,FC Gütersloh,2020
+Steffen Müller,Midfielder,23,-,FC Gütersloh,2020
+Kubilay Arayan,Midfielder,22,-,FC Gütersloh,2020
+Berkant Güner,CM,23,-,FC Gütersloh,2020
+Nico Bartling,CM,25,-,FC Gütersloh,2020
+Serdar Erdogmus,RM,34,-,FC Gütersloh,2020
+Marco Pollmann,CAM,23,-,FC Gütersloh,2020
+Ilias Illig,CAM,23,-,FC Gütersloh,2020
+Björn Schlottke,RW,26,-,FC Gütersloh,2020
+Sinan Aygün,RW,26,-,FC Gütersloh,2020
+Eric Yahkem,ST,29,-,FC Gütersloh,2020
+Marcel Rump,ST,26,-,FC Gütersloh,2020
+Fabio Kristkowitz,ST,21,-,FC Gütersloh,2020
+Nick Flock,ST,21,-,FC Gütersloh,2020
+Dimitrios Nemtsis,ST,24,-,FC Gütersloh,2020
+Jarno Peters,GK,29,-,FC Gütersloh,2021
+Jan-Hendrik Braend,GK,28,-,FC Gütersloh,2021
+Patrick Richter,GK,26,-,FC Gütersloh,2021
+Berkay Yilmaz,GK,25,-,FC Gütersloh,2021
+Markus Baum,CB,23,-,FC Gütersloh,2021
+Jannik Enning,CB,24,-,FC Gütersloh,2021
+Lars Beuckmann,CB,32,-,FC Gütersloh,2021
+Marcel Lücke,CB,26,-,FC Gütersloh,2021
+Michel Akay,LB,22,-,FC Gütersloh,2021
+Pascal Widdecke,LB,27,-,FC Gütersloh,2021
+Amed Öncel,RB,22,-,FC Gütersloh,2021
+Christian Will,RB,27,-,FC Gütersloh,2021
+Jonas Knuth,RB,20,-,FC Gütersloh,2021
+Alexander Schiller,CDM,46,-,FC Gütersloh,2021
+Jannik Schröder,CDM,32,-,FC Gütersloh,2021
+André Kording,CDM,33,-,FC Gütersloh,2021
+Tim Manstein,CDM,32,-,FC Gütersloh,2021
+Samy Benmbarek,CDM,27,-,FC Gütersloh,2021
+Allan Firmino Dantas,CDM,25,-,FC Gütersloh,2021
+Aleksandar Kandic,CDM,18,-,FC Gütersloh,2021
+Nico Bartling,CM,26,-,FC Gütersloh,2021
+Serdar Erdogmus,RM,35,-,FC Gütersloh,2021
+Ilias Illig,CAM,24,-,FC Gütersloh,2021
+Alexander Bannink,CAM,32,-,FC Gütersloh,2021
+Sinan Aygün,RW,27,-,FC Gütersloh,2021
+Patrice Yoann Heisinger,RW,21,-,FC Gütersloh,2021
+Eric Yahkem,ST,30,-,FC Gütersloh,2021
+Matthias Haeder,ST,33,-,FC Gütersloh,2021
+Lucas Klantzos,ST,21,-,FC Gütersloh,2021
+Dimitrios Nemtsis,ST,25,-,FC Gütersloh,2021
+Nick Flock,ST,22,-,FC Gütersloh,2021
+Jarno Peters,GK,30,-,FC Gütersloh,2022
+Daniel Szczepankiewicz,GK,29,-,FC Gütersloh,2022
+Patrick Richter,GK,27,-,FC Gütersloh,2022
+Berkay Yilmaz,GK,26,-,FC Gütersloh,2022
+Janik Steringer,CB,25,-,FC Gütersloh,2022
+Jannik Enning,CB,25,-,FC Gütersloh,2022
+Lars Beuckmann,CB,33,-,FC Gütersloh,2022
+Marcel Lücke,CB,27,-,FC Gütersloh,2022
+Nils Köhler,LB,29,-,FC Gütersloh,2022
+Pascal Widdecke,LB,28,-,FC Gütersloh,2022
+Amed Öncel,RB,23,-,FC Gütersloh,2022
+Christian Will,RB,28,-,FC Gütersloh,2022
+Jonas Knuth,RB,21,-,FC Gütersloh,2022
+André Kording,CDM,34,-,FC Gütersloh,2022
+Allan Firmino Dantas,CDM,26,-,FC Gütersloh,2022
+Tim Manstein,CDM,33,-,FC Gütersloh,2022
+Samy Benmbarek,CDM,28,-,FC Gütersloh,2022
+Aleksandar Kandic,CDM,19,-,FC Gütersloh,2022
+Nico Bartling,CM,27,-,FC Gütersloh,2022
+Ilias Illig,CAM,25,-,FC Gütersloh,2022
+Alexander Bannink,CAM,33,-,FC Gütersloh,2022
+Nico Buckmaier,CAM,30,-,FC Gütersloh,2022
+Tymofiy Dymchenko,LW,25,-,FC Gütersloh,2022
+Markus Esko,LW,23,-,FC Gütersloh,2022
+Tekin Gencoglu,RW,20,-,FC Gütersloh,2022
+Kevin Freiberger,RW,34,-,FC Gütersloh,2022
+Matthias Haeder,ST,34,-,FC Gütersloh,2022
+Dimitrios Nemtsis,ST,26,-,FC Gütersloh,2022
+Vincent Ocansey,ST,22,-,FC Gütersloh,2022
+Tim Matuschewsky,GK,22,50 Tsd. €,FC Gütersloh,2023
+Jarno Peters,GK,31,25 Tsd. €,FC Gütersloh,2023
+Daniel Szczepankiewicz,GK,30,25 Tsd. €,FC Gütersloh,2023
+Joel Cilgin,CB,19,10 Tsd. €,FC Gütersloh,2023
+Lars Beuckmann,CB,34,25 Tsd. €,FC Gütersloh,2023
+Marcel Lücke,CB,28,25 Tsd. €,FC Gütersloh,2023
+Armin Pjetrovic,CB,27,25 Tsd. €,FC Gütersloh,2023
+Leo Weichert,CB,21,25 Tsd. €,FC Gütersloh,2023
+Jannik Enning,CB,26,-,FC Gütersloh,2023
+Pascal Widdecke,LB,29,50 Tsd. €,FC Gütersloh,2023
+Philimon Tawiah,LB,25,25 Tsd. €,FC Gütersloh,2023
+Julian Schauerte,RB,36,75 Tsd. €,FC Gütersloh,2023
+Jeffrey Obst,RB,30,50 Tsd. €,FC Gütersloh,2023
+Jonas Knuth,RB,22,10 Tsd. €,FC Gütersloh,2023
+Allan Firmino Dantas,CDM,27,50 Tsd. €,FC Gütersloh,2023
+Tim Manstein,CDM,34,50 Tsd. €,FC Gütersloh,2023
+André Kording,CDM,35,25 Tsd. €,FC Gütersloh,2023
+Aleksandar Kandic,CDM,20,25 Tsd. €,FC Gütersloh,2023
+Patrik Twardzik,CM,31,75 Tsd. €,FC Gütersloh,2023
+Lennard Rolf,LM,24,25 Tsd. €,FC Gütersloh,2023
+Ilias Illig,CAM,26,50 Tsd. €,FC Gütersloh,2023
+Nico Buckmaier,CAM,31,50 Tsd. €,FC Gütersloh,2023
+Hendrik Lohmar,CAM,28,50 Tsd. €,FC Gütersloh,2023
+Lukas Keles,CAM,27,-,FC Gütersloh,2023
+Markus Esko,LW,24,25 Tsd. €,FC Gütersloh,2023
+Tymofiy Dymchenko,LW,26,-,FC Gütersloh,2023
+Felix Heim,RW,22,50 Tsd. €,FC Gütersloh,2023
+Kevin Freiberger,RW,35,50 Tsd. €,FC Gütersloh,2023
+Eduard Probst,ST,23,75 Tsd. €,FC Gütersloh,2023
+Matthias Haeder,ST,35,25 Tsd. €,FC Gütersloh,2023
+Vincent Ocansey,ST,23,25 Tsd. €,FC Gütersloh,2023
+Grigorijs Degtjarevs,ST,20,10 Tsd. €,FC Gütersloh,2023
+Jarno Peters,GK,31,50 Tsd. €,FC Gütersloh,2024
+Tim Matuschewsky,GK,23,25 Tsd. €,FC Gütersloh,2024
+Roman Schabbing,GK,23,25 Tsd. €,FC Gütersloh,2024
+David Winke,CB,25,100 Tsd. €,FC Gütersloh,2024
+Justus Henke,CB,23,75 Tsd. €,FC Gütersloh,2024
+Jannik Borgmann,CB,27,50 Tsd. €,FC Gütersloh,2024
+Lars Beuckmann,CB,35,25 Tsd. €,FC Gütersloh,2024
+Leo Weichert,CB,22,25 Tsd. €,FC Gütersloh,2024
+Henri Bollmann,LB,19,25 Tsd. €,FC Gütersloh,2024
+Philimon Tawiah,LB,26,25 Tsd. €,FC Gütersloh,2024
+Julian Schauerte,RB,37,50 Tsd. €,FC Gütersloh,2024
+Björn Rother,CDM,28,150 Tsd. €,FC Gütersloh,2024
+Allan Firmino Dantas,CDM,28,50 Tsd. €,FC Gütersloh,2024
+Erik Lanfer,CDM,21,50 Tsd. €,FC Gütersloh,2024
+André Kording,CDM,35,25 Tsd. €,FC Gütersloh,2024
+Aleksandar Kandic,CDM,21,25 Tsd. €,FC Gütersloh,2024
+Patrik Twardzik,CM,32,75 Tsd. €,FC Gütersloh,2024
+Lennard Rolf,LM,25,25 Tsd. €,FC Gütersloh,2024
+Sandro Reyes,CAM,22,75 Tsd. €,FC Gütersloh,2024
+Ilias Illig,CAM,27,50 Tsd. €,FC Gütersloh,2024
+Phil Beckhoff,LW,25,100 Tsd. €,FC Gütersloh,2024
+Kevin Freiberger,RW,36,50 Tsd. €,FC Gütersloh,2024
+Nico Tübing,ST,22,25 Tsd. €,FC Gütersloh,2024
+Matthias Haeder,ST,36,25 Tsd. €,FC Gütersloh,2024
+Luis Frieling,ST,22,25 Tsd. €,FC Gütersloh,2024
+Dimitrios Touratzidis,ST,27,25 Tsd. €,FC Gütersloh,2024
+Grigorijs Degtjarevs,ST,21,10 Tsd. €,FC Gütersloh,2024

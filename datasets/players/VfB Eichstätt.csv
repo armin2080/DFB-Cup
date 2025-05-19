@@ -1,0 +1,315 @@
+name,position,age,value,team,season
+Sebastian Felleiter,GK,23,-,VfB Eichstätt,2014
+Christoph Schöls,GK,39,-,VfB Eichstätt,2014
+Max Dörfler,GK,23,-,VfB Eichstätt,2014
+Markus Kluy,GK,20,-,VfB Eichstätt,2014
+Thomas Frahler,GK,30,-,VfB Eichstätt,2014
+Johannes Müller,CB,25,-,VfB Eichstätt,2014
+Dominik Schmidramsl,CB,33,-,VfB Eichstätt,2014
+Fabian Heckel,CB,20,-,VfB Eichstätt,2014
+Tobias Lehr-Kramer,CB,21,-,VfB Eichstätt,2014
+Maximilian Eberwein,CB,21,-,VfB Eichstätt,2014
+Benjamin Schmidramsl,CB,28,-,VfB Eichstätt,2014
+Viktor Stoll,CB,31,-,VfB Eichstätt,2014
+Markus Jörg,LB,33,-,VfB Eichstätt,2014
+Oguzhan Halici,LB,23,-,VfB Eichstätt,2014
+Simon Böhm,RB,29,-,VfB Eichstätt,2014
+Benedikt Leesch,Midfielder,19,-,VfB Eichstätt,2014
+Fabian Janker,Midfielder,20,-,VfB Eichstätt,2014
+Rainer Meisinger,Midfielder,20,-,VfB Eichstätt,2014
+Florian Ihring,Midfielder,22,-,VfB Eichstätt,2014
+Ramazan Mazlum,Midfielder,20,-,VfB Eichstätt,2014
+Marc Steingräber,Midfielder,21,-,VfB Eichstätt,2014
+Fabian Schäll,CM,24,-,VfB Eichstätt,2014
+Michael Panknin,CM,26,-,VfB Eichstätt,2014
+Philipp Krieglmeier,CAM,26,-,VfB Eichstätt,2014
+Lucas Schraufstetter,CAM,20,-,VfB Eichstätt,2014
+Markus Hörmann,Second Striker,32,-,VfB Eichstätt,2014
+Florian Grau,ST,28,-,VfB Eichstätt,2014
+Marco Witasek,ST,27,-,VfB Eichstätt,2014
+Vincent Krenn,ST,24,-,VfB Eichstätt,2014
+Christopher Haas,ST,23,-,VfB Eichstätt,2014
+Stefan Biber,ST,22,-,VfB Eichstätt,2014
+Berti Schötterl,GK,21,-,VfB Eichstätt,2015
+Thorsten Heinz,GK,44,-,VfB Eichstätt,2015
+Jonas Herter,GK,28,-,VfB Eichstätt,2015
+Max Dörfler,GK,24,-,VfB Eichstätt,2015
+Julian Scholl,CB,25,-,VfB Eichstätt,2015
+Fabian Heckel,CB,21,-,VfB Eichstätt,2015
+Maximilian Eberwein,CB,22,-,VfB Eichstätt,2015
+Benjamin Schmidramsl,CB,29,-,VfB Eichstätt,2015
+Markus Waffler,CB,19,-,VfB Eichstätt,2015
+Oguzhan Halici,LB,24,-,VfB Eichstätt,2015
+Dominik Wolfsteiner,RB,22,-,VfB Eichstätt,2015
+Simon Böhm,RB,30,-,VfB Eichstätt,2015
+Phillip Danner,Midfielder,20,-,VfB Eichstätt,2015
+Sebastian Schön,Midfielder,26,-,VfB Eichstätt,2015
+Benjamin Hackner,Midfielder,26,-,VfB Eichstätt,2015
+Marcel Kraft,Midfielder,24,-,VfB Eichstätt,2015
+Rainer Meisinger,Midfielder,21,-,VfB Eichstätt,2015
+Michael Panknin,CM,27,-,VfB Eichstätt,2015
+Fabian Schäll,CM,25,-,VfB Eichstätt,2015
+David Kramek,CAM,23,-,VfB Eichstätt,2015
+Lucas Schraufstetter,CAM,21,-,VfB Eichstätt,2015
+Atdhedon Lushi,LW,23,-,VfB Eichstätt,2015
+Carmine De Biasi,LW,25,-,VfB Eichstätt,2015
+Florian Grau,ST,29,-,VfB Eichstätt,2015
+Tobias Eisenschenk,ST,27,-,VfB Eichstätt,2015
+Christopher Haas,ST,24,-,VfB Eichstätt,2015
+Mamadou Diallo,ST,19,-,VfB Eichstätt,2015
+Glerdis Ahmeti,ST,20,-,VfB Eichstätt,2015
+Thomas Bauer,GK,23,-,VfB Eichstätt,2016
+Jonas Herter,GK,29,-,VfB Eichstätt,2016
+Max Dörfler,GK,25,-,VfB Eichstätt,2016
+Michael Hierl,GK,23,-,VfB Eichstätt,2016
+Julian Scholl,CB,26,-,VfB Eichstätt,2016
+Fabian Heckel,CB,22,-,VfB Eichstätt,2016
+Maximilian Eberwein,CB,23,-,VfB Eichstätt,2016
+Benjamin Schmidramsl,CB,30,-,VfB Eichstätt,2016
+Markus Waffler,CB,20,-,VfB Eichstätt,2016
+Dominik Wolfsteiner,RB,23,-,VfB Eichstätt,2016
+Simon Böhm,RB,31,-,VfB Eichstätt,2016
+Phillip Danner,Midfielder,21,-,VfB Eichstätt,2016
+Sebastian Graßl,CDM,21,-,VfB Eichstätt,2016
+Marcel Kraft,Midfielder,25,-,VfB Eichstätt,2016
+Michael Panknin,CM,28,-,VfB Eichstätt,2016
+Fabian Schäll,CM,26,-,VfB Eichstätt,2016
+Lucas Schraufstetter,CAM,22,-,VfB Eichstätt,2016
+Philipp Federl,CAM,25,-,VfB Eichstätt,2016
+Florian Grau,ST,30,-,VfB Eichstätt,2016
+Marco Witasek,ST,29,-,VfB Eichstätt,2016
+Mamadou Diallo,ST,20,-,VfB Eichstätt,2016
+Fabian Eberle,ST,28,-,VfB Eichstätt,2016
+Yomi Scintu,ST,20,-,VfB Eichstätt,2016
+Michael Gurski,GK,39,50 Tsd. €,VfB Eichstätt,2017
+Thomas Bauer,GK,24,50 Tsd. €,VfB Eichstätt,2017
+Jonas Herter,GK,30,50 Tsd. €,VfB Eichstätt,2017
+Max Dörfler,GK,26,25 Tsd. €,VfB Eichstätt,2017
+Luca Woloszyn,GK,20,-,VfB Eichstätt,2017
+Fabian Heckel,CB,23,25 Tsd. €,VfB Eichstätt,2017
+Benjamin Schmidramsl,CB,31,75 Tsd. €,VfB Eichstätt,2017
+Markus Waffler,CB,21,75 Tsd. €,VfB Eichstätt,2017
+Maximilian Eberwein,CB,24,50 Tsd. €,VfB Eichstätt,2017
+Kevin Kühnlein,CB,27,50 Tsd. €,VfB Eichstätt,2017
+Dominik Wolfsteiner,RB,24,75 Tsd. €,VfB Eichstätt,2017
+Ralf Schröder,RB,21,50 Tsd. €,VfB Eichstätt,2017
+Thomas Haas,RB,20,25 Tsd. €,VfB Eichstätt,2017
+Sebastian Graßl,CDM,22,100 Tsd. €,VfB Eichstätt,2017
+Marcel Kraft,Midfielder,26,25 Tsd. €,VfB Eichstätt,2017
+Fabian Schäll,CM,27,100 Tsd. €,VfB Eichstätt,2017
+Jonas Fries,CM,21,75 Tsd. €,VfB Eichstätt,2017
+Michael Panknin,CM,29,50 Tsd. €,VfB Eichstätt,2017
+Panagiotis Iatrou,CM,25,25 Tsd. €,VfB Eichstätt,2017
+Lucas Schraufstetter,CAM,23,100 Tsd. €,VfB Eichstätt,2017
+Philipp Federl,CAM,26,75 Tsd. €,VfB Eichstätt,2017
+Carmine De Biasi,LW,27,25 Tsd. €,VfB Eichstätt,2017
+Stefan Liebler,RW,21,-,VfB Eichstätt,2017
+Fabian Eberle,ST,29,100 Tsd. €,VfB Eichstätt,2017
+Yomi Scintu,ST,21,100 Tsd. €,VfB Eichstätt,2017
+Florian Grau,ST,31,50 Tsd. €,VfB Eichstätt,2017
+Julian Kügel,ST,21,50 Tsd. €,VfB Eichstätt,2017
+Marco Witasek,ST,30,-,VfB Eichstätt,2017
+Thomas Bauer,GK,25,75 Tsd. €,VfB Eichstätt,2018
+Christos Patsiouras,GK,32,25 Tsd. €,VfB Eichstätt,2018
+Max Dörfler,GK,27,25 Tsd. €,VfB Eichstätt,2018
+Niklas Heyen,GK,22,25 Tsd. €,VfB Eichstätt,2018
+Luca Woloszyn,GK,21,25 Tsd. €,VfB Eichstätt,2018
+Mustafa Özhitay,GK,23,25 Tsd. €,VfB Eichstätt,2018
+Benjamin Schmidramsl,CB,32,75 Tsd. €,VfB Eichstätt,2018
+Markus Waffler,CB,22,75 Tsd. €,VfB Eichstätt,2018
+Michael Zant,CB,23,75 Tsd. €,VfB Eichstätt,2018
+Maximilian Eberwein,CB,25,50 Tsd. €,VfB Eichstätt,2018
+Jens Förtsch,CB,21,25 Tsd. €,VfB Eichstätt,2018
+Markus Steinhöfer,RB,33,250 Tsd. €,VfB Eichstätt,2018
+Dominik Wolfsteiner,RB,25,75 Tsd. €,VfB Eichstätt,2018
+Ralf Schröder,RB,22,50 Tsd. €,VfB Eichstätt,2018
+Thomas Haas,RB,21,50 Tsd. €,VfB Eichstätt,2018
+Jonas Greth,RB,19,25 Tsd. €,VfB Eichstätt,2018
+Sebastian Graßl,CDM,23,100 Tsd. €,VfB Eichstätt,2018
+Marcel Kraft,Midfielder,27,25 Tsd. €,VfB Eichstätt,2018
+Fabian Schäll,CM,28,100 Tsd. €,VfB Eichstätt,2018
+Jonas Fries,CM,22,100 Tsd. €,VfB Eichstätt,2018
+Lucas Schraufstetter,CAM,24,100 Tsd. €,VfB Eichstätt,2018
+Marcel Schelle,CAM,21,75 Tsd. €,VfB Eichstätt,2018
+Philipp Federl,CAM,27,75 Tsd. €,VfB Eichstätt,2018
+Atdhedon Lushi,LW,26,75 Tsd. €,VfB Eichstätt,2018
+Klinsman Calderón,LW,21,50 Tsd. €,VfB Eichstätt,2018
+Fabian Eberle,ST,30,125 Tsd. €,VfB Eichstätt,2018
+Yomi Scintu,ST,22,75 Tsd. €,VfB Eichstätt,2018
+Julian Kügel,ST,22,75 Tsd. €,VfB Eichstätt,2018
+Florian Grau,ST,32,50 Tsd. €,VfB Eichstätt,2018
+Roussel Ngankam,ST,25,50 Tsd. €,VfB Eichstätt,2018
+Felix Junghan,GK,26,100 Tsd. €,VfB Eichstätt,2019
+Florian Rauh,GK,22,50 Tsd. €,VfB Eichstätt,2019
+Daniel Baltzer,GK,24,25 Tsd. €,VfB Eichstätt,2019
+Benjamin Schmidramsl,CB,33,75 Tsd. €,VfB Eichstätt,2019
+Markus Waffler,CB,23,75 Tsd. €,VfB Eichstätt,2019
+Jakob Zitzelsberger,CB,23,75 Tsd. €,VfB Eichstätt,2019
+Felix Göttlicher,CB,18,-,VfB Eichstätt,2019
+Florian Lamprecht,LB,24,100 Tsd. €,VfB Eichstätt,2019
+Dominik Wolfsteiner,RB,26,75 Tsd. €,VfB Eichstätt,2019
+Sebastian Graßl,CDM,24,75 Tsd. €,VfB Eichstätt,2019
+Niklas Reutelhuber,Midfielder,21,50 Tsd. €,VfB Eichstätt,2019
+Arjon Kryeziu,CDM,21,25 Tsd. €,VfB Eichstätt,2019
+Jonas Fries,CM,23,125 Tsd. €,VfB Eichstätt,2019
+Adrian Istrefi,CM,27,50 Tsd. €,VfB Eichstätt,2019
+Ismailcan Usta,CM,21,25 Tsd. €,VfB Eichstätt,2019
+Christian Heinloth,RM,23,75 Tsd. €,VfB Eichstätt,2019
+Lucas Schraufstetter,CAM,25,100 Tsd. €,VfB Eichstätt,2019
+Philipp Federl,CAM,28,100 Tsd. €,VfB Eichstätt,2019
+Marcel Schelle,CAM,22,100 Tsd. €,VfB Eichstätt,2019
+Atdhedon Lushi,LW,27,125 Tsd. €,VfB Eichstätt,2019
+Fabian Eberle,ST,31,150 Tsd. €,VfB Eichstätt,2019
+Julian Kügel,ST,23,100 Tsd. €,VfB Eichstätt,2019
+Fabian Neumayer,ST,22,25 Tsd. €,VfB Eichstätt,2019
+Marcel Jasmann,ST,20,-,VfB Eichstätt,2019
+Felix Junghan,GK,27,75 Tsd. €,VfB Eichstätt,2020
+Dominik Bals,GK,20,10 Tsd. €,VfB Eichstätt,2020
+Daniel Baltzer,GK,25,10 Tsd. €,VfB Eichstätt,2020
+Florian Rauh,GK,23,-,VfB Eichstätt,2020
+Markus Waffler,CB,24,50 Tsd. €,VfB Eichstätt,2020
+Jakob Zitzelsberger,CB,24,50 Tsd. €,VfB Eichstätt,2020
+Ardit Topalaj,CB,21,25 Tsd. €,VfB Eichstätt,2020
+Benjamin Schmidramsl,CB,34,-,VfB Eichstätt,2020
+Florian Lamprecht,LB,25,75 Tsd. €,VfB Eichstätt,2020
+Ahmad Assaf,RB,21,50 Tsd. €,VfB Eichstätt,2020
+Dominik Wolfsteiner,RB,27,50 Tsd. €,VfB Eichstätt,2020
+Sebastian Graßl,CDM,25,50 Tsd. €,VfB Eichstätt,2020
+Arjon Kryeziu,CDM,22,10 Tsd. €,VfB Eichstätt,2020
+Niklas Reutelhuber,Midfielder,22,-,VfB Eichstätt,2020
+Johannes Fiedler,CDM,19,-,VfB Eichstätt,2020
+Jonas Fries,CM,24,100 Tsd. €,VfB Eichstätt,2020
+Michael Panknin,CM,32,10 Tsd. €,VfB Eichstätt,2020
+Ismailcan Usta,CM,22,10 Tsd. €,VfB Eichstätt,2020
+Adrian Istrefi,CM,28,-,VfB Eichstätt,2020
+Fabio Pirner,CM,20,-,VfB Eichstätt,2020
+Christian Heinloth,RM,24,25 Tsd. €,VfB Eichstätt,2020
+Marcel Schelle,CAM,23,100 Tsd. €,VfB Eichstätt,2020
+Philipp Federl,CAM,29,75 Tsd. €,VfB Eichstätt,2020
+Lucas Schraufstetter,CAM,26,50 Tsd. €,VfB Eichstätt,2020
+Atdhedon Lushi,LW,28,100 Tsd. €,VfB Eichstätt,2020
+Tobias Stoßberger,RW,21,-,VfB Eichstätt,2020
+Fabian Eberle,ST,32,100 Tsd. €,VfB Eichstätt,2020
+Julian Kügel,ST,24,75 Tsd. €,VfB Eichstätt,2020
+Fabian Neumayer,ST,23,25 Tsd. €,VfB Eichstätt,2020
+Florian Grau,ST,34,-,VfB Eichstätt,2020
+Marcel Jasmann,ST,21,-,VfB Eichstätt,2020
+Thomas Selz,ST,26,-,VfB Eichstätt,2020
+Felix Junghan,GK,28,75 Tsd. €,VfB Eichstätt,2021
+Florian Rauh,GK,24,10 Tsd. €,VfB Eichstätt,2021
+Daniel Baltzer,GK,26,10 Tsd. €,VfB Eichstätt,2021
+Dominik Bals,GK,21,-,VfB Eichstätt,2021
+Bastian Bösl,CB,24,-,VfB Eichstätt,2021
+Markus Waffler,CB,25,50 Tsd. €,VfB Eichstätt,2021
+Luka Trslic,CB,21,25 Tsd. €,VfB Eichstätt,2021
+Johannes Kraus,CB,22,25 Tsd. €,VfB Eichstätt,2021
+Teoman Akmestanli,LB,20,100 Tsd. €,VfB Eichstätt,2021
+Dominik N'gatie,LB,22,75 Tsd. €,VfB Eichstätt,2021
+Florian Lamprecht,LB,26,75 Tsd. €,VfB Eichstätt,2021
+Luca Oehler,LB,21,25 Tsd. €,VfB Eichstätt,2021
+Johannes Mayer,LB,20,10 Tsd. €,VfB Eichstätt,2021
+Ralf Schröder,RB,25,25 Tsd. €,VfB Eichstätt,2021
+Johannes Fiedler,CDM,20,50 Tsd. €,VfB Eichstätt,2021
+Sebastian Graßl,CDM,26,50 Tsd. €,VfB Eichstätt,2021
+Jonas Halbmeyer,CDM,25,25 Tsd. €,VfB Eichstätt,2021
+Jonas Fries,CM,25,75 Tsd. €,VfB Eichstätt,2021
+Fabio Pirner,CM,21,50 Tsd. €,VfB Eichstätt,2021
+Hakki Yildiz,CM,26,-,VfB Eichstätt,2021
+Christian Heinloth,RM,25,25 Tsd. €,VfB Eichstätt,2021
+Philipp Federl,CAM,30,75 Tsd. €,VfB Eichstätt,2021
+Tobias Stoßberger,RW,22,25 Tsd. €,VfB Eichstätt,2021
+Julian Kügel,ST,25,100 Tsd. €,VfB Eichstätt,2021
+Fabian Neumayer,ST,24,25 Tsd. €,VfB Eichstätt,2021
+Marcel Jasmann,ST,22,10 Tsd. €,VfB Eichstätt,2021
+Thomas Selz,ST,27,10 Tsd. €,VfB Eichstätt,2021
+Florian Grau,ST,35,-,VfB Eichstätt,2021
+Selcuk Cinar,ST,26,-,VfB Eichstätt,2021
+Felix Junghan,GK,29,75 Tsd. €,VfB Eichstätt,2022
+Florian Rauh,GK,25,10 Tsd. €,VfB Eichstätt,2022
+Christos Patsiouras,GK,36,10 Tsd. €,VfB Eichstätt,2022
+Max Dörfler,GK,31,-,VfB Eichstätt,2022
+Tim Teicher,GK,18,-,VfB Eichstätt,2022
+Alexander Moratz,CB,24,50 Tsd. €,VfB Eichstätt,2022
+Markus Waffler,CB,26,50 Tsd. €,VfB Eichstätt,2022
+Luka Trslic,CB,22,50 Tsd. €,VfB Eichstätt,2022
+Emanuel Gstettner,CB,22,25 Tsd. €,VfB Eichstätt,2022
+Johannes Kraus,CB,23,10 Tsd. €,VfB Eichstätt,2022
+Leo Eberle,CB,17,-,VfB Eichstätt,2022
+Florian Lamprecht,LB,27,75 Tsd. €,VfB Eichstätt,2022
+Luca Oehler,LB,22,10 Tsd. €,VfB Eichstätt,2022
+Johannes Mayer,LB,21,10 Tsd. €,VfB Eichstätt,2022
+Dominik Wolfsteiner,RB,29,50 Tsd. €,VfB Eichstätt,2022
+Johannes Golla,RB,27,50 Tsd. €,VfB Eichstätt,2022
+Sebastian Graßl,CDM,27,75 Tsd. €,VfB Eichstätt,2022
+Johannes Fiedler,CDM,21,25 Tsd. €,VfB Eichstätt,2022
+Jonas Halbmeyer,CDM,26,25 Tsd. €,VfB Eichstätt,2022
+Philippe Bauer,Midfielder,19,-,VfB Eichstätt,2022
+Fabio Pirner,CM,22,75 Tsd. €,VfB Eichstätt,2022
+Jonas Fries,CM,26,25 Tsd. €,VfB Eichstätt,2022
+Daniel Haubner,CAM,24,100 Tsd. €,VfB Eichstätt,2022
+Philipp Federl,CAM,31,75 Tsd. €,VfB Eichstätt,2022
+Timo Meixner,LW,22,25 Tsd. €,VfB Eichstätt,2022
+Tobias Stoßberger,RW,23,25 Tsd. €,VfB Eichstätt,2022
+Deniz Erten,RW,22,10 Tsd. €,VfB Eichstätt,2022
+Mälek Amdouni,RW,22,-,VfB Eichstätt,2022
+Julian Kügel,ST,26,100 Tsd. €,VfB Eichstätt,2022
+Fabian Eberle,ST,34,50 Tsd. €,VfB Eichstätt,2022
+Florian Grau,ST,36,-,VfB Eichstätt,2022
+Fabian Neumayer,ST,25,-,VfB Eichstätt,2022
+Max Dörfler,GK,32,-,VfB Eichstätt,2023
+Tim Teicher,GK,19,-,VfB Eichstätt,2023
+Manuel Jurkic,GK,24,-,VfB Eichstätt,2023
+Nikolai Sauernheimer,GK,23,-,VfB Eichstätt,2023
+Phillip Böhm,GK,22,-,VfB Eichstätt,2023
+Tobias Vollnhals,CB,20,-,VfB Eichstätt,2023
+Ferdinand Fischer-Stabauer,CB,18,-,VfB Eichstätt,2023
+Johannis Zimmermann,CB,20,-,VfB Eichstätt,2023
+Leo Eberle,CB,18,-,VfB Eichstätt,2023
+Florian Lamprecht,LB,28,-,VfB Eichstätt,2023
+Johannes Mayer,LB,22,-,VfB Eichstätt,2023
+Dominik Wolfsteiner,RB,30,-,VfB Eichstätt,2023
+Johannes Fiedler,CDM,22,-,VfB Eichstätt,2023
+Jonas Halbmeyer,CDM,27,-,VfB Eichstätt,2023
+Pascal Schittler,Midfielder,25,-,VfB Eichstätt,2023
+Leon Lauber,Midfielder,18,-,VfB Eichstätt,2023
+Julian Hollinger,Midfielder,27,-,VfB Eichstätt,2023
+Senih Fazlji,Midfielder,20,-,VfB Eichstätt,2023
+Ferat Nitaj,Midfielder,22,-,VfB Eichstätt,2023
+Siegfried Kübler,Midfielder,19,-,VfB Eichstätt,2023
+Jonas Fries,CM,27,-,VfB Eichstätt,2023
+Lucas Schraufstetter,CAM,29,-,VfB Eichstätt,2023
+Nik Leipold,CAM,19,-,VfB Eichstätt,2023
+Timo Meixner,LW,23,-,VfB Eichstätt,2023
+Elias Herger,RW,20,-,VfB Eichstätt,2023
+Florian Grau,ST,37,-,VfB Eichstätt,2023
+Fabian Eberle,ST,35,-,VfB Eichstätt,2023
+Marcel Jasmann,ST,24,-,VfB Eichstätt,2023
+Christoph Hollinger,ST,25,-,VfB Eichstätt,2023
+Yannis Herger,ST,20,-,VfB Eichstätt,2023
+Timo Weglehner,ST,23,-,VfB Eichstätt,2023
+Luka Brudtloff,ST,21,-,VfB Eichstätt,2023
+Felix Junghan,GK,31,-,VfB Eichstätt,2024
+Nikolai Sauernheimer,GK,,-,VfB Eichstätt,2024
+Marlon Roth,GK,,-,VfB Eichstätt,2024
+Bastian Bösl,CB,27,-,VfB Eichstätt,2024
+Luca Ruiu,CB,21,-,VfB Eichstätt,2024
+Johannis Zimmermann,CB,,-,VfB Eichstätt,2024
+Arif Ekin,LB,29,-,VfB Eichstätt,2024
+Florian Lamprecht,LB,29,-,VfB Eichstätt,2024
+Johannes Mayer,LB,23,-,VfB Eichstätt,2024
+Jonas Perconti,RB,,-,VfB Eichstätt,2024
+Pascal Schittler,Midfielder,26,-,VfB Eichstätt,2024
+Senih Fazlji,Midfielder,,-,VfB Eichstätt,2024
+Ferat Nitaj,Midfielder,,-,VfB Eichstätt,2024
+Evgeniy Belousov,Midfielder,,-,VfB Eichstätt,2024
+Jonas Fries,CM,28,-,VfB Eichstätt,2024
+Daniel Hofrichter,CM,,-,VfB Eichstätt,2024
+Lucas Schraufstetter,CAM,30,-,VfB Eichstätt,2024
+Nik Leipold,CAM,,-,VfB Eichstätt,2024
+Paul Massari,CAM,,-,VfB Eichstätt,2024
+Timo Meixner,LW,23,-,VfB Eichstätt,2024
+Elias Herger,RW,,-,VfB Eichstätt,2024
+Darko Lukic,ST,22,-,VfB Eichstätt,2024
+Jan Zimmermann,ST,,-,VfB Eichstätt,2024
+Domenic Raimann,ST,,-,VfB Eichstätt,2024
+Timo Jung,ST,,-,VfB Eichstätt,2024

@@ -1,0 +1,336 @@
+name,position,age,value,team,season
+Holger Betz,GK,37,-,SSV Ulm 1846,2014
+Marian Fedor,GK,34,-,SSV Ulm 1846,2014
+Jonas Gebauer,GK,20,-,SSV Ulm 1846,2014
+Stefan Hess,CB,25,-,SSV Ulm 1846,2014
+Benjamin Sturm,CB,27,-,SSV Ulm 1846,2014
+Olcay Kücük,CB,21,-,SSV Ulm 1846,2014
+Elias Weichler,LB,21,-,SSV Ulm 1846,2014
+Markus Hain,LB,18,-,SSV Ulm 1846,2014
+Antonio Pangallo,RB,25,-,SSV Ulm 1846,2014
+Johannes Ludmann,RB,24,-,SSV Ulm 1846,2014
+Mario Laubmeier,Midfielder,22,-,SSV Ulm 1846,2014
+Max Bachl-Staudinger,CDM,24,-,SSV Ulm 1846,2014
+Robert Henning,CDM,29,-,SSV Ulm 1846,2014
+Fabian Herbst,Midfielder,21,-,SSV Ulm 1846,2014
+Marco Kurz,Midfielder,19,-,SSV Ulm 1846,2014
+Miguel Malheiro,Midfielder,18,-,SSV Ulm 1846,2014
+Timo Barwan,Midfielder,21,-,SSV Ulm 1846,2014
+Florian Peruzzi,RM,27,-,SSV Ulm 1846,2014
+Denis Werner,RM,22,-,SSV Ulm 1846,2014
+Maurice Strobel,RM,19,-,SSV Ulm 1846,2014
+Aleksei Ivanov,RM,19,-,SSV Ulm 1846,2014
+Manuel Hegen,LM,22,-,SSV Ulm 1846,2014
+Burak Çoban,LW,20,-,SSV Ulm 1846,2014
+Halil Hajtic,RW,21,25 Tsd. €,SSV Ulm 1846,2014
+Pascal Maier,RW,17,-,SSV Ulm 1846,2014
+Bastian Heidecker,Second Striker,32,-,SSV Ulm 1846,2014
+David Braig,ST,23,-,SSV Ulm 1846,2014
+Serdar Özkaya,ST,24,-,SSV Ulm 1846,2014
+Holger Betz,GK,38,-,SSV Ulm 1846,2015
+Marian Fedor,GK,35,-,SSV Ulm 1846,2015
+Felix-Adrian Körber,GK,23,-,SSV Ulm 1846,2015
+Stefan Hess,CB,26,-,SSV Ulm 1846,2015
+Benjamin Sturm,CB,28,-,SSV Ulm 1846,2015
+Florian Krebs,CB,27,-,SSV Ulm 1846,2015
+Manuel Evens,CB,23,-,SSV Ulm 1846,2015
+Michael Passer,CB,29,-,SSV Ulm 1846,2015
+Olcay Kücük,CB,22,-,SSV Ulm 1846,2015
+Kai Wagner,LB,19,-,SSV Ulm 1846,2015
+Markus Hain,LB,19,-,SSV Ulm 1846,2015
+Antonio Pangallo,RB,26,-,SSV Ulm 1846,2015
+Robert Henning,CDM,30,-,SSV Ulm 1846,2015
+Marco Hahn,CDM,23,-,SSV Ulm 1846,2015
+Miguel Malheiro,Midfielder,19,-,SSV Ulm 1846,2015
+Timo Barwan,Midfielder,22,-,SSV Ulm 1846,2015
+Felix Hörger,CM,25,-,SSV Ulm 1846,2015
+Denis Werner,RM,23,-,SSV Ulm 1846,2015
+Alper Bagceci,RM,32,-,SSV Ulm 1846,2015
+Manuel Hegen,LM,23,-,SSV Ulm 1846,2015
+Gianluca D'Onofrio,CAM,19,-,SSV Ulm 1846,2015
+Burak Çoban,LW,21,-,SSV Ulm 1846,2015
+Bastian Heidecker,Second Striker,33,-,SSV Ulm 1846,2015
+Serdar Özkaya,ST,25,-,SSV Ulm 1846,2015
+Pascal Reinhardt,ST,23,-,SSV Ulm 1846,2015
+David Braig,ST,24,-,SSV Ulm 1846,2015
+Alexander Cvijanovic,ST,21,-,SSV Ulm 1846,2015
+Antonio Carfagna,ST,19,-,SSV Ulm 1846,2015
+Gioacchino Colletti,ST,31,-,SSV Ulm 1846,2015
+Kevin Birk,GK,25,100 Tsd. €,SSV Ulm 1846,2016
+Holger Betz,GK,39,25 Tsd. €,SSV Ulm 1846,2016
+Mustafa Özhitay,GK,21,25 Tsd. €,SSV Ulm 1846,2016
+Maximilian Böck,GK,18,-,SSV Ulm 1846,2016
+Benjamin Sturm,CB,29,100 Tsd. €,SSV Ulm 1846,2016
+Florian Krebs,CB,28,100 Tsd. €,SSV Ulm 1846,2016
+Johannes Reichert,CB,25,100 Tsd. €,SSV Ulm 1846,2016
+Olcay Kücük,CB,23,50 Tsd. €,SSV Ulm 1846,2016
+Tim Göhlert,CB,32,-,SSV Ulm 1846,2016
+Lennart Ruther,CB,19,-,SSV Ulm 1846,2016
+Pierre Fassnacht,LB,21,100 Tsd. €,SSV Ulm 1846,2016
+Claus Bückle,LB,30,-,SSV Ulm 1846,2016
+Tino Bradara,RB,19,25 Tsd. €,SSV Ulm 1846,2016
+Antonio Pangallo,RB,27,25 Tsd. €,SSV Ulm 1846,2016
+Vinko Sapina,CDM,22,100 Tsd. €,SSV Ulm 1846,2016
+Christian Sauter,CDM,29,100 Tsd. €,SSV Ulm 1846,2016
+Fabian Gondorf,CDM,21,50 Tsd. €,SSV Ulm 1846,2016
+Volkan Celiktas,CDM,21,50 Tsd. €,SSV Ulm 1846,2016
+Timo Barwan,Midfielder,23,25 Tsd. €,SSV Ulm 1846,2016
+Lukas Glade,Midfielder,18,-,SSV Ulm 1846,2016
+Felix Nierichlo,CM,24,75 Tsd. €,SSV Ulm 1846,2016
+Felix Hörger,CM,26,25 Tsd. €,SSV Ulm 1846,2016
+Alper Bagceci,RM,33,75 Tsd. €,SSV Ulm 1846,2016
+Marco Koch,RM,21,50 Tsd. €,SSV Ulm 1846,2016
+Denis Werner,RM,24,-,SSV Ulm 1846,2016
+Luca Graciotti,LM,24,75 Tsd. €,SSV Ulm 1846,2016
+Ndriqim Halili,CAM,24,25 Tsd. €,SSV Ulm 1846,2016
+Gianluca D'Onofrio,CAM,20,-,SSV Ulm 1846,2016
+Stjepan Saric,LW,19,25 Tsd. €,SSV Ulm 1846,2016
+Deniz Bihr,LW,18,-,SSV Ulm 1846,2016
+Pascal Reinhardt,ST,24,200 Tsd. €,SSV Ulm 1846,2016
+Thomas Rathgeber,ST,32,100 Tsd. €,SSV Ulm 1846,2016
+David Braig,ST,25,100 Tsd. €,SSV Ulm 1846,2016
+Janik Michel,ST,24,50 Tsd. €,SSV Ulm 1846,2016
+Holger Betz,GK,40,50 Tsd. €,SSV Ulm 1846,2017
+Kevin Birk,GK,26,50 Tsd. €,SSV Ulm 1846,2017
+Mustafa Özhitay,GK,22,25 Tsd. €,SSV Ulm 1846,2017
+Michael Schindele,CB,24,125 Tsd. €,SSV Ulm 1846,2017
+Florian Krebs,CB,29,100 Tsd. €,SSV Ulm 1846,2017
+Johannes Reichert,CB,26,100 Tsd. €,SSV Ulm 1846,2017
+Tim Göhlert,CB,33,75 Tsd. €,SSV Ulm 1846,2017
+Olcay Kücük,CB,24,50 Tsd. €,SSV Ulm 1846,2017
+Marco Roschmann,CB,18,-,SSV Ulm 1846,2017
+David Kammerbauer,LB,21,50 Tsd. €,SSV Ulm 1846,2017
+Georgios Manolakis,LB,19,25 Tsd. €,SSV Ulm 1846,2017
+Tino Bradara,RB,20,75 Tsd. €,SSV Ulm 1846,2017
+Marcel Schmidts,RB,24,25 Tsd. €,SSV Ulm 1846,2017
+Luigi Campagna,CDM,28,100 Tsd. €,SSV Ulm 1846,2017
+Christian Sauter,CDM,30,100 Tsd. €,SSV Ulm 1846,2017
+Volkan Celiktas,CDM,22,75 Tsd. €,SSV Ulm 1846,2017
+Fabian Gondorf,CDM,22,50 Tsd. €,SSV Ulm 1846,2017
+Vinko Sapina,CDM,23,50 Tsd. €,SSV Ulm 1846,2017
+Lukas Glade,Midfielder,19,25 Tsd. €,SSV Ulm 1846,2017
+Felix Nierichlo,CM,25,75 Tsd. €,SSV Ulm 1846,2017
+Alper Bagceci,RM,34,75 Tsd. €,SSV Ulm 1846,2017
+Luca Graciotti,LM,25,75 Tsd. €,SSV Ulm 1846,2017
+Marcel Schmitt,CAM,20,25 Tsd. €,SSV Ulm 1846,2017
+Stjepan Saric,LW,20,25 Tsd. €,SSV Ulm 1846,2017
+Deniz Bihr,LW,19,-,SSV Ulm 1846,2017
+Enis Küley,RW,20,50 Tsd. €,SSV Ulm 1846,2017
+Mërgim Neziri,ST,25,125 Tsd. €,SSV Ulm 1846,2017
+Thomas Rathgeber,ST,33,100 Tsd. €,SSV Ulm 1846,2017
+Ardian Morina,ST,24,100 Tsd. €,SSV Ulm 1846,2017
+David Braig,ST,26,100 Tsd. €,SSV Ulm 1846,2017
+Steffen Kienle,ST,23,100 Tsd. €,SSV Ulm 1846,2017
+Janik Michel,ST,25,-,SSV Ulm 1846,2017
+Christian Ortag,GK,24,100 Tsd. €,SSV Ulm 1846,2018
+David Hundertmark,GK,21,50 Tsd. €,SSV Ulm 1846,2018
+Jerome Weisheit,GK,20,25 Tsd. €,SSV Ulm 1846,2018
+Michael Schindele,CB,25,125 Tsd. €,SSV Ulm 1846,2018
+Florian Krebs,CB,30,100 Tsd. €,SSV Ulm 1846,2018
+Johannes Reichert,CB,27,100 Tsd. €,SSV Ulm 1846,2018
+Nico Gutjahr,CB,26,100 Tsd. €,SSV Ulm 1846,2018
+Lukas Hoffmann,CB,22,75 Tsd. €,SSV Ulm 1846,2018
+David Kammerbauer,LB,22,50 Tsd. €,SSV Ulm 1846,2018
+Georgios Manolakis,LB,20,25 Tsd. €,SSV Ulm 1846,2018
+Lennart Stoll,RB,23,100 Tsd. €,SSV Ulm 1846,2018
+Tino Bradara,RB,21,75 Tsd. €,SSV Ulm 1846,2018
+Marcel Schmidts,RB,25,75 Tsd. €,SSV Ulm 1846,2018
+Luigi Campagna,CDM,29,100 Tsd. €,SSV Ulm 1846,2018
+Vinko Sapina,CDM,24,50 Tsd. €,SSV Ulm 1846,2018
+Felix Nierichlo,CM,26,75 Tsd. €,SSV Ulm 1846,2018
+Albano Gashi,CM,24,50 Tsd. €,SSV Ulm 1846,2018
+Alper Bagceci,RM,35,25 Tsd. €,SSV Ulm 1846,2018
+Adrian Beck,CAM,22,100 Tsd. €,SSV Ulm 1846,2018
+Marcel Schmitt,CAM,21,25 Tsd. €,SSV Ulm 1846,2018
+Aron Viventi,LW,22,50 Tsd. €,SSV Ulm 1846,2018
+Nicolas Jann,LW,27,25 Tsd. €,SSV Ulm 1846,2018
+Ardian Morina,ST,25,125 Tsd. €,SSV Ulm 1846,2018
+David Braig,ST,27,100 Tsd. €,SSV Ulm 1846,2018
+Steffen Kienle,ST,24,100 Tsd. €,SSV Ulm 1846,2018
+Vitaliy Lux,ST,30,100 Tsd. €,SSV Ulm 1846,2018
+Thomas Rathgeber,ST,34,75 Tsd. €,SSV Ulm 1846,2018
+Kai Luibrand,ST,25,25 Tsd. €,SSV Ulm 1846,2018
+Felix Higl,ST,22,25 Tsd. €,SSV Ulm 1846,2018
+Niclas Heimann,GK,29,150 Tsd. €,SSV Ulm 1846,2019
+Christian Ortag,GK,25,125 Tsd. €,SSV Ulm 1846,2019
+David Hundertmark,GK,22,50 Tsd. €,SSV Ulm 1846,2019
+Jerome Weisheit,GK,21,25 Tsd. €,SSV Ulm 1846,2019
+Marvin Seybold,GK,18,-,SSV Ulm 1846,2019
+Thomas Geyer,CB,29,200 Tsd. €,SSV Ulm 1846,2019
+Johannes Reichert,CB,28,100 Tsd. €,SSV Ulm 1846,2019
+Nico Gutjahr,CB,27,100 Tsd. €,SSV Ulm 1846,2019
+Florian Krebs,CB,31,75 Tsd. €,SSV Ulm 1846,2019
+Lukas Hoffmann,CB,23,75 Tsd. €,SSV Ulm 1846,2019
+Michael Heilig,CB,21,25 Tsd. €,SSV Ulm 1846,2019
+Michael Schindele,CB,26,-,SSV Ulm 1846,2019
+Angelo Rinaldi,LB,22,75 Tsd. €,SSV Ulm 1846,2019
+Marcel Schmidts,RB,26,100 Tsd. €,SSV Ulm 1846,2019
+Lennart Stoll,RB,24,100 Tsd. €,SSV Ulm 1846,2019
+Jonas Kehl,RB,19,-,SSV Ulm 1846,2019
+Vinko Sapina,CDM,25,75 Tsd. €,SSV Ulm 1846,2019
+Timo Baier,Midfielder,18,-,SSV Ulm 1846,2019
+Robin Heußer,CM,22,100 Tsd. €,SSV Ulm 1846,2019
+Albano Gashi,CM,25,100 Tsd. €,SSV Ulm 1846,2019
+Lukas Lämmel,CM,22,75 Tsd. €,SSV Ulm 1846,2019
+Adrian Beck,CAM,23,100 Tsd. €,SSV Ulm 1846,2019
+Alessandro Abruscia,CAM,29,100 Tsd. €,SSV Ulm 1846,2019
+Gökalp Kilic,CAM,20,75 Tsd. €,SSV Ulm 1846,2019
+Burak Çoban,LW,25,125 Tsd. €,SSV Ulm 1846,2019
+Nicolas Jann,LW,28,75 Tsd. €,SSV Ulm 1846,2019
+Anton Fink,Second Striker,32,300 Tsd. €,SSV Ulm 1846,2019
+Tobias Rühle,ST,29,225 Tsd. €,SSV Ulm 1846,2019
+Ardian Morina,ST,26,125 Tsd. €,SSV Ulm 1846,2019
+Haris Hyseni,ST,27,100 Tsd. €,SSV Ulm 1846,2019
+Felix Higl,ST,23,100 Tsd. €,SSV Ulm 1846,2019
+Steffen Kienle,ST,25,75 Tsd. €,SSV Ulm 1846,2019
+David Braig,ST,28,-,SSV Ulm 1846,2019
+Vitaliy Lux,ST,31,-,SSV Ulm 1846,2019
+Maximilian Reule,GK,27,125 Tsd. €,SSV Ulm 1846,2020
+Niclas Heimann,GK,30,125 Tsd. €,SSV Ulm 1846,2020
+Christian Ortag,GK,26,50 Tsd. €,SSV Ulm 1846,2020
+Marvin Seybold,GK,19,25 Tsd. €,SSV Ulm 1846,2020
+Thomas Geyer,CB,30,175 Tsd. €,SSV Ulm 1846,2020
+Johannes Reichert,CB,29,150 Tsd. €,SSV Ulm 1846,2020
+Florian Krebs,CB,32,50 Tsd. €,SSV Ulm 1846,2020
+Michael Heilig,CB,22,50 Tsd. €,SSV Ulm 1846,2020
+Angelo Rinaldi,LB,23,75 Tsd. €,SSV Ulm 1846,2020
+Lennart Stoll,RB,25,125 Tsd. €,SSV Ulm 1846,2020
+Marcel Schmidts,RB,27,100 Tsd. €,SSV Ulm 1846,2020
+Jonas Kehl,RB,20,100 Tsd. €,SSV Ulm 1846,2020
+Vinko Sapina,CDM,26,150 Tsd. €,SSV Ulm 1846,2020
+Timo Baier,Midfielder,19,25 Tsd. €,SSV Ulm 1846,2020
+Robin Heußer,CM,23,125 Tsd. €,SSV Ulm 1846,2020
+Albano Gashi,CM,26,75 Tsd. €,SSV Ulm 1846,2020
+Lukas Kiefer,CM,28,25 Tsd. €,SSV Ulm 1846,2020
+Alessandro Abruscia,CAM,30,150 Tsd. €,SSV Ulm 1846,2020
+Adrian Beck,CAM,24,125 Tsd. €,SSV Ulm 1846,2020
+Gökalp Kilic,CAM,21,50 Tsd. €,SSV Ulm 1846,2020
+Jannik Rochelt,LW,22,150 Tsd. €,SSV Ulm 1846,2020
+Burak Çoban,LW,26,125 Tsd. €,SSV Ulm 1846,2020
+Nicolas Jann,LW,29,100 Tsd. €,SSV Ulm 1846,2020
+Daniele Gabriele,Second Striker,26,175 Tsd. €,SSV Ulm 1846,2020
+Anton Fink,Second Striker,33,100 Tsd. €,SSV Ulm 1846,2020
+Tobias Rühle,ST,30,175 Tsd. €,SSV Ulm 1846,2020
+Felix Higl,ST,24,150 Tsd. €,SSV Ulm 1846,2020
+Steffen Kienle,ST,26,100 Tsd. €,SSV Ulm 1846,2020
+Ardian Morina,ST,27,100 Tsd. €,SSV Ulm 1846,2020
+Niclas Heimann,GK,31,75 Tsd. €,SSV Ulm 1846,2021
+Christian Ortag,GK,27,75 Tsd. €,SSV Ulm 1846,2021
+Marvin Seybold,GK,20,25 Tsd. €,SSV Ulm 1846,2021
+Thomas Geyer,CB,31,175 Tsd. €,SSV Ulm 1846,2021
+Johannes Reichert,CB,30,150 Tsd. €,SSV Ulm 1846,2021
+Hendrik Hansen,CB,27,100 Tsd. €,SSV Ulm 1846,2021
+Roman Reinelt,CB,19,75 Tsd. €,SSV Ulm 1846,2021
+Milan Petrovic,CB,19,75 Tsd. €,SSV Ulm 1846,2021
+Michael Heilig,CB,23,75 Tsd. €,SSV Ulm 1846,2021
+Cedric Guarino,LB,23,75 Tsd. €,SSV Ulm 1846,2021
+Lennart Stoll,RB,26,125 Tsd. €,SSV Ulm 1846,2021
+Bastian Allgeier,RB,20,100 Tsd. €,SSV Ulm 1846,2021
+Jonas Kehl,RB,21,75 Tsd. €,SSV Ulm 1846,2021
+Marcel Schmidts,RB,28,50 Tsd. €,SSV Ulm 1846,2021
+Ali-Bey Yilmaz,RB,18,-,SSV Ulm 1846,2021
+Philipp Maier,CDM,28,100 Tsd. €,SSV Ulm 1846,2021
+Finn Paul,CDM,17,-,SSV Ulm 1846,2021
+Robin Heußer,CM,24,175 Tsd. €,SSV Ulm 1846,2021
+Lukas Kiefer,CM,29,50 Tsd. €,SSV Ulm 1846,2021
+Aiden Mesias,CM,22,25 Tsd. €,SSV Ulm 1846,2021
+Micha Bareis,RM,19,-,SSV Ulm 1846,2021
+Adrian Beck,CAM,25,200 Tsd. €,SSV Ulm 1846,2021
+Nikolaj Sinik,CAM,19,-,SSV Ulm 1846,2021
+Jannik Rochelt,LW,23,150 Tsd. €,SSV Ulm 1846,2021
+Nicolas Jann,LW,30,125 Tsd. €,SSV Ulm 1846,2021
+Fabian Benko,LW,24,100 Tsd. €,SSV Ulm 1846,2021
+Nicolas Wähling,LW,24,100 Tsd. €,SSV Ulm 1846,2021
+Ronan Kratt,RW,18,-,SSV Ulm 1846,2021
+Anton Fink,Second Striker,34,50 Tsd. €,SSV Ulm 1846,2021
+Phil Harres,ST,20,150 Tsd. €,SSV Ulm 1846,2021
+Tobias Rühle,ST,31,150 Tsd. €,SSV Ulm 1846,2021
+Simon Klostermann,ST,22,125 Tsd. €,SSV Ulm 1846,2021
+Ardian Morina,ST,28,50 Tsd. €,SSV Ulm 1846,2021
+Levin Kundruweit,ST,20,25 Tsd. €,SSV Ulm 1846,2021
+Lukas Sonnenwald,ST,19,-,SSV Ulm 1846,2021
+Batuhan Dikmen,ST,19,-,SSV Ulm 1846,2021
+Christian Ortag,GK,28,150 Tsd. €,SSV Ulm 1846,2022
+Lorenz Otto,GK,22,50 Tsd. €,SSV Ulm 1846,2022
+Marvin Seybold,GK,21,25 Tsd. €,SSV Ulm 1846,2022
+Thomas Geyer,CB,32,175 Tsd. €,SSV Ulm 1846,2022
+Johannes Reichert,CB,31,150 Tsd. €,SSV Ulm 1846,2022
+Lamar Yarbrough,CB,27,150 Tsd. €,SSV Ulm 1846,2022
+Hendrik Hansen,CB,28,75 Tsd. €,SSV Ulm 1846,2022
+Stefan Ilic,CB,20,50 Tsd. €,SSV Ulm 1846,2022
+David Grözinger,LB,24,150 Tsd. €,SSV Ulm 1846,2022
+Romario Rösch,LB,23,150 Tsd. €,SSV Ulm 1846,2022
+Bastian Allgeier,RB,21,125 Tsd. €,SSV Ulm 1846,2022
+Lennart Stoll,RB,27,125 Tsd. €,SSV Ulm 1846,2022
+Marcel Schmidts,RB,29,100 Tsd. €,SSV Ulm 1846,2022
+Philipp Maier,CDM,29,150 Tsd. €,SSV Ulm 1846,2022
+Lukas Ahrend,CDM,23,125 Tsd. €,SSV Ulm 1846,2022
+Finn Paul,CDM,18,25 Tsd. €,SSV Ulm 1846,2022
+Andreas Ludwig,CM,32,150 Tsd. €,SSV Ulm 1846,2022
+Marco Hingerl,CM,27,100 Tsd. €,SSV Ulm 1846,2022
+Moritz Hannemann,CAM,25,125 Tsd. €,SSV Ulm 1846,2022
+Christoph Maier,CAM,23,100 Tsd. €,SSV Ulm 1846,2022
+Nicolas Jann,LW,31,150 Tsd. €,SSV Ulm 1846,2022
+Dennis De Sousa Oelsner,LW,27,75 Tsd. €,SSV Ulm 1846,2022
+Dennis Chessa,RW,30,150 Tsd. €,SSV Ulm 1846,2022
+Lucas Röser,ST,29,200 Tsd. €,SSV Ulm 1846,2022
+Tobias Rühle,ST,32,125 Tsd. €,SSV Ulm 1846,2022
+Simon Klostermann,ST,23,100 Tsd. €,SSV Ulm 1846,2022
+Patrick Dulleck,ST,33,100 Tsd. €,SSV Ulm 1846,2022
+Christian Ortag,GK,29,300 Tsd. €,SSV Ulm 1846,2023
+Lorenz Otto,GK,23,75 Tsd. €,SSV Ulm 1846,2023
+Marvin Seybold,GK,22,25 Tsd. €,SSV Ulm 1846,2023
+Tom Gaal,CB,23,450 Tsd. €,SSV Ulm 1846,2023
+Philipp Strompf,CB,26,350 Tsd. €,SSV Ulm 1846,2023
+Lamar Yarbrough,CB,28,250 Tsd. €,SSV Ulm 1846,2023
+Johannes Reichert,CB,32,225 Tsd. €,SSV Ulm 1846,2023
+Thomas Geyer,CB,33,150 Tsd. €,SSV Ulm 1846,2023
+Romario Rösch,LB,24,300 Tsd. €,SSV Ulm 1846,2023
+Sascha Risch,LB,24,150 Tsd. €,SSV Ulm 1846,2023
+David Grözinger,LB,25,100 Tsd. €,SSV Ulm 1846,2023
+Bastian Allgeier,RB,22,300 Tsd. €,SSV Ulm 1846,2023
+Lennart Stoll,RB,28,250 Tsd. €,SSV Ulm 1846,2023
+Ben Emci,RB,19,-,SSV Ulm 1846,2023
+Philipp Maier,CDM,30,400 Tsd. €,SSV Ulm 1846,2023
+Lukas Ahrend,CDM,24,225 Tsd. €,SSV Ulm 1846,2023
+Max Brandt,CM,23,500 Tsd. €,SSV Ulm 1846,2023
+Andreas Ludwig,CM,33,125 Tsd. €,SSV Ulm 1846,2023
+Niklas Ströbele,CM,18,-,SSV Ulm 1846,2023
+Julian Kudala,RM,22,125 Tsd. €,SSV Ulm 1846,2023
+Moritz Hannemann,CAM,26,125 Tsd. €,SSV Ulm 1846,2023
+Jonathan Kratz,CAM,18,-,SSV Ulm 1846,2023
+Leo Scienza,LW,25,"1,00 Mio. €",SSV Ulm 1846,2023
+Nicolas Jann,LW,32,150 Tsd. €,SSV Ulm 1846,2023
+Dennis De Sousa Oelsner,LW,28,75 Tsd. €,SSV Ulm 1846,2023
+Artur Degraf,LW,17,-,SSV Ulm 1846,2023
+Dennis Chessa,RW,31,300 Tsd. €,SSV Ulm 1846,2023
+Thomas Kastanaras,ST,21,500 Tsd. €,SSV Ulm 1846,2023
+Felix Higl,ST,27,300 Tsd. €,SSV Ulm 1846,2023
+Lenn Jastremski,ST,23,250 Tsd. €,SSV Ulm 1846,2023
+Lucas Röser,ST,30,200 Tsd. €,SSV Ulm 1846,2023
+Tobias Rühle,ST,33,100 Tsd. €,SSV Ulm 1846,2023
+Niclas Thiede,GK,26,350 Tsd. €,SSV Ulm 1846,2024
+Christian Ortag,GK,30,300 Tsd. €,SSV Ulm 1846,2024
+Marvin Seybold,GK,23,25 Tsd. €,SSV Ulm 1846,2024
+Philipp Strompf,CB,27,500 Tsd. €,SSV Ulm 1846,2024
+Tom Gaal,CB,24,450 Tsd. €,SSV Ulm 1846,2024
+Niklas Kolbe,CB,28,400 Tsd. €,SSV Ulm 1846,2024
+Johannes Reichert,CB,33,225 Tsd. €,SSV Ulm 1846,2024
+Thomas Geyer,CB,34,150 Tsd. €,SSV Ulm 1846,2024
+Romario Rösch,LB,25,450 Tsd. €,SSV Ulm 1846,2024
+Jonathan Meier,LB,25,350 Tsd. €,SSV Ulm 1846,2024
+Bastian Allgeier,RB,23,350 Tsd. €,SSV Ulm 1846,2024
+Lennart Stoll,RB,29,250 Tsd. €,SSV Ulm 1846,2024
+Luka Hyryläinen,CDM,20,"1,80 Mio. €",SSV Ulm 1846,2024
+Max Brandt,CM,23,600 Tsd. €,SSV Ulm 1846,2024
+Dennis Dressel,CM,26,400 Tsd. €,SSV Ulm 1846,2024
+Andreas Ludwig,CM,34,125 Tsd. €,SSV Ulm 1846,2024
+Maurice Krattenmacher,CAM,19,"3,50 Mio. €",SSV Ulm 1846,2024
+Oliver Batista Meier,CAM,24,700 Tsd. €,SSV Ulm 1846,2024
+Robert Leipertz,CAM,32,400 Tsd. €,SSV Ulm 1846,2024
+Aaron Keller,LW,21,800 Tsd. €,SSV Ulm 1846,2024
+Dennis Chessa,RW,32,300 Tsd. €,SSV Ulm 1846,2024
+Semir Telalovic,ST,25,900 Tsd. €,SSV Ulm 1846,2024
+Aleksandar Kahvic,ST,21,500 Tsd. €,SSV Ulm 1846,2024
+Felix Higl,ST,28,350 Tsd. €,SSV Ulm 1846,2024
+Lucas Röser,ST,31,200 Tsd. €,SSV Ulm 1846,2024

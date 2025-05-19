@@ -1,0 +1,392 @@
+name,position,age,value,team,season
+Manuel Neuer,GK,29,"45,00 Mio. €",FC Bayern München,2014
+Pepe Reina,GK,32,"4,00 Mio. €",FC Bayern München,2014
+Tom Starke,GK,34,500 Tsd. €,FC Bayern München,2014
+Leopold Zingerle,GK,21,150 Tsd. €,FC Bayern München,2014
+Ivan Lucic,GK,20,100 Tsd. €,FC Bayern München,2014
+Jérôme Boateng,CB,26,"40,00 Mio. €",FC Bayern München,2014
+David Alaba,CB,23,"38,00 Mio. €",FC Bayern München,2014
+Javi Martínez,CB,26,"30,00 Mio. €",FC Bayern München,2014
+Medhi Benatia,CB,28,"28,00 Mio. €",FC Bayern München,2014
+Dante,CB,31,"11,00 Mio. €",FC Bayern München,2014
+Holger Badstuber,CB,26,"7,50 Mio. €",FC Bayern München,2014
+Juan Bernat,LB,22,"15,00 Mio. €",FC Bayern München,2014
+Philipp Lahm,RB,31,"28,00 Mio. €",FC Bayern München,2014
+Rafinha,RB,29,"9,00 Mio. €",FC Bayern München,2014
+Mitchell Weiser,RB,21,750 Tsd. €,FC Bayern München,2014
+Xabi Alonso,CDM,33,"8,00 Mio. €",FC Bayern München,2014
+Pierre-Emile Højbjerg,CDM,19,"4,00 Mio. €",FC Bayern München,2014
+Gianluca Gaudino,CDM,18,"2,50 Mio. €",FC Bayern München,2014
+Rico Strieder,CDM,22,75 Tsd. €,FC Bayern München,2014
+Bastian Schweinsteiger,CM,30,"28,00 Mio. €",FC Bayern München,2014
+Thiago Alcántara,CM,24,"25,00 Mio. €",FC Bayern München,2014
+Sebastian Rode,CM,24,"9,00 Mio. €",FC Bayern München,2014
+Julian Green,CM,20,"1,50 Mio. €",FC Bayern München,2014
+Lucas Scholl,CM,18,-,FC Bayern München,2014
+Lukas Görtler,RM,21,50 Tsd. €,FC Bayern München,2014
+Mario Götze,CAM,23,"50,00 Mio. €",FC Bayern München,2014
+Xherdan Shaqiri,CAM,23,"18,00 Mio. €",FC Bayern München,2014
+Franck Ribéry,LW,32,"32,00 Mio. €",FC Bayern München,2014
+Sinan Kurt,LW,18,"1,00 Mio. €",FC Bayern München,2014
+Arjen Robben,RW,31,"33,00 Mio. €",FC Bayern München,2014
+Thomas Müller,Second Striker,25,"55,00 Mio. €",FC Bayern München,2014
+Robert Lewandowski,ST,26,"50,00 Mio. €",FC Bayern München,2014
+Claudio Pizarro,ST,36,"1,00 Mio. €",FC Bayern München,2014
+Manuel Neuer,GK,30,"45,00 Mio. €",FC Bayern München,2015
+Sven Ulreich,GK,27,"3,50 Mio. €",FC Bayern München,2015
+Tom Starke,GK,35,300 Tsd. €,FC Bayern München,2015
+Ivan Lucic,GK,21,250 Tsd. €,FC Bayern München,2015
+David Alaba,CB,24,"45,00 Mio. €",FC Bayern München,2015
+Jérôme Boateng,CB,27,"40,00 Mio. €",FC Bayern München,2015
+Javi Martínez,CB,27,"25,00 Mio. €",FC Bayern München,2015
+Medhi Benatia,CB,29,"18,00 Mio. €",FC Bayern München,2015
+Serdar Taşçı,CB,29,"5,00 Mio. €",FC Bayern München,2015
+Dante,CB,32,"3,00 Mio. €",FC Bayern München,2015
+Holger Badstuber,CB,27,"3,00 Mio. €",FC Bayern München,2015
+Juan Bernat,LB,23,"18,00 Mio. €",FC Bayern München,2015
+Phillipp Steinhart,LB,23,150 Tsd. €,FC Bayern München,2015
+Philipp Lahm,RB,32,"16,00 Mio. €",FC Bayern München,2015
+Rafinha,RB,30,"8,00 Mio. €",FC Bayern München,2015
+Joshua Kimmich,CDM,21,"13,00 Mio. €",FC Bayern München,2015
+Pierre-Emile Højbjerg,CDM,20,"6,00 Mio. €",FC Bayern München,2015
+Xabi Alonso,CDM,34,"5,00 Mio. €",FC Bayern München,2015
+Gianluca Gaudino,CDM,19,"2,50 Mio. €",FC Bayern München,2015
+Jan Kirchhoff,CDM,25,"1,50 Mio. €",FC Bayern München,2015
+Arturo Vidal,CM,29,"37,00 Mio. €",FC Bayern München,2015
+Thiago Alcántara,CM,25,"25,00 Mio. €",FC Bayern München,2015
+Sebastian Rode,CM,25,"8,00 Mio. €",FC Bayern München,2015
+Julian Green,CM,21,500 Tsd. €,FC Bayern München,2015
+Mario Götze,CAM,24,"35,00 Mio. €",FC Bayern München,2015
+Patrick Weihrauch,CAM,22,200 Tsd. €,FC Bayern München,2015
+Milos Pantovic,CAM,19,75 Tsd. €,FC Bayern München,2015
+Kingsley Coman,LW,20,"17,00 Mio. €",FC Bayern München,2015
+Franck Ribéry,LW,33,"10,00 Mio. €",FC Bayern München,2015
+Fabian Benko,LW,18,75 Tsd. €,FC Bayern München,2015
+Douglas Costa,RW,25,"35,00 Mio. €",FC Bayern München,2015
+Arjen Robben,RW,32,"20,00 Mio. €",FC Bayern München,2015
+Thomas Müller,Second Striker,26,"75,00 Mio. €",FC Bayern München,2015
+Robert Lewandowski,ST,27,"75,00 Mio. €",FC Bayern München,2015
+Manuel Neuer,GK,31,"40,00 Mio. €",FC Bayern München,2016
+Sven Ulreich,GK,28,"2,00 Mio. €",FC Bayern München,2016
+Tom Starke,GK,36,200 Tsd. €,FC Bayern München,2016
+Leo Weinkauf,GK,20,50 Tsd. €,FC Bayern München,2016
+Mats Hummels,CB,28,"40,00 Mio. €",FC Bayern München,2016
+Jérôme Boateng,CB,28,"38,00 Mio. €",FC Bayern München,2016
+David Alaba,CB,25,"38,00 Mio. €",FC Bayern München,2016
+Javi Martínez,CB,28,"30,00 Mio. €",FC Bayern München,2016
+Medhi Benatia,CB,30,"15,00 Mio. €",FC Bayern München,2016
+Holger Badstuber,CB,28,"2,50 Mio. €",FC Bayern München,2016
+Felix Götze,CB,19,-,FC Bayern München,2016
+Marco Friedl,CB,19,-,FC Bayern München,2016
+Juan Bernat,LB,24,"16,00 Mio. €",FC Bayern München,2016
+Philipp Lahm,RB,33,"11,00 Mio. €",FC Bayern München,2016
+Rafinha,RB,31,"4,50 Mio. €",FC Bayern München,2016
+Joshua Kimmich,CDM,22,"25,00 Mio. €",FC Bayern München,2016
+Xabi Alonso,CDM,35,"3,50 Mio. €",FC Bayern München,2016
+Gianluca Gaudino,CDM,20,"1,25 Mio. €",FC Bayern München,2016
+Nicolas Feldhahn,CDM,30,250 Tsd. €,FC Bayern München,2016
+Niklas Dorsch,CDM,19,200 Tsd. €,FC Bayern München,2016
+Thiago Alcántara,CM,26,"40,00 Mio. €",FC Bayern München,2016
+Arturo Vidal,CM,30,"35,00 Mio. €",FC Bayern München,2016
+Renato Sanches,CM,19,"22,00 Mio. €",FC Bayern München,2016
+Julian Green,CM,22,700 Tsd. €,FC Bayern München,2016
+Erdal Öztürk,CM,21,100 Tsd. €,FC Bayern München,2016
+Raphael Obermair,RM,21,50 Tsd. €,FC Bayern München,2016
+Kingsley Coman,LW,21,"20,00 Mio. €",FC Bayern München,2016
+Franck Ribéry,LW,34,"7,00 Mio. €",FC Bayern München,2016
+Fabian Benko,LW,19,250 Tsd. €,FC Bayern München,2016
+Douglas Costa,RW,26,"30,00 Mio. €",FC Bayern München,2016
+Arjen Robben,RW,33,"10,00 Mio. €",FC Bayern München,2016
+Thomas Müller,Second Striker,27,"50,00 Mio. €",FC Bayern München,2016
+Robert Lewandowski,ST,28,"80,00 Mio. €",FC Bayern München,2016
+Manuel Neuer,GK,32,"35,00 Mio. €",FC Bayern München,2017
+Sven Ulreich,GK,29,"6,00 Mio. €",FC Bayern München,2017
+Christian Früchtl,GK,18,150 Tsd. €,FC Bayern München,2017
+Leo Weinkauf,GK,21,100 Tsd. €,FC Bayern München,2017
+Tom Starke,GK,37,100 Tsd. €,FC Bayern München,2017
+Ron-Thorben Hoffmann,GK,19,-,FC Bayern München,2017
+Mats Hummels,CB,29,"60,00 Mio. €",FC Bayern München,2017
+David Alaba,CB,26,"50,00 Mio. €",FC Bayern München,2017
+Jérôme Boateng,CB,29,"45,00 Mio. €",FC Bayern München,2017
+Javi Martínez,CB,29,"40,00 Mio. €",FC Bayern München,2017
+Niklas Süle,CB,22,"38,00 Mio. €",FC Bayern München,2017
+Marco Friedl,CB,20,"1,50 Mio. €",FC Bayern München,2017
+Lukas Mai,CB,18,600 Tsd. €,FC Bayern München,2017
+Felix Götze,CB,20,200 Tsd. €,FC Bayern München,2017
+Juan Bernat,LB,25,"12,00 Mio. €",FC Bayern München,2017
+Jonathan Meier,LB,18,-,FC Bayern München,2017
+Rafinha,RB,32,"3,50 Mio. €",FC Bayern München,2017
+Joshua Kimmich,CDM,23,"55,00 Mio. €",FC Bayern München,2017
+Sebastian Rudy,CDM,28,"15,00 Mio. €",FC Bayern München,2017
+Niklas Dorsch,CDM,20,400 Tsd. €,FC Bayern München,2017
+Thiago Alcántara,CM,27,"60,00 Mio. €",FC Bayern München,2017
+Corentin Tolisso,CM,23,"40,00 Mio. €",FC Bayern München,2017
+Arturo Vidal,CM,31,"35,00 Mio. €",FC Bayern München,2017
+Renato Sanches,CM,20,"20,00 Mio. €",FC Bayern München,2017
+Timothy Tillman,CM,19,100 Tsd. €,FC Bayern München,2017
+James Rodríguez,CAM,26,"70,00 Mio. €",FC Bayern München,2017
+Milos Pantovic,CAM,21,150 Tsd. €,FC Bayern München,2017
+Meritan Shabani,CAM,19,-,FC Bayern München,2017
+Kingsley Coman,LW,22,"50,00 Mio. €",FC Bayern München,2017
+Franck Ribéry,LW,35,"4,00 Mio. €",FC Bayern München,2017
+Fabian Benko,LW,20,250 Tsd. €,FC Bayern München,2017
+Franck Evina,LW,17,100 Tsd. €,FC Bayern München,2017
+Arjen Robben,RW,34,"7,00 Mio. €",FC Bayern München,2017
+Thomas Müller,Second Striker,28,"60,00 Mio. €",FC Bayern München,2017
+Robert Lewandowski,ST,29,"90,00 Mio. €",FC Bayern München,2017
+Sandro Wagner,ST,30,"12,00 Mio. €",FC Bayern München,2017
+Kwasi Wriedt,ST,23,600 Tsd. €,FC Bayern München,2017
+Manuel Wintzheimer,ST,19,100 Tsd. €,FC Bayern München,2017
+Manuel Neuer,GK,33,"18,00 Mio. €",FC Bayern München,2018
+Sven Ulreich,GK,30,"4,50 Mio. €",FC Bayern München,2018
+Christian Früchtl,GK,19,500 Tsd. €,FC Bayern München,2018
+Ron-Thorben Hoffmann,GK,20,200 Tsd. €,FC Bayern München,2018
+Niklas Süle,CB,23,"60,00 Mio. €",FC Bayern München,2018
+David Alaba,CB,27,"55,00 Mio. €",FC Bayern München,2018
+Mats Hummels,CB,30,"35,00 Mio. €",FC Bayern München,2018
+Javi Martínez,CB,30,"27,00 Mio. €",FC Bayern München,2018
+Jérôme Boateng,CB,30,"20,00 Mio. €",FC Bayern München,2018
+Marco Friedl,CB,21,"2,50 Mio. €",FC Bayern München,2018
+Lukas Mai,CB,19,600 Tsd. €,FC Bayern München,2018
+Juan Bernat,LB,26,"15,00 Mio. €",FC Bayern München,2018
+Alphonso Davies,LB,18,"10,00 Mio. €",FC Bayern München,2018
+Jonathan Meier,LB,19,100 Tsd. €,FC Bayern München,2018
+Rafinha,RB,33,"3,00 Mio. €",FC Bayern München,2018
+Joshua Kimmich,CDM,24,"70,00 Mio. €",FC Bayern München,2018
+Sebastian Rudy,CDM,29,"9,00 Mio. €",FC Bayern München,2018
+Paul Will,CDM,20,125 Tsd. €,FC Bayern München,2018
+Thiago Alcántara,CM,28,"70,00 Mio. €",FC Bayern München,2018
+Leon Goretzka,CM,24,"50,00 Mio. €",FC Bayern München,2018
+Corentin Tolisso,CM,24,"40,00 Mio. €",FC Bayern München,2018
+Renato Sanches,CM,21,"18,00 Mio. €",FC Bayern München,2018
+James Rodríguez,CAM,27,"50,00 Mio. €",FC Bayern München,2018
+Woo-yeong Jeong,CAM,19,"2,00 Mio. €",FC Bayern München,2018
+Meritan Shabani,CAM,20,350 Tsd. €,FC Bayern München,2018
+Serge Gnabry,LW,23,"60,00 Mio. €",FC Bayern München,2018
+Kingsley Coman,LW,23,"50,00 Mio. €",FC Bayern München,2018
+Franck Ribéry,LW,36,"4,00 Mio. €",FC Bayern München,2018
+Arjen Robben,RW,35,"4,00 Mio. €",FC Bayern München,2018
+Thomas Müller,Second Striker,29,"35,00 Mio. €",FC Bayern München,2018
+Robert Lewandowski,ST,30,"65,00 Mio. €",FC Bayern München,2018
+Sandro Wagner,ST,31,"6,00 Mio. €",FC Bayern München,2018
+Manuel Neuer,GK,34,"14,50 Mio. €",FC Bayern München,2019
+Sven Ulreich,GK,31,"3,50 Mio. €",FC Bayern München,2019
+Christian Früchtl,GK,20,525 Tsd. €,FC Bayern München,2019
+Ron-Thorben Hoffmann,GK,21,200 Tsd. €,FC Bayern München,2019
+David Alaba,CB,28,"52,00 Mio. €",FC Bayern München,2019
+Niklas Süle,CB,24,"48,00 Mio. €",FC Bayern München,2019
+Benjamin Pavard,CB,24,"28,00 Mio. €",FC Bayern München,2019
+Javi Martínez,CB,31,"13,00 Mio. €",FC Bayern München,2019
+Jérôme Boateng,CB,31,"12,00 Mio. €",FC Bayern München,2019
+Lukas Mai,CB,20,"2,30 Mio. €",FC Bayern München,2019
+Chris Richards,CB,20,"1,80 Mio. €",FC Bayern München,2019
+Bright Arrey-Mbi,CB,17,-,FC Bayern München,2019
+Lucas Hernández,LB,24,"56,00 Mio. €",FC Bayern München,2019
+Alphonso Davies,LB,19,"45,00 Mio. €",FC Bayern München,2019
+Álvaro Odriozola,RB,24,"16,00 Mio. €",FC Bayern München,2019
+Ryan Johansson,RB,19,50 Tsd. €,FC Bayern München,2019
+Joshua Kimmich,CDM,25,"64,00 Mio. €",FC Bayern München,2019
+Paul Will,CDM,21,250 Tsd. €,FC Bayern München,2019
+Thiago Alcántara,CM,29,"48,00 Mio. €",FC Bayern München,2019
+Leon Goretzka,CM,25,"40,00 Mio. €",FC Bayern München,2019
+Corentin Tolisso,CM,25,"25,50 Mio. €",FC Bayern München,2019
+Renato Sanches,CM,22,"16,00 Mio. €",FC Bayern München,2019
+Michaël Cuisance,CM,20,"8,00 Mio. €",FC Bayern München,2019
+Philippe Coutinho,CAM,28,"56,00 Mio. €",FC Bayern München,2019
+Woo-yeong Jeong,CAM,20,"1,80 Mio. €",FC Bayern München,2019
+Sarpreet Singh,CAM,21,900 Tsd. €,FC Bayern München,2019
+Oliver Batista Meier,CAM,19,900 Tsd. €,FC Bayern München,2019
+Malik Tillman,CAM,18,-,FC Bayern München,2019
+Jamal Musiala,CAM,17,-,FC Bayern München,2019
+Serge Gnabry,LW,24,"72,00 Mio. €",FC Bayern München,2019
+Kingsley Coman,LW,24,"40,00 Mio. €",FC Bayern München,2019
+Ivan Perišić,RW,31,"17,50 Mio. €",FC Bayern München,2019
+Thomas Müller,Second Striker,30,"25,50 Mio. €",FC Bayern München,2019
+Leon Dajaku,Second Striker,19,"2,30 Mio. €",FC Bayern München,2019
+Robert Lewandowski,ST,31,"56,00 Mio. €",FC Bayern München,2019
+Joshua Zirkzee,ST,19,"6,30 Mio. €",FC Bayern München,2019
+Fiete Arp,ST,20,"2,70 Mio. €",FC Bayern München,2019
+Kwasi Wriedt,ST,25,800 Tsd. €,FC Bayern München,2019
+Manuel Neuer,GK,35,"18,00 Mio. €",FC Bayern München,2020
+Alexander Nübel,GK,24,"6,00 Mio. €",FC Bayern München,2020
+Sven Ulreich,GK,32,900 Tsd. €,FC Bayern München,2020
+Ron-Thorben Hoffmann,GK,22,600 Tsd. €,FC Bayern München,2020
+Lukas Schneller,GK,19,200 Tsd. €,FC Bayern München,2020
+David Alaba,CB,29,"55,00 Mio. €",FC Bayern München,2020
+Niklas Süle,CB,25,"35,00 Mio. €",FC Bayern München,2020
+Benjamin Pavard,CB,25,"35,00 Mio. €",FC Bayern München,2020
+Tanguy Nianzou,CB,19,"11,00 Mio. €",FC Bayern München,2020
+Jérôme Boateng,CB,32,"8,50 Mio. €",FC Bayern München,2020
+Chris Richards,CB,21,"7,50 Mio. €",FC Bayern München,2020
+Javi Martínez,CB,32,"5,00 Mio. €",FC Bayern München,2020
+Bright Arrey-Mbi,CB,18,"1,00 Mio. €",FC Bayern München,2020
+Alphonso Davies,LB,20,"70,00 Mio. €",FC Bayern München,2020
+Lucas Hernández,LB,25,"45,00 Mio. €",FC Bayern München,2020
+Rémy Vita,LB,20,"1,00 Mio. €",FC Bayern München,2020
+Alexander Lungwitz,LB,20,250 Tsd. €,FC Bayern München,2020
+Bouna Sarr,RB,29,"4,00 Mio. €",FC Bayern München,2020
+Josip Stanisic,RB,21,400 Tsd. €,FC Bayern München,2020
+Kilian Senkbeil,RB,22,200 Tsd. €,FC Bayern München,2020
+Joshua Kimmich,CDM,26,"90,00 Mio. €",FC Bayern München,2020
+Marc Roca,CDM,24,"10,00 Mio. €",FC Bayern München,2020
+Angelo Stiller,CDM,20,"2,50 Mio. €",FC Bayern München,2020
+Maximilian Zaiser,CDM,22,225 Tsd. €,FC Bayern München,2020
+Leon Goretzka,CM,26,"70,00 Mio. €",FC Bayern München,2020
+Corentin Tolisso,CM,26,"20,00 Mio. €",FC Bayern München,2020
+Michaël Cuisance,CM,21,"7,00 Mio. €",FC Bayern München,2020
+Adrian Fein,CM,22,"4,00 Mio. €",FC Bayern München,2020
+Tiago Dantas,CM,20,"3,00 Mio. €",FC Bayern München,2020
+Jamal Musiala,CAM,18,"38,00 Mio. €",FC Bayern München,2020
+Christopher Scott,CAM,19,"1,20 Mio. €",FC Bayern München,2020
+Malik Tillman,CAM,19,500 Tsd. €,FC Bayern München,2020
+Serge Gnabry,LW,25,"70,00 Mio. €",FC Bayern München,2020
+Kingsley Coman,LW,25,"65,00 Mio. €",FC Bayern München,2020
+Leroy Sané,RW,25,"60,00 Mio. €",FC Bayern München,2020
+Douglas Costa,RW,30,"6,00 Mio. €",FC Bayern München,2020
+Daniels Ontuzans,RW,21,150 Tsd. €,FC Bayern München,2020
+Thomas Müller,Second Striker,31,"30,00 Mio. €",FC Bayern München,2020
+Leon Dajaku,Second Striker,20,"1,80 Mio. €",FC Bayern München,2020
+Armindo Sieb,Second Striker,18,"1,50 Mio. €",FC Bayern München,2020
+Robert Lewandowski,ST,32,"60,00 Mio. €",FC Bayern München,2020
+Joshua Zirkzee,ST,20,"8,00 Mio. €",FC Bayern München,2020
+Eric-Maxim Choupo-Moting,ST,32,"3,50 Mio. €",FC Bayern München,2020
+Fiete Arp,ST,21,800 Tsd. €,FC Bayern München,2020
+Dimitri Oberlin,ST,23,500 Tsd. €,FC Bayern München,2020
+Manuel Neuer,GK,36,"15,00 Mio. €",FC Bayern München,2021
+Sven Ulreich,GK,33,900 Tsd. €,FC Bayern München,2021
+Christian Früchtl,GK,22,600 Tsd. €,FC Bayern München,2021
+Ron-Thorben Hoffmann,GK,23,500 Tsd. €,FC Bayern München,2021
+Dayot Upamecano,CB,23,"40,00 Mio. €",FC Bayern München,2021
+Niklas Süle,CB,26,"35,00 Mio. €",FC Bayern München,2021
+Benjamin Pavard,CB,26,"30,00 Mio. €",FC Bayern München,2021
+Tanguy Nianzou,CB,20,"9,00 Mio. €",FC Bayern München,2021
+Chris Richards,CB,22,"7,50 Mio. €",FC Bayern München,2021
+Bright Arrey-Mbi,CB,19,"1,30 Mio. €",FC Bayern München,2021
+Jamie Lawrence,CB,19,"1,00 Mio. €",FC Bayern München,2021
+Alphonso Davies,LB,21,"70,00 Mio. €",FC Bayern München,2021
+Lucas Hernández,LB,26,"50,00 Mio. €",FC Bayern München,2021
+Omar Richards,LB,24,"7,00 Mio. €",FC Bayern München,2021
+Josip Stanisic,RB,22,"4,00 Mio. €",FC Bayern München,2021
+Bouna Sarr,RB,30,"2,50 Mio. €",FC Bayern München,2021
+Joshua Kimmich,CDM,27,"80,00 Mio. €",FC Bayern München,2021
+Marc Roca,CDM,25,"7,00 Mio. €",FC Bayern München,2021
+Nicolas Feldhahn,CDM,35,125 Tsd. €,FC Bayern München,2021
+Leon Goretzka,CM,27,"65,00 Mio. €",FC Bayern München,2021
+Marcel Sabitzer,CM,28,"15,00 Mio. €",FC Bayern München,2021
+Corentin Tolisso,CM,27,"15,00 Mio. €",FC Bayern München,2021
+Michaël Cuisance,CM,22,"4,00 Mio. €",FC Bayern München,2021
+Timo Kern,CM,32,200 Tsd. €,FC Bayern München,2021
+Nemanja Motika,LM,19,"1,20 Mio. €",FC Bayern München,2021
+Jamal Musiala,CAM,19,"65,00 Mio. €",FC Bayern München,2021
+Paul Wanner,CAM,16,"2,00 Mio. €",FC Bayern München,2021
+Malik Tillman,CAM,20,"1,50 Mio. €",FC Bayern München,2021
+Arijon Ibrahimovic,CAM,16,-,FC Bayern München,2021
+Serge Gnabry,LW,26,"65,00 Mio. €",FC Bayern München,2021
+Kingsley Coman,LW,26,"60,00 Mio. €",FC Bayern München,2021
+Leroy Sané,RW,26,"60,00 Mio. €",FC Bayern München,2021
+Lucas Copado,RW,18,"1,00 Mio. €",FC Bayern München,2021
+Taylor Booth,RW,21,"1,00 Mio. €",FC Bayern München,2021
+Thomas Müller,Second Striker,32,"22,00 Mio. €",FC Bayern München,2021
+Gabriel Vidovic,Second Striker,18,"3,00 Mio. €",FC Bayern München,2021
+Robert Lewandowski,ST,33,"45,00 Mio. €",FC Bayern München,2021
+Eric-Maxim Choupo-Moting,ST,33,"3,00 Mio. €",FC Bayern München,2021
+Manuel Neuer,GK,37,"7,00 Mio. €",FC Bayern München,2022
+Yann Sommer,GK,34,"5,00 Mio. €",FC Bayern München,2022
+Sven Ulreich,GK,34,700 Tsd. €,FC Bayern München,2022
+Johannes Schenk,GK,20,300 Tsd. €,FC Bayern München,2022
+Matthijs de Ligt,CB,23,"75,00 Mio. €",FC Bayern München,2022
+Dayot Upamecano,CB,24,"60,00 Mio. €",FC Bayern München,2022
+Benjamin Pavard,CB,27,"40,00 Mio. €",FC Bayern München,2022
+Tanguy Nianzou,CB,21,"7,50 Mio. €",FC Bayern München,2022
+Daley Blind,CB,33,"3,00 Mio. €",FC Bayern München,2022
+Justin Janitzek,CB,19,500 Tsd. €,FC Bayern München,2022
+Liam Morrison,CB,20,300 Tsd. €,FC Bayern München,2022
+Gabriel Marusic,CB,20,150 Tsd. €,FC Bayern München,2022
+Alphonso Davies,LB,22,"70,00 Mio. €",FC Bayern München,2022
+Lucas Hernández,LB,27,"45,00 Mio. €",FC Bayern München,2022
+João Cancelo,RB,29,"50,00 Mio. €",FC Bayern München,2022
+Noussair Mazraoui,RB,25,"28,00 Mio. €",FC Bayern München,2022
+Josip Stanisic,RB,23,"12,00 Mio. €",FC Bayern München,2022
+Bouna Sarr,RB,31,"2,00 Mio. €",FC Bayern München,2022
+Joshua Kimmich,CDM,28,"75,00 Mio. €",FC Bayern München,2022
+Ryan Gravenberch,CDM,21,"30,00 Mio. €",FC Bayern München,2022
+Aleksandar Pavlovic,CDM,19,-,FC Bayern München,2022
+Leon Goretzka,CM,28,"45,00 Mio. €",FC Bayern München,2022
+Marcel Sabitzer,CM,29,"20,00 Mio. €",FC Bayern München,2022
+Jamal Musiala,CAM,20,"110,00 Mio. €",FC Bayern München,2022
+Paul Wanner,CAM,17,"3,00 Mio. €",FC Bayern München,2022
+Arijon Ibrahimovic,CAM,17,"1,00 Mio. €",FC Bayern München,2022
+Kingsley Coman,LW,27,"65,00 Mio. €",FC Bayern München,2022
+Serge Gnabry,LW,27,"55,00 Mio. €",FC Bayern München,2022
+Sadio Mané,LW,31,"25,00 Mio. €",FC Bayern München,2022
+Leroy Sané,RW,27,"65,00 Mio. €",FC Bayern München,2022
+Thomas Müller,Second Striker,33,"12,00 Mio. €",FC Bayern München,2022
+Gabriel Vidovic,Second Striker,19,"2,50 Mio. €",FC Bayern München,2022
+Mathys Tel,ST,18,"20,00 Mio. €",FC Bayern München,2022
+Joshua Zirkzee,ST,22,"9,00 Mio. €",FC Bayern München,2022
+Eric-Maxim Choupo-Moting,ST,34,"5,00 Mio. €",FC Bayern München,2022
+Manuel Neuer,GK,38,"4,00 Mio. €",FC Bayern München,2023
+Daniel Peretz,GK,23,"3,00 Mio. €",FC Bayern München,2023
+Sven Ulreich,GK,35,700 Tsd. €,FC Bayern München,2023
+Max Schmitt,GK,18,500 Tsd. €,FC Bayern München,2023
+Tom Ritzy Hülsmann,GK,20,250 Tsd. €,FC Bayern München,2023
+Matthijs de Ligt,CB,24,"65,00 Mio. €",FC Bayern München,2023
+Benjamin Pavard,CB,28,"50,00 Mio. €",FC Bayern München,2023
+Dayot Upamecano,CB,25,"45,00 Mio. €",FC Bayern München,2023
+Min-jae Kim,CB,27,"45,00 Mio. €",FC Bayern München,2023
+Eric Dier,CB,30,"12,00 Mio. €",FC Bayern München,2023
+Tarek Buchmann,CB,19,500 Tsd. €,FC Bayern München,2023
+Alphonso Davies,LB,23,"50,00 Mio. €",FC Bayern München,2023
+Raphaël Guerreiro,LB,30,"12,00 Mio. €",FC Bayern München,2023
+Adam Aznou,LB,18,900 Tsd. €,FC Bayern München,2023
+Matteo Pérez Vinlöf,LB,18,600 Tsd. €,FC Bayern München,2023
+Konrad Laimer,RB,27,"30,00 Mio. €",FC Bayern München,2023
+Noussair Mazraoui,RB,26,"30,00 Mio. €",FC Bayern München,2023
+Sacha Boey,RB,23,"18,00 Mio. €",FC Bayern München,2023
+Bouna Sarr,RB,32,"1,50 Mio. €",FC Bayern München,2023
+Max Scholze,RB,19,700 Tsd. €,FC Bayern München,2023
+Joshua Kimmich,CDM,29,"50,00 Mio. €",FC Bayern München,2023
+Ryan Gravenberch,CDM,22,"35,00 Mio. €",FC Bayern München,2023
+Aleksandar Pavlovic,CDM,20,"30,00 Mio. €",FC Bayern München,2023
+Noel Aseko,CDM,18,750 Tsd. €,FC Bayern München,2023
+Luca Denk,CDM,21,250 Tsd. €,FC Bayern München,2023
+Leon Goretzka,CM,29,"30,00 Mio. €",FC Bayern München,2023
+Taichi Fukui,CM,19,700 Tsd. €,FC Bayern München,2023
+Frans Krätzig,LM,21,"2,00 Mio. €",FC Bayern München,2023
+Jamal Musiala,CAM,21,"120,00 Mio. €",FC Bayern München,2023
+Lovro Zvonarek,CAM,19,"3,00 Mio. €",FC Bayern München,2023
+Jonathan Asp Jensen,CAM,18,"1,30 Mio. €",FC Bayern München,2023
+Kingsley Coman,LW,28,"50,00 Mio. €",FC Bayern München,2023
+Serge Gnabry,LW,28,"40,00 Mio. €",FC Bayern München,2023
+Bryan Zaragoza,LW,22,"12,00 Mio. €",FC Bayern München,2023
+Leroy Sané,RW,28,"70,00 Mio. €",FC Bayern München,2023
+Thomas Müller,Second Striker,34,"8,00 Mio. €",FC Bayern München,2023
+Harry Kane,ST,30,"100,00 Mio. €",FC Bayern München,2023
+Mathys Tel,ST,19,"40,00 Mio. €",FC Bayern München,2023
+Eric-Maxim Choupo-Moting,ST,35,"2,50 Mio. €",FC Bayern München,2023
+Jonas Urbig,GK,21,"8,00 Mio. €",FC Bayern München,2024
+Manuel Neuer,GK,39,"4,00 Mio. €",FC Bayern München,2024
+Daniel Peretz,GK,24,"3,00 Mio. €",FC Bayern München,2024
+Sven Ulreich,GK,36,500 Tsd. €,FC Bayern München,2024
+Dayot Upamecano,CB,26,"50,00 Mio. €",FC Bayern München,2024
+Min-jae Kim,CB,28,"45,00 Mio. €",FC Bayern München,2024
+Hiroki Ito,CB,26,"30,00 Mio. €",FC Bayern München,2024
+Eric Dier,CB,31,"8,00 Mio. €",FC Bayern München,2024
+Tarek Buchmann,CB,20,500 Tsd. €,FC Bayern München,2024
+Alphonso Davies,LB,24,"50,00 Mio. €",FC Bayern München,2024
+Raphaël Guerreiro,LB,31,"10,00 Mio. €",FC Bayern München,2024
+Josip Stanisic,RB,25,"28,00 Mio. €",FC Bayern München,2024
+Konrad Laimer,RB,27,"25,00 Mio. €",FC Bayern München,2024
+Sacha Boey,RB,24,"18,00 Mio. €",FC Bayern München,2024
+Joshua Kimmich,CDM,30,"50,00 Mio. €",FC Bayern München,2024
+Aleksandar Pavlovic,CDM,21,"50,00 Mio. €",FC Bayern München,2024
+João Palhinha,CDM,29,"40,00 Mio. €",FC Bayern München,2024
+Leon Goretzka,CM,30,"22,00 Mio. €",FC Bayern München,2024
+Jamal Musiala,CAM,22,"140,00 Mio. €",FC Bayern München,2024
+Kingsley Coman,LW,28,"35,00 Mio. €",FC Bayern München,2024
+Serge Gnabry,LW,29,"25,00 Mio. €",FC Bayern München,2024
+Michael Olise,RW,23,"80,00 Mio. €",FC Bayern München,2024
+Leroy Sané,RW,29,"38,00 Mio. €",FC Bayern München,2024
+Thomas Müller,Second Striker,35,"6,00 Mio. €",FC Bayern München,2024
+Gabriel Vidovic,Second Striker,21,"3,00 Mio. €",FC Bayern München,2024
+Harry Kane,ST,31,"90,00 Mio. €",FC Bayern München,2024

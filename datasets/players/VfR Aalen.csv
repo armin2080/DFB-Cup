@@ -1,0 +1,313 @@
+name,position,age,value,team,season
+Jasmin Fejzic,GK,29,600 Tsd. €,VfR Aalen,2014
+Daniel Bernhardt,GK,29,350 Tsd. €,VfR Aalen,2014
+Oliver Schnitzler,GK,19,150 Tsd. €,VfR Aalen,2014
+André Hainault,CB,29,550 Tsd. €,VfR Aalen,2014
+Oliver Barth,CB,35,350 Tsd. €,VfR Aalen,2014
+Sascha Mockenhaupt,CB,23,350 Tsd. €,VfR Aalen,2014
+Leandro Grech,CB,34,300 Tsd. €,VfR Aalen,2014
+Sebastian Neumann,CB,24,250 Tsd. €,VfR Aalen,2014
+Lucas,CB,22,100 Tsd. €,VfR Aalen,2014
+Arne Feick,LB,27,500 Tsd. €,VfR Aalen,2014
+Phil Ofosu-Ayeh,RB,23,700 Tsd. €,VfR Aalen,2014
+Markus Steinhöfer,RB,29,400 Tsd. €,VfR Aalen,2014
+Jürgen Mössmer,CDM,26,900 Tsd. €,VfR Aalen,2014
+Jürgen Gjasula,CDM,29,800 Tsd. €,VfR Aalen,2014
+Andreas Hofmann,CDM,29,600 Tsd. €,VfR Aalen,2014
+Nejmeddin Daghfous,Midfielder,28,400 Tsd. €,VfR Aalen,2014
+Maximilian Welzmüller,CDM,25,350 Tsd. €,VfR Aalen,2014
+Manuel Junglas,CM,26,500 Tsd. €,VfR Aalen,2014
+Andreas Ludwig,CM,24,500 Tsd. €,VfR Aalen,2014
+Fabio Kaufmann,CM,22,300 Tsd. €,VfR Aalen,2014
+Felix Nierichlo,CM,22,100 Tsd. €,VfR Aalen,2014
+Robert Schick,LM,21,200 Tsd. €,VfR Aalen,2014
+Dominick Drexler,CAM,25,500 Tsd. €,VfR Aalen,2014
+Gianluca Korte,CAM,24,200 Tsd. €,VfR Aalen,2014
+Maximilian Oesterhelweg,CAM,24,150 Tsd. €,VfR Aalen,2014
+Nicola Zahner,CAM,20,100 Tsd. €,VfR Aalen,2014
+Michael Klauß,LW,28,500 Tsd. €,VfR Aalen,2014
+Thomas Steinherr,LW,22,175 Tsd. €,VfR Aalen,2014
+Robert Lechleiter,RW,34,275 Tsd. €,VfR Aalen,2014
+Fabian Weiß,RW,23,250 Tsd. €,VfR Aalen,2014
+Dennis Chessa,RW,22,200 Tsd. €,VfR Aalen,2014
+Orhan Ademi,ST,23,700 Tsd. €,VfR Aalen,2014
+Collin Quaner,ST,24,400 Tsd. €,VfR Aalen,2014
+Daniel Bernhardt,GK,30,325 Tsd. €,VfR Aalen,2015
+Oliver Schnitzler,GK,20,150 Tsd. €,VfR Aalen,2015
+Marcel Knauß,GK,19,50 Tsd. €,VfR Aalen,2015
+Sebastian Neumann,CB,25,300 Tsd. €,VfR Aalen,2015
+Fabian Menig,CB,22,250 Tsd. €,VfR Aalen,2015
+Oliver Barth,CB,36,200 Tsd. €,VfR Aalen,2015
+Robert Müller,CB,29,200 Tsd. €,VfR Aalen,2015
+Thorsten Schulz,LB,31,225 Tsd. €,VfR Aalen,2015
+Markus Schwabl,RB,25,325 Tsd. €,VfR Aalen,2015
+Maximilian Welzmüller,CDM,26,300 Tsd. €,VfR Aalen,2015
+Jonatan Kotzke,CDM,26,200 Tsd. €,VfR Aalen,2015
+Dwayn Holter,CDM,21,150 Tsd. €,VfR Aalen,2015
+Dren Hodja,CM,22,50 Tsd. €,VfR Aalen,2015
+Sebastian Vasiliadis,CM,18,50 Tsd. €,VfR Aalen,2015
+Ruben Reisig,CM,20,50 Tsd. €,VfR Aalen,2015
+Alexandros Kartalis,LM,21,200 Tsd. €,VfR Aalen,2015
+Dominick Drexler,CAM,26,450 Tsd. €,VfR Aalen,2015
+Nicola Zahner,CAM,21,75 Tsd. €,VfR Aalen,2015
+Michael Klauß,LW,29,275 Tsd. €,VfR Aalen,2015
+Mika Ojala,RW,28,400 Tsd. €,VfR Aalen,2015
+Dennis Chessa,RW,23,275 Tsd. €,VfR Aalen,2015
+Randy Edwini-Bonsu,RW,26,200 Tsd. €,VfR Aalen,2015
+Matthias Morys,ST,29,275 Tsd. €,VfR Aalen,2015
+Gerrit Wegkamp,ST,23,250 Tsd. €,VfR Aalen,2015
+Steffen Kienle,ST,21,150 Tsd. €,VfR Aalen,2015
+Daniel Bernhardt,GK,31,325 Tsd. €,VfR Aalen,2016
+Raif Husic,GK,21,100 Tsd. €,VfR Aalen,2016
+Matthias Layer,GK,18,75 Tsd. €,VfR Aalen,2016
+Thomas Geyer,CB,26,350 Tsd. €,VfR Aalen,2016
+Fabian Menig,CB,23,300 Tsd. €,VfR Aalen,2016
+Robert Müller,CB,30,275 Tsd. €,VfR Aalen,2016
+Torge Paetow,CB,21,100 Tsd. €,VfR Aalen,2016
+Antonios Papadopoulos,CB,17,-,VfR Aalen,2016
+Thorsten Schulz,LB,32,150 Tsd. €,VfR Aalen,2016
+Fırat Suçsuz,LB,21,100 Tsd. €,VfR Aalen,2016
+Markus Schwabl,RB,26,350 Tsd. €,VfR Aalen,2016
+Sascha Traut,RB,32,250 Tsd. €,VfR Aalen,2016
+Maximilian Welzmüller,CDM,27,375 Tsd. €,VfR Aalen,2016
+Rico Preißinger,CM,20,350 Tsd. €,VfR Aalen,2016
+Sebastian Vasiliadis,CM,19,250 Tsd. €,VfR Aalen,2016
+Daniel Schelhorn,CM,19,50 Tsd. €,VfR Aalen,2016
+Noah Feil,CM,18,50 Tsd. €,VfR Aalen,2016
+Yannick Deichmann,RM,22,225 Tsd. €,VfR Aalen,2016
+Philipp Hercher,RM,21,175 Tsd. €,VfR Aalen,2016
+Alexandros Kartalis,LM,22,225 Tsd. €,VfR Aalen,2016
+Daniel Stănese,CAM,23,150 Tsd. €,VfR Aalen,2016
+Oguzhan Kefkir,LW,25,-,VfR Aalen,2016
+Mika Ojala,RW,29,300 Tsd. €,VfR Aalen,2016
+Gerrit Wegkamp,ST,24,350 Tsd. €,VfR Aalen,2016
+Matthias Morys,ST,30,300 Tsd. €,VfR Aalen,2016
+Martin Toshev,ST,27,250 Tsd. €,VfR Aalen,2016
+Steffen Kienle,ST,22,125 Tsd. €,VfR Aalen,2016
+Nico Rodewald,ST,19,75 Tsd. €,VfR Aalen,2016
+Daniel Bernhardt,GK,32,225 Tsd. €,VfR Aalen,2017
+Raif Husic,GK,22,125 Tsd. €,VfR Aalen,2017
+Matthias Layer,GK,19,50 Tsd. €,VfR Aalen,2017
+Thomas Geyer,CB,27,300 Tsd. €,VfR Aalen,2017
+Torben Rehfeldt,CB,24,250 Tsd. €,VfR Aalen,2017
+Robert Müller,CB,31,225 Tsd. €,VfR Aalen,2017
+Antonios Papadopoulos,CB,18,50 Tsd. €,VfR Aalen,2017
+Thorsten Schulz,LB,33,125 Tsd. €,VfR Aalen,2017
+Sascha Traut,RB,33,200 Tsd. €,VfR Aalen,2017
+Junya Suzuki,RB,22,50 Tsd. €,VfR Aalen,2017
+Maximilian Welzmüller,CDM,28,375 Tsd. €,VfR Aalen,2017
+Patrick Schorr,CDM,23,250 Tsd. €,VfR Aalen,2017
+Rico Preißinger,CM,21,400 Tsd. €,VfR Aalen,2017
+Sebastian Vasiliadis,CM,20,350 Tsd. €,VfR Aalen,2017
+Lukas Lämmel,CM,20,150 Tsd. €,VfR Aalen,2017
+Noah Feil,CM,19,75 Tsd. €,VfR Aalen,2017
+Daniel Stănese,CAM,24,200 Tsd. €,VfR Aalen,2017
+Natsuhiko Watanabe,CAM,23,50 Tsd. €,VfR Aalen,2017
+Mattia Trianni,LW,25,175 Tsd. €,VfR Aalen,2017
+Luca Schnellbacher,ST,24,325 Tsd. €,VfR Aalen,2017
+Matthias Morys,ST,31,300 Tsd. €,VfR Aalen,2017
+Gerrit Wegkamp,ST,25,275 Tsd. €,VfR Aalen,2017
+Marcel Bär,ST,26,250 Tsd. €,VfR Aalen,2017
+Cagatay Kader,ST,21,150 Tsd. €,VfR Aalen,2017
+Daniel Bernhardt,GK,33,150 Tsd. €,VfR Aalen,2018
+Raif Husic,GK,23,100 Tsd. €,VfR Aalen,2018
+Timo Königsmann,GK,22,50 Tsd. €,VfR Aalen,2018
+Matthias Layer,GK,20,50 Tsd. €,VfR Aalen,2018
+Clemens Schoppenhauer,CB,27,250 Tsd. €,VfR Aalen,2018
+Thomas Geyer,CB,28,225 Tsd. €,VfR Aalen,2018
+Torben Rehfeldt,CB,25,200 Tsd. €,VfR Aalen,2018
+Marian Sarr,CB,24,150 Tsd. €,VfR Aalen,2018
+Antonios Papadopoulos,CB,19,150 Tsd. €,VfR Aalen,2018
+Yannis Letard,CB,20,100 Tsd. €,VfR Aalen,2018
+Marvin Büyüksakarya,RB,24,125 Tsd. €,VfR Aalen,2018
+Sascha Traut,RB,34,125 Tsd. €,VfR Aalen,2018
+Marc Onuoha,RB,20,25 Tsd. €,VfR Aalen,2018
+Royal-Dominique Fennell,CDM,30,275 Tsd. €,VfR Aalen,2018
+Patrick Funk,CDM,29,250 Tsd. €,VfR Aalen,2018
+Patrick Schorr,CDM,24,200 Tsd. €,VfR Aalen,2018
+Mart Ristl,CDM,22,175 Tsd. €,VfR Aalen,2018
+Johannes Bühler,CDM,21,150 Tsd. €,VfR Aalen,2018
+Lukas Lämmel,CM,21,100 Tsd. €,VfR Aalen,2018
+Noah Feil,CM,20,50 Tsd. €,VfR Aalen,2018
+Stephan Andrist,RM,31,300 Tsd. €,VfR Aalen,2018
+Nicolas Sessa,CAM,23,350 Tsd. €,VfR Aalen,2018
+Natsuhiko Watanabe,CAM,24,50 Tsd. €,VfR Aalen,2018
+Mattia Trianni,LW,26,125 Tsd. €,VfR Aalen,2018
+Mohamed Amelhaf,LW,21,50 Tsd. €,VfR Aalen,2018
+Nils Anhölcher,Second Striker,19,25 Tsd. €,VfR Aalen,2018
+Marcel Bär,ST,27,300 Tsd. €,VfR Aalen,2018
+Luca Schnellbacher,ST,25,275 Tsd. €,VfR Aalen,2018
+Matthias Morys,ST,32,250 Tsd. €,VfR Aalen,2018
+Gerrit Wegkamp,ST,26,225 Tsd. €,VfR Aalen,2018
+Petar Sliskovic,ST,28,200 Tsd. €,VfR Aalen,2018
+Daniel Bernhardt,GK,34,125 Tsd. €,VfR Aalen,2019
+Matthias Layer,GK,21,50 Tsd. €,VfR Aalen,2019
+Marcel Appiah,CB,32,150 Tsd. €,VfR Aalen,2019
+Gino Windmüller,CB,31,125 Tsd. €,VfR Aalen,2019
+Goson Sakai,CB,24,100 Tsd. €,VfR Aalen,2019
+Yannick Sagert,CB,20,-,VfR Aalen,2019
+Andreas Knipfer,RB,22,100 Tsd. €,VfR Aalen,2019
+Stefan Wannenwetsch,CDM,28,200 Tsd. €,VfR Aalen,2019
+Jan Holldack,CDM,24,125 Tsd. €,VfR Aalen,2019
+Tim Grupp,CDM,25,125 Tsd. €,VfR Aalen,2019
+Nico Lucas,CDM,22,100 Tsd. €,VfR Aalen,2019
+Lukas Gerlspeck,CDM,21,75 Tsd. €,VfR Aalen,2019
+Kamil Tyminski,CDM,20,75 Tsd. €,VfR Aalen,2019
+Julian Rümmele,CDM,19,25 Tsd. €,VfR Aalen,2019
+Dario Bezerra-Ehret,CM,21,100 Tsd. €,VfR Aalen,2019
+Daniel Bux,CM,20,75 Tsd. €,VfR Aalen,2019
+Yusuf Baran,CM,20,50 Tsd. €,VfR Aalen,2019
+Leon Gunst,CM,20,25 Tsd. €,VfR Aalen,2019
+Sebastian Schiek,RM,30,175 Tsd. €,VfR Aalen,2019
+Leon Volz,RM,23,50 Tsd. €,VfR Aalen,2019
+Niko Dobros,LM,27,100 Tsd. €,VfR Aalen,2019
+Kevin Hoffmann,CAM,25,150 Tsd. €,VfR Aalen,2019
+Burak Gençal,CAM,25,100 Tsd. €,VfR Aalen,2019
+Andreas Ivan,LW,25,300 Tsd. €,VfR Aalen,2019
+Michael Senger,LW,22,75 Tsd. €,VfR Aalen,2019
+Dijon Ramaj,RW,22,100 Tsd. €,VfR Aalen,2019
+Toni Vastic,ST,27,125 Tsd. €,VfR Aalen,2019
+Tom Schmitt,ST,24,75 Tsd. €,VfR Aalen,2019
+Roman Kasiar,ST,22,50 Tsd. €,VfR Aalen,2019
+Amodou Abdullei,ST,32,50 Tsd. €,VfR Aalen,2019
+Mërgim Neziri,ST,27,-,VfR Aalen,2019
+Daniel Bernhardt,GK,35,75 Tsd. €,VfR Aalen,2020
+Matthias Layer,GK,22,50 Tsd. €,VfR Aalen,2020
+Tobias Jahn,GK,19,25 Tsd. €,VfR Aalen,2020
+Goson Sakai,CB,25,100 Tsd. €,VfR Aalen,2020
+Gino Windmüller,CB,32,75 Tsd. €,VfR Aalen,2020
+Marcel Appiah,CB,33,75 Tsd. €,VfR Aalen,2020
+Oliver Oschkenat,CB,27,75 Tsd. €,VfR Aalen,2020
+Michael Schaupp,CB,18,25 Tsd. €,VfR Aalen,2020
+Kristjan Arh Cesen,LB,23,125 Tsd. €,VfR Aalen,2020
+Andreas Knipfer,RB,23,75 Tsd. €,VfR Aalen,2020
+Kolja Herrmann,RB,24,75 Tsd. €,VfR Aalen,2020
+Tim Grupp,CDM,26,125 Tsd. €,VfR Aalen,2020
+Jan Holldack,CDM,25,100 Tsd. €,VfR Aalen,2020
+Nikita Marusenko,CDM,22,75 Tsd. €,VfR Aalen,2020
+Holger Bux,CDM,18,50 Tsd. €,VfR Aalen,2020
+Serdar Arslan,CDM,18,50 Tsd. €,VfR Aalen,2020
+Julian Rümmele,CDM,20,25 Tsd. €,VfR Aalen,2020
+Dario Bezerra-Ehret,CM,22,75 Tsd. €,VfR Aalen,2020
+Mohamed Morabet,CM,23,75 Tsd. €,VfR Aalen,2020
+Mark Müller,CM,19,75 Tsd. €,VfR Aalen,2020
+Daniel Bux,CM,21,-,VfR Aalen,2020
+Leon Volz,RM,24,125 Tsd. €,VfR Aalen,2020
+Alessandro Abruscia,CAM,30,150 Tsd. €,VfR Aalen,2020
+Daniel Stănese,CAM,27,125 Tsd. €,VfR Aalen,2020
+Kevin Hoffmann,CAM,26,125 Tsd. €,VfR Aalen,2020
+Michael Senger,LW,23,50 Tsd. €,VfR Aalen,2020
+Dijon Ramaj,RW,23,50 Tsd. €,VfR Aalen,2020
+Ouadie Barini,Second Striker,29,50 Tsd. €,VfR Aalen,2020
+Steffen Kienle,ST,26,100 Tsd. €,VfR Aalen,2020
+Jordan Brown,ST,24,75 Tsd. €,VfR Aalen,2020
+Toni Vastic,ST,28,75 Tsd. €,VfR Aalen,2020
+Kai Merk,ST,22,75 Tsd. €,VfR Aalen,2020
+Tim Paterok,GK,29,125 Tsd. €,VfR Aalen,2021
+Daniel Bernhardt,GK,36,50 Tsd. €,VfR Aalen,2021
+Matthias Layer,GK,23,50 Tsd. €,VfR Aalen,2021
+Tom Österle,GK,19,25 Tsd. €,VfR Aalen,2021
+Ali Odabas,CB,28,125 Tsd. €,VfR Aalen,2021
+Gino Windmüller,CB,33,75 Tsd. €,VfR Aalen,2021
+Tim Schmidt,CB,19,75 Tsd. €,VfR Aalen,2021
+Michael Schaupp,CB,19,25 Tsd. €,VfR Aalen,2021
+Eduard Heckmann,LB,20,75 Tsd. €,VfR Aalen,2021
+Kristjan Arh Cesen,LB,24,75 Tsd. €,VfR Aalen,2021
+Mario Szabo,LB,19,-,VfR Aalen,2021
+Andreas Knipfer,RB,24,75 Tsd. €,VfR Aalen,2021
+Kolja Herrmann,RB,25,75 Tsd. €,VfR Aalen,2021
+Daniel Elfadli,CDM,25,200 Tsd. €,VfR Aalen,2021
+Sascha Korb,CDM,29,125 Tsd. €,VfR Aalen,2021
+Holger Bux,CDM,19,50 Tsd. €,VfR Aalen,2021
+Serdar Arslan,CDM,19,25 Tsd. €,VfR Aalen,2021
+Anes Handanagic,CDM,19,-,VfR Aalen,2021
+Mark Müller,CM,20,100 Tsd. €,VfR Aalen,2021
+Manuel Botic,CM,23,75 Tsd. €,VfR Aalen,2021
+Leon Volz,RM,25,100 Tsd. €,VfR Aalen,2021
+Alessandro Abruscia,CAM,31,125 Tsd. €,VfR Aalen,2021
+Daniel Stănese,CAM,28,75 Tsd. €,VfR Aalen,2021
+Benjamin Kindsvater,LW,29,125 Tsd. €,VfR Aalen,2021
+Sean Seitz,LW,20,75 Tsd. €,VfR Aalen,2021
+Jonas Arcalean,LW,25,50 Tsd. €,VfR Aalen,2021
+Sergio Gucciardo,LW,23,25 Tsd. €,VfR Aalen,2021
+Steffen Kienle,ST,27,125 Tsd. €,VfR Aalen,2021
+Michel Witte,GK,24,150 Tsd. €,VfR Aalen,2022
+Maurice Brauns,GK,20,50 Tsd. €,VfR Aalen,2022
+Tom Österle,GK,20,10 Tsd. €,VfR Aalen,2022
+Ali Odabas,CB,29,100 Tsd. €,VfR Aalen,2022
+Michael Schaupp,CB,20,75 Tsd. €,VfR Aalen,2022
+Mehmet Bağcı,CB,21,75 Tsd. €,VfR Aalen,2022
+Tim Schmidt,CB,20,75 Tsd. €,VfR Aalen,2022
+Jan Just,CB,26,50 Tsd. €,VfR Aalen,2022
+Kristjan Arh Cesen,LB,25,100 Tsd. €,VfR Aalen,2022
+Eduard Heckmann,LB,21,75 Tsd. €,VfR Aalen,2022
+Mario Szabo,LB,20,10 Tsd. €,VfR Aalen,2022
+Vico Meien,CDM,25,125 Tsd. €,VfR Aalen,2022
+Sascha Korb,CDM,30,125 Tsd. €,VfR Aalen,2022
+Holger Bux,CDM,20,50 Tsd. €,VfR Aalen,2022
+Marc Schurr,CDM,19,-,VfR Aalen,2022
+Mark Müller,CM,21,75 Tsd. €,VfR Aalen,2022
+Leon Volz,RM,26,100 Tsd. €,VfR Aalen,2022
+Loris Portella,RM,19,10 Tsd. €,VfR Aalen,2022
+Benjamin Walter,RM,18,-,VfR Aalen,2022
+Stefan Wächter,CAM,25,125 Tsd. €,VfR Aalen,2022
+Alessandro Abruscia,CAM,32,100 Tsd. €,VfR Aalen,2022
+Sean Seitz,LW,21,150 Tsd. €,VfR Aalen,2022
+Paolo Maiella,LW,25,100 Tsd. €,VfR Aalen,2022
+Benjamin Kindsvater,LW,30,75 Tsd. €,VfR Aalen,2022
+Jonas Arcalean,LW,26,50 Tsd. €,VfR Aalen,2022
+Steffen Kienle,ST,28,100 Tsd. €,VfR Aalen,2022
+Levin Kundruweit,ST,21,50 Tsd. €,VfR Aalen,2022
+Michel Witte,GK,25,100 Tsd. €,VfR Aalen,2023
+Maurice Brauns,GK,21,25 Tsd. €,VfR Aalen,2023
+Andreas Wick,GK,20,10 Tsd. €,VfR Aalen,2023
+Daniel Keller,GK,18,-,VfR Aalen,2023
+Lasse Jürgensen,CB,26,75 Tsd. €,VfR Aalen,2023
+Ali Odabas,CB,30,75 Tsd. €,VfR Aalen,2023
+Michael Schaupp,CB,21,25 Tsd. €,VfR Aalen,2023
+Johannes Kraus,CB,24,10 Tsd. €,VfR Aalen,2023
+Noel Guerriero,CB,19,-,VfR Aalen,2023
+Yannick Thermann,LB,30,50 Tsd. €,VfR Aalen,2023
+Mario Szabo,LB,21,10 Tsd. €,VfR Aalen,2023
+Jascha Döringer,RB,27,50 Tsd. €,VfR Aalen,2023
+Frederik Rahn,RB,19,25 Tsd. €,VfR Aalen,2023
+Vico Meien,CDM,26,75 Tsd. €,VfR Aalen,2023
+Rilind Kabashi,CDM,21,25 Tsd. €,VfR Aalen,2023
+Loris Portella,RM,20,-,VfR Aalen,2023
+Alessandro Abruscia,CAM,33,75 Tsd. €,VfR Aalen,2023
+Stefan Wächter,CAM,26,75 Tsd. €,VfR Aalen,2023
+Paolo Maiella,LW,26,75 Tsd. €,VfR Aalen,2023
+Benjamin Kindsvater,LW,31,75 Tsd. €,VfR Aalen,2023
+David Preu,LW,19,25 Tsd. €,VfR Aalen,2023
+Oryan Velox,LW,19,10 Tsd. €,VfR Aalen,2023
+Umut Sönmez,LW,31,-,VfR Aalen,2023
+As Ibrahima Diakité,ST,27,50 Tsd. €,VfR Aalen,2023
+Steffen Kienle,ST,29,50 Tsd. €,VfR Aalen,2023
+Marco Rienhardt,ST,25,50 Tsd. €,VfR Aalen,2023
+Levin Kundruweit,ST,22,25 Tsd. €,VfR Aalen,2023
+Ephraim Eshele,ST,22,25 Tsd. €,VfR Aalen,2023
+Daniel Rapp,ST,19,10 Tsd. €,VfR Aalen,2023
+Andreas Wick,GK,21,-,VfR Aalen,2024
+Henry Hutzenlaub,GK,,-,VfR Aalen,2024
+Silas Baur,GK,21,-,VfR Aalen,2024
+Michael Schaupp,CB,22,-,VfR Aalen,2024
+Ali Odabas,CB,31,-,VfR Aalen,2024
+Sadio Dembélé,CB,22,-,VfR Aalen,2024
+Noel Guerriero,CB,19,-,VfR Aalen,2024
+Mario Szabo,LB,22,-,VfR Aalen,2024
+Reece Hannam,LB,24,-,VfR Aalen,2024
+Jascha Döringer,RB,28,-,VfR Aalen,2024
+Matino Schlotterbeck,RB,21,-,VfR Aalen,2024
+Luigi Campagna,CDM,35,-,VfR Aalen,2024
+Leon Maier,CDM,26,-,VfR Aalen,2024
+Lucas Torres,CDM,27,-,VfR Aalen,2024
+Loris Groß,Midfielder,,-,VfR Aalen,2024
+Stefan Wächter,CAM,27,-,VfR Aalen,2024
+Sasa Maksimovic,LW,25,-,VfR Aalen,2024
+Benjamin Kindsvater,LW,32,-,VfR Aalen,2024
+Mussa Fofanah,RW,,-,VfR Aalen,2024
+Steffen Kienle,ST,30,-,VfR Aalen,2024
+Daniel Rapp,ST,20,-,VfR Aalen,2024
+Philipp Tabatabai,ST,,-,VfR Aalen,2024
+Willie Sauerborn,ST,,-,VfR Aalen,2024
+Nesreddine Kenniche,ST,,-,VfR Aalen,2024

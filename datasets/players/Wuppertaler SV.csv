@@ -1,0 +1,372 @@
+name,position,age,value,team,season
+Lukas Fronczyk,GK,30,-,Wuppertaler SV,2014
+Bastian Sube,GK,23,-,Wuppertaler SV,2014
+Joshua Mroß,GK,18,-,Wuppertaler SV,2014
+Pascal Plohmann,GK,20,-,Wuppertaler SV,2014
+Dirk Jasmund,CB,25,-,Wuppertaler SV,2014
+Peter Schmetz,CB,25,-,Wuppertaler SV,2014
+Alexander Thamm,CB,32,-,Wuppertaler SV,2014
+Noah Salau,CB,19,-,Wuppertaler SV,2014
+Patrick Nemec,CB,18,-,Wuppertaler SV,2014
+Maximilian Nadidai,CB,21,-,Wuppertaler SV,2014
+Marvin Schurig,LB,26,-,Wuppertaler SV,2014
+Janos Löbe,LB,19,-,Wuppertaler SV,2014
+Davide Leikauf,RB,25,-,Wuppertaler SV,2014
+Tim Kosien,RB,20,-,Wuppertaler SV,2014
+Arthur Ekallé,RB,18,-,Wuppertaler SV,2014
+Simon Blotko,RB,20,-,Wuppertaler SV,2014
+Danijel Gataric,CDM,29,-,Wuppertaler SV,2014
+Tim Manstein,CDM,25,-,Wuppertaler SV,2014
+Kevin Weggen,CDM,21,-,Wuppertaler SV,2014
+Niklas Leven,CDM,23,-,Wuppertaler SV,2014
+Florian Grün,CM,24,-,Wuppertaler SV,2014
+Timo Krampe,CM,20,-,Wuppertaler SV,2014
+Christian Krone,RM,19,-,Wuppertaler SV,2014
+Dalibor Gataric,CAM,29,-,Wuppertaler SV,2014
+Tom Hirsch,LW,19,-,Wuppertaler SV,2014
+Elsamed Ramaj,LW,19,-,Wuppertaler SV,2014
+Karoj Sindi,RW,25,-,Wuppertaler SV,2014
+Marvin Ellmann,ST,27,-,Wuppertaler SV,2014
+Dennis Schmidt,ST,27,-,Wuppertaler SV,2014
+Ivan Benkovic,ST,19,-,Wuppertaler SV,2014
+Nils Nettersheim,ST,24,-,Wuppertaler SV,2014
+Jonas Schneider,ST,20,-,Wuppertaler SV,2014
+Sebastian Speen,GK,25,25 Tsd. €,Wuppertaler SV,2015
+Felix Schiffer,GK,22,-,Wuppertaler SV,2015
+Sören Ahlers,GK,18,-,Wuppertaler SV,2015
+Markus Swoboda,GK,32,-,Wuppertaler SV,2015
+Joshua Mroß,GK,19,-,Wuppertaler SV,2015
+Florian Schneider,GK,19,-,Wuppertaler SV,2015
+Peter Schmetz,CB,26,-,Wuppertaler SV,2015
+Tarik Dogan,CB,19,-,Wuppertaler SV,2015
+Róbert Csáki,CB,20,-,Wuppertaler SV,2015
+Noah Salau,CB,20,-,Wuppertaler SV,2015
+Patrick Nemec,CB,19,-,Wuppertaler SV,2015
+Lukas Fedler,CB,24,-,Wuppertaler SV,2015
+Marvin Schurig,LB,27,-,Wuppertaler SV,2015
+Burak Yerli,LB,18,-,Wuppertaler SV,2015
+Len Heinson,LB,20,-,Wuppertaler SV,2015
+Cihan Kaptan,RB,27,100 Tsd. €,Wuppertaler SV,2015
+Davide Leikauf,RB,26,-,Wuppertaler SV,2015
+Emre Bayrak,RB,19,-,Wuppertaler SV,2015
+Manuel Bölstler,CDM,33,-,Wuppertaler SV,2015
+Danijel Gataric,CDM,30,-,Wuppertaler SV,2015
+Tim Manstein,CDM,26,-,Wuppertaler SV,2015
+Dominik Heinen,CDM,19,-,Wuppertaler SV,2015
+Daniel Grebe,CM,29,-,Wuppertaler SV,2015
+Christian Krone,RM,20,-,Wuppertaler SV,2015
+Okan Solak,LM,21,-,Wuppertaler SV,2015
+Khalid Al-Bazaz,LM,19,-,Wuppertaler SV,2015
+Bilal Abdallah,CAM,20,25 Tsd. €,Wuppertaler SV,2015
+Dalibor Gataric,CAM,30,-,Wuppertaler SV,2015
+Enes Colak,CAM,19,-,Wuppertaler SV,2015
+Nico Rymarczyk,LW,20,-,Wuppertaler SV,2015
+Tom Hirsch,LW,20,-,Wuppertaler SV,2015
+Enes Topal,RW,20,25 Tsd. €,Wuppertaler SV,2015
+Aleksandar Pranjes,RW,25,25 Tsd. €,Wuppertaler SV,2015
+Lucas Arenz,RW,22,-,Wuppertaler SV,2015
+Gaetano Manno,Second Striker,33,100 Tsd. €,Wuppertaler SV,2015
+Marvin Ellmann,ST,28,-,Wuppertaler SV,2015
+Ercan Aydogmus,ST,36,-,Wuppertaler SV,2015
+Julian Kray,ST,18,-,Wuppertaler SV,2015
+Jonas Schneider,ST,21,-,Wuppertaler SV,2015
+Sebastian Speen,GK,26,100 Tsd. €,Wuppertaler SV,2016
+Joshua Mroß,GK,20,25 Tsd. €,Wuppertaler SV,2016
+Sören Ahlers,GK,19,-,Wuppertaler SV,2016
+Leon Broda,GK,19,-,Wuppertaler SV,2016
+Peter Schmetz,CB,27,100 Tsd. €,Wuppertaler SV,2016
+Babacar M'Bengue,CB,25,75 Tsd. €,Wuppertaler SV,2016
+Tristan Duschke,CB,20,75 Tsd. €,Wuppertaler SV,2016
+Kevin Pytlik,CB,19,50 Tsd. €,Wuppertaler SV,2016
+Noah Salau,CB,21,-,Wuppertaler SV,2016
+Niklas Heidemann,LB,22,100 Tsd. €,Wuppertaler SV,2016
+Pascal Bieler,LB,31,-,Wuppertaler SV,2016
+Len Heinson,LB,21,-,Wuppertaler SV,2016
+Silvio Pagano,RB,31,100 Tsd. €,Wuppertaler SV,2016
+Davide Leikauf,RB,27,75 Tsd. €,Wuppertaler SV,2016
+Emre Bayrak,RB,20,50 Tsd. €,Wuppertaler SV,2016
+Sandy Husic,RB,19,25 Tsd. €,Wuppertaler SV,2016
+Jan Holldack,CDM,21,100 Tsd. €,Wuppertaler SV,2016
+Kai Schwertfeger,CDM,28,-,Wuppertaler SV,2016
+Dominik Heinen,CDM,20,-,Wuppertaler SV,2016
+Sercan Er,CDM,24,-,Wuppertaler SV,2016
+Daniel Grebe,CM,30,100 Tsd. €,Wuppertaler SV,2016
+Kevin Hagemann,LM,26,150 Tsd. €,Wuppertaler SV,2016
+Yordi Teijsse,CAM,24,75 Tsd. €,Wuppertaler SV,2016
+Marco Cirillo,CAM,18,-,Wuppertaler SV,2016
+Andreas Ivan,LW,22,75 Tsd. €,Wuppertaler SV,2016
+Enes Topal,RW,21,75 Tsd. €,Wuppertaler SV,2016
+Ali Can Ilbay,RW,25,50 Tsd. €,Wuppertaler SV,2016
+Gaetano Manno,Second Striker,34,100 Tsd. €,Wuppertaler SV,2016
+Tim Bodenröder,Second Striker,21,50 Tsd. €,Wuppertaler SV,2016
+Said Harouz,Second Striker,20,-,Wuppertaler SV,2016
+Enzo Wirtz,ST,21,75 Tsd. €,Wuppertaler SV,2016
+Ercan Aydogmus,ST,37,50 Tsd. €,Wuppertaler SV,2016
+Sebastian Speen,GK,27,100 Tsd. €,Wuppertaler SV,2017
+Joshua Mroß,GK,21,50 Tsd. €,Wuppertaler SV,2017
+Maurice Horn,GK,19,25 Tsd. €,Wuppertaler SV,2017
+Dennis Prostka,GK,37,-,Wuppertaler SV,2017
+Gino Windmüller,CB,29,125 Tsd. €,Wuppertaler SV,2017
+Pierre Becken,CB,30,100 Tsd. €,Wuppertaler SV,2017
+Tristan Duschke,CB,21,100 Tsd. €,Wuppertaler SV,2017
+Peter Schmetz,CB,28,100 Tsd. €,Wuppertaler SV,2017
+Tjorben Uphoff,CB,23,75 Tsd. €,Wuppertaler SV,2017
+Kevin Pytlik,CB,20,75 Tsd. €,Wuppertaler SV,2017
+Michael Blum,CB,29,50 Tsd. €,Wuppertaler SV,2017
+Scott Gulden,CB,18,-,Wuppertaler SV,2017
+Niklas Heidemann,LB,23,125 Tsd. €,Wuppertaler SV,2017
+Ogün Serdar,LB,19,-,Wuppertaler SV,2017
+Silvio Pagano,RB,32,75 Tsd. €,Wuppertaler SV,2017
+Davide Leikauf,RB,28,50 Tsd. €,Wuppertaler SV,2017
+Emre Bayrak,RB,21,25 Tsd. €,Wuppertaler SV,2017
+Noah Gulden,RB,18,25 Tsd. €,Wuppertaler SV,2017
+Sandy Husic,RB,20,25 Tsd. €,Wuppertaler SV,2017
+Yusa-Semih Alabas,RB,18,-,Wuppertaler SV,2017
+Sascha Schünemann,CDM,26,100 Tsd. €,Wuppertaler SV,2017
+Yassine Khadraoui,CDM,21,50 Tsd. €,Wuppertaler SV,2017
+André Mandt,CM,24,100 Tsd. €,Wuppertaler SV,2017
+Daniel Grebe,CM,31,100 Tsd. €,Wuppertaler SV,2017
+Kevin Hagemann,LM,27,150 Tsd. €,Wuppertaler SV,2017
+Marcel Damaschek,LM,21,75 Tsd. €,Wuppertaler SV,2017
+Dennis Dowidat,CAM,28,100 Tsd. €,Wuppertaler SV,2017
+Semir Saric,CAM,20,50 Tsd. €,Wuppertaler SV,2017
+Marco Cirillo,CAM,19,25 Tsd. €,Wuppertaler SV,2017
+Mihai Bogoiu,CAM,19,-,Wuppertaler SV,2017
+Enes Topal,RW,22,50 Tsd. €,Wuppertaler SV,2017
+Gaetano Manno,Second Striker,35,100 Tsd. €,Wuppertaler SV,2017
+Christopher Kramer,ST,28,150 Tsd. €,Wuppertaler SV,2017
+Raphael Steinmetz,ST,23,100 Tsd. €,Wuppertaler SV,2017
+Enzo Wirtz,ST,22,75 Tsd. €,Wuppertaler SV,2017
+Robin Wodniok,ST,18,-,Wuppertaler SV,2017
+Joshua Mroß,GK,22,100 Tsd. €,Wuppertaler SV,2018
+Sebastian Speen,GK,28,100 Tsd. €,Wuppertaler SV,2018
+Niklas Lübcke,GK,19,25 Tsd. €,Wuppertaler SV,2018
+Dejan Zecevic,GK,18,25 Tsd. €,Wuppertaler SV,2018
+Dennis Prostka,GK,38,-,Wuppertaler SV,2018
+Akif Sahin,GK,23,-,Wuppertaler SV,2018
+Gino Windmüller,CB,30,125 Tsd. €,Wuppertaler SV,2018
+Tjorben Uphoff,CB,24,100 Tsd. €,Wuppertaler SV,2018
+Peter Schmetz,CB,29,75 Tsd. €,Wuppertaler SV,2018
+Tom Meurer,CB,20,25 Tsd. €,Wuppertaler SV,2018
+Jan Corsten,CB,18,25 Tsd. €,Wuppertaler SV,2018
+Tim Corsten,CB,18,25 Tsd. €,Wuppertaler SV,2018
+Angelo Langer,LB,26,150 Tsd. €,Wuppertaler SV,2018
+Mario Andric,LB,21,50 Tsd. €,Wuppertaler SV,2018
+Phil Britscho,LB,19,25 Tsd. €,Wuppertaler SV,2018
+Len Heinson,LB,23,-,Wuppertaler SV,2018
+Silvio Pagano,RB,33,75 Tsd. €,Wuppertaler SV,2018
+Dennis Malura,RB,35,75 Tsd. €,Wuppertaler SV,2018
+Yusa-Semih Alabas,RB,19,50 Tsd. €,Wuppertaler SV,2018
+Nick Osygus,RB,18,-,Wuppertaler SV,2018
+Meik Kühnel,CDM,24,100 Tsd. €,Wuppertaler SV,2018
+Jan-Steffen Meier,CDM,27,100 Tsd. €,Wuppertaler SV,2018
+Sascha Schünemann,CDM,27,100 Tsd. €,Wuppertaler SV,2018
+Marvin Blume,CDM,19,-,Wuppertaler SV,2018
+Daniel Grebe,CM,32,75 Tsd. €,Wuppertaler SV,2018
+Kevin Hagemann,LM,28,100 Tsd. €,Wuppertaler SV,2018
+Marco Cirillo,CAM,20,50 Tsd. €,Wuppertaler SV,2018
+Semir Saric,CAM,21,50 Tsd. €,Wuppertaler SV,2018
+Isaak Akritidis,CAM,17,25 Tsd. €,Wuppertaler SV,2018
+Kamil Bednarski,LW,33,75 Tsd. €,Wuppertaler SV,2018
+Kenan Dünnwald-Turan,LW,23,75 Tsd. €,Wuppertaler SV,2018
+Luka Sola,LW,19,-,Wuppertaler SV,2018
+Jonas Erwig-Drüppel,RW,27,150 Tsd. €,Wuppertaler SV,2018
+Enes Topal,RW,23,75 Tsd. €,Wuppertaler SV,2018
+Daniel Hägler,RW,22,50 Tsd. €,Wuppertaler SV,2018
+Gaetano Manno,Second Striker,36,75 Tsd. €,Wuppertaler SV,2018
+Christopher Kramer,ST,29,200 Tsd. €,Wuppertaler SV,2018
+Viktor Maier,ST,29,100 Tsd. €,Wuppertaler SV,2018
+Mike Osenberg,ST,19,25 Tsd. €,Wuppertaler SV,2018
+Edin Pepic,GK,28,100 Tsd. €,Wuppertaler SV,2019
+Niklas Lübcke,GK,20,75 Tsd. €,Wuppertaler SV,2019
+Florian Kraft,GK,21,75 Tsd. €,Wuppertaler SV,2019
+Tjorben Uphoff,CB,25,100 Tsd. €,Wuppertaler SV,2019
+Kevin Pytlik,CB,22,75 Tsd. €,Wuppertaler SV,2019
+Tom Meurer,CB,21,50 Tsd. €,Wuppertaler SV,2019
+Noah Salau,CB,24,50 Tsd. €,Wuppertaler SV,2019
+Jan Corsten,CB,19,25 Tsd. €,Wuppertaler SV,2019
+Hassine Refai,CB,20,25 Tsd. €,Wuppertaler SV,2019
+Thomas Gilej,CB,19,-,Wuppertaler SV,2019
+Tolga Cokkosan,LB,25,100 Tsd. €,Wuppertaler SV,2019
+Joey Müller,LB,19,75 Tsd. €,Wuppertaler SV,2019
+Nick Osygus,RB,19,25 Tsd. €,Wuppertaler SV,2019
+Yusa-Semih Alabas,RB,20,-,Wuppertaler SV,2019
+Silvio Pagano,RB,34,-,Wuppertaler SV,2019
+Finn Belzer,RB,19,-,Wuppertaler SV,2019
+Daniel Nesseler,CDM,22,75 Tsd. €,Wuppertaler SV,2019
+Yannick Geisler,CDM,25,75 Tsd. €,Wuppertaler SV,2019
+Nedim Pepic,CDM,22,50 Tsd. €,Wuppertaler SV,2019
+Ilyas Zhou,Midfielder,19,-,Wuppertaler SV,2019
+Daniel Grebe,CM,33,75 Tsd. €,Wuppertaler SV,2019
+Lukas Knechtel,LM,25,100 Tsd. €,Wuppertaler SV,2019
+Semir Saric,CAM,22,75 Tsd. €,Wuppertaler SV,2019
+Beyhan Ametov,CAM,21,75 Tsd. €,Wuppertaler SV,2019
+Isaak Akritidis,CAM,18,25 Tsd. €,Wuppertaler SV,2019
+Arjan Duraj,CAM,21,25 Tsd. €,Wuppertaler SV,2019
+Danny Kierath,CAM,23,-,Wuppertaler SV,2019
+Ali Ceylan,LW,22,50 Tsd. €,Wuppertaler SV,2019
+Ufumwen Osawe,LW,22,25 Tsd. €,Wuppertaler SV,2019
+Mohamed Achouird Fatni,LW,21,25 Tsd. €,Wuppertaler SV,2019
+Luka Sola,LW,20,-,Wuppertaler SV,2019
+Karoj Sindi,RW,30,25 Tsd. €,Wuppertaler SV,2019
+Leonard Bajraktari,Second Striker,18,-,Wuppertaler SV,2019
+Marwin Studtrucker,ST,30,100 Tsd. €,Wuppertaler SV,2019
+Gianluca Marzullo,ST,29,100 Tsd. €,Wuppertaler SV,2019
+Viktor Maier,ST,30,75 Tsd. €,Wuppertaler SV,2019
+Mike Osenberg,ST,20,50 Tsd. €,Wuppertaler SV,2019
+Mohamed El Bakali,ST,19,-,Wuppertaler SV,2019
+Sebastian Patzler,GK,30,100 Tsd. €,Wuppertaler SV,2020
+Niklas Lübcke,GK,21,50 Tsd. €,Wuppertaler SV,2020
+Daniel Szczepankiewicz,GK,27,50 Tsd. €,Wuppertaler SV,2020
+Payam Safarpour-Malekabad,GK,18,25 Tsd. €,Wuppertaler SV,2020
+Christopher Schorch,CB,32,125 Tsd. €,Wuppertaler SV,2020
+Tjorben Uphoff,CB,26,100 Tsd. €,Wuppertaler SV,2020
+Noah Salau,CB,25,100 Tsd. €,Wuppertaler SV,2020
+Kevin Pytlik,CB,23,100 Tsd. €,Wuppertaler SV,2020
+Lars Bender,CB,33,75 Tsd. €,Wuppertaler SV,2020
+Moritz Römling,LB,20,200 Tsd. €,Wuppertaler SV,2020
+Joey Müller,LB,20,100 Tsd. €,Wuppertaler SV,2020
+Tolga Cokkosan,LB,26,75 Tsd. €,Wuppertaler SV,2020
+Lars Holtkamp,CDM,19,100 Tsd. €,Wuppertaler SV,2020
+Tim Wendel-Eichholz,CDM,32,75 Tsd. €,Wuppertaler SV,2020
+Daniel Nesseler,CDM,23,75 Tsd. €,Wuppertaler SV,2020
+Yannick Geisler,CDM,26,50 Tsd. €,Wuppertaler SV,2020
+Ilyas Zhou,Midfielder,20,25 Tsd. €,Wuppertaler SV,2020
+Kevin Rodrigues-Pires,CM,29,125 Tsd. €,Wuppertaler SV,2020
+Daniel Grebe,CM,34,50 Tsd. €,Wuppertaler SV,2020
+Niklas Fensky,CM,18,25 Tsd. €,Wuppertaler SV,2020
+Kevin Hagemann,LM,30,100 Tsd. €,Wuppertaler SV,2020
+Semir Saric,CAM,23,125 Tsd. €,Wuppertaler SV,2020
+Beyhan Ametov,CAM,22,125 Tsd. €,Wuppertaler SV,2020
+Burak Gençal,CAM,26,100 Tsd. €,Wuppertaler SV,2020
+Isaak Akritidis,CAM,19,50 Tsd. €,Wuppertaler SV,2020
+Jonas Erwig-Drüppel,RW,29,75 Tsd. €,Wuppertaler SV,2020
+Joelle Cavit Tomczak,RW,19,25 Tsd. €,Wuppertaler SV,2020
+Furkan Tasdemir,RW,19,25 Tsd. €,Wuppertaler SV,2020
+Gianluca Marzullo,ST,30,100 Tsd. €,Wuppertaler SV,2020
+Mateo Aramburú,ST,23,100 Tsd. €,Wuppertaler SV,2020
+Marco Königs,ST,31,100 Tsd. €,Wuppertaler SV,2020
+Marwin Studtrucker,ST,31,75 Tsd. €,Wuppertaler SV,2020
+Viktor Maier,ST,31,50 Tsd. €,Wuppertaler SV,2020
+Mike Osenberg,ST,21,-,Wuppertaler SV,2020
+Sebastian Patzler,GK,31,100 Tsd. €,Wuppertaler SV,2021
+Michele Cordi,GK,22,25 Tsd. €,Wuppertaler SV,2021
+Payam Safarpour-Malekabad,GK,19,25 Tsd. €,Wuppertaler SV,2021
+Joel Nickel,GK,18,-,Wuppertaler SV,2021
+Lion Schweers,CB,26,200 Tsd. €,Wuppertaler SV,2021
+Kevin Pytlik,CB,24,150 Tsd. €,Wuppertaler SV,2021
+Noah Salau,CB,26,100 Tsd. €,Wuppertaler SV,2021
+Durim Berisha,CB,21,100 Tsd. €,Wuppertaler SV,2021
+Mátyás Jr Jurácsik,CB,20,-,Wuppertaler SV,2021
+Niklas Heidemann,LB,27,150 Tsd. €,Wuppertaler SV,2021
+Nick Galle,LB,23,100 Tsd. €,Wuppertaler SV,2021
+Philipp Hanke,RB,29,150 Tsd. €,Wuppertaler SV,2021
+Moritz Montag,RB,24,100 Tsd. €,Wuppertaler SV,2021
+Xhuljo Tabaku,CDM,27,75 Tsd. €,Wuppertaler SV,2021
+Dominik Bilogrevic,CDM,23,75 Tsd. €,Wuppertaler SV,2021
+Giulio Multari,CDM,19,-,Wuppertaler SV,2021
+Kevin Rodrigues-Pires,CM,30,150 Tsd. €,Wuppertaler SV,2021
+Felix Backszat,CM,32,100 Tsd. €,Wuppertaler SV,2021
+Jannis Kübler,CM,23,75 Tsd. €,Wuppertaler SV,2021
+Niklas Fensky,CM,19,25 Tsd. €,Wuppertaler SV,2021
+Daniel Grebe,CM,35,-,Wuppertaler SV,2021
+Kevin Hagemann,LM,31,100 Tsd. €,Wuppertaler SV,2021
+Semir Saric,CAM,24,150 Tsd. €,Wuppertaler SV,2021
+Isaak Akritidis,CAM,20,25 Tsd. €,Wuppertaler SV,2021
+Valdet Rama,LW,34,100 Tsd. €,Wuppertaler SV,2021
+Phillip Aboagye,LW,22,75 Tsd. €,Wuppertaler SV,2021
+Kingsley Sarpei,RW,19,75 Tsd. €,Wuppertaler SV,2021
+Joelle Cavit Tomczak,RW,20,25 Tsd. €,Wuppertaler SV,2021
+Marco Königs,ST,32,100 Tsd. €,Wuppertaler SV,2021
+Roman Prokoph,ST,36,75 Tsd. €,Wuppertaler SV,2021
+Daniel Lee,ST,19,-,Wuppertaler SV,2021
+Sebastian Patzler,GK,32,75 Tsd. €,Wuppertaler SV,2022
+Franz Langhoff,GK,23,75 Tsd. €,Wuppertaler SV,2022
+Michele Cordi,GK,23,25 Tsd. €,Wuppertaler SV,2022
+Joel Nickel,GK,19,-,Wuppertaler SV,2022
+Lion Schweers,CB,27,175 Tsd. €,Wuppertaler SV,2022
+Kevin Pytlik,CB,25,125 Tsd. €,Wuppertaler SV,2022
+Durim Berisha,CB,22,100 Tsd. €,Wuppertaler SV,2022
+Oktay Dal,CB,27,75 Tsd. €,Wuppertaler SV,2022
+Noah Salau,CB,27,75 Tsd. €,Wuppertaler SV,2022
+Justus Henke,CB,22,50 Tsd. €,Wuppertaler SV,2022
+Nick Galle,LB,24,100 Tsd. €,Wuppertaler SV,2022
+Jeron Al-Hazaimeh,LB,31,50 Tsd. €,Wuppertaler SV,2022
+Justin Francis,LB,19,-,Wuppertaler SV,2022
+Philipp Hanke,RB,30,125 Tsd. €,Wuppertaler SV,2022
+Moritz Montag,RB,25,100 Tsd. €,Wuppertaler SV,2022
+Blend Janko,RB,19,-,Wuppertaler SV,2022
+Tobias Peitz,CDM,24,100 Tsd. €,Wuppertaler SV,2022
+Bastian Müller,CDM,31,100 Tsd. €,Wuppertaler SV,2022
+Giulio Multari,CDM,20,25 Tsd. €,Wuppertaler SV,2022
+Lukas Demming,CM,23,125 Tsd. €,Wuppertaler SV,2022
+Kevin Rodrigues-Pires,CM,31,100 Tsd. €,Wuppertaler SV,2022
+Kevin Hagemann,LM,32,125 Tsd. €,Wuppertaler SV,2022
+Marco Stiepermann,CAM,32,250 Tsd. €,Wuppertaler SV,2022
+Valdet Rama,LW,35,50 Tsd. €,Wuppertaler SV,2022
+Jef Tchouangue,LW,18,-,Wuppertaler SV,2022
+Kingsley Sarpei,RW,20,50 Tsd. €,Wuppertaler SV,2022
+Lewin D'Hone,RW,22,50 Tsd. €,Wuppertaler SV,2022
+Serhat-Semih Güler,ST,25,250 Tsd. €,Wuppertaler SV,2022
+Roman Prokoph,ST,37,50 Tsd. €,Wuppertaler SV,2022
+Marco Königs,ST,33,50 Tsd. €,Wuppertaler SV,2022
+Krystian Wozniak,GK,26,75 Tsd. €,Wuppertaler SV,2023
+Sebastian Patzler,GK,33,50 Tsd. €,Wuppertaler SV,2023
+Paul Grave,GK,23,50 Tsd. €,Wuppertaler SV,2023
+Mert-Leon Temiz,GK,20,10 Tsd. €,Wuppertaler SV,2023
+Emil Metz,GK,19,-,Wuppertaler SV,2023
+Lion Schweers,CB,28,175 Tsd. €,Wuppertaler SV,2023
+Kevin Pytlik,CB,26,125 Tsd. €,Wuppertaler SV,2023
+Niklas Dams,CB,34,125 Tsd. €,Wuppertaler SV,2023
+İlhan Altuntaş,CB,21,50 Tsd. €,Wuppertaler SV,2023
+Durim Berisha,CB,23,50 Tsd. €,Wuppertaler SV,2023
+Kilian Bielitza,CB,19,-,Wuppertaler SV,2023
+Mert Göckan,LB,23,125 Tsd. €,Wuppertaler SV,2023
+Migel-Max Schmeling,LB,24,50 Tsd. €,Wuppertaler SV,2023
+Valon Zhushi,LB,19,-,Wuppertaler SV,2023
+Philipp Hanke,RB,31,100 Tsd. €,Wuppertaler SV,2023
+Davide Itter,RB,25,75 Tsd. €,Wuppertaler SV,2023
+Tom Geerkens,CDM,23,150 Tsd. €,Wuppertaler SV,2023
+Tobias Peitz,CDM,25,100 Tsd. €,Wuppertaler SV,2023
+Steve Tunga,CDM,27,75 Tsd. €,Wuppertaler SV,2023
+Berkem Kurt,CDM,19,-,Wuppertaler SV,2023
+Aday Ercan,CM,23,150 Tsd. €,Wuppertaler SV,2023
+Lukas Demming,CM,24,125 Tsd. €,Wuppertaler SV,2023
+Kevin Rodrigues-Pires,CM,32,75 Tsd. €,Wuppertaler SV,2023
+Hugo Schmidt,CM,19,-,Wuppertaler SV,2023
+Kevin Hagemann,LM,33,100 Tsd. €,Wuppertaler SV,2023
+Semir Saric,CAM,26,125 Tsd. €,Wuppertaler SV,2023
+Hüseyin Bulut,LW,25,100 Tsd. €,Wuppertaler SV,2023
+Tim Korzuschek,LW,25,75 Tsd. €,Wuppertaler SV,2023
+Phil Beckhoff,LW,24,75 Tsd. €,Wuppertaler SV,2023
+Jef Tchouangue,LW,19,10 Tsd. €,Wuppertaler SV,2023
+Marco Terrazzino,Second Striker,33,125 Tsd. €,Wuppertaler SV,2023
+Charlison Benschop,ST,34,225 Tsd. €,Wuppertaler SV,2023
+Damjan Marceta,ST,30,100 Tsd. €,Wuppertaler SV,2023
+Krystian Wozniak,GK,27,50 Tsd. €,Wuppertaler SV,2024
+Michael Luyambula,GK,25,50 Tsd. €,Wuppertaler SV,2024
+Emil Metz,GK,20,-,Wuppertaler SV,2024
+Benedikt Wimmer,CB,20,150 Tsd. €,Wuppertaler SV,2024
+Vincent Gembalies,CB,25,100 Tsd. €,Wuppertaler SV,2024
+Kilian Bielitza,CB,20,25 Tsd. €,Wuppertaler SV,2024
+Levin Müller,RB,22,50 Tsd. €,Wuppertaler SV,2024
+Subaru Nishimura,RB,21,25 Tsd. €,Wuppertaler SV,2024
+Shinnosuke Nishi,RB,20,25 Tsd. €,Wuppertaler SV,2024
+Joep Munsters,CDM,23,50 Tsd. €,Wuppertaler SV,2024
+Dominik Bilogrevic,CDM,26,50 Tsd. €,Wuppertaler SV,2024
+Aday Ercan,CM,24,125 Tsd. €,Wuppertaler SV,2024
+Riccardo Grym,CM,25,50 Tsd. €,Wuppertaler SV,2024
+Yousef Qashi,CM,20,50 Tsd. €,Wuppertaler SV,2024
+Hugo Schmidt,CM,20,25 Tsd. €,Wuppertaler SV,2024
+Kevin Hagemann,LM,34,75 Tsd. €,Wuppertaler SV,2024
+Dilhan Demir,LM,21,50 Tsd. €,Wuppertaler SV,2024
+Semir Saric,CAM,27,100 Tsd. €,Wuppertaler SV,2024
+Beyhan Ametov,CAM,26,50 Tsd. €,Wuppertaler SV,2024
+Niek Munsters,CAM,23,50 Tsd. €,Wuppertaler SV,2024
+Dildar Atmaca,LW,22,50 Tsd. €,Wuppertaler SV,2024
+Timo Bornemann,RW,24,75 Tsd. €,Wuppertaler SV,2024
+Muhammed Bejdic,RW,20,25 Tsd. €,Wuppertaler SV,2024
+Marco Terrazzino,Second Striker,34,100 Tsd. €,Wuppertaler SV,2024
+Vincent Ocansey,ST,24,50 Tsd. €,Wuppertaler SV,2024
+Pedro Cejas,ST,24,50 Tsd. €,Wuppertaler SV,2024
+Etienne-Noel Reck,ST,20,25 Tsd. €,Wuppertaler SV,2024

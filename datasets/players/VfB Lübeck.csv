@@ -1,0 +1,356 @@
+name,position,age,value,team,season
+Jonas Toboll,GK,28,100 Tsd. €,VfB Lübeck,2014
+Briant Alberti,GK,22,50 Tsd. €,VfB Lübeck,2014
+Eric Schlomm,GK,23,25 Tsd. €,VfB Lübeck,2014
+Kennet Kostmann,GK,19,-,VfB Lübeck,2014
+Moritz Marheineke,CB,30,125 Tsd. €,VfB Lübeck,2014
+Dennis Wehrendt,CB,28,75 Tsd. €,VfB Lübeck,2014
+Sascha Steinfeldt,CB,24,50 Tsd. €,VfB Lübeck,2014
+Marcel Dümmel,CB,20,25 Tsd. €,VfB Lübeck,2014
+Ricardo Radina,CB,19,25 Tsd. €,VfB Lübeck,2014
+Derek Cornelius,CB,17,25 Tsd. €,VfB Lübeck,2014
+André Ladendorf,CB,26,-,VfB Lübeck,2014
+Christian Rave,CB,26,-,VfB Lübeck,2014
+Marvin Thiel,LB,20,50 Tsd. €,VfB Lübeck,2014
+Jan-André Sievers,RB,27,150 Tsd. €,VfB Lübeck,2014
+Patrick Bohnsack,RB,21,50 Tsd. €,VfB Lübeck,2014
+Kevin Wölk,CDM,30,100 Tsd. €,VfB Lübeck,2014
+Sven Theißen,CDM,26,75 Tsd. €,VfB Lübeck,2014
+Aleksandar Nogovic,CDM,22,75 Tsd. €,VfB Lübeck,2014
+Dennis Voß,CDM,23,75 Tsd. €,VfB Lübeck,2014
+Marcello Meyer,CDM,24,75 Tsd. €,VfB Lübeck,2014
+Nils Kjär,CDM,29,50 Tsd. €,VfB Lübeck,2014
+Tomek Pauer,CDM,21,50 Tsd. €,VfB Lübeck,2014
+Hayri Akcasu,CDM,24,25 Tsd. €,VfB Lübeck,2014
+Enes Dagli,CDM,18,-,VfB Lübeck,2014
+Finn Thomas,RM,27,75 Tsd. €,VfB Lübeck,2014
+Lukas Knechtel,LM,20,75 Tsd. €,VfB Lübeck,2014
+Kubilay Büyükdemir,CAM,17,-,VfB Lübeck,2014
+Maurice Maletzki,LW,23,100 Tsd. €,VfB Lübeck,2014
+Andre Senger,LW,26,100 Tsd. €,VfB Lübeck,2014
+Henrik Sirmais,RW,24,75 Tsd. €,VfB Lübeck,2014
+Arnold Suew,RW,23,50 Tsd. €,VfB Lübeck,2014
+Christopher Kramer,ST,25,100 Tsd. €,VfB Lübeck,2014
+Stefan Richter,ST,30,75 Tsd. €,VfB Lübeck,2014
+Thorben Wurr,ST,23,25 Tsd. €,VfB Lübeck,2014
+Timo Barendt,ST,19,-,VfB Lübeck,2014
+Cemal Sezer,ST,19,-,VfB Lübeck,2014
+Jonas Toboll,GK,29,125 Tsd. €,VfB Lübeck,2015
+Kennet Kostmann,GK,20,50 Tsd. €,VfB Lübeck,2015
+Eric Schlomm,GK,24,25 Tsd. €,VfB Lübeck,2015
+Moritz Marheineke,CB,31,150 Tsd. €,VfB Lübeck,2015
+Dennis Wehrendt,CB,29,75 Tsd. €,VfB Lübeck,2015
+Marc Lindenberg,CB,20,50 Tsd. €,VfB Lübeck,2015
+Derek Cornelius,CB,18,25 Tsd. €,VfB Lübeck,2015
+Marvin Thiel,LB,21,75 Tsd. €,VfB Lübeck,2015
+Cedric Szymczak,LB,18,25 Tsd. €,VfB Lübeck,2015
+Jan-André Sievers,RB,28,100 Tsd. €,VfB Lübeck,2015
+Patrick Bohnsack,RB,22,50 Tsd. €,VfB Lübeck,2015
+Aleksandar Nogovic,CDM,23,100 Tsd. €,VfB Lübeck,2015
+Dennis Voß,CDM,24,75 Tsd. €,VfB Lübeck,2015
+Marcello Meyer,CDM,25,50 Tsd. €,VfB Lübeck,2015
+Nils Kjär,CDM,30,50 Tsd. €,VfB Lübeck,2015
+Enes Dagli,CDM,19,25 Tsd. €,VfB Lübeck,2015
+Lukas Knechtel,LM,21,75 Tsd. €,VfB Lübeck,2015
+Kubilay Büyükdemir,CAM,18,50 Tsd. €,VfB Lübeck,2015
+Yannick Bremser,CAM,21,25 Tsd. €,VfB Lübeck,2015
+Andre Senger,LW,27,125 Tsd. €,VfB Lübeck,2015
+Maurice Maletzki,LW,24,100 Tsd. €,VfB Lübeck,2015
+Henrik Sirmais,RW,25,75 Tsd. €,VfB Lübeck,2015
+Christopher Kramer,ST,26,125 Tsd. €,VfB Lübeck,2015
+Stefan Richter,ST,31,75 Tsd. €,VfB Lübeck,2015
+Timo Barendt,ST,20,25 Tsd. €,VfB Lübeck,2015
+Cemal Sezer,ST,20,25 Tsd. €,VfB Lübeck,2015
+Jonas Toboll,GK,30,125 Tsd. €,VfB Lübeck,2016
+Alexander Langer,GK,23,50 Tsd. €,VfB Lübeck,2016
+Eric Schlomm,GK,25,25 Tsd. €,VfB Lübeck,2016
+Moritz Marheineke,CB,32,150 Tsd. €,VfB Lübeck,2016
+Dennis Wehrendt,CB,30,75 Tsd. €,VfB Lübeck,2016
+Marc Lindenberg,CB,21,50 Tsd. €,VfB Lübeck,2016
+Dominik Toschka,CB,19,-,VfB Lübeck,2016
+Marvin Thiel,LB,22,100 Tsd. €,VfB Lübeck,2016
+Andreas Gomig,LB,25,75 Tsd. €,VfB Lübeck,2016
+Cedric Szymczak,LB,19,25 Tsd. €,VfB Lübeck,2016
+Jan-André Sievers,RB,29,100 Tsd. €,VfB Lübeck,2016
+Junior Ebot-Etchi,RB,21,75 Tsd. €,VfB Lübeck,2016
+Patrick Bohnsack,RB,23,-,VfB Lübeck,2016
+Sven Mende,CDM,23,125 Tsd. €,VfB Lübeck,2016
+Aleksandar Nogovic,CDM,24,100 Tsd. €,VfB Lübeck,2016
+Marcello Meyer,CDM,26,75 Tsd. €,VfB Lübeck,2016
+Joshua Gebissa,CDM,22,50 Tsd. €,VfB Lübeck,2016
+Kevin Weggen,CDM,23,50 Tsd. €,VfB Lübeck,2016
+Enes Dagli,CDM,20,25 Tsd. €,VfB Lübeck,2016
+Nils Kjär,CDM,31,-,VfB Lübeck,2016
+Kubilay Büyükdemir,CAM,19,75 Tsd. €,VfB Lübeck,2016
+Abdullah Abou Rashed,CAM,19,25 Tsd. €,VfB Lübeck,2016
+Maurice Maletzki,LW,25,100 Tsd. €,VfB Lübeck,2016
+Henrik Sirmais,RW,26,50 Tsd. €,VfB Lübeck,2016
+Andy Akoteng-Bonsrah,RW,18,-,VfB Lübeck,2016
+Gary Noël,ST,27,100 Tsd. €,VfB Lübeck,2016
+Stefan Richter,ST,32,75 Tsd. €,VfB Lübeck,2016
+Panajiotis Haritos,ST,21,50 Tsd. €,VfB Lübeck,2016
+Ramyar Ismail,ST,29,25 Tsd. €,VfB Lübeck,2016
+Cemal Sezer,ST,21,25 Tsd. €,VfB Lübeck,2016
+Alessandro Gottschalk,ST,23,-,VfB Lübeck,2016
+Sören Todt,ST,18,-,VfB Lübeck,2016
+Benjamin Gommert,GK,33,125 Tsd. €,VfB Lübeck,2017
+Alexander Langer,GK,24,50 Tsd. €,VfB Lübeck,2017
+Jonas Neumeister,GK,20,-,VfB Lübeck,2017
+Moritz Marheineke,CB,33,150 Tsd. €,VfB Lübeck,2017
+Daniel Halke,CB,31,125 Tsd. €,VfB Lübeck,2017
+Tim Weißmann,CB,21,50 Tsd. €,VfB Lübeck,2017
+Dennis Wehrendt,CB,31,50 Tsd. €,VfB Lübeck,2017
+Eric Birkholz,CB,23,-,VfB Lübeck,2017
+Dominik Toschka,CB,20,-,VfB Lübeck,2017
+Krenar Svirca,CB,18,-,VfB Lübeck,2017
+Andreas Gomig,LB,26,75 Tsd. €,VfB Lübeck,2017
+Marvin Thiel,LB,23,75 Tsd. €,VfB Lübeck,2017
+Stefan Thelen,RB,26,100 Tsd. €,VfB Lübeck,2017
+Sven Mende,CDM,24,150 Tsd. €,VfB Lübeck,2017
+Aleksandar Nogovic,CDM,25,75 Tsd. €,VfB Lübeck,2017
+Joshua Gebissa,CDM,23,50 Tsd. €,VfB Lübeck,2017
+Burhan Tetik,CDM,18,-,VfB Lübeck,2017
+Yannick Deichmann,RM,23,150 Tsd. €,VfB Lübeck,2017
+Gökay Isitan,CAM,26,100 Tsd. €,VfB Lübeck,2017
+Nico Löffler,CAM,20,75 Tsd. €,VfB Lübeck,2017
+Dennis Hoins,CAM,25,75 Tsd. €,VfB Lübeck,2017
+Abdullah Abou Rashed,CAM,20,25 Tsd. €,VfB Lübeck,2017
+Henrik Sirmais,RW,27,75 Tsd. €,VfB Lübeck,2017
+Tim Queckenstedt,RW,20,25 Tsd. €,VfB Lübeck,2017
+Gary Noël,ST,28,100 Tsd. €,VfB Lübeck,2017
+Stefan Richter,ST,33,75 Tsd. €,VfB Lübeck,2017
+Leon Dippert,ST,22,50 Tsd. €,VfB Lübeck,2017
+Cemal Sezer,ST,22,50 Tsd. €,VfB Lübeck,2017
+Sören Todt,ST,19,25 Tsd. €,VfB Lübeck,2017
+Til Weidemann,ST,19,-,VfB Lübeck,2017
+Benjamin Gommert,GK,34,100 Tsd. €,VfB Lübeck,2018
+Kevin Tittel,GK,25,75 Tsd. €,VfB Lübeck,2018
+Malte Schuchardt,GK,20,50 Tsd. €,VfB Lübeck,2018
+Christian Spolert,GK,23,-,VfB Lübeck,2018
+Tommy Grupe,CB,27,175 Tsd. €,VfB Lübeck,2018
+Daniel Halke,CB,32,125 Tsd. €,VfB Lübeck,2018
+Tim Weißmann,CB,22,100 Tsd. €,VfB Lübeck,2018
+Dong-su Kim,CB,24,50 Tsd. €,VfB Lübeck,2018
+Hendrik Bombek,CB,20,25 Tsd. €,VfB Lübeck,2018
+Krenar Svirca,CB,19,25 Tsd. €,VfB Lübeck,2018
+Marvin Thiel,LB,24,100 Tsd. €,VfB Lübeck,2018
+Andreas Gomig,LB,27,-,VfB Lübeck,2018
+Corvin Bock,RB,20,25 Tsd. €,VfB Lübeck,2018
+Kenny Korup,RB,20,-,VfB Lübeck,2018
+Sven Mende,CDM,25,150 Tsd. €,VfB Lübeck,2018
+Aleksandar Nogovic,CDM,26,75 Tsd. €,VfB Lübeck,2018
+Lerom Shalom,Midfielder,21,25 Tsd. €,VfB Lübeck,2018
+Burhan Tetik,CDM,19,25 Tsd. €,VfB Lübeck,2018
+Yannick Deichmann,RM,24,150 Tsd. €,VfB Lübeck,2018
+Florian Riedel,RM,29,100 Tsd. €,VfB Lübeck,2018
+Kresimir Matovina,LM,27,75 Tsd. €,VfB Lübeck,2018
+Ahmet Arslan,CAM,25,200 Tsd. €,VfB Lübeck,2018
+Dennis Hoins,CAM,26,100 Tsd. €,VfB Lübeck,2018
+Nico Löffler,CAM,21,50 Tsd. €,VfB Lübeck,2018
+Tim Queckenstedt,RW,21,-,VfB Lübeck,2018
+Daniel Franziskus,ST,27,175 Tsd. €,VfB Lübeck,2018
+Cemal Sezer,ST,23,100 Tsd. €,VfB Lübeck,2018
+Patrick Hobsch,ST,24,100 Tsd. €,VfB Lübeck,2018
+Stefan Richter,ST,34,50 Tsd. €,VfB Lübeck,2018
+Leon Dippert,ST,23,50 Tsd. €,VfB Lübeck,2018
+Lucas Will,ST,20,25 Tsd. €,VfB Lübeck,2018
+Til Weidemann,ST,20,25 Tsd. €,VfB Lübeck,2018
+Fabio Parduhn,ST,24,25 Tsd. €,VfB Lübeck,2018
+Lukas Raeder,GK,26,125 Tsd. €,VfB Lübeck,2019
+Benjamin Gommert,GK,35,75 Tsd. €,VfB Lübeck,2019
+Malte Schuchardt,GK,21,50 Tsd. €,VfB Lübeck,2019
+Michael Luyambula,GK,21,-,VfB Lübeck,2019
+Ryan Malone,CB,27,175 Tsd. €,VfB Lübeck,2019
+Tommy Grupe,CB,28,175 Tsd. €,VfB Lübeck,2019
+Tim Weißmann,CB,23,125 Tsd. €,VfB Lübeck,2019
+Dong-su Kim,CB,25,75 Tsd. €,VfB Lübeck,2019
+Daniel Halke,CB,33,75 Tsd. €,VfB Lübeck,2019
+Sören Lippert,CB,20,50 Tsd. €,VfB Lübeck,2019
+Hendrik Bombek,CB,21,25 Tsd. €,VfB Lübeck,2019
+Nico Rieble,LB,24,225 Tsd. €,VfB Lübeck,2019
+Marvin Thiel,LB,25,125 Tsd. €,VfB Lübeck,2019
+Morten Rüdiger,LB,25,100 Tsd. €,VfB Lübeck,2019
+Corvin Bock,RB,21,25 Tsd. €,VfB Lübeck,2019
+Mirko Boland,CDM,33,350 Tsd. €,VfB Lübeck,2019
+Sven Mende,CDM,26,150 Tsd. €,VfB Lübeck,2019
+Yannick Deichmann,RM,25,175 Tsd. €,VfB Lübeck,2019
+Florian Riedel,RM,30,150 Tsd. €,VfB Lübeck,2019
+Kresimir Matovina,LM,28,75 Tsd. €,VfB Lübeck,2019
+Ahmet Arslan,CAM,26,250 Tsd. €,VfB Lübeck,2019
+Thorben Deters,CAM,24,125 Tsd. €,VfB Lübeck,2019
+Marcel Schelle,CAM,22,100 Tsd. €,VfB Lübeck,2019
+Dennis Hoins,CAM,27,100 Tsd. €,VfB Lübeck,2019
+Elsamed Ramaj,LW,24,125 Tsd. €,VfB Lübeck,2019
+Zeki Erkilinc,LW,22,100 Tsd. €,VfB Lübeck,2019
+Miguel Fernandes,LW,23,50 Tsd. €,VfB Lübeck,2019
+Jamie Shalom,LW,18,-,VfB Lübeck,2019
+Patrick Hobsch,ST,25,125 Tsd. €,VfB Lübeck,2019
+Nicolas Hebisch,ST,30,100 Tsd. €,VfB Lübeck,2019
+Fabio Parduhn,ST,25,75 Tsd. €,VfB Lübeck,2019
+Lucas Will,ST,21,50 Tsd. €,VfB Lübeck,2019
+Lukas Raeder,GK,27,125 Tsd. €,VfB Lübeck,2020
+Michael Luyambula,GK,22,50 Tsd. €,VfB Lübeck,2020
+Benjamin Gommert,GK,36,25 Tsd. €,VfB Lübeck,2020
+Sjard Strauß,GK,17,-,VfB Lübeck,2020
+Christopher Barkmann,GK,17,-,VfB Lübeck,2020
+Osarenren Okungbowa,CB,27,225 Tsd. €,VfB Lübeck,2020
+Tommy Grupe,CB,29,200 Tsd. €,VfB Lübeck,2020
+Ryan Malone,CB,28,150 Tsd. €,VfB Lübeck,2020
+Tim Weißmann,CB,24,100 Tsd. €,VfB Lübeck,2020
+Moody Chana,CB,22,100 Tsd. €,VfB Lübeck,2020
+Sören Lippert,CB,21,75 Tsd. €,VfB Lübeck,2020
+Sebastian Hertner,LB,30,200 Tsd. €,VfB Lübeck,2020
+Nico Rieble,LB,25,175 Tsd. €,VfB Lübeck,2020
+Marvin Thiel,LB,26,125 Tsd. €,VfB Lübeck,2020
+Morten Rüdiger,LB,26,75 Tsd. €,VfB Lübeck,2020
+Brandel Crentsil,LB,22,-,VfB Lübeck,2020
+Tim Kircher,RB,22,125 Tsd. €,VfB Lübeck,2020
+Gustavo Melo,RB,20,-,VfB Lübeck,2020
+Ersin Zehir,CDM,23,300 Tsd. €,VfB Lübeck,2020
+Mirko Boland,CDM,34,200 Tsd. €,VfB Lübeck,2020
+Sven Mende,CDM,27,125 Tsd. €,VfB Lübeck,2020
+Dren Feka,CDM,24,75 Tsd. €,VfB Lübeck,2020
+Robin Bonilla,CDM,20,-,VfB Lübeck,2020
+Tarec Blohm,CDM,23,-,VfB Lübeck,2020
+Belal Ahmadi,CDM,18,-,VfB Lübeck,2020
+Leon Will,CDM,19,-,VfB Lübeck,2020
+Sven Freitag,CDM,19,-,VfB Lübeck,2020
+Lucas Wolf,CM,19,50 Tsd. €,VfB Lübeck,2020
+Yannick Deichmann,RM,26,250 Tsd. €,VfB Lübeck,2020
+Florian Riedel,RM,31,125 Tsd. €,VfB Lübeck,2020
+Martin Röser,CAM,30,150 Tsd. €,VfB Lübeck,2020
+Thorben Deters,CAM,25,150 Tsd. €,VfB Lübeck,2020
+Vjekoslav Taritas,CAM,21,-,VfB Lübeck,2020
+Elsamed Ramaj,LW,25,125 Tsd. €,VfB Lübeck,2020
+Jamie Shalom,LW,19,25 Tsd. €,VfB Lübeck,2020
+Mika Urbanski,LW,18,-,VfB Lübeck,2020
+Pascal Steinwender,RW,24,200 Tsd. €,VfB Lübeck,2020
+Jeremy Haering,RW,18,-,VfB Lübeck,2020
+Cyrill Akono,ST,21,300 Tsd. €,VfB Lübeck,2020
+Soufian Benyamina,ST,31,175 Tsd. €,VfB Lübeck,2020
+Patrick Hobsch,ST,26,100 Tsd. €,VfB Lübeck,2020
+Nicolas Hebisch,ST,31,75 Tsd. €,VfB Lübeck,2020
+Kaniwar Uzun,ST,21,-,VfB Lübeck,2020
+Keenon Erfurth,ST,19,-,VfB Lübeck,2020
+Eric Gründemann,GK,23,100 Tsd. €,VfB Lübeck,2021
+Julius Schmid,GK,21,75 Tsd. €,VfB Lübeck,2021
+Sjard Strauß,GK,18,-,VfB Lübeck,2021
+José Aguirre,GK,18,-,VfB Lübeck,2021
+Tommy Grupe,CB,30,175 Tsd. €,VfB Lübeck,2021
+Calvin Brackelmann,CB,22,150 Tsd. €,VfB Lübeck,2021
+Fynn Kleeschätzky,CB,21,75 Tsd. €,VfB Lübeck,2021
+Aron Andreasson,CB,22,50 Tsd. €,VfB Lübeck,2021
+Lasse Jetz,CB,19,-,VfB Lübeck,2021
+Samuel Abifade,LB,22,125 Tsd. €,VfB Lübeck,2021
+Jan Lippegaus,LB,19,75 Tsd. €,VfB Lübeck,2021
+Morten Rüdiger,LB,27,75 Tsd. €,VfB Lübeck,2021
+Robin Kölle,RB,21,100 Tsd. €,VfB Lübeck,2021
+Gregory Kuisch,RB,22,50 Tsd. €,VfB Lübeck,2021
+Mattis Daube,RB,24,50 Tsd. €,VfB Lübeck,2021
+Mirko Boland,CDM,35,125 Tsd. €,VfB Lübeck,2021
+Alexander Schmitt,CDM,26,50 Tsd. €,VfB Lübeck,2021
+Sven Freitag,CDM,20,10 Tsd. €,VfB Lübeck,2021
+Belal Ahmadi,CDM,19,-,VfB Lübeck,2021
+Minou Tsimba-Eggers,CDM,24,-,VfB Lübeck,2021
+Mateusz Ciapa,CM,22,125 Tsd. €,VfB Lübeck,2021
+Vjekoslav Taritas,CAM,22,75 Tsd. €,VfB Lübeck,2021
+Jamie Shalom,LW,20,25 Tsd. €,VfB Lübeck,2021
+Mika Urbanski,LW,19,-,VfB Lübeck,2021
+Robin Krolikowski,RW,23,50 Tsd. €,VfB Lübeck,2021
+Yasin Varol,RW,18,-,VfB Lübeck,2021
+Cemal Sezer,ST,26,75 Tsd. €,VfB Lübeck,2021
+Malek Fakhro,ST,24,50 Tsd. €,VfB Lübeck,2021
+Nathaniel Amamoo,ST,24,50 Tsd. €,VfB Lübeck,2021
+Kaniwar Uzun,ST,22,25 Tsd. €,VfB Lübeck,2021
+Ben Bäßler,ST,19,-,VfB Lübeck,2021
+Oskar von Esebeck,ST,18,-,VfB Lübeck,2021
+Florian Kirschke,GK,31,125 Tsd. €,VfB Lübeck,2022
+Eric Gründemann,GK,24,75 Tsd. €,VfB Lübeck,2022
+Christopher Barkmann,GK,19,10 Tsd. €,VfB Lübeck,2022
+José Aguirre,GK,19,10 Tsd. €,VfB Lübeck,2022
+Tommy Grupe,CB,31,200 Tsd. €,VfB Lübeck,2022
+Jannik Löhden,CB,33,125 Tsd. €,VfB Lübeck,2022
+Niklas Kastenhofer,CB,24,125 Tsd. €,VfB Lübeck,2022
+Noah Plume,CB,26,100 Tsd. €,VfB Lübeck,2022
+Lasse Jetz,CB,20,25 Tsd. €,VfB Lübeck,2022
+Fawaz Kassimou,CB,20,25 Tsd. €,VfB Lübeck,2022
+Janek Sternberg,LB,30,150 Tsd. €,VfB Lübeck,2022
+Morten Rüdiger,LB,28,100 Tsd. €,VfB Lübeck,2022
+Marvin Thiel,LB,28,75 Tsd. €,VfB Lübeck,2022
+Jan Lippegaus,LB,20,25 Tsd. €,VfB Lübeck,2022
+Robin Kölle,RB,22,150 Tsd. €,VfB Lübeck,2022
+Mattis Daube,RB,25,75 Tsd. €,VfB Lübeck,2022
+Florian Egerer,CDM,25,175 Tsd. €,VfB Lübeck,2022
+Mirko Boland,CDM,36,125 Tsd. €,VfB Lübeck,2022
+Sven Freitag,CDM,21,10 Tsd. €,VfB Lübeck,2022
+Tarik Gözüsirin,CM,21,175 Tsd. €,VfB Lübeck,2022
+Marius Hauptmann,RM,23,150 Tsd. €,VfB Lübeck,2022
+Vjekoslav Taritas,CAM,23,75 Tsd. €,VfB Lübeck,2022
+Manuel Farrona Pulido,LW,30,150 Tsd. €,VfB Lübeck,2022
+Felix Drinkuth,RW,28,150 Tsd. €,VfB Lübeck,2022
+Emanuel Adou,RW,21,-,VfB Lübeck,2022
+Kimmo Hovi,ST,29,100 Tsd. €,VfB Lübeck,2022
+Mats Facklam,ST,26,100 Tsd. €,VfB Lübeck,2022
+Oskar von Esebeck,ST,19,25 Tsd. €,VfB Lübeck,2022
+Keenon Erfurth,ST,21,-,VfB Lübeck,2022
+Yannic Stein,GK,19,200 Tsd. €,VfB Lübeck,2023
+Philipp Klewin,GK,30,175 Tsd. €,VfB Lübeck,2023
+Gavin Didzilatis,GK,22,50 Tsd. €,VfB Lübeck,2023
+Florian Kirschke,GK,32,-,VfB Lübeck,2023
+Domenik Krause,GK,20,-,VfB Lübeck,2023
+Phillip Diestel,GK,17,-,VfB Lübeck,2023
+Sören Reddemann,CB,28,150 Tsd. €,VfB Lübeck,2023
+Niklas Kastenhofer,CB,25,125 Tsd. €,VfB Lübeck,2023
+Tommy Grupe,CB,32,100 Tsd. €,VfB Lübeck,2023
+Jannik Löhden,CB,34,100 Tsd. €,VfB Lübeck,2023
+Noah Plume,CB,27,75 Tsd. €,VfB Lübeck,2023
+Jannik Westphal,CB,19,50 Tsd. €,VfB Lübeck,2023
+Janek Sternberg,LB,31,125 Tsd. €,VfB Lübeck,2023
+Marvin Thiel,LB,29,100 Tsd. €,VfB Lübeck,2023
+Morten Rüdiger,LB,29,100 Tsd. €,VfB Lübeck,2023
+Leon Sommer,RB,23,175 Tsd. €,VfB Lübeck,2023
+Robin Kölle,RB,23,100 Tsd. €,VfB Lübeck,2023
+Mattis Daube,RB,26,75 Tsd. €,VfB Lübeck,2023
+Florian Egerer,CDM,26,150 Tsd. €,VfB Lübeck,2023
+Ulrich Taffertshofer,CDM,32,150 Tsd. €,VfB Lübeck,2023
+Mirko Boland,CDM,37,100 Tsd. €,VfB Lübeck,2023
+Tarik Gözüsirin,CM,22,250 Tsd. €,VfB Lübeck,2023
+Aaron Herzog,CM,26,125 Tsd. €,VfB Lübeck,2023
+Hanno Behrens,CM,34,100 Tsd. €,VfB Lübeck,2023
+Marius Hauptmann,RM,24,150 Tsd. €,VfB Lübeck,2023
+Robin Velasco,LW,22,200 Tsd. €,VfB Lübeck,2023
+Manuel Farrona Pulido,LW,31,125 Tsd. €,VfB Lübeck,2023
+Jan-Marc Schneider,RW,30,175 Tsd. €,VfB Lübeck,2023
+Felix Drinkuth,RW,29,125 Tsd. €,VfB Lübeck,2023
+Emanuel Adou,RW,22,50 Tsd. €,VfB Lübeck,2023
+Yasin Varol,RW,20,-,VfB Lübeck,2023
+Mika Lehnfeld,RW,18,-,VfB Lübeck,2023
+Daouda Beleme,ST,23,175 Tsd. €,VfB Lübeck,2023
+Cyrill Akono,ST,24,150 Tsd. €,VfB Lübeck,2023
+Pascal Breier,ST,32,125 Tsd. €,VfB Lübeck,2023
+Mats Facklam,ST,27,100 Tsd. €,VfB Lübeck,2023
+Kimmo Hovi,ST,30,75 Tsd. €,VfB Lübeck,2023
+Noah Oberbeck,GK,22,75 Tsd. €,VfB Lübeck,2024
+Gavin Didzilatis,GK,23,75 Tsd. €,VfB Lübeck,2024
+Phillip Diestel,GK,18,-,VfB Lübeck,2024
+Luca Menke,CB,24,100 Tsd. €,VfB Lübeck,2024
+Jannik Westphal,CB,20,100 Tsd. €,VfB Lübeck,2024
+Kevin Bukusu,CB,24,75 Tsd. €,VfB Lübeck,2024
+Bent Andresen,LB,22,75 Tsd. €,VfB Lübeck,2024
+Marvin Thiel,LB,30,75 Tsd. €,VfB Lübeck,2024
+Lukas Schmitt,LB,19,10 Tsd. €,VfB Lübeck,2024
+Leon Sommer,RB,24,150 Tsd. €,VfB Lübeck,2024
+Robin Kölle,RB,24,100 Tsd. €,VfB Lübeck,2024
+Jakob Korte,CDM,21,200 Tsd. €,VfB Lübeck,2024
+Tom Geerkens,CDM,24,150 Tsd. €,VfB Lübeck,2024
+Julian Albrecht,CM,23,125 Tsd. €,VfB Lübeck,2024
+Jorik Wulff,CM,24,75 Tsd. €,VfB Lübeck,2024
+Morten Wahl,CAM,25,25 Tsd. €,VfB Lübeck,2024
+Manuel Farrona Pulido,LW,32,100 Tsd. €,VfB Lübeck,2024
+Felix Drinkuth,RW,30,100 Tsd. €,VfB Lübeck,2024
+Mika Lehnfeld,RW,19,50 Tsd. €,VfB Lübeck,2024
+Perry Dodoo,RW,23,-,VfB Lübeck,2024
+Herdi Bukusu,ST,25,100 Tsd. €,VfB Lübeck,2024
+John Posselt,ST,21,75 Tsd. €,VfB Lübeck,2024
+Moritz Göttel,ST,32,75 Tsd. €,VfB Lübeck,2024
+Ramiz Demir,ST,20,25 Tsd. €,VfB Lübeck,2024

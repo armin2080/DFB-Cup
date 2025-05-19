@@ -1,0 +1,383 @@
+name,position,age,value,team,season
+Ramazan Özcan,GK,31,800 Tsd. €,FC Ingolstadt 04,2014
+André Weis,GK,25,300 Tsd. €,FC Ingolstadt 04,2014
+Christian Ortag,GK,20,100 Tsd. €,FC Ingolstadt 04,2014
+Benjamin Hübner,CB,25,"1,20 Mio. €",FC Ingolstadt 04,2014
+Danny da Costa,CB,21,"1,00 Mio. €",FC Ingolstadt 04,2014
+Marvin Matip,CB,29,900 Tsd. €,FC Ingolstadt 04,2014
+Roger Bernardo,CB,29,700 Tsd. €,FC Ingolstadt 04,2014
+Andre Mijatovic,CB,35,300 Tsd. €,FC Ingolstadt 04,2014
+Robert Bauer,CB,20,300 Tsd. €,FC Ingolstadt 04,2014
+Ralph Gunesch,CB,31,300 Tsd. €,FC Ingolstadt 04,2014
+Michael Zant,CB,19,100 Tsd. €,FC Ingolstadt 04,2014
+Danilo Soares,LB,23,"1,00 Mio. €",FC Ingolstadt 04,2014
+Konstantin Engel,LB,26,450 Tsd. €,FC Ingolstadt 04,2014
+Leon Jessen,LB,29,300 Tsd. €,FC Ingolstadt 04,2014
+Steffen Jainta,LB,22,75 Tsd. €,FC Ingolstadt 04,2014
+Tobias Levels,RB,28,600 Tsd. €,FC Ingolstadt 04,2014
+Max Christiansen,CDM,18,500 Tsd. €,FC Ingolstadt 04,2014
+Stefan Wannenwetsch,CDM,23,300 Tsd. €,FC Ingolstadt 04,2014
+Pascal Groß,CM,24,"2,00 Mio. €",FC Ingolstadt 04,2014
+Alfredo Morales,CM,25,"1,00 Mio. €",FC Ingolstadt 04,2014
+Almog Cohen,CM,26,700 Tsd. €,FC Ingolstadt 04,2014
+Thomas Pledl,CAM,21,800 Tsd. €,FC Ingolstadt 04,2014
+Julian Günther-Schmidt,CAM,20,50 Tsd. €,FC Ingolstadt 04,2014
+Mathew Leckie,LW,24,"1,70 Mio. €",FC Ingolstadt 04,2014
+Stefan Lex,RW,25,800 Tsd. €,FC Ingolstadt 04,2014
+Christian Eigler,RW,31,400 Tsd. €,FC Ingolstadt 04,2014
+Lukas Hinterseer,ST,24,"1,00 Mio. €",FC Ingolstadt 04,2014
+Moritz Hartmann,ST,29,700 Tsd. €,FC Ingolstadt 04,2014
+Tomas Pekhart,ST,26,500 Tsd. €,FC Ingolstadt 04,2014
+Karl-Heinz Lappe,ST,27,350 Tsd. €,FC Ingolstadt 04,2014
+Ramazan Özcan,GK,32,"1,25 Mio. €",FC Ingolstadt 04,2015
+Ørjan Nyland,GK,25,"1,00 Mio. €",FC Ingolstadt 04,2015
+Christian Ortag,GK,21,100 Tsd. €,FC Ingolstadt 04,2015
+Benjamin Hübner,CB,26,"2,25 Mio. €",FC Ingolstadt 04,2015
+Roger Bernardo,CB,30,"1,25 Mio. €",FC Ingolstadt 04,2015
+Robert Bauer,CB,21,"1,25 Mio. €",FC Ingolstadt 04,2015
+Marvin Matip,CB,30,"1,25 Mio. €",FC Ingolstadt 04,2015
+Romain Brégerie,CB,29,"1,00 Mio. €",FC Ingolstadt 04,2015
+Danny da Costa,CB,22,"1,00 Mio. €",FC Ingolstadt 04,2015
+Thomas Blomeyer,CB,20,50 Tsd. €,FC Ingolstadt 04,2015
+Danilo Soares,LB,24,"1,50 Mio. €",FC Ingolstadt 04,2015
+Markus Suttner,LB,29,"1,50 Mio. €",FC Ingolstadt 04,2015
+Konstantin Engel,LB,27,500 Tsd. €,FC Ingolstadt 04,2015
+Tobias Levels,RB,29,"1,00 Mio. €",FC Ingolstadt 04,2015
+Max Christiansen,CDM,19,"2,00 Mio. €",FC Ingolstadt 04,2015
+Stefan Wannenwetsch,CDM,24,300 Tsd. €,FC Ingolstadt 04,2015
+Pascal Groß,CM,25,"4,00 Mio. €",FC Ingolstadt 04,2015
+Alfredo Morales,CM,26,"2,00 Mio. €",FC Ingolstadt 04,2015
+Almog Cohen,CM,27,600 Tsd. €,FC Ingolstadt 04,2015
+Thomas Pledl,CAM,22,500 Tsd. €,FC Ingolstadt 04,2015
+Mathew Leckie,LW,25,"2,00 Mio. €",FC Ingolstadt 04,2015
+Aloy Ihenacho,LW,20,50 Tsd. €,FC Ingolstadt 04,2015
+Stefan Lex,RW,26,"1,00 Mio. €",FC Ingolstadt 04,2015
+Maurice Multhaup,RW,19,300 Tsd. €,FC Ingolstadt 04,2015
+Darío Lezcano,ST,26,"3,00 Mio. €",FC Ingolstadt 04,2015
+Lukas Hinterseer,ST,25,"2,00 Mio. €",FC Ingolstadt 04,2015
+Elias Kachunga,ST,24,"1,50 Mio. €",FC Ingolstadt 04,2015
+Moritz Hartmann,ST,30,"1,00 Mio. €",FC Ingolstadt 04,2015
+Tomas Pekhart,ST,27,500 Tsd. €,FC Ingolstadt 04,2015
+Martin Hansen,GK,27,"1,20 Mio. €",FC Ingolstadt 04,2016
+Ørjan Nyland,GK,26,800 Tsd. €,FC Ingolstadt 04,2016
+Fabijan Buntic,GK,20,100 Tsd. €,FC Ingolstadt 04,2016
+Christian Ortag,GK,22,100 Tsd. €,FC Ingolstadt 04,2016
+Marcel Tisserand,CB,24,"3,00 Mio. €",FC Ingolstadt 04,2016
+Marvin Matip,CB,31,"1,50 Mio. €",FC Ingolstadt 04,2016
+Anthony Jung,CB,25,800 Tsd. €,FC Ingolstadt 04,2016
+Roger Bernardo,CB,31,750 Tsd. €,FC Ingolstadt 04,2016
+Hauke Wahl,CB,23,700 Tsd. €,FC Ingolstadt 04,2016
+Romain Brégerie,CB,30,600 Tsd. €,FC Ingolstadt 04,2016
+Giuseppe Leo,CB,22,75 Tsd. €,FC Ingolstadt 04,2016
+Markus Suttner,LB,30,"2,00 Mio. €",FC Ingolstadt 04,2016
+Florent Hadergjonaj,RB,22,"2,50 Mio. €",FC Ingolstadt 04,2016
+Tobias Levels,RB,30,"1,00 Mio. €",FC Ingolstadt 04,2016
+Max Christiansen,CDM,20,"1,50 Mio. €",FC Ingolstadt 04,2016
+Lukas Gerlspeck,CDM,18,100 Tsd. €,FC Ingolstadt 04,2016
+Nico Rinderknecht,CDM,19,100 Tsd. €,FC Ingolstadt 04,2016
+Pascal Groß,CM,26,"4,00 Mio. €",FC Ingolstadt 04,2016
+Almog Cohen,CM,28,"1,75 Mio. €",FC Ingolstadt 04,2016
+Alfredo Morales,CM,27,"1,50 Mio. €",FC Ingolstadt 04,2016
+Robert Leipertz,CAM,24,"1,00 Mio. €",FC Ingolstadt 04,2016
+Thomas Pledl,CAM,23,800 Tsd. €,FC Ingolstadt 04,2016
+Sonny Kittel,CAM,24,750 Tsd. €,FC Ingolstadt 04,2016
+Kerem Bülbül,CAM,22,150 Tsd. €,FC Ingolstadt 04,2016
+Mathew Leckie,LW,26,"2,50 Mio. €",FC Ingolstadt 04,2016
+Patrick Sussek,LW,17,-,FC Ingolstadt 04,2016
+Stefan Lex,RW,27,600 Tsd. €,FC Ingolstadt 04,2016
+Maurice Multhaup,RW,20,250 Tsd. €,FC Ingolstadt 04,2016
+Elias Kachunga,ST,25,"3,50 Mio. €",FC Ingolstadt 04,2016
+Darío Lezcano,ST,27,"3,00 Mio. €",FC Ingolstadt 04,2016
+Lukas Hinterseer,ST,26,"1,25 Mio. €",FC Ingolstadt 04,2016
+Moritz Hartmann,ST,31,750 Tsd. €,FC Ingolstadt 04,2016
+Martin Hansen,GK,28,"1,25 Mio. €",FC Ingolstadt 04,2017
+Ørjan Nyland,GK,27,800 Tsd. €,FC Ingolstadt 04,2017
+Marco Knaller,GK,31,400 Tsd. €,FC Ingolstadt 04,2017
+Fabijan Buntic,GK,21,100 Tsd. €,FC Ingolstadt 04,2017
+Marcel Tisserand,CB,25,"7,50 Mio. €",FC Ingolstadt 04,2017
+Tobias Schröck,CB,25,800 Tsd. €,FC Ingolstadt 04,2017
+Marvin Matip,CB,32,800 Tsd. €,FC Ingolstadt 04,2017
+Hauke Wahl,CB,24,700 Tsd. €,FC Ingolstadt 04,2017
+Romain Brégerie,CB,31,500 Tsd. €,FC Ingolstadt 04,2017
+Phil Neumann,CB,20,150 Tsd. €,FC Ingolstadt 04,2017
+Marcel Gaus,LB,28,700 Tsd. €,FC Ingolstadt 04,2017
+Paulo Otávio,LB,23,650 Tsd. €,FC Ingolstadt 04,2017
+Florent Hadergjonaj,RB,23,"5,00 Mio. €",FC Ingolstadt 04,2017
+Frederic Ananou,RB,20,500 Tsd. €,FC Ingolstadt 04,2017
+Tobias Levels,RB,31,400 Tsd. €,FC Ingolstadt 04,2017
+Christian Träsch,CDM,30,"1,25 Mio. €",FC Ingolstadt 04,2017
+Max Christiansen,CDM,21,800 Tsd. €,FC Ingolstadt 04,2017
+Maximilian Thalhammer,CDM,20,200 Tsd. €,FC Ingolstadt 04,2017
+Alfredo Morales,CM,28,"1,00 Mio. €",FC Ingolstadt 04,2017
+Almog Cohen,CM,29,"1,00 Mio. €",FC Ingolstadt 04,2017
+Takahiro Sekine,LM,23,600 Tsd. €,FC Ingolstadt 04,2017
+Sonny Kittel,CAM,25,"2,50 Mio. €",FC Ingolstadt 04,2017
+Thomas Pledl,CAM,24,"1,00 Mio. €",FC Ingolstadt 04,2017
+Robert Leipertz,CAM,25,750 Tsd. €,FC Ingolstadt 04,2017
+Patrick Sussek,LW,18,75 Tsd. €,FC Ingolstadt 04,2017
+Patrick Ebert,RW,31,600 Tsd. €,FC Ingolstadt 04,2017
+Stefan Lex,RW,28,400 Tsd. €,FC Ingolstadt 04,2017
+Darío Lezcano,ST,28,"2,00 Mio. €",FC Ingolstadt 04,2017
+Stefan Kutschke,ST,29,800 Tsd. €,FC Ingolstadt 04,2017
+Antonio Colak,ST,24,750 Tsd. €,FC Ingolstadt 04,2017
+Moritz Hartmann,ST,32,350 Tsd. €,FC Ingolstadt 04,2017
+Fatih Kaya,ST,18,-,FC Ingolstadt 04,2017
+Philipp Tschauner,GK,33,400 Tsd. €,FC Ingolstadt 04,2018
+Marco Knaller,GK,32,250 Tsd. €,FC Ingolstadt 04,2018
+Fabijan Buntic,GK,22,200 Tsd. €,FC Ingolstadt 04,2018
+Philipp Heerwagen,GK,36,150 Tsd. €,FC Ingolstadt 04,2018
+Lucas Galvão,CB,28,"1,50 Mio. €",FC Ingolstadt 04,2018
+Bjørn Paulsen,CB,27,750 Tsd. €,FC Ingolstadt 04,2018
+Benedikt Gimber,CB,22,650 Tsd. €,FC Ingolstadt 04,2018
+Phil Neumann,CB,21,500 Tsd. €,FC Ingolstadt 04,2018
+Tobias Schröck,CB,26,450 Tsd. €,FC Ingolstadt 04,2018
+Mergim Mavraj,CB,33,350 Tsd. €,FC Ingolstadt 04,2018
+Marvin Matip,CB,33,250 Tsd. €,FC Ingolstadt 04,2018
+Paulo Otávio,LB,24,"1,00 Mio. €",FC Ingolstadt 04,2018
+Marcel Gaus,LB,29,450 Tsd. €,FC Ingolstadt 04,2018
+Frederic Ananou,RB,21,450 Tsd. €,FC Ingolstadt 04,2018
+Maximilian Thalhammer,CDM,21,600 Tsd. €,FC Ingolstadt 04,2018
+Christian Träsch,CDM,31,500 Tsd. €,FC Ingolstadt 04,2018
+Robin Krauße,CDM,25,400 Tsd. €,FC Ingolstadt 04,2018
+Jonatan Kotzke,CDM,29,250 Tsd. €,FC Ingolstadt 04,2018
+Nico Rinderknecht,CDM,21,100 Tsd. €,FC Ingolstadt 04,2018
+Konstantin Kerschbaumer,CM,26,800 Tsd. €,FC Ingolstadt 04,2018
+Almog Cohen,CM,30,700 Tsd. €,FC Ingolstadt 04,2018
+Georgios Pintidis,CM,19,-,FC Ingolstadt 04,2018
+Takahiro Sekine,LM,24,500 Tsd. €,FC Ingolstadt 04,2018
+Sonny Kittel,CAM,26,"2,00 Mio. €",FC Ingolstadt 04,2018
+Thomas Pledl,CAM,25,"1,00 Mio. €",FC Ingolstadt 04,2018
+Robert Leipertz,CAM,26,600 Tsd. €,FC Ingolstadt 04,2018
+Joey Breitfeld,LW,22,100 Tsd. €,FC Ingolstadt 04,2018
+Cenk Şahin,RW,24,550 Tsd. €,FC Ingolstadt 04,2018
+Agyemang Diawusie,RW,21,450 Tsd. €,FC Ingolstadt 04,2018
+Darío Lezcano,ST,29,"1,75 Mio. €",FC Ingolstadt 04,2018
+Thorsten Röcher,ST,28,700 Tsd. €,FC Ingolstadt 04,2018
+Charlison Benschop,ST,29,500 Tsd. €,FC Ingolstadt 04,2018
+Osayamen Osawe,ST,25,450 Tsd. €,FC Ingolstadt 04,2018
+Stefan Kutschke,ST,30,450 Tsd. €,FC Ingolstadt 04,2018
+Fatih Kaya,ST,19,200 Tsd. €,FC Ingolstadt 04,2018
+Fabijan Buntic,GK,23,275 Tsd. €,FC Ingolstadt 04,2019
+Marco Knaller,GK,33,175 Tsd. €,FC Ingolstadt 04,2019
+Lukas Schellenberg,GK,19,50 Tsd. €,FC Ingolstadt 04,2019
+Maurice König,GK,19,-,FC Ingolstadt 04,2019
+Sebastian Süß,CB,21,-,FC Ingolstadt 04,2019
+Benedikt Gimber,CB,23,525 Tsd. €,FC Ingolstadt 04,2019
+Bjørn Paulsen,CB,28,450 Tsd. €,FC Ingolstadt 04,2019
+Tobias Schröck,CB,27,350 Tsd. €,FC Ingolstadt 04,2019
+Nico Antonitsch,CB,28,300 Tsd. €,FC Ingolstadt 04,2019
+Thomas Keller,CB,20,300 Tsd. €,FC Ingolstadt 04,2019
+Ünal Altintas,CB,21,-,FC Ingolstadt 04,2019
+Paul Polauke,CB,20,-,FC Ingolstadt 04,2019
+Maximilian Neuberger,CB,20,-,FC Ingolstadt 04,2019
+Marcel Gaus,LB,30,300 Tsd. €,FC Ingolstadt 04,2019
+Peter Kurzweg,LB,26,275 Tsd. €,FC Ingolstadt 04,2019
+Gordon Büch,LB,24,100 Tsd. €,FC Ingolstadt 04,2019
+Lukas Schröder,LB,18,-,FC Ingolstadt 04,2019
+Felix Bachmann,LB,20,-,FC Ingolstadt 04,2019
+Frederic Ananou,RB,22,325 Tsd. €,FC Ingolstadt 04,2019
+Michael Heinloth,RB,28,275 Tsd. €,FC Ingolstadt 04,2019
+Gabriel Weiß,RB,21,75 Tsd. €,FC Ingolstadt 04,2019
+Joseph Königsdorfer,RB,21,-,FC Ingolstadt 04,2019
+Maximilian Thalhammer,CDM,22,400 Tsd. €,FC Ingolstadt 04,2019
+Robin Krauße,CDM,26,325 Tsd. €,FC Ingolstadt 04,2019
+Jonatan Kotzke,CDM,30,200 Tsd. €,FC Ingolstadt 04,2019
+Konstantin Kerschbaumer,CM,27,650 Tsd. €,FC Ingolstadt 04,2019
+Georgios Pintidis,CM,20,100 Tsd. €,FC Ingolstadt 04,2019
+Noah Schorn,CM,21,-,FC Ingolstadt 04,2019
+Tim Kraus,CM,20,-,FC Ingolstadt 04,2019
+Caniggia Elva,CAM,23,250 Tsd. €,FC Ingolstadt 04,2019
+Maximilian Wolfram,LW,23,275 Tsd. €,FC Ingolstadt 04,2019
+Patrick Sussek,LW,20,200 Tsd. €,FC Ingolstadt 04,2019
+Agyemang Diawusie,RW,22,325 Tsd. €,FC Ingolstadt 04,2019
+Maximilian Beister,RW,29,300 Tsd. €,FC Ingolstadt 04,2019
+Filip Bilbija,RW,20,125 Tsd. €,FC Ingolstadt 04,2019
+Jalen Hawkins,RW,19,-,FC Ingolstadt 04,2019
+Justin Butler,RW,19,-,FC Ingolstadt 04,2019
+Philipp Herrmann,Second Striker,20,-,FC Ingolstadt 04,2019
+Dennis Eckert Ayensa,ST,23,600 Tsd. €,FC Ingolstadt 04,2019
+Stefan Kutschke,ST,31,325 Tsd. €,FC Ingolstadt 04,2019
+Fatih Kaya,ST,20,300 Tsd. €,FC Ingolstadt 04,2019
+Fabio Moreno Fell,ST,20,-,FC Ingolstadt 04,2019
+Fabijan Buntic,GK,24,300 Tsd. €,FC Ingolstadt 04,2020
+Robert Jendrusch,GK,25,175 Tsd. €,FC Ingolstadt 04,2020
+Lukas Schellenberg,GK,20,75 Tsd. €,FC Ingolstadt 04,2020
+Bjørn Paulsen,CB,29,500 Tsd. €,FC Ingolstadt 04,2020
+Tobias Schröck,CB,28,400 Tsd. €,FC Ingolstadt 04,2020
+Thomas Keller,CB,21,350 Tsd. €,FC Ingolstadt 04,2020
+Nico Antonitsch,CB,29,225 Tsd. €,FC Ingolstadt 04,2020
+Maximilian Neuberger,CB,21,-,FC Ingolstadt 04,2020
+Dominik Franke,LB,22,350 Tsd. €,FC Ingolstadt 04,2020
+Marcel Gaus,LB,31,325 Tsd. €,FC Ingolstadt 04,2020
+Peter Kurzweg,LB,27,225 Tsd. €,FC Ingolstadt 04,2020
+Gordon Büch,LB,25,100 Tsd. €,FC Ingolstadt 04,2020
+Lukas Schröder,LB,19,-,FC Ingolstadt 04,2020
+Michael Heinloth,RB,29,300 Tsd. €,FC Ingolstadt 04,2020
+Robin Krauße,CDM,27,275 Tsd. €,FC Ingolstadt 04,2020
+Jonatan Kotzke,CDM,31,175 Tsd. €,FC Ingolstadt 04,2020
+Marc Stendera,CM,25,700 Tsd. €,FC Ingolstadt 04,2020
+Rico Preißinger,CM,24,225 Tsd. €,FC Ingolstadt 04,2020
+Ilmari Niskanen,RM,23,300 Tsd. €,FC Ingolstadt 04,2020
+Merlin Röhl,CAM,18,300 Tsd. €,FC Ingolstadt 04,2020
+Caniggia Elva,CAM,24,275 Tsd. €,FC Ingolstadt 04,2020
+Arian Llugiqi,CAM,18,-,FC Ingolstadt 04,2020
+Caiuby,LW,32,250 Tsd. €,FC Ingolstadt 04,2020
+Patrick Sussek,LW,21,125 Tsd. €,FC Ingolstadt 04,2020
+Filip Bilbija,RW,21,350 Tsd. €,FC Ingolstadt 04,2020
+Maximilian Beister,RW,30,250 Tsd. €,FC Ingolstadt 04,2020
+Justin Butler,RW,20,125 Tsd. €,FC Ingolstadt 04,2020
+Jalen Hawkins,RW,20,100 Tsd. €,FC Ingolstadt 04,2020
+Thorsten Röcher,ST,30,650 Tsd. €,FC Ingolstadt 04,2020
+Dennis Eckert Ayensa,ST,24,600 Tsd. €,FC Ingolstadt 04,2020
+Fatih Kaya,ST,21,350 Tsd. €,FC Ingolstadt 04,2020
+Stefan Kutschke,ST,32,350 Tsd. €,FC Ingolstadt 04,2020
+Dejan Stojanovic,GK,28,500 Tsd. €,FC Ingolstadt 04,2021
+Fabijan Buntic,GK,25,250 Tsd. €,FC Ingolstadt 04,2021
+Robert Jendrusch,GK,26,150 Tsd. €,FC Ingolstadt 04,2021
+Lukas Schellenberg,GK,21,-,FC Ingolstadt 04,2021
+Markus Ponath,GK,21,-,FC Ingolstadt 04,2021
+Visar Musliu,CB,27,800 Tsd. €,FC Ingolstadt 04,2021
+Nils Röseler,CB,30,400 Tsd. €,FC Ingolstadt 04,2021
+Nikola Stevanovic,CB,23,400 Tsd. €,FC Ingolstadt 04,2021
+Thomas Keller,CB,22,400 Tsd. €,FC Ingolstadt 04,2021
+Tobias Schröck,CB,29,350 Tsd. €,FC Ingolstadt 04,2021
+Nico Antonitsch,CB,30,250 Tsd. €,FC Ingolstadt 04,2021
+Maximilian Neuberger,CB,22,200 Tsd. €,FC Ingolstadt 04,2021
+Silman El Baset,CB,21,50 Tsd. €,FC Ingolstadt 04,2021
+Dominik Franke,LB,23,350 Tsd. €,FC Ingolstadt 04,2021
+Andreas Poulsen,LB,22,300 Tsd. €,FC Ingolstadt 04,2021
+Marcel Gaus,LB,32,275 Tsd. €,FC Ingolstadt 04,2021
+Peter Kurzweg,LB,28,175 Tsd. €,FC Ingolstadt 04,2021
+Jan-Hendrik Marx,RB,27,300 Tsd. €,FC Ingolstadt 04,2021
+Michael Heinloth,RB,30,300 Tsd. €,FC Ingolstadt 04,2021
+Fabian Cavadias,RB,20,125 Tsd. €,FC Ingolstadt 04,2021
+Thomas Rausch,RB,22,-,FC Ingolstadt 04,2021
+Nunoo Sarpei,CDM,23,450 Tsd. €,FC Ingolstadt 04,2021
+Denis Linsmayer,CDM,30,400 Tsd. €,FC Ingolstadt 04,2021
+Yassin Ben Balla,CDM,26,350 Tsd. €,FC Ingolstadt 04,2021
+Jonatan Kotzke,CDM,32,150 Tsd. €,FC Ingolstadt 04,2021
+Nassim Boujellab,CM,23,400 Tsd. €,FC Ingolstadt 04,2021
+Marc Stendera,CM,26,400 Tsd. €,FC Ingolstadt 04,2021
+Rico Preißinger,CM,25,275 Tsd. €,FC Ingolstadt 04,2021
+Georgios Pintidis,CM,22,-,FC Ingolstadt 04,2021
+Mario Götzendörfer,CM,26,-,FC Ingolstadt 04,2021
+Felix Keidel,CM,19,-,FC Ingolstadt 04,2021
+Ilmari Niskanen,RM,24,450 Tsd. €,FC Ingolstadt 04,2021
+Merlin Röhl,CAM,19,800 Tsd. €,FC Ingolstadt 04,2021
+Caniggia Elva,CAM,25,200 Tsd. €,FC Ingolstadt 04,2021
+Arian Llugiqi,CAM,19,75 Tsd. €,FC Ingolstadt 04,2021
+Florian Pick,LW,26,500 Tsd. €,FC Ingolstadt 04,2021
+Patrick Sussek,LW,22,100 Tsd. €,FC Ingolstadt 04,2021
+Filip Bilbija,RW,22,800 Tsd. €,FC Ingolstadt 04,2021
+Christian Gebauer,RW,28,500 Tsd. €,FC Ingolstadt 04,2021
+Maximilian Beister,RW,31,200 Tsd. €,FC Ingolstadt 04,2021
+Jalen Hawkins,RW,21,175 Tsd. €,FC Ingolstadt 04,2021
+Justin Butler,RW,21,150 Tsd. €,FC Ingolstadt 04,2021
+Dennis Eckert Ayensa,ST,25,450 Tsd. €,FC Ingolstadt 04,2021
+Patrick Schmidt,ST,28,400 Tsd. €,FC Ingolstadt 04,2021
+Valmir Sulejmani,ST,26,400 Tsd. €,FC Ingolstadt 04,2021
+Fatih Kaya,ST,22,350 Tsd. €,FC Ingolstadt 04,2021
+Stefan Kutschke,ST,33,275 Tsd. €,FC Ingolstadt 04,2021
+Benjamin Causevic,ST,18,-,FC Ingolstadt 04,2021
+Jeroen Krupa,ST,19,-,FC Ingolstadt 04,2021
+Michael Udebuluzor,ST,18,-,FC Ingolstadt 04,2021
+Marius Funk,GK,27,250 Tsd. €,FC Ingolstadt 04,2022
+Markus Ponath,GK,22,100 Tsd. €,FC Ingolstadt 04,2022
+Enrique Bösl,GK,19,25 Tsd. €,FC Ingolstadt 04,2022
+Leopold Leimeister,GK,19,-,FC Ingolstadt 04,2022
+Maurice Dehler,GK,19,-,FC Ingolstadt 04,2022
+Visar Musliu,CB,28,500 Tsd. €,FC Ingolstadt 04,2022
+Tobias Schröck,CB,30,300 Tsd. €,FC Ingolstadt 04,2022
+Nico Antonitsch,CB,31,250 Tsd. €,FC Ingolstadt 04,2022
+Nikola Stevanovic,CB,24,250 Tsd. €,FC Ingolstadt 04,2022
+Calvin Brackelmann,CB,23,250 Tsd. €,FC Ingolstadt 04,2022
+Donald Nduka,CB,20,150 Tsd. €,FC Ingolstadt 04,2022
+Maximilian Neuberger,CB,23,125 Tsd. €,FC Ingolstadt 04,2022
+Dominik Franke,LB,24,250 Tsd. €,FC Ingolstadt 04,2022
+Marcel Costly,RB,27,300 Tsd. €,FC Ingolstadt 04,2022
+David Udogu,RB,20,125 Tsd. €,FC Ingolstadt 04,2022
+Thomas Rausch,RB,23,75 Tsd. €,FC Ingolstadt 04,2022
+Nunoo Sarpei,CDM,24,400 Tsd. €,FC Ingolstadt 04,2022
+Denis Linsmayer,CDM,31,250 Tsd. €,FC Ingolstadt 04,2022
+Rico Preißinger,CM,26,225 Tsd. €,FC Ingolstadt 04,2022
+Tim Civeja,CM,21,200 Tsd. €,FC Ingolstadt 04,2022
+Felix Keidel,CM,20,175 Tsd. €,FC Ingolstadt 04,2022
+David Kopacz,RM,24,300 Tsd. €,FC Ingolstadt 04,2022
+Maximilian Dittgen,LM,28,400 Tsd. €,FC Ingolstadt 04,2022
+Merlin Röhl,CAM,20,"2,00 Mio. €",FC Ingolstadt 04,2022
+Arian Llugiqi,CAM,20,150 Tsd. €,FC Ingolstadt 04,2022
+Justin Butler,RW,22,200 Tsd. €,FC Ingolstadt 04,2022
+Jalen Hawkins,RW,22,175 Tsd. €,FC Ingolstadt 04,2022
+Tobias Bech,ST,21,700 Tsd. €,FC Ingolstadt 04,2022
+Pascal Testroet,ST,32,450 Tsd. €,FC Ingolstadt 04,2022
+Patrick Schmidt,ST,29,350 Tsd. €,FC Ingolstadt 04,2022
+Valmir Sulejmani,ST,27,300 Tsd. €,FC Ingolstadt 04,2022
+Moussa Doumbouya,ST,25,225 Tsd. €,FC Ingolstadt 04,2022
+Jeroen Krupa,ST,20,-,FC Ingolstadt 04,2022
+Marius Funk,GK,28,225 Tsd. €,FC Ingolstadt 04,2023
+Markus Ponath,GK,23,75 Tsd. €,FC Ingolstadt 04,2023
+Maurice Dehler,GK,20,50 Tsd. €,FC Ingolstadt 04,2023
+Enrique Bösl,GK,20,25 Tsd. €,FC Ingolstadt 04,2023
+Leopold Leimeister,GK,20,-,FC Ingolstadt 04,2023
+Simon Lorenz,CB,27,550 Tsd. €,FC Ingolstadt 04,2023
+Ryan Malone,CB,31,300 Tsd. €,FC Ingolstadt 04,2023
+Mladen Cvjetinovic,CB,20,300 Tsd. €,FC Ingolstadt 04,2023
+Tobias Schröck,CB,31,150 Tsd. €,FC Ingolstadt 04,2023
+Donald Nduka,CB,21,150 Tsd. €,FC Ingolstadt 04,2023
+Elias Decker,CB,18,-,FC Ingolstadt 04,2023
+Leon Guwara,LB,28,250 Tsd. €,FC Ingolstadt 04,2023
+Moritz Seiffert,LB,23,250 Tsd. €,FC Ingolstadt 04,2023
+Marcel Costly,RB,28,350 Tsd. €,FC Ingolstadt 04,2023
+David Udogu,RB,21,100 Tsd. €,FC Ingolstadt 04,2023
+Herbert Paul,RB,30,75 Tsd. €,FC Ingolstadt 04,2023
+Thomas Rausch,RB,24,75 Tsd. €,FC Ingolstadt 04,2023
+Fabian Cavadias,RB,22,-,FC Ingolstadt 04,2023
+Lukas Fröde,CDM,29,400 Tsd. €,FC Ingolstadt 04,2023
+Max Plath,CDM,18,-,FC Ingolstadt 04,2023
+Mustafa Özden,CDM,18,-,FC Ingolstadt 04,2023
+Emre Gül,CDM,19,-,FC Ingolstadt 04,2023
+Felix Keidel,CM,21,275 Tsd. €,FC Ingolstadt 04,2023
+Bryang Kayo,CM,21,275 Tsd. €,FC Ingolstadt 04,2023
+David Kopacz,RM,25,350 Tsd. €,FC Ingolstadt 04,2023
+Yannick Deichmann,RM,29,325 Tsd. €,FC Ingolstadt 04,2023
+Benjamin Kanuric,LM,21,450 Tsd. €,FC Ingolstadt 04,2023
+Maximilian Dittgen,LM,29,300 Tsd. €,FC Ingolstadt 04,2023
+Arian Llugiqi,CAM,21,150 Tsd. €,FC Ingolstadt 04,2023
+Jannik Mause,ST,25,700 Tsd. €,FC Ingolstadt 04,2023
+Sebastian Grönning,ST,27,500 Tsd. €,FC Ingolstadt 04,2023
+Pascal Testroet,ST,33,350 Tsd. €,FC Ingolstadt 04,2023
+Daouda Beleme,ST,23,175 Tsd. €,FC Ingolstadt 04,2023
+Ognjen Drakulic,ST,18,150 Tsd. €,FC Ingolstadt 04,2023
+Julian Kügel,ST,27,150 Tsd. €,FC Ingolstadt 04,2023
+Michael Udebuluzor,ST,20,50 Tsd. €,FC Ingolstadt 04,2023
+Jeroen Krupa,ST,21,50 Tsd. €,FC Ingolstadt 04,2023
+Deniz Zeitler,ST,17,-,FC Ingolstadt 04,2023
+Pelle Boevink,GK,27,400 Tsd. €,FC Ingolstadt 04,2024
+Marius Funk,GK,29,200 Tsd. €,FC Ingolstadt 04,2024
+Maurice Dehler,GK,21,50 Tsd. €,FC Ingolstadt 04,2024
+Simon Lorenz,CB,28,500 Tsd. €,FC Ingolstadt 04,2024
+Mladen Cvjetinovic,CB,21,400 Tsd. €,FC Ingolstadt 04,2024
+Ryan Malone,CB,32,275 Tsd. €,FC Ingolstadt 04,2024
+Elias Decker,CB,19,250 Tsd. €,FC Ingolstadt 04,2024
+Luca Lechner,CB,20,-,FC Ingolstadt 04,2024
+Leon Guwara,LB,28,200 Tsd. €,FC Ingolstadt 04,2024
+Niclas Dühring,LB,21,200 Tsd. €,FC Ingolstadt 04,2024
+Moritz Seiffert,LB,24,200 Tsd. €,FC Ingolstadt 04,2024
+Marcel Costly,RB,29,350 Tsd. €,FC Ingolstadt 04,2024
+Mattis Hoppe,RB,21,175 Tsd. €,FC Ingolstadt 04,2024
+Lukas Fröde,CDM,30,400 Tsd. €,FC Ingolstadt 04,2024
+Max Plath,CDM,19,225 Tsd. €,FC Ingolstadt 04,2024
+Emre Gül,CDM,20,-,FC Ingolstadt 04,2024
+Max Besuschkow,CM,27,600 Tsd. €,FC Ingolstadt 04,2024
+Felix Keidel,CM,21,300 Tsd. €,FC Ingolstadt 04,2024
+David Kopacz,RM,25,350 Tsd. €,FC Ingolstadt 04,2024
+Yannick Deichmann,RM,30,300 Tsd. €,FC Ingolstadt 04,2024
+Gustav Christensen,LM,20,500 Tsd. €,FC Ingolstadt 04,2024
+Benjamin Kanuric,LM,22,450 Tsd. €,FC Ingolstadt 04,2024
+Berkay Öztürk,CAM,20,50 Tsd. €,FC Ingolstadt 04,2024
+Deniz Zeitler,ST,18,900 Tsd. €,FC Ingolstadt 04,2024
+Sebastian Grönning,ST,28,700 Tsd. €,FC Ingolstadt 04,2024
+Dennis Borkowski,ST,23,350 Tsd. €,FC Ingolstadt 04,2024
+Pascal Testroet,ST,34,300 Tsd. €,FC Ingolstadt 04,2024
+Tim Heike,ST,25,225 Tsd. €,FC Ingolstadt 04,2024
+Ognjen Drakulic,ST,19,150 Tsd. €,FC Ingolstadt 04,2024

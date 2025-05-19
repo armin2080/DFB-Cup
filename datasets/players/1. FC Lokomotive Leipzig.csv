@@ -1,0 +1,303 @@
+name,position,age,value,team,season
+Sanel Boric,GK,27,-,1. FC Lokomotive Leipzig,2014
+Julien Latendresse-Levesque,GK,24,-,1. FC Lokomotive Leipzig,2014
+Lovre Rogic,GK,19,-,1. FC Lokomotive Leipzig,2014
+Christopher Schulz,GK,19,-,1. FC Lokomotive Leipzig,2014
+Damian Paszlinski,CB,23,-,1. FC Lokomotive Leipzig,2014
+Markus Krug,CB,26,-,1. FC Lokomotive Leipzig,2014
+Armin Kilz,CB,27,-,1. FC Lokomotive Leipzig,2014
+Erik Heynke,CB,21,-,1. FC Lokomotive Leipzig,2014
+Ronny Surma,CB,27,-,1. FC Lokomotive Leipzig,2014
+Dustin Scheibe,RB,22,-,1. FC Lokomotive Leipzig,2014
+Gino Böhne,RB,22,-,1. FC Lokomotive Leipzig,2014
+Albrecht Brumme,CDM,25,-,1. FC Lokomotive Leipzig,2014
+Hiromu Watahiki,CDM,27,-,1. FC Lokomotive Leipzig,2014
+Sebastian Dräger,CDM,25,-,1. FC Lokomotive Leipzig,2014
+Christoph Schmidt,Midfielder,22,-,1. FC Lokomotive Leipzig,2014
+Philip Dönicke,Midfielder,19,-,1. FC Lokomotive Leipzig,2014
+Duy Anh Do,CM,19,-,1. FC Lokomotive Leipzig,2014
+Andy Wendschuch,CM,27,-,1. FC Lokomotive Leipzig,2014
+Sebastian Zielinsky,RM,27,-,1. FC Lokomotive Leipzig,2014
+Dominic Schöps,RM,21,-,1. FC Lokomotive Leipzig,2014
+Marcel Trojandt,LM,25,-,1. FC Lokomotive Leipzig,2014
+Ondrej Brusch,LM,27,-,1. FC Lokomotive Leipzig,2014
+Norikazu Murakami,CAM,33,-,1. FC Lokomotive Leipzig,2014
+Carlos Brinsa,RW,21,-,1. FC Lokomotive Leipzig,2014
+Ramón Hofmann,RW,21,-,1. FC Lokomotive Leipzig,2014
+Djamal Ziane,ST,23,75 Tsd. €,1. FC Lokomotive Leipzig,2014
+Alexander Langner,ST,20,-,1. FC Lokomotive Leipzig,2014
+Steve Rolleder,ST,32,-,1. FC Lokomotive Leipzig,2014
+Gianluca Marzullo,ST,24,-,1. FC Lokomotive Leipzig,2014
+Carlo Purrucker,ST,18,-,1. FC Lokomotive Leipzig,2014
+Marijo Kresic,ST,19,-,1. FC Lokomotive Leipzig,2014
+Maximilian Premßler,ST,19,-,1. FC Lokomotive Leipzig,2014
+Alexander Glaser,GK,23,-,1. FC Lokomotive Leipzig,2015
+Julien Latendresse-Levesque,GK,25,-,1. FC Lokomotive Leipzig,2015
+Christopher Schulz,GK,20,-,1. FC Lokomotive Leipzig,2015
+Markus Krug,CB,27,-,1. FC Lokomotive Leipzig,2015
+Ronny Surma,CB,28,-,1. FC Lokomotive Leipzig,2015
+Robert Zickert,CB,26,-,1. FC Lokomotive Leipzig,2015
+Steven Heßler,LB,21,-,1. FC Lokomotive Leipzig,2015
+Gino Böhne,RB,23,-,1. FC Lokomotive Leipzig,2015
+Hiromu Watahiki,CDM,28,-,1. FC Lokomotive Leipzig,2015
+Sebastian Dräger,CDM,26,-,1. FC Lokomotive Leipzig,2015
+Steffen Fritzsch,CDM,25,-,1. FC Lokomotive Leipzig,2015
+Jonas Arnold,CDM,19,-,1. FC Lokomotive Leipzig,2015
+Andy Wendschuch,CM,28,-,1. FC Lokomotive Leipzig,2015
+Marcel Trojandt,LM,26,-,1. FC Lokomotive Leipzig,2015
+Philipp Serrek,LM,23,-,1. FC Lokomotive Leipzig,2015
+Daniel Becker,CAM,29,-,1. FC Lokomotive Leipzig,2015
+Paul Schinke,CAM,25,-,1. FC Lokomotive Leipzig,2015
+Kevin Zimmermann,RW,21,-,1. FC Lokomotive Leipzig,2015
+Ramón Hofmann,RW,22,-,1. FC Lokomotive Leipzig,2015
+Djamal Ziane,ST,24,75 Tsd. €,1. FC Lokomotive Leipzig,2015
+Carlo Purrucker,ST,19,-,1. FC Lokomotive Leipzig,2015
+Marijo Kresic,ST,20,-,1. FC Lokomotive Leipzig,2015
+Faton Ademi,ST,21,-,1. FC Lokomotive Leipzig,2015
+Benjamin Kirsten,GK,30,200 Tsd. €,1. FC Lokomotive Leipzig,2016
+Julien Latendresse-Levesque,GK,26,75 Tsd. €,1. FC Lokomotive Leipzig,2016
+Christopher Schulz,GK,21,50 Tsd. €,1. FC Lokomotive Leipzig,2016
+Ronny Surma,CB,29,100 Tsd. €,1. FC Lokomotive Leipzig,2016
+Robert Zickert,CB,27,100 Tsd. €,1. FC Lokomotive Leipzig,2016
+Markus Krug,CB,28,75 Tsd. €,1. FC Lokomotive Leipzig,2016
+Christian Hanne,CB,27,75 Tsd. €,1. FC Lokomotive Leipzig,2016
+Peter Misch,CB,20,50 Tsd. €,1. FC Lokomotive Leipzig,2016
+Steven Heßler,LB,22,75 Tsd. €,1. FC Lokomotive Leipzig,2016
+Hiromu Watahiki,CDM,29,100 Tsd. €,1. FC Lokomotive Leipzig,2016
+Steffen Fritzsch,CDM,26,50 Tsd. €,1. FC Lokomotive Leipzig,2016
+Jonas Arnold,CDM,20,25 Tsd. €,1. FC Lokomotive Leipzig,2016
+Andy Wendschuch,CM,29,50 Tsd. €,1. FC Lokomotive Leipzig,2016
+Maik Georgi,RM,29,75 Tsd. €,1. FC Lokomotive Leipzig,2016
+Marcel Trojandt,LM,27,50 Tsd. €,1. FC Lokomotive Leipzig,2016
+Daniel Becker,CAM,30,125 Tsd. €,1. FC Lokomotive Leipzig,2016
+Paul Schinke,CAM,26,100 Tsd. €,1. FC Lokomotive Leipzig,2016
+Pascal Ibold,CAM,27,75 Tsd. €,1. FC Lokomotive Leipzig,2016
+Nils Gottschick,RW,23,100 Tsd. €,1. FC Lokomotive Leipzig,2016
+Paul Maurer,RW,21,75 Tsd. €,1. FC Lokomotive Leipzig,2016
+Ramón Hofmann,RW,23,75 Tsd. €,1. FC Lokomotive Leipzig,2016
+Kevin Zimmermann,RW,22,50 Tsd. €,1. FC Lokomotive Leipzig,2016
+Djamal Ziane,ST,25,100 Tsd. €,1. FC Lokomotive Leipzig,2016
+Felix Brügmann,ST,24,75 Tsd. €,1. FC Lokomotive Leipzig,2016
+Benjamin Kirsten,GK,31,175 Tsd. €,1. FC Lokomotive Leipzig,2017
+Christopher Hanf,GK,23,25 Tsd. €,1. FC Lokomotive Leipzig,2017
+Pascale Gaedke,GK,19,-,1. FC Lokomotive Leipzig,2017
+Ryan Malone,CB,25,150 Tsd. €,1. FC Lokomotive Leipzig,2017
+Robert Zickert,CB,28,125 Tsd. €,1. FC Lokomotive Leipzig,2017
+Markus Krug,CB,29,75 Tsd. €,1. FC Lokomotive Leipzig,2017
+Christian Hanne,CB,28,75 Tsd. €,1. FC Lokomotive Leipzig,2017
+Ronny Surma,CB,30,75 Tsd. €,1. FC Lokomotive Leipzig,2017
+Peter Misch,CB,21,75 Tsd. €,1. FC Lokomotive Leipzig,2017
+Toni Hartmann,LB,19,25 Tsd. €,1. FC Lokomotive Leipzig,2017
+Robert Berger,RB,21,150 Tsd. €,1. FC Lokomotive Leipzig,2017
+Maik Salewski,RB,28,75 Tsd. €,1. FC Lokomotive Leipzig,2017
+Maximilian Pommer,CDM,20,75 Tsd. €,1. FC Lokomotive Leipzig,2017
+Hiromu Watahiki,CDM,30,75 Tsd. €,1. FC Lokomotive Leipzig,2017
+Steffen Fritzsch,CDM,27,25 Tsd. €,1. FC Lokomotive Leipzig,2017
+Andy Wendschuch,CM,30,50 Tsd. €,1. FC Lokomotive Leipzig,2017
+Maik Georgi,RM,30,50 Tsd. €,1. FC Lokomotive Leipzig,2017
+Marcel Trojandt,LM,28,50 Tsd. €,1. FC Lokomotive Leipzig,2017
+Sascha Pfeffer,CAM,31,175 Tsd. €,1. FC Lokomotive Leipzig,2017
+Paul Schinke,CAM,27,125 Tsd. €,1. FC Lokomotive Leipzig,2017
+Paul Maurer,RW,22,125 Tsd. €,1. FC Lokomotive Leipzig,2017
+Nils Gottschick,RW,24,75 Tsd. €,1. FC Lokomotive Leipzig,2017
+Djamal Ziane,ST,26,100 Tsd. €,1. FC Lokomotive Leipzig,2017
+Matus Lorincak,ST,27,75 Tsd. €,1. FC Lokomotive Leipzig,2017
+Benjamin Kirsten,GK,32,150 Tsd. €,1. FC Lokomotive Leipzig,2018
+Lukas Wenzel,GK,20,50 Tsd. €,1. FC Lokomotive Leipzig,2018
+Christopher Hanf,GK,24,25 Tsd. €,1. FC Lokomotive Leipzig,2018
+Paul Reichelt,GK,18,-,1. FC Lokomotive Leipzig,2018
+Patrick Wolf,CB,30,75 Tsd. €,1. FC Lokomotive Leipzig,2018
+Ryan Malone,CB,26,175 Tsd. €,1. FC Lokomotive Leipzig,2018
+David Urban,CB,27,100 Tsd. €,1. FC Lokomotive Leipzig,2018
+Robert Zickert,CB,29,100 Tsd. €,1. FC Lokomotive Leipzig,2018
+Peter Misch,CB,22,75 Tsd. €,1. FC Lokomotive Leipzig,2018
+Markus Krug,CB,30,50 Tsd. €,1. FC Lokomotive Leipzig,2018
+Marcel Wagner,CB,18,25 Tsd. €,1. FC Lokomotive Leipzig,2018
+Ronny Surma,CB,31,-,1. FC Lokomotive Leipzig,2018
+Toni Hartmann,LB,20,25 Tsd. €,1. FC Lokomotive Leipzig,2018
+Robert Berger,RB,22,125 Tsd. €,1. FC Lokomotive Leipzig,2018
+Maik Salewski,RB,29,75 Tsd. €,1. FC Lokomotive Leipzig,2018
+Maximilian Pommer,CDM,21,75 Tsd. €,1. FC Lokomotive Leipzig,2018
+Lovro Sindik,CM,27,75 Tsd. €,1. FC Lokomotive Leipzig,2018
+Maximilian Sommer,CM,19,-,1. FC Lokomotive Leipzig,2018
+Kevin Schulze,LM,27,100 Tsd. €,1. FC Lokomotive Leipzig,2018
+Pascal Pannier,LM,20,75 Tsd. €,1. FC Lokomotive Leipzig,2018
+Paul Schinke,CAM,28,125 Tsd. €,1. FC Lokomotive Leipzig,2018
+Sascha Pfeffer,CAM,32,125 Tsd. €,1. FC Lokomotive Leipzig,2018
+Matthias Steinborn,RW,30,150 Tsd. €,1. FC Lokomotive Leipzig,2018
+Nils Gottschick,RW,25,75 Tsd. €,1. FC Lokomotive Leipzig,2018
+Nicky Adler,ST,34,150 Tsd. €,1. FC Lokomotive Leipzig,2018
+Kemal Atici,ST,26,100 Tsd. €,1. FC Lokomotive Leipzig,2018
+Djamal Ziane,ST,27,75 Tsd. €,1. FC Lokomotive Leipzig,2018
+Benjamin Kirsten,GK,33,125 Tsd. €,1. FC Lokomotive Leipzig,2019
+Lukas Wenzel,GK,21,100 Tsd. €,1. FC Lokomotive Leipzig,2019
+Fabian Guderitz,GK,23,100 Tsd. €,1. FC Lokomotive Leipzig,2019
+Jannes Tasche,GK,21,75 Tsd. €,1. FC Lokomotive Leipzig,2019
+Jeroen Gies,GK,25,50 Tsd. €,1. FC Lokomotive Leipzig,2019
+Lukas Kycek,GK,22,25 Tsd. €,1. FC Lokomotive Leipzig,2019
+Berti Schötterl,GK,25,25 Tsd. €,1. FC Lokomotive Leipzig,2019
+Dennis Dickmann,GK,23,-,1. FC Lokomotive Leipzig,2019
+Patrick Wolf,CB,31,100 Tsd. €,1. FC Lokomotive Leipzig,2019
+Robert Zickert,CB,30,125 Tsd. €,1. FC Lokomotive Leipzig,2019
+David Urban,CB,28,100 Tsd. €,1. FC Lokomotive Leipzig,2019
+Leon Heynke,CB,20,100 Tsd. €,1. FC Lokomotive Leipzig,2019
+Peter Misch,CB,23,50 Tsd. €,1. FC Lokomotive Leipzig,2019
+Marcel Wagner,CB,19,25 Tsd. €,1. FC Lokomotive Leipzig,2019
+Nils Fiedler,CB,17,-,1. FC Lokomotive Leipzig,2019
+Ishmael Schubert-Abubakari,LB,19,75 Tsd. €,1. FC Lokomotive Leipzig,2019
+Damir Mehmedovic,LB,22,-,1. FC Lokomotive Leipzig,2019
+Robert Berger,RB,23,125 Tsd. €,1. FC Lokomotive Leipzig,2019
+Maik Salewski,RB,30,100 Tsd. €,1. FC Lokomotive Leipzig,2019
+Farid Abderrahmane,CDM,24,100 Tsd. €,1. FC Lokomotive Leipzig,2019
+Niklas Brandt,CDM,28,100 Tsd. €,1. FC Lokomotive Leipzig,2019
+Maximilian Pommer,CDM,22,50 Tsd. €,1. FC Lokomotive Leipzig,2019
+Alejandro Vignati,CDM,23,25 Tsd. €,1. FC Lokomotive Leipzig,2019
+Zak Paulo Piplica,CDM,18,-,1. FC Lokomotive Leipzig,2019
+Kevin Schulze,LM,28,100 Tsd. €,1. FC Lokomotive Leipzig,2019
+Pascal Pannier,LM,21,50 Tsd. €,1. FC Lokomotive Leipzig,2019
+Paul Schinke,CAM,29,125 Tsd. €,1. FC Lokomotive Leipzig,2019
+Aykut Soyak,CAM,25,125 Tsd. €,1. FC Lokomotive Leipzig,2019
+Sascha Pfeffer,CAM,33,100 Tsd. €,1. FC Lokomotive Leipzig,2019
+Moritz Butzke,CAM,19,-,1. FC Lokomotive Leipzig,2019
+Denis Jäpel,LW,22,100 Tsd. €,1. FC Lokomotive Leipzig,2019
+Milan Senic,LW,22,25 Tsd. €,1. FC Lokomotive Leipzig,2019
+Matthias Steinborn,RW,31,125 Tsd. €,1. FC Lokomotive Leipzig,2019
+Gabriel Boakye,RW,22,75 Tsd. €,1. FC Lokomotive Leipzig,2019
+Johannes Pistol,RW,18,-,1. FC Lokomotive Leipzig,2019
+Tom Nattermann,ST,27,100 Tsd. €,1. FC Lokomotive Leipzig,2019
+Djamal Ziane,ST,28,100 Tsd. €,1. FC Lokomotive Leipzig,2019
+Stephané Mvibudulu,ST,27,100 Tsd. €,1. FC Lokomotive Leipzig,2019
+Romarjo Hajrulla,ST,21,75 Tsd. €,1. FC Lokomotive Leipzig,2019
+Jannes Tasche,GK,22,75 Tsd. €,1. FC Lokomotive Leipzig,2020
+Jeroen Gies,GK,26,25 Tsd. €,1. FC Lokomotive Leipzig,2020
+Dennis Dickmann,GK,24,-,1. FC Lokomotive Leipzig,2020
+Leon Heynke,CB,21,100 Tsd. €,1. FC Lokomotive Leipzig,2020
+Mike Eglseder,CB,28,75 Tsd. €,1. FC Lokomotive Leipzig,2020
+David Urban,CB,29,75 Tsd. €,1. FC Lokomotive Leipzig,2020
+Luca Sirch,CB,22,50 Tsd. €,1. FC Lokomotive Leipzig,2020
+Nils Fiedler,CB,18,-,1. FC Lokomotive Leipzig,2020
+Damir Mehmedovic,LB,23,100 Tsd. €,1. FC Lokomotive Leipzig,2020
+Niklas Schneider,LB,22,10 Tsd. €,1. FC Lokomotive Leipzig,2020
+Robert Berger,RB,24,100 Tsd. €,1. FC Lokomotive Leipzig,2020
+Maik Salewski,RB,31,75 Tsd. €,1. FC Lokomotive Leipzig,2020
+Edvardas Lucenka,RB,24,10 Tsd. €,1. FC Lokomotive Leipzig,2020
+Zak Paulo Piplica,CDM,19,75 Tsd. €,1. FC Lokomotive Leipzig,2020
+Farid Abderrahmane,CDM,25,75 Tsd. €,1. FC Lokomotive Leipzig,2020
+Nils Stendera,CM,20,100 Tsd. €,1. FC Lokomotive Leipzig,2020
+Paul Schinke,CAM,30,100 Tsd. €,1. FC Lokomotive Leipzig,2020
+Sascha Pfeffer,CAM,34,75 Tsd. €,1. FC Lokomotive Leipzig,2020
+Denis Jäpel,LW,23,50 Tsd. €,1. FC Lokomotive Leipzig,2020
+Goteh Ntignee,LW,19,25 Tsd. €,1. FC Lokomotive Leipzig,2020
+Gabriel Boakye,RW,23,75 Tsd. €,1. FC Lokomotive Leipzig,2020
+Djamal Ziane,ST,29,100 Tsd. €,1. FC Lokomotive Leipzig,2020
+Tom Nattermann,ST,28,75 Tsd. €,1. FC Lokomotive Leipzig,2020
+Jan-Ole Sievers,GK,27,125 Tsd. €,1. FC Lokomotive Leipzig,2021
+Niclas Müller,GK,20,50 Tsd. €,1. FC Lokomotive Leipzig,2021
+Jannes Tasche,GK,23,25 Tsd. €,1. FC Lokomotive Leipzig,2021
+Dennis Dickmann,GK,25,-,1. FC Lokomotive Leipzig,2021
+Luca Sirch,CB,23,125 Tsd. €,1. FC Lokomotive Leipzig,2021
+Mike Eglseder,CB,29,100 Tsd. €,1. FC Lokomotive Leipzig,2021
+Leon Heynke,CB,22,100 Tsd. €,1. FC Lokomotive Leipzig,2021
+David Urban,CB,30,50 Tsd. €,1. FC Lokomotive Leipzig,2021
+Damir Mehmedovic,LB,24,100 Tsd. €,1. FC Lokomotive Leipzig,2021
+Robert Berger,RB,25,150 Tsd. €,1. FC Lokomotive Leipzig,2021
+Eric Voufack,RB,20,100 Tsd. €,1. FC Lokomotive Leipzig,2021
+Maik Salewski,RB,32,50 Tsd. €,1. FC Lokomotive Leipzig,2021
+Edvardas Lucenka,RB,25,10 Tsd. €,1. FC Lokomotive Leipzig,2021
+Zak Paulo Piplica,CDM,20,125 Tsd. €,1. FC Lokomotive Leipzig,2021
+Farid Abderrahmane,CDM,26,100 Tsd. €,1. FC Lokomotive Leipzig,2021
+Michael Schlicht,CDM,28,25 Tsd. €,1. FC Lokomotive Leipzig,2021
+Sascha Pfeffer,CAM,35,75 Tsd. €,1. FC Lokomotive Leipzig,2021
+Osman Atilgan,LW,22,50 Tsd. €,1. FC Lokomotive Leipzig,2021
+Goteh Ntignee,LW,20,-,1. FC Lokomotive Leipzig,2021
+Theo Ogbidi,RW,21,150 Tsd. €,1. FC Lokomotive Leipzig,2021
+Bogdan Rangelov,RW,24,100 Tsd. €,1. FC Lokomotive Leipzig,2021
+Djamal Ziane,ST,30,150 Tsd. €,1. FC Lokomotive Leipzig,2021
+Tom Nattermann,ST,29,75 Tsd. €,1. FC Lokomotive Leipzig,2021
+Antonio Verinac,ST,17,-,1. FC Lokomotive Leipzig,2021
+İsa Doğan,GK,23,100 Tsd. €,1. FC Lokomotive Leipzig,2022
+Niclas Müller,GK,21,75 Tsd. €,1. FC Lokomotive Leipzig,2022
+Dennis Dickmann,GK,26,-,1. FC Lokomotive Leipzig,2022
+Luca Sirch,CB,24,150 Tsd. €,1. FC Lokomotive Leipzig,2022
+Leon Heynke,CB,23,100 Tsd. €,1. FC Lokomotive Leipzig,2022
+Mike Eglseder,CB,30,75 Tsd. €,1. FC Lokomotive Leipzig,2022
+David Urban,CB,31,50 Tsd. €,1. FC Lokomotive Leipzig,2022
+Julian Weigel,CB,21,50 Tsd. €,1. FC Lokomotive Leipzig,2022
+Linus Zimmer,LB,20,75 Tsd. €,1. FC Lokomotive Leipzig,2022
+Eun-soo Gong,LB,22,25 Tsd. €,1. FC Lokomotive Leipzig,2022
+Eric Voufack,RB,21,150 Tsd. €,1. FC Lokomotive Leipzig,2022
+Tobias Dombrowa,RB,23,100 Tsd. €,1. FC Lokomotive Leipzig,2022
+Maik Salewski,RB,33,25 Tsd. €,1. FC Lokomotive Leipzig,2022
+Zak Paulo Piplica,CDM,21,100 Tsd. €,1. FC Lokomotive Leipzig,2022
+Farid Abderrahmane,CDM,27,100 Tsd. €,1. FC Lokomotive Leipzig,2022
+Riccardo Grym,CM,24,100 Tsd. €,1. FC Lokomotive Leipzig,2022
+Sascha Pfeffer,CAM,36,75 Tsd. €,1. FC Lokomotive Leipzig,2022
+Osman Atilgan,LW,23,150 Tsd. €,1. FC Lokomotive Leipzig,2022
+Theo Ogbidi,RW,22,125 Tsd. €,1. FC Lokomotive Leipzig,2022
+Bogdan Rangelov,RW,25,75 Tsd. €,1. FC Lokomotive Leipzig,2022
+Djamal Ziane,ST,31,150 Tsd. €,1. FC Lokomotive Leipzig,2022
+Antonio Verinac,ST,18,25 Tsd. €,1. FC Lokomotive Leipzig,2022
+Niclas Müller,GK,22,75 Tsd. €,1. FC Lokomotive Leipzig,2023
+Andreas Naumann,GK,31,50 Tsd. €,1. FC Lokomotive Leipzig,2023
+İsa Doğan,GK,24,50 Tsd. €,1. FC Lokomotive Leipzig,2023
+Paul Krause,GK,20,10 Tsd. €,1. FC Lokomotive Leipzig,2023
+Erik Heinrich,GK,18,-,1. FC Lokomotive Leipzig,2023
+Luca Sirch,CB,25,250 Tsd. €,1. FC Lokomotive Leipzig,2023
+Jan Löhmannsröben,CB,33,150 Tsd. €,1. FC Lokomotive Leipzig,2023
+Laurin von Piechowski,CB,30,100 Tsd. €,1. FC Lokomotive Leipzig,2023
+Adrian Kireski,CB,23,75 Tsd. €,1. FC Lokomotive Leipzig,2023
+Lukas Wilton,CB,29,75 Tsd. €,1. FC Lokomotive Leipzig,2023
+Maximilian Schütt,CB,22,50 Tsd. €,1. FC Lokomotive Leipzig,2023
+Julian Weigel,CB,22,50 Tsd. €,1. FC Lokomotive Leipzig,2023
+Jesse Sierck,CB,26,10 Tsd. €,1. FC Lokomotive Leipzig,2023
+Niklas Köllner,CB,18,-,1. FC Lokomotive Leipzig,2023
+Nikola Aracic,CB,23,-,1. FC Lokomotive Leipzig,2023
+Ryan Adigo,LB,23,75 Tsd. €,1. FC Lokomotive Leipzig,2023
+Linus Zimmer,LB,21,75 Tsd. €,1. FC Lokomotive Leipzig,2023
+Eun-soo Gong,LB,23,10 Tsd. €,1. FC Lokomotive Leipzig,2023
+Jannis Held,RB,24,75 Tsd. €,1. FC Lokomotive Leipzig,2023
+Tobias Dombrowa,RB,24,75 Tsd. €,1. FC Lokomotive Leipzig,2023
+Nico Rieger,RB,20,10 Tsd. €,1. FC Lokomotive Leipzig,2023
+Zak Paulo Piplica,CDM,22,100 Tsd. €,1. FC Lokomotive Leipzig,2023
+Farid Abderrahmane,CDM,28,100 Tsd. €,1. FC Lokomotive Leipzig,2023
+Fabian Zeidler,CDM,18,-,1. FC Lokomotive Leipzig,2023
+Alexander Siebeck,CM,30,100 Tsd. €,1. FC Lokomotive Leipzig,2023
+Riccardo Grym,CM,25,50 Tsd. €,1. FC Lokomotive Leipzig,2023
+Joe Löwe,CM,19,25 Tsd. €,1. FC Lokomotive Leipzig,2023
+Noel Eichinger,CAM,22,125 Tsd. €,1. FC Lokomotive Leipzig,2023
+Mert Arslan,CAM,20,25 Tsd. €,1. FC Lokomotive Leipzig,2023
+Osman Atilgan,LW,24,150 Tsd. €,1. FC Lokomotive Leipzig,2023
+Abou Ballo,LW,26,50 Tsd. €,1. FC Lokomotive Leipzig,2023
+Min-gi Kang,LW,22,50 Tsd. €,1. FC Lokomotive Leipzig,2023
+Pasqual Verkamp,RW,26,100 Tsd. €,1. FC Lokomotive Leipzig,2023
+Theo Ogbidi,RW,23,75 Tsd. €,1. FC Lokomotive Leipzig,2023
+Stefan Maderer,ST,27,100 Tsd. €,1. FC Lokomotive Leipzig,2023
+Djamal Ziane,ST,32,100 Tsd. €,1. FC Lokomotive Leipzig,2023
+Luc Elsner,ST,20,50 Tsd. €,1. FC Lokomotive Leipzig,2023
+Will Siakam,ST,28,25 Tsd. €,1. FC Lokomotive Leipzig,2023
+Andreas Naumann,GK,32,75 Tsd. €,1. FC Lokomotive Leipzig,2024
+Niclas Müller,GK,23,50 Tsd. €,1. FC Lokomotive Leipzig,2024
+Erik Heinrich,GK,19,-,1. FC Lokomotive Leipzig,2024
+Lukas Wilton,CB,30,125 Tsd. €,1. FC Lokomotive Leipzig,2024
+Laurin von Piechowski,CB,31,100 Tsd. €,1. FC Lokomotive Leipzig,2024
+Adrian Kireski,CB,24,75 Tsd. €,1. FC Lokomotive Leipzig,2024
+Nikola Aracic,CB,24,25 Tsd. €,1. FC Lokomotive Leipzig,2024
+Ryan Adigo,LB,24,100 Tsd. €,1. FC Lokomotive Leipzig,2024
+Linus Zimmer,LB,22,75 Tsd. €,1. FC Lokomotive Leipzig,2024
+Max Klump,LB,26,75 Tsd. €,1. FC Lokomotive Leipzig,2024
+Tobias Dombrowa,RB,25,125 Tsd. €,1. FC Lokomotive Leipzig,2024
+Nico Rieger,RB,21,10 Tsd. €,1. FC Lokomotive Leipzig,2024
+Farid Abderrahmane,CDM,29,150 Tsd. €,1. FC Lokomotive Leipzig,2024
+Zak Paulo Piplica,CDM,23,100 Tsd. €,1. FC Lokomotive Leipzig,2024
+Fabian Zeidler,CDM,19,-,1. FC Lokomotive Leipzig,2024
+Alexander Siebeck,CM,31,125 Tsd. €,1. FC Lokomotive Leipzig,2024
+Noel Eichinger,CAM,23,175 Tsd. €,1. FC Lokomotive Leipzig,2024
+Dorian Cevis,CAM,23,50 Tsd. €,1. FC Lokomotive Leipzig,2024
+Min-gi Kang,LW,23,100 Tsd. €,1. FC Lokomotive Leipzig,2024
+Abou Ballo,LW,27,50 Tsd. €,1. FC Lokomotive Leipzig,2024
+Pasqual Verkamp,RW,27,125 Tsd. €,1. FC Lokomotive Leipzig,2024
+Malik McLemore,RW,28,100 Tsd. €,1. FC Lokomotive Leipzig,2024
+Theo Ogbidi,RW,24,75 Tsd. €,1. FC Lokomotive Leipzig,2024
+Stefan Maderer,ST,28,150 Tsd. €,1. FC Lokomotive Leipzig,2024
+Djamal Ziane,ST,33,75 Tsd. €,1. FC Lokomotive Leipzig,2024
+Luc Elsner,ST,21,50 Tsd. €,1. FC Lokomotive Leipzig,2024

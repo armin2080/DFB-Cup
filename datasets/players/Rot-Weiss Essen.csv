@@ -1,0 +1,353 @@
+name,position,age,value,team,season
+Niclas Heimann,GK,24,150 Tsd. €,Rot-Weiss Essen,2014
+Daniel Schwabke,GK,25,75 Tsd. €,Rot-Weiss Essen,2014
+Moritz Nicolas,GK,17,50 Tsd. €,Rot-Weiss Essen,2014
+Philipp Zeiger,CB,25,200 Tsd. €,Rot-Weiss Essen,2014
+Leon Binder,CB,28,150 Tsd. €,Rot-Weiss Essen,2014
+Richard Weber,CB,24,150 Tsd. €,Rot-Weiss Essen,2014
+Mario Neunaber,CB,33,150 Tsd. €,Rot-Weiss Essen,2014
+Kai Nakowitsch,CB,20,75 Tsd. €,Rot-Weiss Essen,2014
+Patrick Huckle,LB,31,150 Tsd. €,Rot-Weiss Essen,2014
+Tim Hermes,LB,24,125 Tsd. €,Rot-Weiss Essen,2014
+Kevin Grund,LB,27,125 Tsd. €,Rot-Weiss Essen,2014
+Max Dombrowka,LB,23,125 Tsd. €,Rot-Weiss Essen,2014
+Marco Beier,RB,20,25 Tsd. €,Rot-Weiss Essen,2014
+Benjamin Wingerter,CDM,32,50 Tsd. €,Rot-Weiss Essen,2014
+Benjamin Baier,CM,26,200 Tsd. €,Rot-Weiss Essen,2014
+Daniel Grebe,CM,28,150 Tsd. €,Rot-Weiss Essen,2014
+Tim Treude,CM,25,125 Tsd. €,Rot-Weiss Essen,2014
+Konstantin Fring,CM,25,100 Tsd. €,Rot-Weiss Essen,2014
+Samuel-Marian Limbasan,CAM,20,50 Tsd. €,Rot-Weiss Essen,2014
+Konstantin Sawin,CAM,22,50 Tsd. €,Rot-Weiss Essen,2014
+Tobias Steffen,LW,23,125 Tsd. €,Rot-Weiss Essen,2014
+Cebio Soukou,RW,22,150 Tsd. €,Rot-Weiss Essen,2014
+Kevin Freiberger,RW,26,125 Tsd. €,Rot-Weiss Essen,2014
+Lucas Arenz,RW,21,50 Tsd. €,Rot-Weiss Essen,2014
+Marcel Platzek,ST,25,175 Tsd. €,Rot-Weiss Essen,2014
+Marwin Studtrucker,ST,25,175 Tsd. €,Rot-Weiss Essen,2014
+Sven Kreyer,ST,24,150 Tsd. €,Rot-Weiss Essen,2014
+Björn Kluft,ST,25,100 Tsd. €,Rot-Weiss Essen,2014
+Robin Heller,GK,21,150 Tsd. €,Rot-Weiss Essen,2015
+Niclas Heimann,GK,25,100 Tsd. €,Rot-Weiss Essen,2015
+Pascal Nagel,GK,25,75 Tsd. €,Rot-Weiss Essen,2015
+Tom Gubini,GK,20,25 Tsd. €,Rot-Weiss Essen,2015
+Manuel Lenz,GK,31,-,Rot-Weiss Essen,2015
+Richard Weber,CB,25,150 Tsd. €,Rot-Weiss Essen,2015
+Philipp Zeiger,CB,26,150 Tsd. €,Rot-Weiss Essen,2015
+Gino Windmüller,CB,27,125 Tsd. €,Rot-Weiss Essen,2015
+Leon Binder,CB,29,125 Tsd. €,Rot-Weiss Essen,2015
+Timo Becker,CB,19,50 Tsd. €,Rot-Weiss Essen,2015
+Tolga Cokkosan,LB,21,125 Tsd. €,Rot-Weiss Essen,2015
+Kevin Grund,LB,28,100 Tsd. €,Rot-Weiss Essen,2015
+Patrick Huckle,LB,32,100 Tsd. €,Rot-Weiss Essen,2015
+Jeffrey Obst,RB,22,125 Tsd. €,Rot-Weiss Essen,2015
+Stefan Thelen,RB,24,50 Tsd. €,Rot-Weiss Essen,2015
+Iyad Al-Khalaf,RB,21,25 Tsd. €,Rot-Weiss Essen,2015
+Moritz Fritz,CDM,22,150 Tsd. €,Rot-Weiss Essen,2015
+Nico Lucas,CDM,18,25 Tsd. €,Rot-Weiss Essen,2015
+Benjamin Baier,CM,27,200 Tsd. €,Rot-Weiss Essen,2015
+Henrik Gulden,CM,20,100 Tsd. €,Rot-Weiss Essen,2015
+Daniel Grebe,CM,29,-,Rot-Weiss Essen,2015
+Vojno Jesic,CAM,22,100 Tsd. €,Rot-Weiss Essen,2015
+Emre Demircan,CAM,19,-,Rot-Weiss Essen,2015
+Kasim Rabihic,LW,23,125 Tsd. €,Rot-Weiss Essen,2015
+Andreas Ivan,LW,21,100 Tsd. €,Rot-Weiss Essen,2015
+Emre Yesilova,LW,22,75 Tsd. €,Rot-Weiss Essen,2015
+Cebio Soukou,RW,23,250 Tsd. €,Rot-Weiss Essen,2015
+Amar Cekic,RW,23,50 Tsd. €,Rot-Weiss Essen,2015
+Malcom Olwa-Luta,RW,21,-,Rot-Weiss Essen,2015
+Lucas Arenz,RW,22,-,Rot-Weiss Essen,2015
+Alpay Cin,RW,18,-,Rot-Weiss Essen,2015
+Said Harouz,Second Striker,19,-,Rot-Weiss Essen,2015
+Marwin Studtrucker,ST,26,175 Tsd. €,Rot-Weiss Essen,2015
+Marcel Platzek,ST,26,150 Tsd. €,Rot-Weiss Essen,2015
+Frank Löning,ST,34,125 Tsd. €,Rot-Weiss Essen,2015
+Kevin Behrens,ST,25,75 Tsd. €,Rot-Weiss Essen,2015
+Joachim Osvold,ST,21,50 Tsd. €,Rot-Weiss Essen,2015
+Kai Druschky,ST,23,50 Tsd. €,Rot-Weiss Essen,2015
+Niclas Heimann,GK,26,125 Tsd. €,Rot-Weiss Essen,2016
+Robin Heller,GK,22,100 Tsd. €,Rot-Weiss Essen,2016
+Maksimilijan Milovanovic,GK,20,25 Tsd. €,Rot-Weiss Essen,2016
+Manuel Lenz,GK,32,-,Rot-Weiss Essen,2016
+Philipp Zeiger,CB,27,175 Tsd. €,Rot-Weiss Essen,2016
+Richard Weber,CB,26,100 Tsd. €,Rot-Weiss Essen,2016
+Gino Windmüller,CB,28,75 Tsd. €,Rot-Weiss Essen,2016
+Timo Becker,CB,20,50 Tsd. €,Rot-Weiss Essen,2016
+Boris Tomiak,CB,18,-,Rot-Weiss Essen,2016
+Kevin Grund,LB,29,125 Tsd. €,Rot-Weiss Essen,2016
+Tolga Cokkosan,LB,22,100 Tsd. €,Rot-Weiss Essen,2016
+Patrick Huckle,LB,33,75 Tsd. €,Rot-Weiss Essen,2016
+Leroy Kwadwo,LB,20,25 Tsd. €,Rot-Weiss Essen,2016
+Dennis Malura,RB,33,125 Tsd. €,Rot-Weiss Essen,2016
+Jeffrey Obst,RB,23,100 Tsd. €,Rot-Weiss Essen,2016
+Timo Brauer,CDM,27,175 Tsd. €,Rot-Weiss Essen,2016
+Jan-Steffen Meier,CDM,25,150 Tsd. €,Rot-Weiss Essen,2016
+Nico Lucas,CDM,19,75 Tsd. €,Rot-Weiss Essen,2016
+Benjamin Baier,CM,28,200 Tsd. €,Rot-Weiss Essen,2016
+Vojno Jesic,CAM,23,75 Tsd. €,Rot-Weiss Essen,2016
+Emre Demircan,CAM,20,25 Tsd. €,Rot-Weiss Essen,2016
+Ismail Remmo,CAM,19,-,Rot-Weiss Essen,2016
+Kamil Bednarski,LW,31,175 Tsd. €,Rot-Weiss Essen,2016
+Kasim Rabihic,LW,24,100 Tsd. €,Rot-Weiss Essen,2016
+Andreas Ivan,LW,22,75 Tsd. €,Rot-Weiss Essen,2016
+Jason Ceka,RW,17,-,Rot-Weiss Essen,2016
+Marcel Platzek,ST,27,175 Tsd. €,Rot-Weiss Essen,2016
+Roussel Ngankam,ST,23,125 Tsd. €,Rot-Weiss Essen,2016
+Frank Löning,ST,35,-,Rot-Weiss Essen,2016
+Robin Heller,GK,23,150 Tsd. €,Rot-Weiss Essen,2017
+Marcel Lenz,GK,27,75 Tsd. €,Rot-Weiss Essen,2017
+Stefan Jaschin,GK,19,25 Tsd. €,Rot-Weiss Essen,2017
+Manuel Lenz,GK,33,-,Rot-Weiss Essen,2017
+Philipp Zeiger,CB,28,150 Tsd. €,Rot-Weiss Essen,2017
+Robin Urban,CB,24,100 Tsd. €,Rot-Weiss Essen,2017
+Timo Becker,CB,21,100 Tsd. €,Rot-Weiss Essen,2017
+Boris Tomiak,CB,19,25 Tsd. €,Rot-Weiss Essen,2017
+Kevin Grund,LB,30,150 Tsd. €,Rot-Weiss Essen,2017
+Hervenogi Unzola,LB,26,75 Tsd. €,Rot-Weiss Essen,2017
+Tolga Cokkosan,LB,23,50 Tsd. €,Rot-Weiss Essen,2017
+Dennis Malura,RB,34,100 Tsd. €,Rot-Weiss Essen,2017
+Timo Brauer,CDM,28,175 Tsd. €,Rot-Weiss Essen,2017
+Jan-Steffen Meier,CDM,26,125 Tsd. €,Rot-Weiss Essen,2017
+Nico Lucas,CDM,20,100 Tsd. €,Rot-Weiss Essen,2017
+Simon Skuppin,CDM,19,25 Tsd. €,Rot-Weiss Essen,2017
+Benjamin Baier,CM,29,150 Tsd. €,Rot-Weiss Essen,2017
+Cedric Harenbrock,CAM,20,50 Tsd. €,Rot-Weiss Essen,2017
+Ismail Remmo,CAM,20,25 Tsd. €,Rot-Weiss Essen,2017
+Nicolas Hirschberger,CAM,19,-,Rot-Weiss Essen,2017
+Kamil Bednarski,LW,32,125 Tsd. €,Rot-Weiss Essen,2017
+Kai Pröger,RW,26,150 Tsd. €,Rot-Weiss Essen,2017
+Marcel Platzek,ST,28,175 Tsd. €,Rot-Weiss Essen,2017
+David Jansen,ST,30,100 Tsd. €,Rot-Weiss Essen,2017
+Roussel Ngankam,ST,24,75 Tsd. €,Rot-Weiss Essen,2017
+Lukas Raeder,GK,25,100 Tsd. €,Rot-Weiss Essen,2018
+Robin Heller,GK,24,100 Tsd. €,Rot-Weiss Essen,2018
+Marcel Lenz,GK,28,25 Tsd. €,Rot-Weiss Essen,2018
+Jonas Kersken,GK,18,-,Rot-Weiss Essen,2018
+Daniel Heber,CB,24,150 Tsd. €,Rot-Weiss Essen,2018
+Philipp Zeiger,CB,29,150 Tsd. €,Rot-Weiss Essen,2018
+Noah Korczowski,CB,25,125 Tsd. €,Rot-Weiss Essen,2018
+Timo Becker,CB,22,125 Tsd. €,Rot-Weiss Essen,2018
+Robin Urban,CB,25,100 Tsd. €,Rot-Weiss Essen,2018
+Boris Tomiak,CB,20,50 Tsd. €,Rot-Weiss Essen,2018
+Kevin Grund,LB,31,125 Tsd. €,Rot-Weiss Essen,2018
+Tolga Cokkosan,LB,24,25 Tsd. €,Rot-Weiss Essen,2018
+Florian Bichler,RB,27,125 Tsd. €,Rot-Weiss Essen,2018
+Timo Brauer,CDM,29,150 Tsd. €,Rot-Weiss Essen,2018
+Nico Lucas,CDM,21,100 Tsd. €,Rot-Weiss Essen,2018
+Benjamin Baier,CM,30,125 Tsd. €,Rot-Weiss Essen,2018
+Giannis Orkas,CM,18,-,Rot-Weiss Essen,2018
+Cedric Harenbrock,CAM,21,50 Tsd. €,Rot-Weiss Essen,2018
+Nicolas Hirschberger,CAM,20,25 Tsd. €,Rot-Weiss Essen,2018
+Ismail Remmo,CAM,21,25 Tsd. €,Rot-Weiss Essen,2018
+Lukas Scepanik,LW,25,150 Tsd. €,Rot-Weiss Essen,2018
+Qlirim Gashi,LW,19,25 Tsd. €,Rot-Weiss Essen,2018
+Kai Pröger,RW,27,800 Tsd. €,Rot-Weiss Essen,2018
+Kevin Freiberger,RW,30,175 Tsd. €,Rot-Weiss Essen,2018
+Jonas Erwig-Drüppel,RW,27,150 Tsd. €,Rot-Weiss Essen,2018
+Alkan Talas,RW,19,-,Rot-Weiss Essen,2018
+Marcel Platzek,ST,29,150 Tsd. €,Rot-Weiss Essen,2018
+Max Wegner,ST,30,150 Tsd. €,Rot-Weiss Essen,2018
+Enzo Wirtz,ST,23,100 Tsd. €,Rot-Weiss Essen,2018
+David Jansen,ST,31,25 Tsd. €,Rot-Weiss Essen,2018
+Enes Bilgin,ST,18,-,Rot-Weiss Essen,2018
+Daniel Davari,GK,32,150 Tsd. €,Rot-Weiss Essen,2019
+Jakob Golz,GK,21,100 Tsd. €,Rot-Weiss Essen,2019
+Marcel Lenz,GK,29,75 Tsd. €,Rot-Weiss Essen,2019
+Robin Heller,GK,25,50 Tsd. €,Rot-Weiss Essen,2019
+Daniel Heber,CB,25,175 Tsd. €,Rot-Weiss Essen,2019
+Jonas Hildebrandt,CB,23,175 Tsd. €,Rot-Weiss Essen,2019
+Alexander Hahn,CB,27,150 Tsd. €,Rot-Weiss Essen,2019
+José-Junior Matuwila,CB,28,150 Tsd. €,Rot-Weiss Essen,2019
+Philipp Zeiger,CB,30,100 Tsd. €,Rot-Weiss Essen,2019
+Benjamin Wallquist,CB,20,25 Tsd. €,Rot-Weiss Essen,2019
+Michael Marvin West,CB,19,-,Rot-Weiss Essen,2019
+Felix Herzenbruch,LB,27,125 Tsd. €,Rot-Weiss Essen,2019
+Kevin Grund,LB,32,100 Tsd. €,Rot-Weiss Essen,2019
+David Sauerland,RB,23,175 Tsd. €,Rot-Weiss Essen,2019
+Florian Bichler,RB,28,125 Tsd. €,Rot-Weiss Essen,2019
+Sandro Plechaty,RB,22,75 Tsd. €,Rot-Weiss Essen,2019
+Kingsley Marcinek,RB,18,-,Rot-Weiss Essen,2019
+Marco Kehl-Gómez,CDM,28,175 Tsd. €,Rot-Weiss Essen,2019
+Dennis Grote,CDM,33,100 Tsd. €,Rot-Weiss Essen,2019
+Jan Neuwirt,CDM,22,75 Tsd. €,Rot-Weiss Essen,2019
+Amara Condé,CM,23,175 Tsd. €,Rot-Weiss Essen,2019
+Felix Backszat,CM,30,150 Tsd. €,Rot-Weiss Essen,2019
+Giannis Orkas,CM,19,25 Tsd. €,Rot-Weiss Essen,2019
+Jonas Behounek,CAM,22,175 Tsd. €,Rot-Weiss Essen,2019
+Jan-Lucas Dorow,CAM,27,125 Tsd. €,Rot-Weiss Essen,2019
+Erolind Krasniqi,CAM,20,50 Tsd. €,Rot-Weiss Essen,2019
+Cedric Harenbrock,CAM,22,25 Tsd. €,Rot-Weiss Essen,2019
+Oguzhan Kefkir,LW,28,175 Tsd. €,Rot-Weiss Essen,2019
+Joshua Endres,LW,23,125 Tsd. €,Rot-Weiss Essen,2019
+Ayodele Adetula,LW,22,75 Tsd. €,Rot-Weiss Essen,2019
+Maximilian Pronichev,RW,22,175 Tsd. €,Rot-Weiss Essen,2019
+Jonas Erwig-Drüppel,RW,28,75 Tsd. €,Rot-Weiss Essen,2019
+Simon Engelmann,ST,31,175 Tsd. €,Rot-Weiss Essen,2019
+Marcel Platzek,ST,30,100 Tsd. €,Rot-Weiss Essen,2019
+Hamdi Dahmani,ST,32,100 Tsd. €,Rot-Weiss Essen,2019
+Enzo Wirtz,ST,24,75 Tsd. €,Rot-Weiss Essen,2019
+Hedon Selishta,ST,27,75 Tsd. €,Rot-Weiss Essen,2019
+Noel Futkeu,ST,17,75 Tsd. €,Rot-Weiss Essen,2019
+Daniel Davari,GK,33,150 Tsd. €,Rot-Weiss Essen,2020
+Jakob Golz,GK,22,100 Tsd. €,Rot-Weiss Essen,2020
+Leon Brüggemeier,GK,23,50 Tsd. €,Rot-Weiss Essen,2020
+Luca-Christian Fenzl,GK,18,-,Rot-Weiss Essen,2020
+Jannik Hermans,GK,18,-,Rot-Weiss Essen,2020
+Daniel Heber,CB,26,200 Tsd. €,Rot-Weiss Essen,2020
+Alexander Hahn,CB,28,175 Tsd. €,Rot-Weiss Essen,2020
+Felix Weber,CB,26,100 Tsd. €,Rot-Weiss Essen,2020
+Jonas Hildebrandt,CB,24,100 Tsd. €,Rot-Weiss Essen,2020
+Felix Herzenbruch,LB,28,125 Tsd. €,Rot-Weiss Essen,2020
+Kevin Grund,LB,33,100 Tsd. €,Rot-Weiss Essen,2020
+Sandro Plechaty,RB,23,150 Tsd. €,Rot-Weiss Essen,2020
+David Sauerland,RB,24,125 Tsd. €,Rot-Weiss Essen,2020
+Marco Kehl-Gómez,CDM,29,200 Tsd. €,Rot-Weiss Essen,2020
+Dennis Grote,CDM,34,100 Tsd. €,Rot-Weiss Essen,2020
+Jan Neuwirt,CDM,23,75 Tsd. €,Rot-Weiss Essen,2020
+Felix Schlüsselburg,CDM,20,25 Tsd. €,Rot-Weiss Essen,2020
+Amara Condé,CM,24,175 Tsd. €,Rot-Weiss Essen,2020
+Felix Backszat,CM,31,100 Tsd. €,Rot-Weiss Essen,2020
+Cedric Harenbrock,CAM,23,150 Tsd. €,Rot-Weiss Essen,2020
+Jan-Lucas Dorow,CAM,28,100 Tsd. €,Rot-Weiss Essen,2020
+Jonas Behounek,CAM,23,100 Tsd. €,Rot-Weiss Essen,2020
+Nils Kaiser,CAM,19,-,Rot-Weiss Essen,2020
+Steven Lewerenz,LW,30,150 Tsd. €,Rot-Weiss Essen,2020
+Oguzhan Kefkir,LW,29,150 Tsd. €,Rot-Weiss Essen,2020
+Joshua Endres,LW,24,100 Tsd. €,Rot-Weiss Essen,2020
+Ayodele Adetula,LW,23,75 Tsd. €,Rot-Weiss Essen,2020
+Maximilian Pronichev,RW,23,125 Tsd. €,Rot-Weiss Essen,2020
+Isaiah Young,RW,23,125 Tsd. €,Rot-Weiss Essen,2020
+Simon Engelmann,ST,32,150 Tsd. €,Rot-Weiss Essen,2020
+Marcel Platzek,ST,31,100 Tsd. €,Rot-Weiss Essen,2020
+Noel Futkeu,ST,18,75 Tsd. €,Rot-Weiss Essen,2020
+Timur Kesim,ST,17,-,Rot-Weiss Essen,2020
+Jakob Golz,GK,23,150 Tsd. €,Rot-Weiss Essen,2021
+Daniel Davari,GK,34,100 Tsd. €,Rot-Weiss Essen,2021
+Raphael Koczor,GK,33,50 Tsd. €,Rot-Weiss Essen,2021
+Felix Bastians,CB,34,250 Tsd. €,Rot-Weiss Essen,2021
+Daniel Heber,CB,27,250 Tsd. €,Rot-Weiss Essen,2021
+José-Enrique Ríos Alonso,CB,21,150 Tsd. €,Rot-Weiss Essen,2021
+Yannick Langesberg,CB,28,75 Tsd. €,Rot-Weiss Essen,2021
+Mustafa Kourouma,CB,19,50 Tsd. €,Rot-Weiss Essen,2021
+Felix Herzenbruch,LB,29,150 Tsd. €,Rot-Weiss Essen,2021
+Michel Niemeyer,LB,26,125 Tsd. €,Rot-Weiss Essen,2021
+Sascha Voelcke,LB,20,50 Tsd. €,Rot-Weiss Essen,2021
+Nico Haiduk,LB,18,-,Rot-Weiss Essen,2021
+Sandro Plechaty,RB,24,175 Tsd. €,Rot-Weiss Essen,2021
+David Sauerland,RB,25,75 Tsd. €,Rot-Weiss Essen,2021
+Niklas Tarnat,CDM,24,150 Tsd. €,Rot-Weiss Essen,2021
+Dennis Grote,CDM,35,125 Tsd. €,Rot-Weiss Essen,2021
+Fabian Rüth,CDM,20,125 Tsd. €,Rot-Weiss Essen,2021
+Felix Schlüsselburg,CDM,21,100 Tsd. €,Rot-Weiss Essen,2021
+Sören Eismann,CDM,34,50 Tsd. €,Rot-Weiss Essen,2021
+Thomas Eisfeld,CM,29,300 Tsd. €,Rot-Weiss Essen,2021
+Luca Dürholtz,CM,28,200 Tsd. €,Rot-Weiss Essen,2021
+Guiliano Zimmerling,CM,19,25 Tsd. €,Rot-Weiss Essen,2021
+Cedric Harenbrock,CAM,24,150 Tsd. €,Rot-Weiss Essen,2021
+Erolind Krasniqi,CAM,22,125 Tsd. €,Rot-Weiss Essen,2021
+Nils Kaiser,CAM,20,50 Tsd. €,Rot-Weiss Essen,2021
+Oguzhan Kefkir,LW,30,175 Tsd. €,Rot-Weiss Essen,2021
+Oguzcan Büyükarslan,LW,18,-,Rot-Weiss Essen,2021
+Ben Heuser,LW,18,-,Rot-Weiss Essen,2021
+Isaiah Young,RW,24,250 Tsd. €,Rot-Weiss Essen,2021
+Marius Kleinsorge,RW,26,175 Tsd. €,Rot-Weiss Essen,2021
+Kevin Holzweiler,RW,27,150 Tsd. €,Rot-Weiss Essen,2021
+Felix Heim,RW,20,75 Tsd. €,Rot-Weiss Essen,2021
+Simon Engelmann,ST,33,175 Tsd. €,Rot-Weiss Essen,2021
+Zlatko Janjic,ST,36,75 Tsd. €,Rot-Weiss Essen,2021
+Timur Kesim,ST,18,50 Tsd. €,Rot-Weiss Essen,2021
+Jakob Golz,GK,24,250 Tsd. €,Rot-Weiss Essen,2022
+Felix Wienand,GK,21,100 Tsd. €,Rot-Weiss Essen,2022
+Raphael Koczor,GK,34,50 Tsd. €,Rot-Weiss Essen,2022
+Daniel Heber,CB,28,600 Tsd. €,Rot-Weiss Essen,2022
+Felix Götze,CB,25,400 Tsd. €,Rot-Weiss Essen,2022
+José-Enrique Ríos Alonso,CB,22,250 Tsd. €,Rot-Weiss Essen,2022
+Felix Bastians,CB,35,225 Tsd. €,Rot-Weiss Essen,2022
+Mustafa Kourouma,CB,20,100 Tsd. €,Rot-Weiss Essen,2022
+Ben Hüning,CB,18,-,Rot-Weiss Essen,2022
+Moritz Römling,LB,22,150 Tsd. €,Rot-Weiss Essen,2022
+Felix Herzenbruch,LB,30,125 Tsd. €,Rot-Weiss Essen,2022
+Michel Niemeyer,LB,27,75 Tsd. €,Rot-Weiss Essen,2022
+Sascha Voelcke,LB,21,50 Tsd. €,Rot-Weiss Essen,2022
+Tim Kuhlmann,LB,19,-,Rot-Weiss Essen,2022
+Andreas Wiegel,RB,31,200 Tsd. €,Rot-Weiss Essen,2022
+Meiko Sponsel,RB,21,175 Tsd. €,Rot-Weiss Essen,2022
+Sandro Plechaty,RB,25,125 Tsd. €,Rot-Weiss Essen,2022
+Elefterios Theocharis,RB,19,-,Rot-Weiss Essen,2022
+Björn Rother,CDM,26,225 Tsd. €,Rot-Weiss Essen,2022
+Niklas Tarnat,CDM,25,175 Tsd. €,Rot-Weiss Essen,2022
+Fabian Rüth,CDM,21,75 Tsd. €,Rot-Weiss Essen,2022
+Felix Schlüsselburg,CDM,22,50 Tsd. €,Rot-Weiss Essen,2022
+Luca Dürholtz,CM,29,250 Tsd. €,Rot-Weiss Essen,2022
+Thomas Eisfeld,CM,30,250 Tsd. €,Rot-Weiss Essen,2022
+Clemens Fandrich,CM,32,225 Tsd. €,Rot-Weiss Essen,2022
+Torben Müsel,CM,23,200 Tsd. €,Rot-Weiss Essen,2022
+Cedric Harenbrock,CAM,25,150 Tsd. €,Rot-Weiss Essen,2022
+Erolind Krasniqi,CAM,23,100 Tsd. €,Rot-Weiss Essen,2022
+Lawrence Ennali,LW,21,250 Tsd. €,Rot-Weiss Essen,2022
+Oguzhan Kefkir,LW,31,150 Tsd. €,Rot-Weiss Essen,2022
+Aurel Loubongo,LW,22,125 Tsd. €,Rot-Weiss Essen,2022
+Ben Heuser,LW,19,-,Rot-Weiss Essen,2022
+Isaiah Young,RW,25,250 Tsd. €,Rot-Weiss Essen,2022
+Kevin Holzweiler,RW,28,125 Tsd. €,Rot-Weiss Essen,2022
+Ron Berlinski,ST,28,200 Tsd. €,Rot-Weiss Essen,2022
+Luca Wollschläger,ST,20,175 Tsd. €,Rot-Weiss Essen,2022
+Simon Engelmann,ST,34,150 Tsd. €,Rot-Weiss Essen,2022
+Arnis Osmani,ST,19,-,Rot-Weiss Essen,2022
+Jakob Golz,GK,25,350 Tsd. €,Rot-Weiss Essen,2023
+Felix Wienand,GK,22,100 Tsd. €,Rot-Weiss Essen,2023
+Ole Springer,GK,32,50 Tsd. €,Rot-Weiss Essen,2023
+Felix Götze,CB,26,600 Tsd. €,Rot-Weiss Essen,2023
+José-Enrique Ríos Alonso,CB,23,300 Tsd. €,Rot-Weiss Essen,2023
+Mustafa Kourouma,CB,21,175 Tsd. €,Rot-Weiss Essen,2023
+Aaron Manu,CB,24,100 Tsd. €,Rot-Weiss Essen,2023
+Felix Bastians,CB,36,-,Rot-Weiss Essen,2023
+Lucas Brumme,LB,24,300 Tsd. €,Rot-Weiss Essen,2023
+Sascha Voelcke,LB,22,200 Tsd. €,Rot-Weiss Essen,2023
+Ekin Celebi,LB,24,175 Tsd. €,Rot-Weiss Essen,2023
+Eric Voufack,RB,22,200 Tsd. €,Rot-Weiss Essen,2023
+Andreas Wiegel,RB,32,150 Tsd. €,Rot-Weiss Essen,2023
+Sandro Plechaty,RB,26,150 Tsd. €,Rot-Weiss Essen,2023
+Vinko Sapina,CDM,29,400 Tsd. €,Rot-Weiss Essen,2023
+Björn Rother,CDM,27,150 Tsd. €,Rot-Weiss Essen,2023
+Fabian Rüth,CDM,22,75 Tsd. €,Rot-Weiss Essen,2023
+Mats Brune,CDM,19,-,Rot-Weiss Essen,2023
+Gianluca Swajkowski,CDM,19,-,Rot-Weiss Essen,2023
+Torben Müsel,CM,24,325 Tsd. €,Rot-Weiss Essen,2023
+Thomas Eisfeld,CM,31,225 Tsd. €,Rot-Weiss Essen,2023
+Cedric Harenbrock,CAM,26,300 Tsd. €,Rot-Weiss Essen,2023
+Nils Kaiser,CAM,22,200 Tsd. €,Rot-Weiss Essen,2023
+Yan Marcos Friessner Montas,LW,18,-,Rot-Weiss Essen,2023
+Ahmed Etri,LW,19,-,Rot-Weiss Essen,2023
+Marvin Obuz,RW,22,600 Tsd. €,Rot-Weiss Essen,2023
+Isaiah Young,RW,26,250 Tsd. €,Rot-Weiss Essen,2023
+Leonardo Vonic,ST,20,400 Tsd. €,Rot-Weiss Essen,2023
+Moussa Doumbouya,ST,26,200 Tsd. €,Rot-Weiss Essen,2023
+Ron Berlinski,ST,29,175 Tsd. €,Rot-Weiss Essen,2023
+Jakob Golz,GK,26,325 Tsd. €,Rot-Weiss Essen,2024
+Felix Wienand,GK,22,125 Tsd. €,Rot-Weiss Essen,2024
+Ole Springer,GK,33,50 Tsd. €,Rot-Weiss Essen,2024
+Tobias Kraulich,CB,26,300 Tsd. €,Rot-Weiss Essen,2024
+Michael Schultz,CB,31,275 Tsd. €,Rot-Weiss Essen,2024
+José-Enrique Ríos Alonso,CB,24,275 Tsd. €,Rot-Weiss Essen,2024
+Mustafa Kourouma,CB,22,150 Tsd. €,Rot-Weiss Essen,2024
+Lucas Brumme,LB,25,300 Tsd. €,Rot-Weiss Essen,2024
+Matti Wagner,LB,19,200 Tsd. €,Rot-Weiss Essen,2024
+Ekin Celebi,LB,24,150 Tsd. €,Rot-Weiss Essen,2024
+Julian Eitschberger,RB,21,600 Tsd. €,Rot-Weiss Essen,2024
+Eric Voufack,RB,23,200 Tsd. €,Rot-Weiss Essen,2024
+Klaus Gjasula,CDM,35,300 Tsd. €,Rot-Weiss Essen,2024
+Jimmy Kaparos,CDM,23,200 Tsd. €,Rot-Weiss Essen,2024
+Gianluca Swajkowski,CDM,20,50 Tsd. €,Rot-Weiss Essen,2024
+Torben Müsel,CM,25,325 Tsd. €,Rot-Weiss Essen,2024
+Tom Moustier,CM,23,225 Tsd. €,Rot-Weiss Essen,2024
+Thomas Eisfeld,CM,32,200 Tsd. €,Rot-Weiss Essen,2024
+Ahmet Arslan,CAM,31,350 Tsd. €,Rot-Weiss Essen,2024
+Nils Kaiser,CAM,23,150 Tsd. €,Rot-Weiss Essen,2024
+Kaito Mizuta,LW,25,250 Tsd. €,Rot-Weiss Essen,2024
+Kelsey Owusu,LW,20,200 Tsd. €,Rot-Weiss Essen,2024
+Ramien Safi,RW,25,275 Tsd. €,Rot-Weiss Essen,2024
+Joseph Boyamba,RW,28,225 Tsd. €,Rot-Weiss Essen,2024
+Dominik Martinovic,ST,28,350 Tsd. €,Rot-Weiss Essen,2024
+Manuel Wintzheimer,ST,26,300 Tsd. €,Rot-Weiss Essen,2024
+Moussa Doumbouya,ST,27,175 Tsd. €,Rot-Weiss Essen,2024

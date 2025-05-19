@@ -1,0 +1,336 @@
+name,position,age,value,team,season
+Sebastian Lange,GK,27,150 Tsd. €,SC Verl,2014
+Jonathan Mellwig,GK,26,25 Tsd. €,SC Verl,2014
+Robin Brüseke,GK,21,25 Tsd. €,SC Verl,2014
+Daniel Mikic,CB,22,125 Tsd. €,SC Verl,2014
+Julian Schmidt,CB,29,125 Tsd. €,SC Verl,2014
+Julian Stöckner,CB,26,100 Tsd. €,SC Verl,2014
+Patrick Plucinski,CB,27,75 Tsd. €,SC Verl,2014
+Sebastian Schonlau,CB,20,75 Tsd. €,SC Verl,2014
+Mario Bertram,CB,25,25 Tsd. €,SC Verl,2014
+Guerino Capretti,CB,33,-,SC Verl,2014
+Marco Kaminski,LB,31,125 Tsd. €,SC Verl,2014
+Hervenogi Unzola,LB,23,50 Tsd. €,SC Verl,2014
+Anton Safonov,RB,21,50 Tsd. €,SC Verl,2014
+Jannik Schröder,CDM,25,125 Tsd. €,SC Verl,2014
+Friedrich Bömer-Schulte,CDM,27,75 Tsd. €,SC Verl,2014
+Enis Cömert,Midfielder,21,25 Tsd. €,SC Verl,2014
+Dustin Gräwe,CM,19,-,SC Verl,2014
+Fabian Großeschallau,LM,27,125 Tsd. €,SC Verl,2014
+Robert Mainka,CAM,32,75 Tsd. €,SC Verl,2014
+Manuel Rasp,LW,28,75 Tsd. €,SC Verl,2014
+Nico Hecker,RW,23,75 Tsd. €,SC Verl,2014
+Simon Engelmann,ST,26,175 Tsd. €,SC Verl,2014
+Matthias Haeder,ST,26,150 Tsd. €,SC Verl,2014
+Hamadi Al-Ghaddioui,ST,24,150 Tsd. €,SC Verl,2014
+Marcel Kunstmann,ST,27,50 Tsd. €,SC Verl,2014
+Sebastian Lange,GK,28,150 Tsd. €,SC Verl,2015
+Jonathan Mellwig,GK,27,25 Tsd. €,SC Verl,2015
+Robin Brüseke,GK,22,25 Tsd. €,SC Verl,2015
+Berkay Yilmaz,GK,19,-,SC Verl,2015
+Tim Bukowski,GK,-,-,SC Verl,2015
+Daniel Mikic,CB,23,125 Tsd. €,SC Verl,2015
+Julian Schmidt,CB,30,125 Tsd. €,SC Verl,2015
+Julian Stöckner,CB,27,100 Tsd. €,SC Verl,2015
+Kevin Kalinowski,CB,22,75 Tsd. €,SC Verl,2015
+Mario Bertram,CB,26,25 Tsd. €,SC Verl,2015
+Hervenogi Unzola,LB,24,100 Tsd. €,SC Verl,2015
+Marco Kaminski,LB,32,75 Tsd. €,SC Verl,2015
+Patrick Choroba,RB,20,25 Tsd. €,SC Verl,2015
+Jannik Schröder,CDM,26,125 Tsd. €,SC Verl,2015
+Yannick Geisler,CDM,21,75 Tsd. €,SC Verl,2015
+Friedrich Bömer-Schulte,CDM,28,75 Tsd. €,SC Verl,2015
+Dustin Gräwe,CM,20,-,SC Verl,2015
+Jan-Lukas Liehr,CM,18,-,SC Verl,2015
+Fabian Großeschallau,LM,28,125 Tsd. €,SC Verl,2015
+Robert Mainka,CAM,33,75 Tsd. €,SC Verl,2015
+Manuel Rasp,LW,29,75 Tsd. €,SC Verl,2015
+Jan-Patrick Kadiata,LW,26,50 Tsd. €,SC Verl,2015
+Charalambos Makridis,LW,19,25 Tsd. €,SC Verl,2015
+Jonas Erwig-Drüppel,RW,24,125 Tsd. €,SC Verl,2015
+Nico Hecker,RW,24,100 Tsd. €,SC Verl,2015
+Hamadi Al-Ghaddioui,ST,25,175 Tsd. €,SC Verl,2015
+Matthias Haeder,ST,27,150 Tsd. €,SC Verl,2015
+Aliosman Aydin,ST,24,100 Tsd. €,SC Verl,2015
+Robin Brüseke,GK,23,100 Tsd. €,SC Verl,2016
+Sebastian Lange,GK,29,50 Tsd. €,SC Verl,2016
+Jarno Peters,GK,24,50 Tsd. €,SC Verl,2016
+Marius Rahmann,GK,19,-,SC Verl,2016
+Max Ilskens,CB,21,-,SC Verl,2016
+Daniel Mikic,CB,24,125 Tsd. €,SC Verl,2016
+Julian Stöckner,CB,28,100 Tsd. €,SC Verl,2016
+Julian Schmidt,CB,31,100 Tsd. €,SC Verl,2016
+Kevin Kalinowski,CB,23,50 Tsd. €,SC Verl,2016
+Maximilian Kaspar,CB,23,25 Tsd. €,SC Verl,2016
+Aram Aluc,CB,20,25 Tsd. €,SC Verl,2016
+Hervenogi Unzola,LB,25,100 Tsd. €,SC Verl,2016
+Marco Kaminski,LB,33,75 Tsd. €,SC Verl,2016
+Jonas Strifler,RB,27,100 Tsd. €,SC Verl,2016
+Patrick Choroba,RB,21,75 Tsd. €,SC Verl,2016
+Yannick Geisler,CDM,22,100 Tsd. €,SC Verl,2016
+Jannik Schröder,CDM,27,100 Tsd. €,SC Verl,2016
+Hasan Dere,CDM,20,-,SC Verl,2016
+Jan-Lukas Liehr,CM,19,75 Tsd. €,SC Verl,2016
+Fabian Großeschallau,LM,29,75 Tsd. €,SC Verl,2016
+Daniel Schaal,LM,23,50 Tsd. €,SC Verl,2016
+Connor Wlotzka,CAM,20,25 Tsd. €,SC Verl,2016
+Charalambos Makridis,LW,20,75 Tsd. €,SC Verl,2016
+Manuel Rasp,LW,30,50 Tsd. €,SC Verl,2016
+Nico Hecker,RW,25,100 Tsd. €,SC Verl,2016
+Philip Semlits,RW,26,25 Tsd. €,SC Verl,2016
+Niklas Szeleschus,RW,20,-,SC Verl,2016
+Viktor Maier,ST,27,125 Tsd. €,SC Verl,2016
+Sinisa Veselinovic,ST,26,100 Tsd. €,SC Verl,2016
+Matthias Haeder,ST,28,100 Tsd. €,SC Verl,2016
+Gianluca Marzullo,ST,26,100 Tsd. €,SC Verl,2016
+Robin Brüseke,GK,24,125 Tsd. €,SC Verl,2017
+Sebastian Lange,GK,30,50 Tsd. €,SC Verl,2017
+Marius Rahmann,GK,20,-,SC Verl,2017
+Fabian Pekruhl,GK,19,-,SC Verl,2017
+Julian Stöckner,CB,29,100 Tsd. €,SC Verl,2017
+Julian Schmidt,CB,32,100 Tsd. €,SC Verl,2017
+Daniel Mikic,CB,25,75 Tsd. €,SC Verl,2017
+Jan Klauke,CB,24,75 Tsd. €,SC Verl,2017
+Markus Baum,CB,19,25 Tsd. €,SC Verl,2017
+Cinar Sansar,LB,23,100 Tsd. €,SC Verl,2017
+Benjamin Kolodzig,LB,27,50 Tsd. €,SC Verl,2017
+Fabian Brosowski,LB,18,25 Tsd. €,SC Verl,2017
+Patrick Choroba,RB,22,125 Tsd. €,SC Verl,2017
+Bastian Müller,CDM,26,125 Tsd. €,SC Verl,2017
+Jannik Schröder,CDM,28,100 Tsd. €,SC Verl,2017
+Mehmet Kurt,CDM,22,75 Tsd. €,SC Verl,2017
+Alexander Gockel,CDM,22,25 Tsd. €,SC Verl,2017
+Jan-Lukas Liehr,CM,20,125 Tsd. €,SC Verl,2017
+Jan Schöppner,CM,19,-,SC Verl,2017
+Fabian Großeschallau,LM,30,50 Tsd. €,SC Verl,2017
+Daniel Schaal,LM,24,50 Tsd. €,SC Verl,2017
+Zlatko Muhovic,CAM,27,100 Tsd. €,SC Verl,2017
+Patrick Kurzen,RW,21,75 Tsd. €,SC Verl,2017
+Nico Hecker,RW,26,75 Tsd. €,SC Verl,2017
+Cellou Diallo,RW,22,25 Tsd. €,SC Verl,2017
+Anton Heinz,RW,20,-,SC Verl,2017
+Viktor Maier,ST,28,125 Tsd. €,SC Verl,2017
+Cihan Özkara,ST,26,100 Tsd. €,SC Verl,2017
+Gianluca Marzullo,ST,27,75 Tsd. €,SC Verl,2017
+Matthias Haeder,ST,29,50 Tsd. €,SC Verl,2017
+Robin Brüseke,GK,25,100 Tsd. €,SC Verl,2018
+Luis Klante,GK,20,50 Tsd. €,SC Verl,2018
+Sebastian Lange,GK,31,25 Tsd. €,SC Verl,2018
+Jonas Acquistapace,CB,30,150 Tsd. €,SC Verl,2018
+Julian Stöckner,CB,30,100 Tsd. €,SC Verl,2018
+Daniel Mikic,CB,26,75 Tsd. €,SC Verl,2018
+Julian Schmidt,CB,33,75 Tsd. €,SC Verl,2018
+Janik Steringer,CB,21,50 Tsd. €,SC Verl,2018
+Cinar Sansar,LB,24,100 Tsd. €,SC Verl,2018
+Fabian Brosowski,LB,19,50 Tsd. €,SC Verl,2018
+Sergej Schmik,RB,29,100 Tsd. €,SC Verl,2018
+Arthur Ekallé,RB,22,50 Tsd. €,SC Verl,2018
+Ron Schallenberg,CDM,20,100 Tsd. €,SC Verl,2018
+Bastian Müller,CDM,27,100 Tsd. €,SC Verl,2018
+Jannik Schröder,CDM,29,75 Tsd. €,SC Verl,2018
+Niklas Sewing,CDM,21,25 Tsd. €,SC Verl,2018
+Jan-Lukas Liehr,CM,21,75 Tsd. €,SC Verl,2018
+Jan Schöppner,CM,20,25 Tsd. €,SC Verl,2018
+Marko Stojanovic,LM,25,100 Tsd. €,SC Verl,2018
+Dardan Karimani,CAM,20,50 Tsd. €,SC Verl,2018
+Aygün Yildirim,LW,24,150 Tsd. €,SC Verl,2018
+Patrick Kurzen,RW,22,100 Tsd. €,SC Verl,2018
+Nico Hecker,RW,27,50 Tsd. €,SC Verl,2018
+Anton Heinz,RW,21,50 Tsd. €,SC Verl,2018
+Viktor Maier,ST,29,100 Tsd. €,SC Verl,2018
+Matthias Haeder,ST,30,100 Tsd. €,SC Verl,2018
+Daniel Hammel,ST,26,75 Tsd. €,SC Verl,2018
+Stefan Langemann,ST,28,-,SC Verl,2018
+Fabio Kristkowitz,ST,19,-,SC Verl,2018
+Robin Brüseke,GK,26,150 Tsd. €,SC Verl,2019
+Luis Klante,GK,21,50 Tsd. €,SC Verl,2019
+Sebastian Lange,GK,32,25 Tsd. €,SC Verl,2019
+Frederik Lach,CB,23,150 Tsd. €,SC Verl,2019
+Yannick Langesberg,CB,26,100 Tsd. €,SC Verl,2019
+Julian Stöckner,CB,31,100 Tsd. €,SC Verl,2019
+Daniel Mikic,CB,27,75 Tsd. €,SC Verl,2019
+Alessandro Otte,CB,22,50 Tsd. €,SC Verl,2019
+Lars Ritzka,LB,22,175 Tsd. €,SC Verl,2019
+Fabian Brosowski,LB,20,50 Tsd. €,SC Verl,2019
+Cinar Sansar,LB,25,50 Tsd. €,SC Verl,2019
+Patrick Choroba,RB,24,150 Tsd. €,SC Verl,2019
+Sergej Schmik,RB,30,75 Tsd. €,SC Verl,2019
+Ron Schallenberg,CDM,21,200 Tsd. €,SC Verl,2019
+Mehmet Kurt,CDM,24,150 Tsd. €,SC Verl,2019
+Jannik Schröder,CDM,30,-,SC Verl,2019
+Jan Schöppner,CM,21,175 Tsd. €,SC Verl,2019
+Exaucé Andzouana,CM,26,75 Tsd. €,SC Verl,2019
+Hendrik Lohmar,CAM,24,75 Tsd. €,SC Verl,2019
+Dardan Karimani,CAM,21,50 Tsd. €,SC Verl,2019
+Aygün Yildirim,LW,25,200 Tsd. €,SC Verl,2019
+Patrick Schikowski,LW,28,150 Tsd. €,SC Verl,2019
+Nico Hecker,RW,28,75 Tsd. €,SC Verl,2019
+Anton Heinz,RW,22,50 Tsd. €,SC Verl,2019
+Philip Semlits,RW,29,25 Tsd. €,SC Verl,2019
+Zlatko Janjic,ST,34,175 Tsd. €,SC Verl,2019
+Matthias Haeder,ST,31,100 Tsd. €,SC Verl,2019
+Christopher Schepp,ST,20,25 Tsd. €,SC Verl,2019
+Robin Brüseke,GK,27,200 Tsd. €,SC Verl,2020
+Till Brinkmann,GK,25,75 Tsd. €,SC Verl,2020
+Sebastian Lange,GK,33,-,SC Verl,2020
+Lasse Jürgensen,CB,23,200 Tsd. €,SC Verl,2020
+Daniel Mikic,CB,28,150 Tsd. €,SC Verl,2020
+Barne Pernot,CB,22,150 Tsd. €,SC Verl,2020
+Yannick Langesberg,CB,27,125 Tsd. €,SC Verl,2020
+Frederik Lach,CB,24,125 Tsd. €,SC Verl,2020
+Julian Stöckner,CB,32,125 Tsd. €,SC Verl,2020
+Leander Siemann,CB,25,100 Tsd. €,SC Verl,2020
+Lars Ritzka,LB,23,300 Tsd. €,SC Verl,2020
+Christopher Lannert,RB,23,225 Tsd. €,SC Verl,2020
+Patrick Choroba,RB,25,125 Tsd. €,SC Verl,2020
+Steffen Lang,RB,27,125 Tsd. €,SC Verl,2020
+Sergej Schmik,RB,31,50 Tsd. €,SC Verl,2020
+Mehmet Kurt,CDM,25,250 Tsd. €,SC Verl,2020
+Julian Schwermann,CDM,21,250 Tsd. €,SC Verl,2020
+Sven Köhler,CDM,24,225 Tsd. €,SC Verl,2020
+Sascha Korb,CDM,28,125 Tsd. €,SC Verl,2020
+Philipp Sander,CM,23,350 Tsd. €,SC Verl,2020
+Mael Corboz,CM,26,350 Tsd. €,SC Verl,2020
+Berkan Taz,CAM,22,225 Tsd. €,SC Verl,2020
+Aygün Yildirim,LW,26,350 Tsd. €,SC Verl,2020
+Kasim Rabihic,LW,28,250 Tsd. €,SC Verl,2020
+Leandro Putaro,LW,24,200 Tsd. €,SC Verl,2020
+Patrick Schikowski,LW,29,150 Tsd. €,SC Verl,2020
+Nico Hecker,RW,29,75 Tsd. €,SC Verl,2020
+Zlatko Janjic,ST,35,150 Tsd. €,SC Verl,2020
+Justin Eilers,ST,33,125 Tsd. €,SC Verl,2020
+Matthias Haeder,ST,32,75 Tsd. €,SC Verl,2020
+Niclas Thiede,GK,23,250 Tsd. €,SC Verl,2021
+Robin Brüseke,GK,28,150 Tsd. €,SC Verl,2021
+Sebastian Lange,GK,34,-,SC Verl,2021
+Tom Limberg,GK,20,-,SC Verl,2021
+Steffen Schäfer,CB,28,200 Tsd. €,SC Verl,2021
+Barne Pernot,CB,23,175 Tsd. €,SC Verl,2021
+Aaron Berzel,CB,30,175 Tsd. €,SC Verl,2021
+Daniel Mikic,CB,29,150 Tsd. €,SC Verl,2021
+Lasse Jürgensen,CB,24,150 Tsd. €,SC Verl,2021
+Frederik Lach,CB,25,100 Tsd. €,SC Verl,2021
+Luca Stellwagen,LB,23,150 Tsd. €,SC Verl,2021
+Migel-Max Schmeling,LB,22,-,SC Verl,2021
+Christopher Lannert,RB,24,300 Tsd. €,SC Verl,2021
+Nico Ochojski,RB,23,150 Tsd. €,SC Verl,2021
+Tom Baack,CDM,23,250 Tsd. €,SC Verl,2021
+Vinko Sapina,CDM,27,250 Tsd. €,SC Verl,2021
+Julian Schwermann,CDM,22,200 Tsd. €,SC Verl,2021
+Emanuel Mirchev,CDM,20,100 Tsd. €,SC Verl,2021
+Mael Corboz,CM,27,275 Tsd. €,SC Verl,2021
+Kasim Rabihic,LW,29,275 Tsd. €,SC Verl,2021
+Leandro Putaro,LW,25,275 Tsd. €,SC Verl,2021
+Joel Grodowski,LW,24,125 Tsd. €,SC Verl,2021
+Maximilian Franke,LW,20,100 Tsd. €,SC Verl,2021
+Patrick Schikowski,LW,30,100 Tsd. €,SC Verl,2021
+Lukas Petkov,RW,21,350 Tsd. €,SC Verl,2021
+Pascal Steinwender,RW,25,125 Tsd. €,SC Verl,2021
+Oliver Schmitt,RW,22,100 Tsd. €,SC Verl,2021
+Cyrill Akono,ST,22,275 Tsd. €,SC Verl,2021
+Ron Berlinski,ST,27,200 Tsd. €,SC Verl,2021
+Valdrin Mustafa,ST,24,150 Tsd. €,SC Verl,2021
+Cottrell Ezekwem,ST,23,125 Tsd. €,SC Verl,2021
+Serhat Koruk,ST,26,125 Tsd. €,SC Verl,2021
+Mahir Saglik,ST,39,-,SC Verl,2021
+Niclas Thiede,GK,24,350 Tsd. €,SC Verl,2022
+Tim Wiesner,GK,26,125 Tsd. €,SC Verl,2022
+Fabian Pekruhl,GK,24,-,SC Verl,2022
+Leon Nübel,GK,19,-,SC Verl,2022
+Torge Paetow,CB,27,225 Tsd. €,SC Verl,2022
+Daniel Mikic,CB,30,175 Tsd. €,SC Verl,2022
+Barne Pernot,CB,24,150 Tsd. €,SC Verl,2022
+Aaron Berzel,CB,31,100 Tsd. €,SC Verl,2022
+Christopher Rasper,CB,18,-,SC Verl,2022
+Michel Stöcker,LB,24,175 Tsd. €,SC Verl,2022
+Luca Stellwagen,LB,24,150 Tsd. €,SC Verl,2022
+Giulien Kaps,LB,21,-,SC Verl,2022
+Nico Ochojski,RB,24,200 Tsd. €,SC Verl,2022
+Patrick Kammerbauer,RB,26,200 Tsd. €,SC Verl,2022
+Tobias Knost,RB,23,175 Tsd. €,SC Verl,2022
+Tom Baack,CDM,24,275 Tsd. €,SC Verl,2022
+Vinko Sapina,CDM,28,275 Tsd. €,SC Verl,2022
+Leon Bürger,CDM,23,125 Tsd. €,SC Verl,2022
+Nick Otto,CDM,24,100 Tsd. €,SC Verl,2022
+Dominik Klann,CDM,24,75 Tsd. €,SC Verl,2022
+Mael Corboz,CM,28,300 Tsd. €,SC Verl,2022
+Yari Otto,CM,24,250 Tsd. €,SC Verl,2022
+Can Yilmaz,CM,20,-,SC Verl,2022
+Iker Luis Kohl,CM,20,-,SC Verl,2022
+Mateo Biondic,RM,19,50 Tsd. €,SC Verl,2022
+Oliver Batista Meier,CAM,22,300 Tsd. €,SC Verl,2022
+Nicolas Sessa,CAM,27,300 Tsd. €,SC Verl,2022
+Jesse Tugbenyo,CAM,21,200 Tsd. €,SC Verl,2022
+Maximilian Wolfram,LW,26,250 Tsd. €,SC Verl,2022
+Joel Grodowski,LW,25,225 Tsd. €,SC Verl,2022
+Nikos Zografakis,LW,23,150 Tsd. €,SC Verl,2022
+Maximilian Franke,LW,21,50 Tsd. €,SC Verl,2022
+Presley Pululu,LW,20,50 Tsd. €,SC Verl,2022
+Ilya Polyakov,LW,19,-,SC Verl,2022
+Joscha Wosz,RW,20,200 Tsd. €,SC Verl,2022
+Stijn Meijer,ST,23,300 Tsd. €,SC Verl,2022
+Cyrill Akono,ST,23,250 Tsd. €,SC Verl,2022
+Eduard Probst,ST,22,125 Tsd. €,SC Verl,2022
+Cottrell Ezekwem,ST,24,100 Tsd. €,SC Verl,2022
+Wladimir Wagner,ST,21,50 Tsd. €,SC Verl,2022
+Koray Dağ,ST,20,-,SC Verl,2022
+Kelvin Klein,ST,19,-,SC Verl,2022
+Luca Unbehaun,GK,23,400 Tsd. €,SC Verl,2023
+Tom Müller,GK,26,125 Tsd. €,SC Verl,2023
+Fabian Pekruhl,GK,25,25 Tsd. €,SC Verl,2023
+Tim Wiesner,GK,27,-,SC Verl,2023
+Leon Nübel,GK,20,-,SC Verl,2023
+Torge Paetow,CB,28,300 Tsd. €,SC Verl,2023
+Fabio Gruber,CB,21,250 Tsd. €,SC Verl,2023
+Barne Pernot,CB,25,150 Tsd. €,SC Verl,2023
+Daniel Mikic,CB,31,125 Tsd. €,SC Verl,2023
+Michel Stöcker,LB,25,225 Tsd. €,SC Verl,2023
+Gideon Guzy,LB,21,75 Tsd. €,SC Verl,2023
+Giulien Kaps,LB,22,-,SC Verl,2023
+Nico Ochojski,RB,25,275 Tsd. €,SC Verl,2023
+Patrick Kammerbauer,RB,27,175 Tsd. €,SC Verl,2023
+Tobias Knost,RB,24,175 Tsd. €,SC Verl,2023
+Marcel Benger,CDM,25,400 Tsd. €,SC Verl,2023
+Tom Baack,CDM,25,350 Tsd. €,SC Verl,2023
+Nick Otto,CDM,25,75 Tsd. €,SC Verl,2023
+Mael Corboz,CM,29,350 Tsd. €,SC Verl,2023
+Yari Otto,CM,25,250 Tsd. €,SC Verl,2023
+Adrian Fein,CM,25,225 Tsd. €,SC Verl,2023
+Marcel Mehlem,CM,29,175 Tsd. €,SC Verl,2023
+Marco Mannhardt,CM,21,125 Tsd. €,SC Verl,2023
+Oliver Batista Meier,CAM,23,500 Tsd. €,SC Verl,2023
+Nicolas Sessa,CAM,28,300 Tsd. €,SC Verl,2023
+Niclas Nadj,CAM,23,300 Tsd. €,SC Verl,2023
+Berkan Taz,CAM,25,200 Tsd. €,SC Verl,2023
+Maximilian Wolfram,LW,27,275 Tsd. €,SC Verl,2023
+Ilya Polyakov,LW,20,-,SC Verl,2023
+Joscha Wosz,RW,21,125 Tsd. €,SC Verl,2023
+Lars Lokotsch,ST,28,275 Tsd. €,SC Verl,2023
+Hendrik Mittelstädt,ST,24,125 Tsd. €,SC Verl,2023
+Robin Friedrich,ST,21,100 Tsd. €,SC Verl,2023
+Philipp Schulze,GK,22,300 Tsd. €,SC Verl,2024
+Fabian Pekruhl,GK,26,25 Tsd. €,SC Verl,2024
+Marlon Zacharias,GK,20,-,SC Verl,2024
+Philipp Schulz,CB,19,250 Tsd. €,SC Verl,2024
+Fynn Otto,CB,23,225 Tsd. €,SC Verl,2024
+Tim Köhler,CB,20,200 Tsd. €,SC Verl,2024
+Daniel Mikic,CB,32,125 Tsd. €,SC Verl,2024
+Niko Kijewski,LB,29,275 Tsd. €,SC Verl,2024
+Michel Stöcker,LB,26,225 Tsd. €,SC Verl,2024
+Oualid Mhamdi,RB,21,300 Tsd. €,SC Verl,2024
+Patrick Kammerbauer,RB,28,200 Tsd. €,SC Verl,2024
+Tobias Knost,RB,25,150 Tsd. €,SC Verl,2024
+Marcel Benger,CDM,26,400 Tsd. €,SC Verl,2024
+Tom Baack,CDM,26,350 Tsd. €,SC Verl,2024
+Julian Stark,CM,24,275 Tsd. €,SC Verl,2024
+Yari Otto,CM,25,250 Tsd. €,SC Verl,2024
+Lukas Demming,CM,25,100 Tsd. €,SC Verl,2024
+Konstantin Gerhardt,CM,20,75 Tsd. €,SC Verl,2024
+Berkan Taz,CAM,26,325 Tsd. €,SC Verl,2024
+Timur Gayret,CAM,26,300 Tsd. €,SC Verl,2024
+Lars Lokotsch,ST,29,300 Tsd. €,SC Verl,2024
+Jonas Arweiler,ST,28,250 Tsd. €,SC Verl,2024
+Gabriel Kyeremateng,ST,26,250 Tsd. €,SC Verl,2024
+Dominik Steczyk,ST,26,225 Tsd. €,SC Verl,2024
+Chilohem Onuoha,ST,20,200 Tsd. €,SC Verl,2024
+Eduard Probst,ST,24,100 Tsd. €,SC Verl,2024

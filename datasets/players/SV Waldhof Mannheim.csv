@@ -1,0 +1,365 @@
+name,position,age,value,team,season
+Markus Krauss,GK,27,175 Tsd. €,SV Waldhof Mannheim,2014
+Sebastian Brune,GK,21,100 Tsd. €,SV Waldhof Mannheim,2014
+Dennis Broll,GK,21,25 Tsd. €,SV Waldhof Mannheim,2014
+Deniz Yetkin,GK,26,-,SV Waldhof Mannheim,2014
+Patrick Haag,CB,25,250 Tsd. €,SV Waldhof Mannheim,2014
+Robin Neupert,CB,23,125 Tsd. €,SV Waldhof Mannheim,2014
+Mike Schulz,CB,22,75 Tsd. €,SV Waldhof Mannheim,2014
+Marcel Seegert,CB,21,75 Tsd. €,SV Waldhof Mannheim,2014
+Marco Müller,CB,21,50 Tsd. €,SV Waldhof Mannheim,2014
+Talha Yazgan,CB,23,25 Tsd. €,SV Waldhof Mannheim,2014
+Cem Islamoglu,CB,34,-,SV Waldhof Mannheim,2014
+Khaled Mesfin,LB,23,75 Tsd. €,SV Waldhof Mannheim,2014
+Christian Mühlbauer,LB,29,25 Tsd. €,SV Waldhof Mannheim,2014
+Julian Ratei,RB,26,100 Tsd. €,SV Waldhof Mannheim,2014
+Christoph Becker,RB,20,50 Tsd. €,SV Waldhof Mannheim,2014
+Dennis Kopf,RB,22,25 Tsd. €,SV Waldhof Mannheim,2014
+Nikola Mladenovic,CDM,23,75 Tsd. €,SV Waldhof Mannheim,2014
+Sebastian Lindner,CDM,23,75 Tsd. €,SV Waldhof Mannheim,2014
+Daniel di Gregorio,CDM,23,75 Tsd. €,SV Waldhof Mannheim,2014
+Frederic Brill,CDM,23,75 Tsd. €,SV Waldhof Mannheim,2014
+Nico Seegert,CM,21,75 Tsd. €,SV Waldhof Mannheim,2014
+Yannick Tewelde,CM,23,75 Tsd. €,SV Waldhof Mannheim,2014
+Lutz Radojewski,CM,22,50 Tsd. €,SV Waldhof Mannheim,2014
+Morris Nag,CM,19,25 Tsd. €,SV Waldhof Mannheim,2014
+Steffen Straub,LM,21,25 Tsd. €,SV Waldhof Mannheim,2014
+Héctor Róbinson,CAM,23,50 Tsd. €,SV Waldhof Mannheim,2014
+Philipp Förster,CAM,20,25 Tsd. €,SV Waldhof Mannheim,2014
+Nauwid Amiri,CAM,24,-,SV Waldhof Mannheim,2014
+Saifeddine Alami,CAM,22,-,SV Waldhof Mannheim,2014
+Alban Ramaj,LW,29,125 Tsd. €,SV Waldhof Mannheim,2014
+Yanick Haag,RW,20,25 Tsd. €,SV Waldhof Mannheim,2014
+Juvhel Tsoumou,ST,24,150 Tsd. €,SV Waldhof Mannheim,2014
+Shqipon Bektasi,ST,24,100 Tsd. €,SV Waldhof Mannheim,2014
+Shkemb Miftari,ST,21,100 Tsd. €,SV Waldhof Mannheim,2014
+Marcel Sökler,ST,24,75 Tsd. €,SV Waldhof Mannheim,2014
+Salvatore Bari,ST,27,50 Tsd. €,SV Waldhof Mannheim,2014
+Markus Scholz,GK,28,150 Tsd. €,SV Waldhof Mannheim,2015
+Dennis Broll,GK,22,50 Tsd. €,SV Waldhof Mannheim,2015
+Levent Cetin,GK,37,25 Tsd. €,SV Waldhof Mannheim,2015
+Michael Fink,CB,34,175 Tsd. €,SV Waldhof Mannheim,2015
+Marcel Seegert,CB,22,125 Tsd. €,SV Waldhof Mannheim,2015
+Robin Neupert,CB,24,125 Tsd. €,SV Waldhof Mannheim,2015
+Alban Sabah,CB,24,100 Tsd. €,SV Waldhof Mannheim,2015
+Marco Müller,CB,22,100 Tsd. €,SV Waldhof Mannheim,2015
+Patrick Haag,CB,26,50 Tsd. €,SV Waldhof Mannheim,2015
+Christian Mühlbauer,LB,30,75 Tsd. €,SV Waldhof Mannheim,2015
+Jonas Strifler,RB,26,150 Tsd. €,SV Waldhof Mannheim,2015
+Maximilian Schilling,RB,20,25 Tsd. €,SV Waldhof Mannheim,2015
+Hanno Balitsch,CDM,35,200 Tsd. €,SV Waldhof Mannheim,2015
+Sebastian Lindner,CDM,24,100 Tsd. €,SV Waldhof Mannheim,2015
+Daniel di Gregorio,CDM,24,100 Tsd. €,SV Waldhof Mannheim,2015
+Sebastian Gärtner,CDM,23,75 Tsd. €,SV Waldhof Mannheim,2015
+Jannik Marx,CDM,19,25 Tsd. €,SV Waldhof Mannheim,2015
+Morris Nag,CM,20,50 Tsd. €,SV Waldhof Mannheim,2015
+Nico Seegert,CM,22,25 Tsd. €,SV Waldhof Mannheim,2015
+Jannik Sommer,RM,24,125 Tsd. €,SV Waldhof Mannheim,2015
+Steffen Straub,LM,22,100 Tsd. €,SV Waldhof Mannheim,2015
+Antonyos Celik,LM,21,50 Tsd. €,SV Waldhof Mannheim,2015
+Gianluca Korte,CAM,25,125 Tsd. €,SV Waldhof Mannheim,2015
+Philipp Förster,CAM,21,125 Tsd. €,SV Waldhof Mannheim,2015
+Ali Ibrahimaj,CAM,24,100 Tsd. €,SV Waldhof Mannheim,2015
+Marius Schilling,CAM,20,25 Tsd. €,SV Waldhof Mannheim,2015
+Alban Ramaj,LW,30,75 Tsd. €,SV Waldhof Mannheim,2015
+Yanick Haag,RW,21,50 Tsd. €,SV Waldhof Mannheim,2015
+Freddy Mombongo-Dues,ST,30,100 Tsd. €,SV Waldhof Mannheim,2015
+Marcel Sökler,ST,25,75 Tsd. €,SV Waldhof Mannheim,2015
+Giuseppe Burgio,ST,27,75 Tsd. €,SV Waldhof Mannheim,2015
+Benedikt Zahn,ST,20,25 Tsd. €,SV Waldhof Mannheim,2015
+Christopher Gäng,GK,29,150 Tsd. €,SV Waldhof Mannheim,2016
+Markus Scholz,GK,29,150 Tsd. €,SV Waldhof Mannheim,2016
+Levent Cetin,GK,38,25 Tsd. €,SV Waldhof Mannheim,2016
+Konstantin Weis,GK,20,25 Tsd. €,SV Waldhof Mannheim,2016
+Marcel Seegert,CB,23,175 Tsd. €,SV Waldhof Mannheim,2016
+Marco Müller,CB,23,125 Tsd. €,SV Waldhof Mannheim,2016
+Michael Schultz,CB,24,125 Tsd. €,SV Waldhof Mannheim,2016
+Michael Fink,CB,35,100 Tsd. €,SV Waldhof Mannheim,2016
+Kevin Nennhuber,CB,29,100 Tsd. €,SV Waldhof Mannheim,2016
+Alex Rodriguez-Caso,CB,20,25 Tsd. €,SV Waldhof Mannheim,2016
+Ilias Tzimanis,CB,19,-,SV Waldhof Mannheim,2016
+Mete Celik,LB,20,75 Tsd. €,SV Waldhof Mannheim,2016
+Hassan Amin,LB,25,75 Tsd. €,SV Waldhof Mannheim,2016
+Ederson Tormena,CDM,31,175 Tsd. €,SV Waldhof Mannheim,2016
+Bastian Müller,CDM,25,100 Tsd. €,SV Waldhof Mannheim,2016
+Daniel di Gregorio,CDM,25,100 Tsd. €,SV Waldhof Mannheim,2016
+Sebastian Gärtner,CDM,24,75 Tsd. €,SV Waldhof Mannheim,2016
+Jannik Marx,CDM,20,25 Tsd. €,SV Waldhof Mannheim,2016
+Simon Tüting,CM,30,175 Tsd. €,SV Waldhof Mannheim,2016
+Lukas Kiefer,CM,24,75 Tsd. €,SV Waldhof Mannheim,2016
+Morris Nag,CM,21,50 Tsd. €,SV Waldhof Mannheim,2016
+Nico Seegert,CM,23,25 Tsd. €,SV Waldhof Mannheim,2016
+Jannik Sommer,RM,25,175 Tsd. €,SV Waldhof Mannheim,2016
+Philipp Förster,CAM,22,200 Tsd. €,SV Waldhof Mannheim,2016
+Ali Ibrahimaj,CAM,25,150 Tsd. €,SV Waldhof Mannheim,2016
+Gianluca Korte,CAM,26,100 Tsd. €,SV Waldhof Mannheim,2016
+Dimitrios Popovic,LW,22,75 Tsd. €,SV Waldhof Mannheim,2016
+Alban Ramaj,LW,31,25 Tsd. €,SV Waldhof Mannheim,2016
+Ziya Köroglu,LW,20,-,SV Waldhof Mannheim,2016
+Nicolas Hebisch,ST,27,150 Tsd. €,SV Waldhof Mannheim,2016
+Benedikt Koep,ST,29,125 Tsd. €,SV Waldhof Mannheim,2016
+Giuseppe Burgio,ST,28,100 Tsd. €,SV Waldhof Mannheim,2016
+Dennis Rothenstein,ST,21,75 Tsd. €,SV Waldhof Mannheim,2016
+Markus Scholz,GK,30,175 Tsd. €,SV Waldhof Mannheim,2017
+Christopher Gäng,GK,30,75 Tsd. €,SV Waldhof Mannheim,2017
+Kubilay Dogan,GK,20,25 Tsd. €,SV Waldhof Mannheim,2017
+Konstantin Weis,GK,21,25 Tsd. €,SV Waldhof Mannheim,2017
+Niklas Heeger,GK,18,-,SV Waldhof Mannheim,2017
+Kevin Conrad,CB,27,225 Tsd. €,SV Waldhof Mannheim,2017
+Kevin Nennhuber,CB,30,100 Tsd. €,SV Waldhof Mannheim,2017
+Michael Schultz,CB,25,75 Tsd. €,SV Waldhof Mannheim,2017
+Ilias Tzimanis,CB,20,25 Tsd. €,SV Waldhof Mannheim,2017
+Hassan Amin,LB,26,200 Tsd. €,SV Waldhof Mannheim,2017
+Mete Celik,LB,21,50 Tsd. €,SV Waldhof Mannheim,2017
+Marco Meyerhöfer,RB,22,100 Tsd. €,SV Waldhof Mannheim,2017
+Jesse Weippert,RB,23,25 Tsd. €,SV Waldhof Mannheim,2017
+Marco Schuster,CDM,22,100 Tsd. €,SV Waldhof Mannheim,2017
+Daniel di Gregorio,CDM,26,100 Tsd. €,SV Waldhof Mannheim,2017
+Mirko Schuster,CDM,23,75 Tsd. €,SV Waldhof Mannheim,2017
+Lukas Kiefer,CM,25,75 Tsd. €,SV Waldhof Mannheim,2017
+Simon Tüting,CM,31,75 Tsd. €,SV Waldhof Mannheim,2017
+Morris Nag,CM,22,50 Tsd. €,SV Waldhof Mannheim,2017
+Jannik Sommer,RM,26,100 Tsd. €,SV Waldhof Mannheim,2017
+Dorian Diring,CAM,26,225 Tsd. €,SV Waldhof Mannheim,2017
+Gianluca Korte,CAM,27,125 Tsd. €,SV Waldhof Mannheim,2017
+Andreas Ivan,LW,23,125 Tsd. €,SV Waldhof Mannheim,2017
+Alban Ramaj,LW,32,-,SV Waldhof Mannheim,2017
+Raffael Korte,RW,27,100 Tsd. €,SV Waldhof Mannheim,2017
+Sinisa Sprecakovic,Second Striker,19,25 Tsd. €,SV Waldhof Mannheim,2017
+Nicolas Hebisch,ST,28,150 Tsd. €,SV Waldhof Mannheim,2017
+Benedikt Koep,ST,30,125 Tsd. €,SV Waldhof Mannheim,2017
+Patrick Mayer,ST,30,100 Tsd. €,SV Waldhof Mannheim,2017
+Maurice Deville,ST,25,100 Tsd. €,SV Waldhof Mannheim,2017
+Dennis Rothenstein,ST,22,50 Tsd. €,SV Waldhof Mannheim,2017
+Markus Scholz,GK,31,175 Tsd. €,SV Waldhof Mannheim,2018
+Miro Varvodic,GK,30,75 Tsd. €,SV Waldhof Mannheim,2018
+Christopher Gäng,GK,31,50 Tsd. €,SV Waldhof Mannheim,2018
+Konstantin Weis,GK,22,25 Tsd. €,SV Waldhof Mannheim,2018
+Kevin Conrad,CB,28,250 Tsd. €,SV Waldhof Mannheim,2018
+Marcel Seegert,CB,25,250 Tsd. €,SV Waldhof Mannheim,2018
+Michael Schultz,CB,26,125 Tsd. €,SV Waldhof Mannheim,2018
+Jan Just,CB,22,75 Tsd. €,SV Waldhof Mannheim,2018
+Anthony Loviso,CB,28,-,SV Waldhof Mannheim,2018
+Marcel Hofrath,LB,26,150 Tsd. €,SV Waldhof Mannheim,2018
+Mete Celik,LB,22,75 Tsd. €,SV Waldhof Mannheim,2018
+Jonas Weik,LB,19,25 Tsd. €,SV Waldhof Mannheim,2018
+Marco Meyerhöfer,RB,23,150 Tsd. €,SV Waldhof Mannheim,2018
+Silas Schwarz,RB,21,25 Tsd. €,SV Waldhof Mannheim,2018
+Marco Schuster,CDM,23,150 Tsd. €,SV Waldhof Mannheim,2018
+Mirko Schuster,CDM,24,75 Tsd. €,SV Waldhof Mannheim,2018
+Maurice Hirsch,CDM,26,50 Tsd. €,SV Waldhof Mannheim,2018
+Florian Flick,CDM,19,25 Tsd. €,SV Waldhof Mannheim,2018
+Timo Kern,CM,29,150 Tsd. €,SV Waldhof Mannheim,2018
+Morris Nag,CM,23,50 Tsd. €,SV Waldhof Mannheim,2018
+Jannik Sommer,RM,27,100 Tsd. €,SV Waldhof Mannheim,2018
+Dorian Diring,CAM,27,225 Tsd. €,SV Waldhof Mannheim,2018
+Gianluca Korte,CAM,28,150 Tsd. €,SV Waldhof Mannheim,2018
+Dennis Franzin,LW,25,-,SV Waldhof Mannheim,2018
+Raffael Korte,RW,28,100 Tsd. €,SV Waldhof Mannheim,2018
+Sinisa Sprecakovic,Second Striker,20,25 Tsd. €,SV Waldhof Mannheim,2018
+Valmir Sulejmani,ST,23,200 Tsd. €,SV Waldhof Mannheim,2018
+Mounir Bouziane,ST,28,150 Tsd. €,SV Waldhof Mannheim,2018
+Maurice Deville,ST,26,125 Tsd. €,SV Waldhof Mannheim,2018
+Jesse Weißenfels,ST,27,75 Tsd. €,SV Waldhof Mannheim,2018
+Timo Königsmann,GK,23,250 Tsd. €,SV Waldhof Mannheim,2019
+Jan-Christoph Bartels,GK,21,200 Tsd. €,SV Waldhof Mannheim,2019
+Markus Scholz,GK,32,150 Tsd. €,SV Waldhof Mannheim,2019
+Miro Varvodic,GK,31,75 Tsd. €,SV Waldhof Mannheim,2019
+Jesper Verlaat,CB,24,325 Tsd. €,SV Waldhof Mannheim,2019
+Marcel Seegert,CB,26,275 Tsd. €,SV Waldhof Mannheim,2019
+Kevin Conrad,CB,29,250 Tsd. €,SV Waldhof Mannheim,2019
+Michael Schultz,CB,27,250 Tsd. €,SV Waldhof Mannheim,2019
+Gerrit Gohlke,CB,21,100 Tsd. €,SV Waldhof Mannheim,2019
+Jan Just,CB,23,50 Tsd. €,SV Waldhof Mannheim,2019
+Marcel Hofrath,LB,27,150 Tsd. €,SV Waldhof Mannheim,2019
+Anton Donkor,LB,22,125 Tsd. €,SV Waldhof Mannheim,2019
+Mete Celik,LB,23,100 Tsd. €,SV Waldhof Mannheim,2019
+Jonas Weik,LB,20,50 Tsd. €,SV Waldhof Mannheim,2019
+Marcel Costly,RB,24,275 Tsd. €,SV Waldhof Mannheim,2019
+Jan-Hendrik Marx,RB,25,250 Tsd. €,SV Waldhof Mannheim,2019
+Silas Schwarz,RB,22,50 Tsd. €,SV Waldhof Mannheim,2019
+Max Christiansen,CDM,23,350 Tsd. €,SV Waldhof Mannheim,2019
+Marco Schuster,CDM,24,250 Tsd. €,SV Waldhof Mannheim,2019
+Mohamed Gouaida,Midfielder,27,175 Tsd. €,SV Waldhof Mannheim,2019
+Benedict dos Santos,CDM,22,125 Tsd. €,SV Waldhof Mannheim,2019
+Florian Flick,CDM,20,50 Tsd. €,SV Waldhof Mannheim,2019
+Sandro Loechelt,CDM,24,-,SV Waldhof Mannheim,2019
+Hamza Saghiri,CM,23,125 Tsd. €,SV Waldhof Mannheim,2019
+Emmanuel Léonce Kouadio,RM,21,-,SV Waldhof Mannheim,2019
+Rafael García,LM,26,200 Tsd. €,SV Waldhof Mannheim,2019
+Dorian Diring,CAM,28,275 Tsd. €,SV Waldhof Mannheim,2019
+Arianit Ferati,CAM,22,250 Tsd. €,SV Waldhof Mannheim,2019
+Gianluca Korte,CAM,29,200 Tsd. €,SV Waldhof Mannheim,2019
+Onur Ünlücifci,LW,23,75 Tsd. €,SV Waldhof Mannheim,2019
+Dennis Franzin,LW,26,-,SV Waldhof Mannheim,2019
+Raffael Korte,RW,29,100 Tsd. €,SV Waldhof Mannheim,2019
+Valmir Sulejmani,ST,24,300 Tsd. €,SV Waldhof Mannheim,2019
+Maurice Deville,ST,27,225 Tsd. €,SV Waldhof Mannheim,2019
+Mounir Bouziane,ST,29,200 Tsd. €,SV Waldhof Mannheim,2019
+Dominik Martinovic,ST,23,100 Tsd. €,SV Waldhof Mannheim,2019
+Kevin Koffi,ST,34,100 Tsd. €,SV Waldhof Mannheim,2019
+Jesse Weißenfels,ST,28,50 Tsd. €,SV Waldhof Mannheim,2019
+Andis Shala,ST,31,-,SV Waldhof Mannheim,2019
+Patrick Hocker,ST,21,-,SV Waldhof Mannheim,2019
+Timo Königsmann,GK,24,225 Tsd. €,SV Waldhof Mannheim,2020
+Jan-Christoph Bartels,GK,22,200 Tsd. €,SV Waldhof Mannheim,2020
+Markus Scholz,GK,33,100 Tsd. €,SV Waldhof Mannheim,2020
+Luca Pedretti,GK,19,-,SV Waldhof Mannheim,2020
+Marc Lutz,CB,20,-,SV Waldhof Mannheim,2020
+Jesper Verlaat,CB,25,300 Tsd. €,SV Waldhof Mannheim,2020
+Gerrit Gohlke,CB,22,250 Tsd. €,SV Waldhof Mannheim,2020
+Marcel Seegert,CB,27,225 Tsd. €,SV Waldhof Mannheim,2020
+Jan Just,CB,24,100 Tsd. €,SV Waldhof Mannheim,2020
+Anton Donkor,LB,23,350 Tsd. €,SV Waldhof Mannheim,2020
+Marcel Hofrath,LB,28,150 Tsd. €,SV Waldhof Mannheim,2020
+Marcel Costly,RB,25,275 Tsd. €,SV Waldhof Mannheim,2020
+Jan-Hendrik Marx,RB,26,275 Tsd. €,SV Waldhof Mannheim,2020
+Max Christiansen,CDM,24,500 Tsd. €,SV Waldhof Mannheim,2020
+Marco Schuster,CDM,25,275 Tsd. €,SV Waldhof Mannheim,2020
+Mohamed Gouaida,Midfielder,28,175 Tsd. €,SV Waldhof Mannheim,2020
+Stefano Russo,CDM,21,125 Tsd. €,SV Waldhof Mannheim,2020
+Benedict dos Santos,CDM,23,100 Tsd. €,SV Waldhof Mannheim,2020
+Hamza Saghiri,CM,24,175 Tsd. €,SV Waldhof Mannheim,2020
+Emmanuel Léonce Kouadio,RM,22,50 Tsd. €,SV Waldhof Mannheim,2020
+Rafael García,LM,27,200 Tsd. €,SV Waldhof Mannheim,2020
+Arianit Ferati,CAM,23,350 Tsd. €,SV Waldhof Mannheim,2020
+Dorian Diring,CAM,29,125 Tsd. €,SV Waldhof Mannheim,2020
+Dennis Jastrzembski,LW,21,450 Tsd. €,SV Waldhof Mannheim,2020
+Manfred Osei Kwadwo,LW,26,150 Tsd. €,SV Waldhof Mannheim,2020
+Onur Ünlücifci,LW,24,125 Tsd. €,SV Waldhof Mannheim,2020
+Joseph Boyamba,RW,24,250 Tsd. €,SV Waldhof Mannheim,2020
+Marcel Gottschling,RW,27,200 Tsd. €,SV Waldhof Mannheim,2020
+Dominik Martinovic,ST,24,325 Tsd. €,SV Waldhof Mannheim,2020
+Gillian Jurcher,ST,24,150 Tsd. €,SV Waldhof Mannheim,2020
+Anthony Roczen,ST,21,125 Tsd. €,SV Waldhof Mannheim,2020
+Andis Shala,ST,32,100 Tsd. €,SV Waldhof Mannheim,2020
+Shin-hyung Lee,ST,20,-,SV Waldhof Mannheim,2020
+Malik Mikona,ST,21,-,SV Waldhof Mannheim,2020
+Timo Königsmann,GK,25,200 Tsd. €,SV Waldhof Mannheim,2021
+Jan-Christoph Bartels,GK,23,175 Tsd. €,SV Waldhof Mannheim,2021
+Lucien Hawryluk,GK,21,25 Tsd. €,SV Waldhof Mannheim,2021
+Marc Lutz,CB,21,-,SV Waldhof Mannheim,2021
+Jesper Verlaat,CB,26,350 Tsd. €,SV Waldhof Mannheim,2021
+Marcel Seegert,CB,28,250 Tsd. €,SV Waldhof Mannheim,2021
+Alexander Rossipal,CB,26,225 Tsd. €,SV Waldhof Mannheim,2021
+Gerrit Gohlke,CB,23,175 Tsd. €,SV Waldhof Mannheim,2021
+Jan Just,CB,25,75 Tsd. €,SV Waldhof Mannheim,2021
+Sören Lippert,CB,22,-,SV Waldhof Mannheim,2021
+Anton Donkor,LB,24,250 Tsd. €,SV Waldhof Mannheim,2021
+Marcel Costly,RB,26,300 Tsd. €,SV Waldhof Mannheim,2021
+Niklas-Wilson Sommer,RB,24,250 Tsd. €,SV Waldhof Mannheim,2021
+Marco Höger,CDM,32,450 Tsd. €,SV Waldhof Mannheim,2021
+Stefano Russo,CDM,22,200 Tsd. €,SV Waldhof Mannheim,2021
+Mohamed Gouaida,Midfielder,29,125 Tsd. €,SV Waldhof Mannheim,2021
+Fridolin Wagner,CM,24,225 Tsd. €,SV Waldhof Mannheim,2021
+Hamza Saghiri,CM,25,175 Tsd. €,SV Waldhof Mannheim,2021
+Nico Seegert,CM,28,-,SV Waldhof Mannheim,2021
+Emmanuel Léonce Kouadio,RM,23,25 Tsd. €,SV Waldhof Mannheim,2021
+Rafael García,LM,28,150 Tsd. €,SV Waldhof Mannheim,2021
+Adrien Lebeau,CAM,22,225 Tsd. €,SV Waldhof Mannheim,2021
+Dominik Kother,LW,22,450 Tsd. €,SV Waldhof Mannheim,2021
+Marc Schnatterer,LW,36,250 Tsd. €,SV Waldhof Mannheim,2021
+Onur Ünlücifci,LW,25,100 Tsd. €,SV Waldhof Mannheim,2021
+Barış Ekincier,LW,23,100 Tsd. €,SV Waldhof Mannheim,2021
+Joseph Boyamba,RW,25,300 Tsd. €,SV Waldhof Mannheim,2021
+Marcel Gottschling,RW,28,150 Tsd. €,SV Waldhof Mannheim,2021
+Justin Butler,RW,21,150 Tsd. €,SV Waldhof Mannheim,2021
+Dominik Martinovic,ST,25,350 Tsd. €,SV Waldhof Mannheim,2021
+Pascal Sohm,ST,30,300 Tsd. €,SV Waldhof Mannheim,2021
+Gillian Jurcher,ST,25,125 Tsd. €,SV Waldhof Mannheim,2021
+Anthony Roczen,ST,22,-,SV Waldhof Mannheim,2021
+Shin-hyung Lee,ST,21,-,SV Waldhof Mannheim,2021
+Patrick Hocker,ST,23,-,SV Waldhof Mannheim,2021
+Morten Behrens,GK,26,250 Tsd. €,SV Waldhof Mannheim,2022
+Jan-Christoph Bartels,GK,24,250 Tsd. €,SV Waldhof Mannheim,2022
+Lucien Hawryluk,GK,22,75 Tsd. €,SV Waldhof Mannheim,2022
+Oliver Seitz,GK,25,-,SV Waldhof Mannheim,2022
+Marc Lutz,CB,22,-,SV Waldhof Mannheim,2022
+Marcel Seegert,CB,29,275 Tsd. €,SV Waldhof Mannheim,2022
+Alexander Rossipal,CB,27,275 Tsd. €,SV Waldhof Mannheim,2022
+Julian Riedel,CB,31,250 Tsd. €,SV Waldhof Mannheim,2022
+Gerrit Gohlke,CB,24,200 Tsd. €,SV Waldhof Mannheim,2022
+Malte Karbstein,CB,25,150 Tsd. €,SV Waldhof Mannheim,2022
+Luca Bolay,LB,20,100 Tsd. €,SV Waldhof Mannheim,2022
+Laurent Jans,RB,30,350 Tsd. €,SV Waldhof Mannheim,2022
+Johannes Dörfler,RB,26,225 Tsd. €,SV Waldhof Mannheim,2022
+Niklas-Wilson Sommer,RB,25,200 Tsd. €,SV Waldhof Mannheim,2022
+Marco Höger,CDM,33,250 Tsd. €,SV Waldhof Mannheim,2022
+Stefano Russo,CDM,23,225 Tsd. €,SV Waldhof Mannheim,2022
+Adrian Malachowski,CDM,25,175 Tsd. €,SV Waldhof Mannheim,2022
+Volkan Rona,Midfielder,22,-,SV Waldhof Mannheim,2022
+Bentley Baxter Bahn,CM,30,300 Tsd. €,SV Waldhof Mannheim,2022
+Fridolin Wagner,CM,25,275 Tsd. €,SV Waldhof Mannheim,2022
+Chang-jae Lee,CM,21,-,SV Waldhof Mannheim,2022
+Thomas Pledl,CAM,29,300 Tsd. €,SV Waldhof Mannheim,2022
+Berkan Taz,CAM,24,275 Tsd. €,SV Waldhof Mannheim,2022
+Adrien Lebeau,CAM,23,250 Tsd. €,SV Waldhof Mannheim,2022
+Dominik Kother,LW,23,350 Tsd. €,SV Waldhof Mannheim,2022
+Marc Schnatterer,LW,37,150 Tsd. €,SV Waldhof Mannheim,2022
+Barış Ekincier,LW,24,150 Tsd. €,SV Waldhof Mannheim,2022
+Florian Butscher,LW,20,-,SV Waldhof Mannheim,2022
+Marten Winkler,RW,20,700 Tsd. €,SV Waldhof Mannheim,2022
+Jermain Schranz,RW,19,-,SV Waldhof Mannheim,2022
+Dominik Martinovic,ST,26,400 Tsd. €,SV Waldhof Mannheim,2022
+Pascal Sohm,ST,31,250 Tsd. €,SV Waldhof Mannheim,2022
+Daniel Keita-Ruel,ST,33,150 Tsd. €,SV Waldhof Mannheim,2022
+Kennedy Okpala,ST,18,-,SV Waldhof Mannheim,2022
+Omer Hanin,GK,26,150 Tsd. €,SV Waldhof Mannheim,2023
+Lucien Hawryluk,GK,23,150 Tsd. €,SV Waldhof Mannheim,2023
+Jan-Christoph Bartels,GK,25,125 Tsd. €,SV Waldhof Mannheim,2023
+Malwin Zok,GK,20,50 Tsd. €,SV Waldhof Mannheim,2023
+Kritsana Pummarrin,GK,19,-,SV Waldhof Mannheim,2023
+Lukas Klünter,CB,28,350 Tsd. €,SV Waldhof Mannheim,2023
+Marcel Seegert,CB,30,250 Tsd. €,SV Waldhof Mannheim,2023
+Malte Karbstein,CB,26,225 Tsd. €,SV Waldhof Mannheim,2023
+Tim Sechelmann,CB,25,175 Tsd. €,SV Waldhof Mannheim,2023
+Julian Riedel,CB,32,150 Tsd. €,SV Waldhof Mannheim,2023
+Luca Bolay,LB,21,250 Tsd. €,SV Waldhof Mannheim,2023
+Jonas Carls,LB,27,225 Tsd. €,SV Waldhof Mannheim,2023
+Samuel Abifade,LB,24,200 Tsd. €,SV Waldhof Mannheim,2023
+Laurent Jans,RB,31,275 Tsd. €,SV Waldhof Mannheim,2023
+Jonas Albenas,RB,21,125 Tsd. €,SV Waldhof Mannheim,2023
+Julian Rieckmann,CDM,23,225 Tsd. €,SV Waldhof Mannheim,2023
+Per Lockl,CDM,23,150 Tsd. €,SV Waldhof Mannheim,2023
+Fridolin Wagner,CM,26,250 Tsd. €,SV Waldhof Mannheim,2023
+Bentley Baxter Bahn,CM,31,225 Tsd. €,SV Waldhof Mannheim,2023
+Martin Kobylanski,CAM,30,225 Tsd. €,SV Waldhof Mannheim,2023
+Berkan Taz,CAM,25,200 Tsd. €,SV Waldhof Mannheim,2023
+Kelvin Arase,LW,25,325 Tsd. €,SV Waldhof Mannheim,2023
+Minos Gouras,LW,26,225 Tsd. €,SV Waldhof Mannheim,2023
+Jalen Hawkins,RW,23,225 Tsd. €,SV Waldhof Mannheim,2023
+Angelo Gattermayer,RW,22,200 Tsd. €,SV Waldhof Mannheim,2023
+Terrence Boyd,ST,33,400 Tsd. €,SV Waldhof Mannheim,2023
+Kennedy Okpala,ST,19,225 Tsd. €,SV Waldhof Mannheim,2023
+Kevin Goden,ST,25,200 Tsd. €,SV Waldhof Mannheim,2023
+Jesaja Herrmann,ST,24,175 Tsd. €,SV Waldhof Mannheim,2023
+Pascal Sohm,ST,32,150 Tsd. €,SV Waldhof Mannheim,2023
+Yann Mabella,ST,28,150 Tsd. €,SV Waldhof Mannheim,2023
+Jan-Christoph Bartels,GK,26,150 Tsd. €,SV Waldhof Mannheim,2024
+Omer Hanin,GK,27,125 Tsd. €,SV Waldhof Mannheim,2024
+Lucien Hawryluk,GK,24,100 Tsd. €,SV Waldhof Mannheim,2024
+Malwin Zok,GK,21,50 Tsd. €,SV Waldhof Mannheim,2024
+Lukas Klünter,CB,28,350 Tsd. €,SV Waldhof Mannheim,2024
+Marcel Seegert,CB,31,250 Tsd. €,SV Waldhof Mannheim,2024
+Tim Sechelmann,CB,26,200 Tsd. €,SV Waldhof Mannheim,2024
+Malte Karbstein,CB,27,200 Tsd. €,SV Waldhof Mannheim,2024
+Sascha Voelcke,LB,23,225 Tsd. €,SV Waldhof Mannheim,2024
+Samuel Abifade,LB,25,200 Tsd. €,SV Waldhof Mannheim,2024
+Manuel Braun,LB,20,100 Tsd. €,SV Waldhof Mannheim,2024
+Henning Matriciani,RB,25,450 Tsd. €,SV Waldhof Mannheim,2024
+Seyhan Yigit,RB,21,150 Tsd. €,SV Waldhof Mannheim,2024
+Maximilian Thalhammer,CDM,27,350 Tsd. €,SV Waldhof Mannheim,2024
+Julian Rieckmann,CDM,24,250 Tsd. €,SV Waldhof Mannheim,2024
+Niklas Hoffmann,CDM,28,225 Tsd. €,SV Waldhof Mannheim,2024
+Rico Benatelli,CM,33,250 Tsd. €,SV Waldhof Mannheim,2024
+Janne Sietan,CM,22,250 Tsd. €,SV Waldhof Mannheim,2024
+Adrian Fein,CM,26,200 Tsd. €,SV Waldhof Mannheim,2024
+Arianit Ferati,CAM,27,500 Tsd. €,SV Waldhof Mannheim,2024
+Martin Kobylanski,CAM,31,175 Tsd. €,SV Waldhof Mannheim,2024
+Yusuf Wardak,CAM,19,-,SV Waldhof Mannheim,2024
+Kelvin Arase,LW,26,250 Tsd. €,SV Waldhof Mannheim,2024
+Nicklas Shipnoski,RW,27,250 Tsd. €,SV Waldhof Mannheim,2024
+Felix Lohkemper,ST,30,350 Tsd. €,SV Waldhof Mannheim,2024
+Terrence Boyd,ST,34,325 Tsd. €,SV Waldhof Mannheim,2024
+André Becker,ST,28,300 Tsd. €,SV Waldhof Mannheim,2024
+Kennedy Okpala,ST,20,250 Tsd. €,SV Waldhof Mannheim,2024

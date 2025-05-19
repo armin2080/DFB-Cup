@@ -1,0 +1,292 @@
+name,position,age,value,team,season
+Christian Person,GK,35,-,Greifswalder FC,2015
+Marcel Rüh,GK,41,-,Greifswalder FC,2015
+Stefan Schmidt,GK,25,-,Greifswalder FC,2015
+Stefan Hafermann,GK,43,-,Greifswalder FC,2015
+Nico Barz,GK,20,-,Greifswalder FC,2015
+Kacper Chruscinski,CB,24,-,Greifswalder FC,2015
+Kristaps Freimanis,CB,29,-,Greifswalder FC,2015
+Patrick Henkel,CB,26,-,Greifswalder FC,2015
+Charbel Chougourou,CB,21,-,Greifswalder FC,2015
+Robert Stachowiak,CB,26,-,Greifswalder FC,2015
+André Gellentin,CB,28,-,Greifswalder FC,2015
+Mike Bütterich,LB,20,-,Greifswalder FC,2015
+Daniel Colak,LB,26,-,Greifswalder FC,2015
+Marco Kröger,RB,27,-,Greifswalder FC,2015
+Clemens Galonski,RB,25,-,Greifswalder FC,2015
+Florian Schröder,RB,20,-,Greifswalder FC,2015
+Denis Simdorn,CDM,25,-,Greifswalder FC,2015
+Christoph Maybauer,Midfielder,34,-,Greifswalder FC,2015
+Ole Grunow,Midfielder,20,-,Greifswalder FC,2015
+Maximilian Stöck,CM,27,-,Greifswalder FC,2015
+Tom Selchow,RM,21,-,Greifswalder FC,2015
+Dan Sendroiu,CAM,29,-,Greifswalder FC,2015
+Christian Gutjahr,CAM,25,-,Greifswalder FC,2015
+Kevin Beutin,LW,21,-,Greifswalder FC,2015
+Nick Lösel,RW,25,-,Greifswalder FC,2015
+Damian Staniszewski,Second Striker,36,-,Greifswalder FC,2015
+Sebastian Olszar,ST,34,-,Greifswalder FC,2015
+Tommy Greinert,ST,33,-,Greifswalder FC,2015
+Philipp Sundt,ST,20,-,Greifswalder FC,2015
+Frank Rohde,ST,27,-,Greifswalder FC,2015
+Johannes Schönfeld,ST,20,-,Greifswalder FC,2015
+Christian Person,GK,36,-,Greifswalder FC,2016
+Stefan Hafermann,GK,44,-,Greifswalder FC,2016
+Nico Barz,GK,21,-,Greifswalder FC,2016
+Alexander Glandt,CB,37,-,Greifswalder FC,2016
+John Berger,CB,25,-,Greifswalder FC,2016
+Patrick Henkel,CB,27,-,Greifswalder FC,2016
+Charbel Chougourou,CB,22,-,Greifswalder FC,2016
+André Gellentin,CB,29,-,Greifswalder FC,2016
+Mike Bütterich,LB,21,-,Greifswalder FC,2016
+Daniel Colak,LB,27,-,Greifswalder FC,2016
+Marco Kröger,RB,28,-,Greifswalder FC,2016
+Sebastian Skupke,RB,31,-,Greifswalder FC,2016
+Max Kruse,RB,20,-,Greifswalder FC,2016
+Denis Simdorn,CDM,26,-,Greifswalder FC,2016
+Artur Esko,CDM,19,-,Greifswalder FC,2016
+Sven Hartwig,CM,32,-,Greifswalder FC,2016
+Tom Selchow,RM,22,-,Greifswalder FC,2016
+Dan Sendroiu,CAM,30,-,Greifswalder FC,2016
+Christian Gutjahr,CAM,26,-,Greifswalder FC,2016
+Kevin Beutin,LW,22,-,Greifswalder FC,2016
+Nick Lösel,RW,26,-,Greifswalder FC,2016
+Sebastian Olszar,ST,35,-,Greifswalder FC,2016
+Maxim Banaskiewicz,ST,25,-,Greifswalder FC,2016
+Velimir Jovanovic,ST,29,-,Greifswalder FC,2016
+Alexander Schadofske,ST,20,-,Greifswalder FC,2016
+Philipp Sundt,ST,21,-,Greifswalder FC,2016
+Johannes Schönfeld,ST,21,-,Greifswalder FC,2016
+Frank Rohde,ST,28,-,Greifswalder FC,2016
+Christian Person,GK,37,-,Greifswalder FC,2017
+Stefan Hafermann,GK,45,-,Greifswalder FC,2017
+Nico Barz,GK,22,-,Greifswalder FC,2017
+Roderich Weit,GK,18,-,Greifswalder FC,2017
+Martin Leu,GK,20,-,Greifswalder FC,2017
+John Berger,CB,26,-,Greifswalder FC,2017
+Patrick Henkel,CB,28,-,Greifswalder FC,2017
+Charbel Chougourou,CB,23,-,Greifswalder FC,2017
+André Gellentin,CB,30,-,Greifswalder FC,2017
+Mike Bütterich,LB,22,-,Greifswalder FC,2017
+Tom Effland,LB,27,-,Greifswalder FC,2017
+Marco Kröger,RB,29,-,Greifswalder FC,2017
+Clemens Galonski,RB,27,-,Greifswalder FC,2017
+Florian Schröder,RB,22,-,Greifswalder FC,2017
+Max Kruse,RB,21,-,Greifswalder FC,2017
+Sven Hartwig,CM,33,-,Greifswalder FC,2017
+Markus Schönfeld,CM,19,-,Greifswalder FC,2017
+Tom Selchow,RM,23,-,Greifswalder FC,2017
+Dan Sendroiu,CAM,31,-,Greifswalder FC,2017
+Christian Gutjahr,CAM,27,-,Greifswalder FC,2017
+Marc Mickley,CAM,19,-,Greifswalder FC,2017
+Kevin Beutin,LW,23,-,Greifswalder FC,2017
+Nick Lösel,RW,27,-,Greifswalder FC,2017
+Sebastian Olszar,ST,36,-,Greifswalder FC,2017
+Maxim Banaskiewicz,ST,26,-,Greifswalder FC,2017
+Velimir Jovanovic,ST,30,-,Greifswalder FC,2017
+Ryo Miyazaki,ST,20,-,Greifswalder FC,2017
+Frank Rohde,ST,29,-,Greifswalder FC,2017
+Nico Barz,GK,23,-,Greifswalder FC,2018
+Roderich Weit,GK,19,-,Greifswalder FC,2018
+Martin Leu,GK,21,-,Greifswalder FC,2018
+Patrick Henkel,CB,29,-,Greifswalder FC,2018
+John Berger,CB,27,-,Greifswalder FC,2018
+Charbel Chougourou,CB,24,-,Greifswalder FC,2018
+Arkadiusz Czarnecki,CB,31,-,Greifswalder FC,2018
+Julian Rüh,CB,18,-,Greifswalder FC,2018
+Hannes Mietzelfeld,LB,24,-,Greifswalder FC,2018
+Tom Effland,LB,28,-,Greifswalder FC,2018
+Mike Bütterich,LB,23,-,Greifswalder FC,2018
+Marco Kröger,RB,30,-,Greifswalder FC,2018
+Florian Otto,RB,20,-,Greifswalder FC,2018
+Max Kruse,RB,22,-,Greifswalder FC,2018
+Florian Schröder,RB,23,-,Greifswalder FC,2018
+Hannes Lange,CDM,18,-,Greifswalder FC,2018
+Nauhan,CM,21,-,Greifswalder FC,2018
+Tom Selchow,RM,24,-,Greifswalder FC,2018
+Luca Klatt,RM,17,-,Greifswalder FC,2018
+Khalid Ahmadi,CAM,19,-,Greifswalder FC,2018
+Marc Mickley,CAM,20,-,Greifswalder FC,2018
+Nick Lösel,RW,28,-,Greifswalder FC,2018
+Sebastian Olszar,ST,37,-,Greifswalder FC,2018
+Maxim Banaskiewicz,ST,27,-,Greifswalder FC,2018
+Ryo Miyazaki,ST,21,-,Greifswalder FC,2018
+Frank Rohde,ST,30,-,Greifswalder FC,2018
+Fatlind Memaj,ST,20,-,Greifswalder FC,2018
+Peterson Appiah,ST,22,-,Greifswalder FC,2018
+Stefan Hafermann,GK,47,-,Greifswalder FC,2019
+Karl-Eric Bernhardt,GK,19,-,Greifswalder FC,2019
+Nico Barz,GK,24,-,Greifswalder FC,2019
+Roderich Weit,GK,20,-,Greifswalder FC,2019
+Martin Leu,GK,22,-,Greifswalder FC,2019
+John Berger,CB,28,-,Greifswalder FC,2019
+Charbel Chougourou,CB,25,-,Greifswalder FC,2019
+Arkadiusz Czarnecki,CB,32,-,Greifswalder FC,2019
+Julian Rüh,CB,19,-,Greifswalder FC,2019
+Mike Bütterich,LB,24,-,Greifswalder FC,2019
+Marco Kröger,RB,31,-,Greifswalder FC,2019
+Florian Otto,RB,21,-,Greifswalder FC,2019
+Florian Schröder,RB,24,-,Greifswalder FC,2019
+Jannis Farr,RB,20,-,Greifswalder FC,2019
+Arvid Töllner,CDM,20,-,Greifswalder FC,2019
+Tetsu Horiuchi,CDM,25,-,Greifswalder FC,2019
+Kamil Pozniak,CM,30,-,Greifswalder FC,2019
+Tom Selchow,RM,25,-,Greifswalder FC,2019
+Luca Klatt,RM,18,-,Greifswalder FC,2019
+Denny Felgenhauer,CAM,20,-,Greifswalder FC,2019
+Tom Fraus,RW,28,-,Greifswalder FC,2019
+Robin Krolikowski,RW,21,-,Greifswalder FC,2019
+Nick Lösel,RW,29,-,Greifswalder FC,2019
+Velimir Jovanovic,ST,32,-,Greifswalder FC,2019
+Maxim Banaskiewicz,ST,28,-,Greifswalder FC,2019
+Ryo Miyazaki,ST,22,-,Greifswalder FC,2019
+Fatlind Memaj,ST,21,-,Greifswalder FC,2019
+Peterson Appiah,ST,23,-,Greifswalder FC,2019
+Stefan Hafermann,GK,48,-,Greifswalder FC,2020
+Martin Leu,GK,23,-,Greifswalder FC,2020
+Adam Marczuk,GK,25,-,Greifswalder FC,2020
+John Berger,CB,29,-,Greifswalder FC,2020
+Finn Berk,CB,21,-,Greifswalder FC,2020
+Julian Rüh,CB,20,-,Greifswalder FC,2020
+Mike Bütterich,LB,25,-,Greifswalder FC,2020
+Marco Kröger,RB,32,-,Greifswalder FC,2020
+Jannis Farr,RB,21,-,Greifswalder FC,2020
+Florian Otto,RB,22,-,Greifswalder FC,2020
+Sascha Schünemann,CDM,29,-,Greifswalder FC,2020
+Kamil Pozniak,CM,31,-,Greifswalder FC,2020
+Lovro Sindik,CM,29,-,Greifswalder FC,2020
+Tom Selchow,RM,26,-,Greifswalder FC,2020
+Luca Klatt,RM,19,-,Greifswalder FC,2020
+Felix Winkler,CAM,19,-,Greifswalder FC,2020
+Denny Felgenhauer,CAM,21,-,Greifswalder FC,2020
+Clemens Schröder,RW,18,-,Greifswalder FC,2020
+Robin Krolikowski,RW,22,-,Greifswalder FC,2020
+Nick Lösel,RW,30,-,Greifswalder FC,2020
+Velimir Jovanovic,ST,33,-,Greifswalder FC,2020
+Julian Hahnel,ST,23,-,Greifswalder FC,2020
+Ryo Miyazaki,ST,23,-,Greifswalder FC,2020
+Fatlind Memaj,ST,22,-,Greifswalder FC,2020
+Peterson Appiah,ST,24,-,Greifswalder FC,2020
+Christian Person,GK,41,-,Greifswalder FC,2021
+Mika Schneider,GK,22,-,Greifswalder FC,2021
+Stefan Hafermann,GK,49,-,Greifswalder FC,2021
+Carl Claas,GK,26,-,Greifswalder FC,2021
+Roderich Weit,GK,22,-,Greifswalder FC,2021
+Adam Marczuk,GK,26,-,Greifswalder FC,2021
+Ben Tornow,CB,18,-,Greifswalder FC,2021
+Robert Müller,CB,35,-,Greifswalder FC,2021
+Kristoffer Stockhaus,CB,21,-,Greifswalder FC,2021
+Julian Rüh,CB,21,-,Greifswalder FC,2021
+Hannes Mietzelfeld,LB,27,-,Greifswalder FC,2021
+Mike Bütterich,LB,26,-,Greifswalder FC,2021
+Tom Zastrow,LB,20,-,Greifswalder FC,2021
+Marco Kröger,RB,33,-,Greifswalder FC,2021
+Jannis Farr,RB,22,-,Greifswalder FC,2021
+Rudolf Sanin,CDM,22,-,Greifswalder FC,2021
+Artis Lazdins,CDM,36,-,Greifswalder FC,2021
+Niclas Gleisner,Midfielder,21,-,Greifswalder FC,2021
+Constantin Ihle,Midfielder,22,-,Greifswalder FC,2021
+Daan Alofs,Midfielder,18,-,Greifswalder FC,2021
+Lovro Sindik,CM,30,-,Greifswalder FC,2021
+Tom Selchow,RM,27,-,Greifswalder FC,2021
+Lukas Knechtel,LM,27,-,Greifswalder FC,2021
+Azat Selcuk,CAM,23,-,Greifswalder FC,2021
+Ronny Garbuschewski,CAM,36,-,Greifswalder FC,2021
+Niklas Mieß,CAM,19,-,Greifswalder FC,2021
+Matteo Hecker,CAM,20,-,Greifswalder FC,2021
+Joe-Joe Richardson,LW,20,-,Greifswalder FC,2021
+Bleon Salihu,RW,20,-,Greifswalder FC,2021
+Clemens Schröder,RW,19,-,Greifswalder FC,2021
+Velimir Jovanovic,ST,34,-,Greifswalder FC,2021
+Till Schulze,ST,18,-,Greifswalder FC,2021
+Fatlind Memaj,ST,23,-,Greifswalder FC,2021
+Peterson Appiah,ST,25,-,Greifswalder FC,2021
+Michael Scavuzzo,ST,20,-,Greifswalder FC,2021
+Matti Kamenz,GK,24,50 Tsd. €,Greifswalder FC,2022
+Jonas Brendieck,GK,24,25 Tsd. €,Greifswalder FC,2022
+Adam Marczuk,GK,27,10 Tsd. €,Greifswalder FC,2022
+Mika Schneider,GK,23,10 Tsd. €,Greifswalder FC,2022
+Anthony Syhre,CB,28,75 Tsd. €,Greifswalder FC,2022
+Julian Rüh,CB,22,50 Tsd. €,Greifswalder FC,2022
+Pascal Schmedemann,CB,23,50 Tsd. €,Greifswalder FC,2022
+Aleksandar Bilbija,CB,25,50 Tsd. €,Greifswalder FC,2022
+Robert Müller,CB,36,25 Tsd. €,Greifswalder FC,2022
+Jannik Bandowski,LB,29,100 Tsd. €,Greifswalder FC,2022
+Hannes Mietzelfeld,LB,28,-,Greifswalder FC,2022
+Jannis Farr,RB,23,25 Tsd. €,Greifswalder FC,2022
+Niclas Kubitz,RB,22,25 Tsd. €,Greifswalder FC,2022
+Rudolf Sanin,CDM,23,50 Tsd. €,Greifswalder FC,2022
+Artis Lazdins,CDM,37,25 Tsd. €,Greifswalder FC,2022
+Moritz Rosenberg,CDM,21,10 Tsd. €,Greifswalder FC,2022
+Fabio Schneider,CM,20,100 Tsd. €,Greifswalder FC,2022
+Luca Jensen,CM,25,50 Tsd. €,Greifswalder FC,2022
+Tom Selchow,RM,28,-,Greifswalder FC,2022
+Lukas Knechtel,LM,28,25 Tsd. €,Greifswalder FC,2022
+Tom Weilandt,CAM,31,175 Tsd. €,Greifswalder FC,2022
+Matteo Hecker,CAM,21,-,Greifswalder FC,2022
+Niklas Mieß,CAM,20,-,Greifswalder FC,2022
+Joe-Joe Richardson,LW,21,200 Tsd. €,Greifswalder FC,2022
+Guido Kocer,LW,34,100 Tsd. €,Greifswalder FC,2022
+Nico Granatowski,RW,32,75 Tsd. €,Greifswalder FC,2022
+Theo Martens,RW,20,50 Tsd. €,Greifswalder FC,2022
+Daniel Eidtner,RW,23,25 Tsd. €,Greifswalder FC,2022
+Robin Krolikowski,RW,24,25 Tsd. €,Greifswalder FC,2022
+Soufian Benyamina,ST,33,125 Tsd. €,Greifswalder FC,2022
+Abu Bakarr Kargbo,ST,30,100 Tsd. €,Greifswalder FC,2022
+Maksym Kowal,ST,32,25 Tsd. €,Greifswalder FC,2022
+Fatlind Memaj,ST,24,10 Tsd. €,Greifswalder FC,2022
+Jonas Banouas,ST,19,10 Tsd. €,Greifswalder FC,2022
+Jakub Jakubov,GK,35,100 Tsd. €,Greifswalder FC,2023
+Ian Werner,GK,22,50 Tsd. €,Greifswalder FC,2023
+Flynn Schönmottel,GK,20,10 Tsd. €,Greifswalder FC,2023
+Jannis Vonier,GK,20,10 Tsd. €,Greifswalder FC,2023
+Christian Person,GK,43,-,Greifswalder FC,2023
+Pascal Schmedemann,CB,24,100 Tsd. €,Greifswalder FC,2023
+Mike Eglseder,CB,31,100 Tsd. €,Greifswalder FC,2023
+Tobi Adewole,CB,28,75 Tsd. €,Greifswalder FC,2023
+Julian Rüh,CB,23,25 Tsd. €,Greifswalder FC,2023
+Aleksandar Bilbija,CB,26,25 Tsd. €,Greifswalder FC,2023
+Can Coskun,LB,26,175 Tsd. €,Greifswalder FC,2023
+Jannik Bandowski,LB,30,50 Tsd. €,Greifswalder FC,2023
+Jannis Farr,RB,24,75 Tsd. €,Greifswalder FC,2023
+Niclas Kubitz,RB,23,10 Tsd. €,Greifswalder FC,2023
+Niklas Brandt,CDM,32,125 Tsd. €,Greifswalder FC,2023
+Rudolf Sanin,CDM,24,50 Tsd. €,Greifswalder FC,2023
+Moritz Rosenberg,CDM,22,10 Tsd. €,Greifswalder FC,2023
+David Vogt,CM,23,125 Tsd. €,Greifswalder FC,2023
+Oliver Daedlow,CM,24,125 Tsd. €,Greifswalder FC,2023
+Jorik Wulff,CM,23,75 Tsd. €,Greifswalder FC,2023
+Fabio Schneider,CM,21,50 Tsd. €,Greifswalder FC,2023
+Noel Eichinger,CAM,22,125 Tsd. €,Greifswalder FC,2023
+Tom Weilandt,CAM,32,125 Tsd. €,Greifswalder FC,2023
+Guido Kocer,LW,35,125 Tsd. €,Greifswalder FC,2023
+Andy Cabrera,LW,23,125 Tsd. €,Greifswalder FC,2023
+Elias Kratzer,RW,24,100 Tsd. €,Greifswalder FC,2023
+Soufian Benyamina,ST,34,175 Tsd. €,Greifswalder FC,2023
+Manassé Eshele,ST,25,125 Tsd. €,Greifswalder FC,2023
+Johannes Manske,ST,24,75 Tsd. €,Greifswalder FC,2023
+Abu Bakarr Kargbo,ST,31,50 Tsd. €,Greifswalder FC,2023
+Jonas Marx,ST,19,25 Tsd. €,Greifswalder FC,2023
+Jakub Jakubov,GK,36,75 Tsd. €,Greifswalder FC,2024
+Luca Petzold,GK,23,50 Tsd. €,Greifswalder FC,2024
+Noah-Joel Hoffmann,GK,21,10 Tsd. €,Greifswalder FC,2024
+Pascal Schmedemann,CB,25,150 Tsd. €,Greifswalder FC,2024
+Bastian Strietzel,CB,26,100 Tsd. €,Greifswalder FC,2024
+Mike Eglseder,CB,32,75 Tsd. €,Greifswalder FC,2024
+Lorenz Hollenbach,CB,21,50 Tsd. €,Greifswalder FC,2024
+Jacob Engel,LB,24,75 Tsd. €,Greifswalder FC,2024
+Lukas Griebsch,LB,21,50 Tsd. €,Greifswalder FC,2024
+Jannis Farr,RB,25,75 Tsd. €,Greifswalder FC,2024
+Niklas Brandt,CDM,33,100 Tsd. €,Greifswalder FC,2024
+Rudolf Sanin,CDM,25,50 Tsd. €,Greifswalder FC,2024
+Lukas Lämmel,CM,27,100 Tsd. €,Greifswalder FC,2024
+David Vogt,CM,24,100 Tsd. €,Greifswalder FC,2024
+Oliver Daedlow,CM,24,100 Tsd. €,Greifswalder FC,2024
+Alwin Weber,CM,22,10 Tsd. €,Greifswalder FC,2024
+Ogechika Heil,CAM,24,125 Tsd. €,Greifswalder FC,2024
+Guido Kocer,LW,36,100 Tsd. €,Greifswalder FC,2024
+Osman Atilgan,LW,25,100 Tsd. €,Greifswalder FC,2024
+Rudolf Ndualu,RW,25,100 Tsd. €,Greifswalder FC,2024
+Elias Kratzer,RW,25,75 Tsd. €,Greifswalder FC,2024
+Soufian Benyamina,ST,35,150 Tsd. €,Greifswalder FC,2024
+Corvin Kosak,ST,20,75 Tsd. €,Greifswalder FC,2024

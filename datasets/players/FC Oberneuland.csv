@@ -1,0 +1,364 @@
+name,position,age,value,team,season
+Stefan Barck,GK,20,-,FC Oberneuland,2014
+Peter Koppo,GK,43,-,FC Oberneuland,2014
+Matthias Fischer,GK,31,-,FC Oberneuland,2014
+Lars Hobuß,CB,19,-,FC Oberneuland,2014
+Philip Perez,CB,-,-,FC Oberneuland,2014
+Felix Jaekel,CB,25,-,FC Oberneuland,2014
+Jan-Hendrik Rauh,CB,-,-,FC Oberneuland,2014
+Marc-Patrick Hatke,LB,25,-,FC Oberneuland,2014
+Patrick Hermann,RB,27,-,FC Oberneuland,2014
+Gerrit Kubin,RB,30,-,FC Oberneuland,2014
+Maximilian Otto,RB,26,-,FC Oberneuland,2014
+Julian Stroppel,Midfielder,31,50 Tsd. €,FC Oberneuland,2014
+Sven Sinning,Midfielder,-,-,FC Oberneuland,2014
+Felix Mann,Midfielder,-,-,FC Oberneuland,2014
+David Driscoll,Midfielder,-,-,FC Oberneuland,2014
+Ömer Toprak,Midfielder,-,-,FC Oberneuland,2014
+Alexander Gossow,Midfielder,-,-,FC Oberneuland,2014
+Steffen Vogel,Midfielder,-,-,FC Oberneuland,2014
+Mohamed Eke,Midfielder,-,-,FC Oberneuland,2014
+Vadim Yatsenko,Midfielder,28,-,FC Oberneuland,2014
+Dennis Meyer,RM,35,-,FC Oberneuland,2014
+Patrick Wendt,LM,22,-,FC Oberneuland,2014
+Mutalip Bucuka,CAM,35,-,FC Oberneuland,2014
+Sven Meinecke,CAM,33,-,FC Oberneuland,2014
+Benedetto Muzzicato,CAM,36,-,FC Oberneuland,2014
+Sascha Jütting,CAM,31,-,FC Oberneuland,2014
+Mirza Begovic,CAM,33,-,FC Oberneuland,2014
+Boban Bojanic,LW,21,-,FC Oberneuland,2014
+Sadmir Bahonic,ST,-,-,FC Oberneuland,2014
+Robertino Nolte,ST,24,-,FC Oberneuland,2014
+Marco Ordenewitz,ST,24,-,FC Oberneuland,2014
+Vafing Jabateh,ST,22,-,FC Oberneuland,2014
+Lars Petershagen,ST,-,-,FC Oberneuland,2014
+Marcel Lorenz,ST,-,-,FC Oberneuland,2014
+Marco Behrens,GK,28,-,FC Oberneuland,2015
+Jan-Hendrik Gronewold,GK,24,-,FC Oberneuland,2015
+Peter Koppo,GK,44,-,FC Oberneuland,2015
+Kevin Lange,GK,-,-,FC Oberneuland,2015
+Matthias Fischer,GK,32,-,FC Oberneuland,2015
+Tjark Rathjen,GK,19,-,FC Oberneuland,2015
+Erkan Sacma,CB,31,-,FC Oberneuland,2015
+Jan-Hendrik Rauh,CB,-,-,FC Oberneuland,2015
+John Tunde Ashogbon,CB,28,-,FC Oberneuland,2015
+Boris Kaizer,CB,27,-,FC Oberneuland,2015
+David Haskamp,CB,24,-,FC Oberneuland,2015
+Isaac Kofi Donyina,CB,21,-,FC Oberneuland,2015
+Erik-Ove Henningsson,CB,25,-,FC Oberneuland,2015
+Moritz Erbs,CB,21,-,FC Oberneuland,2015
+Niklas Ordenewitz,LB,18,-,FC Oberneuland,2015
+Marc-Patrick Hatke,LB,26,-,FC Oberneuland,2015
+Patrick Hermann,RB,28,-,FC Oberneuland,2015
+Gerrit Kubin,RB,31,-,FC Oberneuland,2015
+Thomas Göktas,Midfielder,29,-,FC Oberneuland,2015
+Ahmet Gül,CDM,25,-,FC Oberneuland,2015
+Obed Scholl-Amoah,CDM,22,-,FC Oberneuland,2015
+Won-jun Kim,CDM,22,-,FC Oberneuland,2015
+Steffen Vogel,Midfielder,-,-,FC Oberneuland,2015
+Michael Thöne,Midfielder,26,-,FC Oberneuland,2015
+Malick Camara,Midfielder,29,-,FC Oberneuland,2015
+Jan-Moritz Höler,CM,21,-,FC Oberneuland,2015
+Patrick Wendt,LM,23,-,FC Oberneuland,2015
+Sascha Jütting,CAM,32,-,FC Oberneuland,2015
+Ayoub Rochd,LW,22,-,FC Oberneuland,2015
+Nick Gutmann,RW,19,-,FC Oberneuland,2015
+Ferdinand Takyi,ST,21,25 Tsd. €,FC Oberneuland,2015
+Kadir Karabas,ST,27,-,FC Oberneuland,2015
+Yasin Bilgin,ST,30,-,FC Oberneuland,2015
+Ömer Aktaş,ST,31,-,FC Oberneuland,2015
+Ugur Saatci,ST,32,-,FC Oberneuland,2015
+Vafing Jabateh,ST,23,-,FC Oberneuland,2015
+Marco Ordenewitz,ST,25,-,FC Oberneuland,2015
+Marco Behrens,GK,29,-,FC Oberneuland,2016
+Peter Koppo,GK,45,-,FC Oberneuland,2016
+Indy Schön,GK,-,-,FC Oberneuland,2016
+John Tunde Ashogbon,CB,29,-,FC Oberneuland,2016
+Timo Dressler,CB,20,-,FC Oberneuland,2016
+Erik-Ove Henningsson,CB,26,-,FC Oberneuland,2016
+Tim Behrens,CB,19,-,FC Oberneuland,2016
+Niklas Ordenewitz,LB,19,-,FC Oberneuland,2016
+Fabian Becker,LB,19,-,FC Oberneuland,2016
+Marc-Patrick Hatke,LB,27,-,FC Oberneuland,2016
+Raoni Carneiro Alves,LB,20,-,FC Oberneuland,2016
+Patrick Hermann,RB,29,-,FC Oberneuland,2016
+Gerrit Kubin,RB,32,-,FC Oberneuland,2016
+Deniz Kolodziej,RB,20,-,FC Oberneuland,2016
+Julian Stroppel,Midfielder,33,50 Tsd. €,FC Oberneuland,2016
+Elvis Eichler,Midfielder,19,-,FC Oberneuland,2016
+Nikolas Kreyssig,Midfielder,19,-,FC Oberneuland,2016
+Steffen Vogel,Midfielder,-,-,FC Oberneuland,2016
+Michael Thöne,Midfielder,27,-,FC Oberneuland,2016
+Eugen Schneider,CDM,27,-,FC Oberneuland,2016
+Cedrik Hertes,CM,19,-,FC Oberneuland,2016
+Jan-Moritz Höler,CM,22,-,FC Oberneuland,2016
+Dennis Meyer,RM,37,-,FC Oberneuland,2016
+Maurice Kirsch,RM,19,-,FC Oberneuland,2016
+Sven Meinecke,CAM,35,-,FC Oberneuland,2016
+Denis Bledowski,CAM,18,-,FC Oberneuland,2016
+Hendrik Schwarz,CAM,19,-,FC Oberneuland,2016
+Sascha Jütting,CAM,33,-,FC Oberneuland,2016
+Kadir Karabas,ST,28,-,FC Oberneuland,2016
+Marco Ordenewitz,ST,26,-,FC Oberneuland,2016
+Abbas Khodaei,ST,18,-,FC Oberneuland,2016
+Marcel Ciszewski,ST,23,-,FC Oberneuland,2016
+Marco Behrens,GK,30,-,FC Oberneuland,2017
+Jonas Horsch,GK,19,-,FC Oberneuland,2017
+Marvin Syla,CB,19,-,FC Oberneuland,2017
+Timo Dressler,CB,21,-,FC Oberneuland,2017
+Andi Ramírez,CB,20,-,FC Oberneuland,2017
+Denis Nukic,CB,31,-,FC Oberneuland,2017
+Claas Bauer,CB,25,-,FC Oberneuland,2017
+Raoni Carneiro Alves,LB,21,-,FC Oberneuland,2017
+Tolga Cengel,LB,21,-,FC Oberneuland,2017
+Patrick Hermann,RB,30,-,FC Oberneuland,2017
+Deniz Kolodziej,RB,21,-,FC Oberneuland,2017
+Lars Tyca,RB,24,-,FC Oberneuland,2017
+Ferdi Kök,RB,26,-,FC Oberneuland,2017
+Daniel Block,CDM,27,-,FC Oberneuland,2017
+Yannick Rolff,CDM,26,-,FC Oberneuland,2017
+Michael Thöne,Midfielder,28,-,FC Oberneuland,2017
+Gabriel Bierre,Midfielder,20,-,FC Oberneuland,2017
+Ka-ram Han,CDM,20,-,FC Oberneuland,2017
+Cedrik Hertes,CM,20,-,FC Oberneuland,2017
+Gwan-woo Kang,LM,22,-,FC Oberneuland,2017
+Tom Trebin,CAM,20,-,FC Oberneuland,2017
+Ebrima Jobe,LW,21,-,FC Oberneuland,2017
+Sung-hyun Jung,LW,23,-,FC Oberneuland,2017
+Tim Kreutzträger,RW,24,-,FC Oberneuland,2017
+Kadir Karabas,ST,29,-,FC Oberneuland,2017
+Yasin Bilgin,ST,32,-,FC Oberneuland,2017
+Abbas Khodaei,ST,19,-,FC Oberneuland,2017
+Marcel Ciszewski,ST,24,-,FC Oberneuland,2017
+Amadou Sarr,ST,18,-,FC Oberneuland,2017
+Marco Behrens,GK,31,-,FC Oberneuland,2018
+Hannes Frerichs,GK,25,-,FC Oberneuland,2018
+Jonas Horsch,GK,20,-,FC Oberneuland,2018
+Timo Dressler,CB,22,-,FC Oberneuland,2018
+Denis Nukic,CB,32,-,FC Oberneuland,2018
+Claas Bauer,CB,26,-,FC Oberneuland,2018
+Chan-gil Park,LB,23,-,FC Oberneuland,2018
+Raoni Carneiro Alves,LB,22,-,FC Oberneuland,2018
+Fabian Becker,LB,21,-,FC Oberneuland,2018
+Patrick Hermann,RB,31,-,FC Oberneuland,2018
+Deniz Kolodziej,RB,22,-,FC Oberneuland,2018
+Lars Tyca,RB,25,-,FC Oberneuland,2018
+Daniel Block,CDM,28,-,FC Oberneuland,2018
+Ka-ram Han,CDM,21,-,FC Oberneuland,2018
+Abdullah Doğan,CM,22,-,FC Oberneuland,2018
+Karim Raho,CM,23,-,FC Oberneuland,2018
+Boris Koweschnikow,CM,28,-,FC Oberneuland,2018
+Cedrik Hertes,CM,21,-,FC Oberneuland,2018
+Gwan-woo Kang,LM,23,-,FC Oberneuland,2018
+Marcel Brendel,CAM,31,-,FC Oberneuland,2018
+Yannick Bremser,CAM,24,-,FC Oberneuland,2018
+Tom Trebin,CAM,21,-,FC Oberneuland,2018
+Onur Uzun,CAM,21,-,FC Oberneuland,2018
+Simon Cakir,LW,27,-,FC Oberneuland,2018
+Amil Seferovic,LW,20,-,FC Oberneuland,2018
+Ebrima Jobe,LW,22,-,FC Oberneuland,2018
+Tim Kreutzträger,RW,25,-,FC Oberneuland,2018
+Marcel Ciszewski,ST,25,-,FC Oberneuland,2018
+Affam Ifeadigo,ST,22,-,FC Oberneuland,2018
+Amadou Sarr,ST,19,-,FC Oberneuland,2018
+Hannes Frerichs,GK,26,-,FC Oberneuland,2019
+Marco Behrens,GK,32,-,FC Oberneuland,2019
+Jonas Horsch,GK,21,-,FC Oberneuland,2019
+Clemens Schoppenhauer,CB,28,225 Tsd. €,FC Oberneuland,2019
+Mirkan Pakkan,CB,32,-,FC Oberneuland,2019
+Timo Dressler,CB,23,-,FC Oberneuland,2019
+Nils Göcke,CB,32,-,FC Oberneuland,2019
+Denis Nukic,CB,33,-,FC Oberneuland,2019
+Claas Bauer,CB,27,-,FC Oberneuland,2019
+Chan-gil Park,LB,24,-,FC Oberneuland,2019
+Jason Tomety-Hemazro,LB,19,-,FC Oberneuland,2019
+Kerem Sahan,RB,24,-,FC Oberneuland,2019
+Deniz Kolodziej,RB,23,-,FC Oberneuland,2019
+Lars Tyca,RB,26,-,FC Oberneuland,2019
+Daniel Block,CDM,29,-,FC Oberneuland,2019
+Umut Ercan,CDM,19,-,FC Oberneuland,2019
+Ka-ram Han,CDM,22,-,FC Oberneuland,2019
+Artur Degtyarenko,CM,28,-,FC Oberneuland,2019
+Karim Raho,CM,24,-,FC Oberneuland,2019
+Boris Koweschnikow,CM,29,-,FC Oberneuland,2019
+Cedrik Hertes,CM,22,-,FC Oberneuland,2019
+Edison Mazreku,RM,21,-,FC Oberneuland,2019
+Leander Wasmus,CAM,23,-,FC Oberneuland,2019
+Tom Trebin,CAM,22,-,FC Oberneuland,2019
+Onur Uzun,CAM,22,-,FC Oberneuland,2019
+Nick Enghardt,CAM,25,-,FC Oberneuland,2019
+Simon Cakir,LW,28,-,FC Oberneuland,2019
+Tom Keil,LW,20,-,FC Oberneuland,2019
+Ebrima Jobe,LW,23,-,FC Oberneuland,2019
+Florent Aziri,RW,31,-,FC Oberneuland,2019
+Erik Köhler,RW,22,-,FC Oberneuland,2019
+Tim Kreutzträger,RW,26,-,FC Oberneuland,2019
+Leon Krämer,ST,20,-,FC Oberneuland,2019
+Amadou Sarr,ST,20,-,FC Oberneuland,2019
+Affam Ifeadigo,ST,23,-,FC Oberneuland,2019
+Jonas Horsch,GK,22,50 Tsd. €,FC Oberneuland,2020
+Hannes Frerichs,GK,27,10 Tsd. €,FC Oberneuland,2020
+Niklas Griesmeyer,GK,18,10 Tsd. €,FC Oberneuland,2020
+Marco Behrens,GK,33,-,FC Oberneuland,2020
+Clemens Schoppenhauer,CB,29,200 Tsd. €,FC Oberneuland,2020
+Claas Bauer,CB,28,25 Tsd. €,FC Oberneuland,2020
+Nils Göcke,CB,33,10 Tsd. €,FC Oberneuland,2020
+Denis Nukic,CB,34,10 Tsd. €,FC Oberneuland,2020
+Timo Dressler,CB,24,10 Tsd. €,FC Oberneuland,2020
+Julian Stöhr,LB,23,25 Tsd. €,FC Oberneuland,2020
+Jason Tomety-Hemazro,LB,20,10 Tsd. €,FC Oberneuland,2020
+Björn Hakansson,LB,23,-,FC Oberneuland,2020
+Lars Tyca,RB,27,25 Tsd. €,FC Oberneuland,2020
+Kerem Sahan,RB,25,25 Tsd. €,FC Oberneuland,2020
+Deniz Kolodziej,RB,24,10 Tsd. €,FC Oberneuland,2020
+Ka-ram Han,CDM,23,50 Tsd. €,FC Oberneuland,2020
+Daniel Block,CDM,30,50 Tsd. €,FC Oberneuland,2020
+Serhat Yazgan,CDM,21,-,FC Oberneuland,2020
+Ridel Monteiro,CM,24,50 Tsd. €,FC Oberneuland,2020
+Karim Raho,CM,25,25 Tsd. €,FC Oberneuland,2020
+Artur Degtyarenko,CM,29,-,FC Oberneuland,2020
+Edison Mazreku,RM,22,25 Tsd. €,FC Oberneuland,2020
+Emre Aytun,LM,21,50 Tsd. €,FC Oberneuland,2020
+Onur Uzun,CAM,23,50 Tsd. €,FC Oberneuland,2020
+Tom Trebin,CAM,23,25 Tsd. €,FC Oberneuland,2020
+Ebrima Jobe,LW,24,50 Tsd. €,FC Oberneuland,2020
+Hilkiah Voigt,LW,21,-,FC Oberneuland,2020
+Tim Kreutzträger,RW,27,50 Tsd. €,FC Oberneuland,2020
+Erik Köhler,RW,23,25 Tsd. €,FC Oberneuland,2020
+Mechak Nankishi,RW,22,10 Tsd. €,FC Oberneuland,2020
+Haris Ibrahimovic,RW,23,-,FC Oberneuland,2020
+Affam Ifeadigo,ST,24,50 Tsd. €,FC Oberneuland,2020
+Amadou Sarr,ST,21,10 Tsd. €,FC Oberneuland,2020
+Luca Mittelstädt,ST,21,-,FC Oberneuland,2020
+Jonas Horsch,GK,23,50 Tsd. €,FC Oberneuland,2021
+Jasin Jashari,GK,24,25 Tsd. €,FC Oberneuland,2021
+Niklas Griesmeyer,GK,19,10 Tsd. €,FC Oberneuland,2021
+Marco Behrens,GK,34,-,FC Oberneuland,2021
+Florent Berisha,CB,21,25 Tsd. €,FC Oberneuland,2021
+Marlo Siech,CB,24,25 Tsd. €,FC Oberneuland,2021
+Amiro Amadou,CB,19,25 Tsd. €,FC Oberneuland,2021
+Denis Nukic,CB,35,10 Tsd. €,FC Oberneuland,2021
+Claas Bauer,CB,29,-,FC Oberneuland,2021
+Abel Maruschke Agbe,CB,21,-,FC Oberneuland,2021
+Jason Tomety-Hemazro,LB,21,25 Tsd. €,FC Oberneuland,2021
+Elias Deblitz,LB,19,-,FC Oberneuland,2021
+Dennis Nagel,LB,20,-,FC Oberneuland,2021
+Moise Ngwisani,LB,24,-,FC Oberneuland,2021
+Lars Tyca,RB,28,25 Tsd. €,FC Oberneuland,2021
+Kerem Sahan,RB,26,25 Tsd. €,FC Oberneuland,2021
+Deniz Kolodziej,RB,25,10 Tsd. €,FC Oberneuland,2021
+Serhat Yazgan,CDM,22,25 Tsd. €,FC Oberneuland,2021
+Daniel Block,CDM,31,25 Tsd. €,FC Oberneuland,2021
+Alessio Arambasic,CDM,20,25 Tsd. €,FC Oberneuland,2021
+Karim Raho,CM,26,-,FC Oberneuland,2021
+Ibrahim Altunok,CM,18,-,FC Oberneuland,2021
+Edison Mazreku,RM,23,25 Tsd. €,FC Oberneuland,2021
+Tom Trebin,CAM,24,25 Tsd. €,FC Oberneuland,2021
+Onur Uzun,CAM,24,25 Tsd. €,FC Oberneuland,2021
+Fritz Kleiner,CAM,19,10 Tsd. €,FC Oberneuland,2021
+Shuto Kono,CAM,29,-,FC Oberneuland,2021
+Ebrima Jobe,LW,25,75 Tsd. €,FC Oberneuland,2021
+Tim Kreutzträger,RW,28,25 Tsd. €,FC Oberneuland,2021
+Erik Köhler,RW,24,25 Tsd. €,FC Oberneuland,2021
+Mechak Nankishi,RW,23,10 Tsd. €,FC Oberneuland,2021
+Muhammad Sey,RW,23,10 Tsd. €,FC Oberneuland,2021
+Yves Mfumu,ST,24,10 Tsd. €,FC Oberneuland,2021
+Amadou Sarr,ST,22,10 Tsd. €,FC Oberneuland,2021
+Bennet Glinder,GK,19,10 Tsd. €,FC Oberneuland,2022
+Jonas Horsch,GK,24,-,FC Oberneuland,2022
+Severyn Stefanowski,GK,19,-,FC Oberneuland,2022
+Kaan Değerli,GK,19,-,FC Oberneuland,2022
+Pepe Haedke,GK,18,-,FC Oberneuland,2022
+Tim Pereira-Ferraz,GK,19,-,FC Oberneuland,2022
+Marius Wichmann,GK,30,-,FC Oberneuland,2022
+Paul Bruno Engelkestock,GK,20,-,FC Oberneuland,2022
+Denis Nukic,CB,36,-,FC Oberneuland,2022
+Luca Maximilian Seidel,CB,22,-,FC Oberneuland,2022
+Tyron Leon Haake,CB,20,-,FC Oberneuland,2022
+Felix Deou Bauhus,CB,19,-,FC Oberneuland,2022
+Leon Louis Trebin,CB,24,-,FC Oberneuland,2022
+Nicolai Gräpler,LB,28,-,FC Oberneuland,2022
+Deniz Kolodziej,RB,26,-,FC Oberneuland,2022
+Lars Tyca,RB,29,-,FC Oberneuland,2022
+Curtis Opoku-Ware,RB,20,-,FC Oberneuland,2022
+Daniel Block,CDM,32,-,FC Oberneuland,2022
+Zejnedin Okanovic,CDM,20,-,FC Oberneuland,2022
+Ishan Sataev,CDM,20,-,FC Oberneuland,2022
+Mert Ates,CDM,21,-,FC Oberneuland,2022
+Jonas Kühl,CDM,23,-,FC Oberneuland,2022
+Boris Koweschnikow,CM,32,-,FC Oberneuland,2022
+Ibrahim Altunok,CM,19,-,FC Oberneuland,2022
+Fritz Kleiner,CAM,20,-,FC Oberneuland,2022
+Tom Trebin,CAM,25,-,FC Oberneuland,2022
+Yevgeniy Bidenko,LW,20,-,FC Oberneuland,2022
+Muhammad Sey,RW,24,-,FC Oberneuland,2022
+Daniel Hofmann,RW,21,-,FC Oberneuland,2022
+Omar Sillah,ST,19,-,FC Oberneuland,2022
+Nico Poplawski,ST,20,-,FC Oberneuland,2022
+Salif Kujabi,ST,19,-,FC Oberneuland,2022
+Jaylen Hofmann,GK,20,-,FC Oberneuland,2023
+Paul Bruno Engelkestock,GK,21,-,FC Oberneuland,2023
+Arsen Chornenko,GK,18,-,FC Oberneuland,2023
+Obed Riccard Thiem,CB,20,-,FC Oberneuland,2023
+Denis Nukic,CB,37,-,FC Oberneuland,2023
+Felix Deou Bauhus,CB,20,-,FC Oberneuland,2023
+Leon Louis Trebin,CB,25,-,FC Oberneuland,2023
+Luca Maximilian Seidel,CB,23,-,FC Oberneuland,2023
+Lion Graban,LB,19,-,FC Oberneuland,2023
+Lars Tyca,RB,30,-,FC Oberneuland,2023
+Deniz Kolodziej,RB,27,-,FC Oberneuland,2023
+Curtis Opoku-Ware,RB,21,-,FC Oberneuland,2023
+Erdem Yesilyurt,Midfielder,38,-,FC Oberneuland,2023
+Emirhan Ciftci,CDM,20,-,FC Oberneuland,2023
+Cyril-Jeniour Ebone Ekweh,Midfielder,18,-,FC Oberneuland,2023
+Paulo Krause Barrufet,Midfielder,19,-,FC Oberneuland,2023
+Abdul Halim Inusah,Midfielder,19,-,FC Oberneuland,2023
+Mehmet Akman,Midfielder,19,-,FC Oberneuland,2023
+Zejnedin Okanovic,CDM,21,-,FC Oberneuland,2023
+Wedat Bezek,CDM,22,-,FC Oberneuland,2023
+Paul Treis,Midfielder,20,-,FC Oberneuland,2023
+Kayra Elmalı,CDM,19,-,FC Oberneuland,2023
+Boris Koweschnikow,CM,33,-,FC Oberneuland,2023
+Moses Wu,CM,18,-,FC Oberneuland,2023
+Juan Villa Rudolph,CM,19,-,FC Oberneuland,2023
+Tom Hentschel,CM,19,-,FC Oberneuland,2023
+William Hildebrand,CAM,23,-,FC Oberneuland,2023
+Osman Suwareh,CAM,21,-,FC Oberneuland,2023
+Jonas Böhning,CAM,25,-,FC Oberneuland,2023
+Yevgeniy Bidenko,LW,21,-,FC Oberneuland,2023
+Muhammad Sey,RW,25,-,FC Oberneuland,2023
+Bakary Lambers,RW,24,-,FC Oberneuland,2023
+Kadir Karabas,ST,35,-,FC Oberneuland,2023
+Ömer-Faruk Korkut,ST,19,-,FC Oberneuland,2023
+Anas Eboazatan,ST,19,-,FC Oberneuland,2023
+Justin Schmidt,ST,27,-,FC Oberneuland,2023
+Salif Kujabi,ST,20,-,FC Oberneuland,2023
+Ole Bahr,GK,23,-,FC Oberneuland,2024
+Gianni Szepan-Afele,GK,,-,FC Oberneuland,2024
+Obed Riccard Thiem,CB,,-,FC Oberneuland,2024
+Kimi Hindahl,CB,,-,FC Oberneuland,2024
+Leon Louis Trebin,CB,,-,FC Oberneuland,2024
+Luca Maximilian Seidel,CB,,-,FC Oberneuland,2024
+Nicolai Gräpler,LB,,-,FC Oberneuland,2024
+Emre Ates,LB,,-,FC Oberneuland,2024
+Christian Agbe,LB,,-,FC Oberneuland,2024
+Lion Graban,LB,,-,FC Oberneuland,2024
+Lars Tyca,RB,31,-,FC Oberneuland,2024
+Youness Buduar,RB,33,-,FC Oberneuland,2024
+Vincent Reppel,RB,,-,FC Oberneuland,2024
+Mathis Wellmann,CDM,26,-,FC Oberneuland,2024
+Keisuke Morikami,CDM,,-,FC Oberneuland,2024
+Mehmet Akman,Midfielder,,-,FC Oberneuland,2024
+Abdul Halim Inusah,Midfielder,,-,FC Oberneuland,2024
+Paul Treis,Midfielder,,-,FC Oberneuland,2024
+Reza Ghotbabadi,CM,,-,FC Oberneuland,2024
+Mahdi Matar,CAM,,-,FC Oberneuland,2024
+Jonas Böhning,CAM,,-,FC Oberneuland,2024
+Redouan Kaid,CAM,,-,FC Oberneuland,2024
+Viktor Appiah,CAM,,-,FC Oberneuland,2024
+Andrei Mureșan,CAM,,-,FC Oberneuland,2024
+Williams Noukpetor,RW,,-,FC Oberneuland,2024
+Anas Eboazatan,ST,,-,FC Oberneuland,2024
+Niklas Hiegemann,ST,,-,FC Oberneuland,2024
+Dan-Cristian Neicu,ST,,-,FC Oberneuland,2024
+Salif Kujabi,ST,,-,FC Oberneuland,2024

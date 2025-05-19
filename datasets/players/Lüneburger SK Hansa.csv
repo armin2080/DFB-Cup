@@ -1,0 +1,311 @@
+name,position,age,value,team,season
+Tobias Braun,GK,26,75 Tsd. €,Lüneburger SK Hansa,2014
+Maximilian Rohrbach,GK,23,-,Lüneburger SK Hansa,2014
+Nico Hübner,CB,20,50 Tsd. €,Lüneburger SK Hansa,2014
+Linus Büchler,CB,21,50 Tsd. €,Lüneburger SK Hansa,2014
+Malik Issahaku,CB,23,75 Tsd. €,Lüneburger SK Hansa,2014
+Stefan Wolk,CB,25,75 Tsd. €,Lüneburger SK Hansa,2014
+Jannis Opalka,CB,26,50 Tsd. €,Lüneburger SK Hansa,2014
+Noel Below,CB,21,50 Tsd. €,Lüneburger SK Hansa,2014
+Oliver Ioannou,RB,26,100 Tsd. €,Lüneburger SK Hansa,2014
+Patrick Posipal,CDM,27,100 Tsd. €,Lüneburger SK Hansa,2014
+Matti Grahle,Midfielder,22,75 Tsd. €,Lüneburger SK Hansa,2014
+Maximilian Wulf,Midfielder,21,50 Tsd. €,Lüneburger SK Hansa,2014
+Phillip Gruhn,Midfielder,20,50 Tsd. €,Lüneburger SK Hansa,2014
+Frederic Penz,Midfielder,20,25 Tsd. €,Lüneburger SK Hansa,2014
+Jonas Fritz,CDM,19,25 Tsd. €,Lüneburger SK Hansa,2014
+Onur Saglam,CDM,22,-,Lüneburger SK Hansa,2014
+Ridel Monteiro,CM,18,25 Tsd. €,Lüneburger SK Hansa,2014
+Marco Schuhmann,LM,20,50 Tsd. €,Lüneburger SK Hansa,2014
+Dennis Richter,CAM,20,-,Lüneburger SK Hansa,2014
+Ali Moslehe,LW,28,75 Tsd. €,Lüneburger SK Hansa,2014
+Tezcan Karabulut,LW,27,75 Tsd. €,Lüneburger SK Hansa,2014
+Engin Kiy,LW,23,-,Lüneburger SK Hansa,2014
+Björn Schlottke,RW,20,50 Tsd. €,Lüneburger SK Hansa,2014
+Muhamed Alawie,ST,27,100 Tsd. €,Lüneburger SK Hansa,2014
+Hedon Selishta,ST,22,75 Tsd. €,Lüneburger SK Hansa,2014
+Mazan Moslehe,ST,25,75 Tsd. €,Lüneburger SK Hansa,2014
+Philipp Borges,ST,20,25 Tsd. €,Lüneburger SK Hansa,2014
+Lukas Hertting,ST,27,-,Lüneburger SK Hansa,2014
+Daniel Maaß,ST,22,-,Lüneburger SK Hansa,2014
+Briant Alberti,GK,23,50 Tsd. €,Lüneburger SK Hansa,2015
+Edgar Zinn,GK,26,25 Tsd. €,Lüneburger SK Hansa,2015
+Nico Hübner,CB,21,50 Tsd. €,Lüneburger SK Hansa,2015
+Linus Büchler,CB,22,50 Tsd. €,Lüneburger SK Hansa,2015
+Jannis Opalka,CB,27,100 Tsd. €,Lüneburger SK Hansa,2015
+Alexandros Tanidis,CB,24,75 Tsd. €,Lüneburger SK Hansa,2015
+Marcel Kohn,CB,21,50 Tsd. €,Lüneburger SK Hansa,2015
+Lukas Pägelow,CB,22,50 Tsd. €,Lüneburger SK Hansa,2015
+Leon Packheiser,RB,21,75 Tsd. €,Lüneburger SK Hansa,2015
+Pascal Ehrenberg,RB,21,25 Tsd. €,Lüneburger SK Hansa,2015
+Maximilian Wulf,Midfielder,22,75 Tsd. €,Lüneburger SK Hansa,2015
+Leon Heine,CDM,21,75 Tsd. €,Lüneburger SK Hansa,2015
+Mehmet Kurt,CDM,20,75 Tsd. €,Lüneburger SK Hansa,2015
+Tomek Pauer,CDM,22,75 Tsd. €,Lüneburger SK Hansa,2015
+Henrik Steinke,CDM,24,25 Tsd. €,Lüneburger SK Hansa,2015
+Max Hartmann,CM,23,25 Tsd. €,Lüneburger SK Hansa,2015
+Bastian Ungureanu,CM,22,25 Tsd. €,Lüneburger SK Hansa,2015
+Eric Owusu,LM,21,50 Tsd. €,Lüneburger SK Hansa,2015
+Gökay Isitan,CAM,24,50 Tsd. €,Lüneburger SK Hansa,2015
+Hakki Celik,CAM,20,-,Lüneburger SK Hansa,2015
+Otis Breustedt,LW,21,50 Tsd. €,Lüneburger SK Hansa,2015
+Charalampos Sidiropoulos,LW,21,50 Tsd. €,Lüneburger SK Hansa,2015
+Noor Al-Tamemy,LW,-,25 Tsd. €,Lüneburger SK Hansa,2015
+Ali Moslehe,LW,29,-,Lüneburger SK Hansa,2015
+Kwasi Wriedt,ST,21,150 Tsd. €,Lüneburger SK Hansa,2015
+Pascal Eggert,ST,23,50 Tsd. €,Lüneburger SK Hansa,2015
+Hedon Selishta,ST,23,25 Tsd. €,Lüneburger SK Hansa,2015
+Philipp Borges,ST,21,25 Tsd. €,Lüneburger SK Hansa,2015
+Klaudio Mahmutaj,ST,18,25 Tsd. €,Lüneburger SK Hansa,2015
+Nico Schrum,ST,29,-,Lüneburger SK Hansa,2015
+Ole Springer,GK,25,125 Tsd. €,Lüneburger SK Hansa,2016
+Jannik Reichel,GK,20,25 Tsd. €,Lüneburger SK Hansa,2016
+Linus Büchler,CB,23,75 Tsd. €,Lüneburger SK Hansa,2016
+Jannis Opalka,CB,28,100 Tsd. €,Lüneburger SK Hansa,2016
+Stefan Wolk,CB,27,100 Tsd. €,Lüneburger SK Hansa,2016
+Niklas Hunold,CB,23,75 Tsd. €,Lüneburger SK Hansa,2016
+Lukas Pägelow,CB,23,75 Tsd. €,Lüneburger SK Hansa,2016
+Leon Deichmann,CB,20,50 Tsd. €,Lüneburger SK Hansa,2016
+Waldemar Wart,CB,20,25 Tsd. €,Lüneburger SK Hansa,2016
+Lorenz Lahmann-Lammert,LB,19,25 Tsd. €,Lüneburger SK Hansa,2016
+Tomek Pauer,CDM,23,75 Tsd. €,Lüneburger SK Hansa,2016
+Kevin Pino Tellez,CDM,22,75 Tsd. €,Lüneburger SK Hansa,2016
+Meik Karwot,CDM,24,50 Tsd. €,Lüneburger SK Hansa,2016
+Maximilian Wulf,Midfielder,23,50 Tsd. €,Lüneburger SK Hansa,2016
+Henrik Steinke,CDM,25,25 Tsd. €,Lüneburger SK Hansa,2016
+Marco Schuhmann,LM,22,50 Tsd. €,Lüneburger SK Hansa,2016
+Gökay Isitan,CAM,25,125 Tsd. €,Lüneburger SK Hansa,2016
+Thure Ilgner,CAM,21,50 Tsd. €,Lüneburger SK Hansa,2016
+Felix Vobejda,LW,24,25 Tsd. €,Lüneburger SK Hansa,2016
+Nick Gutmann,RW,20,50 Tsd. €,Lüneburger SK Hansa,2016
+George Kelbel,ST,24,75 Tsd. €,Lüneburger SK Hansa,2016
+Ebenezer Utz,ST,24,50 Tsd. €,Lüneburger SK Hansa,2016
+Pascal Eggert,ST,24,50 Tsd. €,Lüneburger SK Hansa,2016
+Ian Prescott Claus,ST,24,50 Tsd. €,Lüneburger SK Hansa,2016
+Mustafa Kucukovic,ST,30,-,Lüneburger SK Hansa,2016
+Philipp Borges,ST,22,-,Lüneburger SK Hansa,2016
+Ole Springer,GK,26,125 Tsd. €,Lüneburger SK Hansa,2017
+Jannik Reichel,GK,21,25 Tsd. €,Lüneburger SK Hansa,2017
+Linus Büchler,CB,24,75 Tsd. €,Lüneburger SK Hansa,2017
+Niklas Hunold,CB,24,75 Tsd. €,Lüneburger SK Hansa,2017
+Leon Deichmann,CB,21,75 Tsd. €,Lüneburger SK Hansa,2017
+Lukas Pägelow,CB,24,75 Tsd. €,Lüneburger SK Hansa,2017
+Stefan Wolk,CB,28,75 Tsd. €,Lüneburger SK Hansa,2017
+Davidson Eden,CB,30,75 Tsd. €,Lüneburger SK Hansa,2017
+Goson Sakai,CB,22,50 Tsd. €,Lüneburger SK Hansa,2017
+Enes Biyiklioglu,CB,21,25 Tsd. €,Lüneburger SK Hansa,2017
+Lorenz Lahmann-Lammert,LB,20,25 Tsd. €,Lüneburger SK Hansa,2017
+Eudel Monteiro,LB,23,-,Lüneburger SK Hansa,2017
+Marian Kunze,RB,22,50 Tsd. €,Lüneburger SK Hansa,2017
+Niclas Treu,RB,21,50 Tsd. €,Lüneburger SK Hansa,2017
+Tomek Pauer,CDM,24,75 Tsd. €,Lüneburger SK Hansa,2017
+Maximilian Wulf,Midfielder,24,50 Tsd. €,Lüneburger SK Hansa,2017
+Henrik Steinke,CDM,26,25 Tsd. €,Lüneburger SK Hansa,2017
+Ridel Monteiro,CM,21,50 Tsd. €,Lüneburger SK Hansa,2017
+Mustafa Zazai,CAM,25,50 Tsd. €,Lüneburger SK Hansa,2017
+Thure Ilgner,CAM,22,50 Tsd. €,Lüneburger SK Hansa,2017
+Marvin Kehl,CAM,21,25 Tsd. €,Lüneburger SK Hansa,2017
+Felix Vobejda,LW,25,75 Tsd. €,Lüneburger SK Hansa,2017
+Nick Gutmann,RW,21,-,Lüneburger SK Hansa,2017
+Christian Gitau Eneremadu,Second Striker,21,25 Tsd. €,Lüneburger SK Hansa,2017
+Jeremy Baur,Second Striker,20,-,Lüneburger SK Hansa,2017
+Pascal Eggert,ST,25,75 Tsd. €,Lüneburger SK Hansa,2017
+Dominik Boettcher,ST,23,50 Tsd. €,Lüneburger SK Hansa,2017
+Kevin Krottke,ST,23,50 Tsd. €,Lüneburger SK Hansa,2017
+Michael Kobert,ST,22,50 Tsd. €,Lüneburger SK Hansa,2017
+Onur Capin,ST,21,50 Tsd. €,Lüneburger SK Hansa,2017
+Ole Springer,GK,27,125 Tsd. €,Lüneburger SK Hansa,2018
+Niklas Grünitz,GK,21,25 Tsd. €,Lüneburger SK Hansa,2018
+Haris Zlomusica,GK,19,25 Tsd. €,Lüneburger SK Hansa,2018
+Goson Sakai,CB,23,75 Tsd. €,Lüneburger SK Hansa,2018
+Stefan Wolk,CB,29,75 Tsd. €,Lüneburger SK Hansa,2018
+Michael Ambrosius,CB,23,75 Tsd. €,Lüneburger SK Hansa,2018
+Lukas Pägelow,CB,25,75 Tsd. €,Lüneburger SK Hansa,2018
+Bastian Stech,CB,22,50 Tsd. €,Lüneburger SK Hansa,2018
+Enes Biyiklioglu,CB,22,50 Tsd. €,Lüneburger SK Hansa,2018
+Mohamed El Ahmar,CB,22,50 Tsd. €,Lüneburger SK Hansa,2018
+Eliezer Correia Cá,CB,23,50 Tsd. €,Lüneburger SK Hansa,2018
+Hunu Jeong,CB,23,25 Tsd. €,Lüneburger SK Hansa,2018
+Lucian Pintilescu,CB,20,-,Lüneburger SK Hansa,2018
+Rhami Ghandour,LB,23,75 Tsd. €,Lüneburger SK Hansa,2018
+Enes Sejdi,LB,20,25 Tsd. €,Lüneburger SK Hansa,2018
+Marian Kunze,RB,23,100 Tsd. €,Lüneburger SK Hansa,2018
+Tomek Pauer,CDM,25,75 Tsd. €,Lüneburger SK Hansa,2018
+Ridel Monteiro,CM,22,75 Tsd. €,Lüneburger SK Hansa,2018
+Jassin Zabihi,LM,20,25 Tsd. €,Lüneburger SK Hansa,2018
+Eric Gueye,LM,19,25 Tsd. €,Lüneburger SK Hansa,2018
+Alexander Gerlach,CAM,19,25 Tsd. €,Lüneburger SK Hansa,2018
+Marvin Kehl,CAM,22,-,Lüneburger SK Hansa,2018
+Felix Vobejda,LW,26,75 Tsd. €,Lüneburger SK Hansa,2018
+Ante Kutschke,RW,22,50 Tsd. €,Lüneburger SK Hansa,2018
+Michael Kobert,ST,23,75 Tsd. €,Lüneburger SK Hansa,2018
+Kevin Krottke,ST,24,75 Tsd. €,Lüneburger SK Hansa,2018
+Utku Şen,ST,21,75 Tsd. €,Lüneburger SK Hansa,2018
+Dominik Boettcher,ST,24,-,Lüneburger SK Hansa,2018
+Ole Springer,GK,28,100 Tsd. €,Lüneburger SK Hansa,2019
+Maximilian Hüster,GK,19,25 Tsd. €,Lüneburger SK Hansa,2019
+Haris Zlomusica,GK,20,25 Tsd. €,Lüneburger SK Hansa,2019
+Bastian Stech,CB,23,75 Tsd. €,Lüneburger SK Hansa,2019
+Stefan Wolk,CB,30,75 Tsd. €,Lüneburger SK Hansa,2019
+Lukas Pägelow,CB,26,75 Tsd. €,Lüneburger SK Hansa,2019
+Mohamed El Ahmar,CB,23,75 Tsd. €,Lüneburger SK Hansa,2019
+Alessandro Otte,CB,22,50 Tsd. €,Lüneburger SK Hansa,2019
+Eliezer Correia Cá,CB,24,50 Tsd. €,Lüneburger SK Hansa,2019
+Guri Hana,CB,18,25 Tsd. €,Lüneburger SK Hansa,2019
+Marian Kunze,RB,24,100 Tsd. €,Lüneburger SK Hansa,2019
+Tomek Pauer,CDM,26,75 Tsd. €,Lüneburger SK Hansa,2019
+Alessandro Dente,CDM,20,25 Tsd. €,Lüneburger SK Hansa,2019
+Martin Schauer,CM,20,-,Lüneburger SK Hansa,2019
+Fabian Istefo,RM,26,75 Tsd. €,Lüneburger SK Hansa,2019
+Thorben Deters,CAM,24,125 Tsd. €,Lüneburger SK Hansa,2019
+Alexander Gerlach,CAM,20,25 Tsd. €,Lüneburger SK Hansa,2019
+Ante Kutschke,RW,23,50 Tsd. €,Lüneburger SK Hansa,2019
+Braima Baldé,RW,24,25 Tsd. €,Lüneburger SK Hansa,2019
+Can Düzel,Second Striker,21,100 Tsd. €,Lüneburger SK Hansa,2019
+Jonas Seidel,ST,22,75 Tsd. €,Lüneburger SK Hansa,2019
+Malick Mboob,ST,22,50 Tsd. €,Lüneburger SK Hansa,2019
+Kristijan Augustinovic,ST,21,25 Tsd. €,Lüneburger SK Hansa,2019
+Paolo Rieckmann,ST,19,25 Tsd. €,Lüneburger SK Hansa,2019
+Roman Birjukov,GK,22,50 Tsd. €,Lüneburger SK Hansa,2020
+Haris Zlomusica,GK,21,25 Tsd. €,Lüneburger SK Hansa,2020
+Maximilian Hüster,GK,20,10 Tsd. €,Lüneburger SK Hansa,2020
+Nico Hübner,CB,26,50 Tsd. €,Lüneburger SK Hansa,2020
+Bastian Stech,CB,24,75 Tsd. €,Lüneburger SK Hansa,2020
+Lukas Pägelow,CB,27,75 Tsd. €,Lüneburger SK Hansa,2020
+Eliezer Correia Cá,CB,25,50 Tsd. €,Lüneburger SK Hansa,2020
+Stefan Wolk,CB,31,50 Tsd. €,Lüneburger SK Hansa,2020
+Erjanik Ghubasaryan,CB,20,50 Tsd. €,Lüneburger SK Hansa,2020
+Alessandro Otte,CB,23,50 Tsd. €,Lüneburger SK Hansa,2020
+Guri Hana,CB,19,25 Tsd. €,Lüneburger SK Hansa,2020
+Philip Wölfing,CB,20,10 Tsd. €,Lüneburger SK Hansa,2020
+Michel Oelkers,LB,20,50 Tsd. €,Lüneburger SK Hansa,2020
+Marian Kunze,RB,25,75 Tsd. €,Lüneburger SK Hansa,2020
+Tomek Pauer,CDM,27,75 Tsd. €,Lüneburger SK Hansa,2020
+Daniel Hefele,CDM,19,50 Tsd. €,Lüneburger SK Hansa,2020
+Alessandro Dente,CDM,21,-,Lüneburger SK Hansa,2020
+Bajrush Osmani,CM,19,25 Tsd. €,Lüneburger SK Hansa,2020
+Marco Schuhmann,LM,26,50 Tsd. €,Lüneburger SK Hansa,2020
+Alexander Gerlach,CAM,21,25 Tsd. €,Lüneburger SK Hansa,2020
+Umut Ataykaya,LW,19,25 Tsd. €,Lüneburger SK Hansa,2020
+Abdul Rauf,LW,19,25 Tsd. €,Lüneburger SK Hansa,2020
+Sergej Litvinov,RW,18,-,Lüneburger SK Hansa,2020
+Jonas Seidel,ST,23,75 Tsd. €,Lüneburger SK Hansa,2020
+Malte Meyer,ST,22,50 Tsd. €,Lüneburger SK Hansa,2020
+Hussein Sharba,ST,21,25 Tsd. €,Lüneburger SK Hansa,2020
+Kristijan Augustinovic,ST,22,25 Tsd. €,Lüneburger SK Hansa,2020
+Paolo Rieckmann,ST,20,25 Tsd. €,Lüneburger SK Hansa,2020
+Roman Birjukov,GK,23,50 Tsd. €,Lüneburger SK Hansa,2021
+Haris Zlomusica,GK,22,25 Tsd. €,Lüneburger SK Hansa,2021
+Maximilian Hüster,GK,21,10 Tsd. €,Lüneburger SK Hansa,2021
+Nico Hübner,CB,27,25 Tsd. €,Lüneburger SK Hansa,2021
+Linus Büchler,CB,28,-,Lüneburger SK Hansa,2021
+Eliezer Correia Cá,CB,26,75 Tsd. €,Lüneburger SK Hansa,2021
+Lukas Pägelow,CB,28,75 Tsd. €,Lüneburger SK Hansa,2021
+Stefan Wolk,CB,32,50 Tsd. €,Lüneburger SK Hansa,2021
+Alessandro Otte,CB,24,50 Tsd. €,Lüneburger SK Hansa,2021
+Constantin-Lachezar Jordanov,CB,20,25 Tsd. €,Lüneburger SK Hansa,2021
+Erjanik Ghubasaryan,CB,21,-,Lüneburger SK Hansa,2021
+Artur Filimonov,LB,20,25 Tsd. €,Lüneburger SK Hansa,2021
+Michel Oelkers,LB,21,25 Tsd. €,Lüneburger SK Hansa,2021
+Marian Kunze,RB,26,50 Tsd. €,Lüneburger SK Hansa,2021
+Tomek Pauer,CDM,28,75 Tsd. €,Lüneburger SK Hansa,2021
+Daniel Hefele,CDM,20,50 Tsd. €,Lüneburger SK Hansa,2021
+Kevin Barajas,CAM,26,50 Tsd. €,Lüneburger SK Hansa,2021
+Yigit Yagmur,CAM,19,10 Tsd. €,Lüneburger SK Hansa,2021
+William Hildebrand,CAM,21,10 Tsd. €,Lüneburger SK Hansa,2021
+Abdul Rauf,LW,20,50 Tsd. €,Lüneburger SK Hansa,2021
+Valentin Zalli,LW,21,-,Lüneburger SK Hansa,2021
+Sergej Litvinov,RW,19,-,Lüneburger SK Hansa,2021
+Malte Meyer,ST,23,75 Tsd. €,Lüneburger SK Hansa,2021
+Jonas Seidel,ST,24,50 Tsd. €,Lüneburger SK Hansa,2021
+Maximilian Zoch,ST,20,25 Tsd. €,Lüneburger SK Hansa,2021
+Bibie Njie,ST,25,10 Tsd. €,Lüneburger SK Hansa,2021
+Sven Lendzewski,ST,19,-,Lüneburger SK Hansa,2021
+Maximilian Hüster,GK,22,-,Lüneburger SK Hansa,2022
+Haris Zlomusica,GK,23,-,Lüneburger SK Hansa,2022
+Tommy Henze,GK,20,-,Lüneburger SK Hansa,2022
+Kevin Zlotkowski,GK,23,-,Lüneburger SK Hansa,2022
+Nico Hübner,CB,28,-,Lüneburger SK Hansa,2022
+Eliezer Correia Cá,CB,27,-,Lüneburger SK Hansa,2022
+Stefan Wolk,CB,33,-,Lüneburger SK Hansa,2022
+Lucian Pintilescu,CB,24,-,Lüneburger SK Hansa,2022
+Albin Nishori,CB,20,-,Lüneburger SK Hansa,2022
+Tom Marquardt,CB,20,-,Lüneburger SK Hansa,2022
+Mert Buyukyilmaz,CB,31,-,Lüneburger SK Hansa,2022
+Tunde Akinlosotu,RB,25,-,Lüneburger SK Hansa,2022
+Marian Kunze,RB,27,-,Lüneburger SK Hansa,2022
+Mohand Almansori,RB,21,-,Lüneburger SK Hansa,2022
+Patrick Posipal,CDM,35,-,Lüneburger SK Hansa,2022
+Tomek Pauer,CDM,29,-,Lüneburger SK Hansa,2022
+Alessandro Dente,CDM,23,-,Lüneburger SK Hansa,2022
+Denis Wohlgemuth,Midfielder,20,-,Lüneburger SK Hansa,2022
+Paul Horns,Midfielder,-,-,Lüneburger SK Hansa,2022
+Paul Knacke,Midfielder,21,-,Lüneburger SK Hansa,2022
+Robin Neumann,Midfielder,20,-,Lüneburger SK Hansa,2022
+Peer Zander,CM,-,-,Lüneburger SK Hansa,2022
+Ibrahim Karakus,CM,21,-,Lüneburger SK Hansa,2022
+Christian Okafor,LM,29,-,Lüneburger SK Hansa,2022
+Sarwar Osse,CAM,21,-,Lüneburger SK Hansa,2022
+Takuro Mohara,CAM,25,-,Lüneburger SK Hansa,2022
+Tolunimi Ibikunle,CAM,26,-,Lüneburger SK Hansa,2022
+Durim Feta,CAM,32,-,Lüneburger SK Hansa,2022
+Adam Mami,LW,21,-,Lüneburger SK Hansa,2022
+Sergej Litvinov,RW,20,-,Lüneburger SK Hansa,2022
+Seung-in Choi,ST,32,-,Lüneburger SK Hansa,2022
+Jonas Seidel,ST,25,-,Lüneburger SK Hansa,2022
+Sven Lendzewski,ST,20,-,Lüneburger SK Hansa,2022
+Cengiz Acar,ST,19,-,Lüneburger SK Hansa,2022
+Haris Zlomusica,GK,24,-,Lüneburger SK Hansa,2023
+Kevin Zlotkowski,GK,24,-,Lüneburger SK Hansa,2023
+Devin Jobs,GK,-,-,Lüneburger SK Hansa,2023
+Fabian Hänel,GK,34,-,Lüneburger SK Hansa,2023
+Dennis Röhl,GK,34,-,Lüneburger SK Hansa,2023
+Nico Hübner,CB,29,-,Lüneburger SK Hansa,2023
+Oke Wilke,CB,-,-,Lüneburger SK Hansa,2023
+David Böhm,CB,-,-,Lüneburger SK Hansa,2023
+Niklas Tippl,CB,26,-,Lüneburger SK Hansa,2023
+Kevin Kämpfer,CB,-,-,Lüneburger SK Hansa,2023
+Eliezer Correia Cá,CB,28,-,Lüneburger SK Hansa,2023
+Stefan Wolk,CB,34,-,Lüneburger SK Hansa,2023
+Shabane Sanni,CB,24,-,Lüneburger SK Hansa,2023
+Michel Oelkers,LB,23,-,Lüneburger SK Hansa,2023
+Marian Kunze,RB,28,-,Lüneburger SK Hansa,2023
+Tomek Pauer,CDM,30,-,Lüneburger SK Hansa,2023
+Alessandro Dente,CDM,24,-,Lüneburger SK Hansa,2023
+Robin Neumann,Midfielder,21,-,Lüneburger SK Hansa,2023
+Paul Knacke,Midfielder,22,-,Lüneburger SK Hansa,2023
+Peer Zander,CM,-,-,Lüneburger SK Hansa,2023
+Bo Weishaupt,RM,29,-,Lüneburger SK Hansa,2023
+Christian Okafor,LM,30,-,Lüneburger SK Hansa,2023
+Corvin Behrens,LM,37,-,Lüneburger SK Hansa,2023
+Malte Meyer,ST,25,-,Lüneburger SK Hansa,2023
+Jonas Seidel,ST,26,-,Lüneburger SK Hansa,2023
+Felix Anders,ST,34,-,Lüneburger SK Hansa,2023
+Cengiz Acar,ST,20,-,Lüneburger SK Hansa,2023
+Deniz Öker,ST,22,-,Lüneburger SK Hansa,2023
+Mert Akkus,ST,22,-,Lüneburger SK Hansa,2023
+Christo Bartelt,ST,21,-,Lüneburger SK Hansa,2023
+Haris Zlomusica,GK,25,-,Lüneburger SK Hansa,2024
+Dennis Röhl,GK,,-,Lüneburger SK Hansa,2024
+Steffen Tiegs,GK,22,-,Lüneburger SK Hansa,2024
+Nico Hübner,CB,30,-,Lüneburger SK Hansa,2024
+Oke Wilke,CB,-,-,Lüneburger SK Hansa,2024
+Eliezer Correia Cá,CB,29,-,Lüneburger SK Hansa,2024
+Stefan Wolk,CB,35,-,Lüneburger SK Hansa,2024
+Tom Muhlack,CB,24,-,Lüneburger SK Hansa,2024
+Shabane Sanni,CB,25,-,Lüneburger SK Hansa,2024
+Marian Kunze,RB,29,-,Lüneburger SK Hansa,2024
+Tomek Pauer,CDM,30,-,Lüneburger SK Hansa,2024
+Paul Knacke,Midfielder,,-,Lüneburger SK Hansa,2024
+Leo Grams,Midfielder,,-,Lüneburger SK Hansa,2024
+Leon Perera,Midfielder,28,-,Lüneburger SK Hansa,2024
+Paul Jürß,Midfielder,,-,Lüneburger SK Hansa,2024
+Per Lasse Schmidt,Midfielder,-,-,Lüneburger SK Hansa,2024
+Max Ratzeburg,CDM,,-,Lüneburger SK Hansa,2024
+Raphael Thinius,RM,,-,Lüneburger SK Hansa,2024
+Bo Weishaupt,RM,,-,Lüneburger SK Hansa,2024
+Corvin Behrens,LM,38,-,Lüneburger SK Hansa,2024
+Jonas Seidel,ST,27,-,Lüneburger SK Hansa,2024
+Malte Meyer,ST,26,-,Lüneburger SK Hansa,2024
+Don Dovas,ST,-,-,Lüneburger SK Hansa,2024
+Deniz Öker,ST,,-,Lüneburger SK Hansa,2024

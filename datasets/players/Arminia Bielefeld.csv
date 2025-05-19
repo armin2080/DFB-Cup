@@ -1,0 +1,350 @@
+name,position,age,value,team,season
+Alexander Schwolow,GK,23,400 Tsd. €,Arminia Bielefeld,2014
+Jarno Peters,GK,22,100 Tsd. €,Arminia Bielefeld,2014
+Christopher Balkenhoff,GK,21,50 Tsd. €,Arminia Bielefeld,2014
+Michael Gurski,GK,36,50 Tsd. €,Arminia Bielefeld,2014
+Kennet Kostmann,GK,19,-,Arminia Bielefeld,2014
+Nikolai Rehnen,GK,18,-,Arminia Bielefeld,2014
+Stephan Salger,CB,25,350 Tsd. €,Arminia Bielefeld,2014
+Julian Börner,CB,24,350 Tsd. €,Arminia Bielefeld,2014
+Felix Burmeister,CB,25,350 Tsd. €,Arminia Bielefeld,2014
+Manuel Hornig,CB,32,200 Tsd. €,Arminia Bielefeld,2014
+Jerome Propheter,CB,25,175 Tsd. €,Arminia Bielefeld,2014
+Leon Rinke,CB,20,-,Arminia Bielefeld,2014
+Charalampos Chantzopoulos,CB,20,-,Arminia Bielefeld,2014
+Sebastian Schuppan,LB,28,350 Tsd. €,Arminia Bielefeld,2014
+Florian Dick,RB,30,500 Tsd. €,Arminia Bielefeld,2014
+Jonas Strifler,RB,25,150 Tsd. €,Arminia Bielefeld,2014
+Bashkim Ajdini,RB,22,75 Tsd. €,Arminia Bielefeld,2014
+Christian Will,RB,20,-,Arminia Bielefeld,2014
+Tom Schütz,CDM,27,450 Tsd. €,Arminia Bielefeld,2014
+Peer Kluge,CDM,34,200 Tsd. €,Arminia Bielefeld,2014
+André Kording,CDM,26,-,Arminia Bielefeld,2014
+Manuel Junglas,CM,26,500 Tsd. €,Arminia Bielefeld,2014
+Dennis Mast,CM,23,300 Tsd. €,Arminia Bielefeld,2014
+Daniel Brinkmann,CM,29,200 Tsd. €,Arminia Bielefeld,2014
+Marco Hober,CM,19,50 Tsd. €,Arminia Bielefeld,2014
+Sebastian Hille,RM,34,100 Tsd. €,Arminia Bielefeld,2014
+Marc Lorenz,LM,26,300 Tsd. €,Arminia Bielefeld,2014
+Christian Müller,CAM,31,350 Tsd. €,Arminia Bielefeld,2014
+David Ulm,CAM,31,300 Tsd. €,Arminia Bielefeld,2014
+Pascal Schmidt,CAM,23,75 Tsd. €,Arminia Bielefeld,2014
+Christoph Hemlein,RW,24,450 Tsd. €,Arminia Bielefeld,2014
+Fabian Klos,ST,27,600 Tsd. €,Arminia Bielefeld,2014
+Koen van der Biezen,ST,29,400 Tsd. €,Arminia Bielefeld,2014
+Pascal Testroet,ST,24,300 Tsd. €,Arminia Bielefeld,2014
+Stefan Langemann,ST,24,25 Tsd. €,Arminia Bielefeld,2014
+Almir Kasumovic,ST,21,-,Arminia Bielefeld,2014
+Cihan Bolat,ST,24,-,Arminia Bielefeld,2014
+Wolfgang Hesl,GK,30,700 Tsd. €,Arminia Bielefeld,2015
+Daniel Davari,GK,28,400 Tsd. €,Arminia Bielefeld,2015
+Nikolai Rehnen,GK,19,100 Tsd. €,Arminia Bielefeld,2015
+Brian Behrendt,CB,24,750 Tsd. €,Arminia Bielefeld,2015
+Julian Börner,CB,25,750 Tsd. €,Arminia Bielefeld,2015
+Stephan Salger,CB,26,600 Tsd. €,Arminia Bielefeld,2015
+Felix Burmeister,CB,26,350 Tsd. €,Arminia Bielefeld,2015
+Manuel Hornig,CB,33,100 Tsd. €,Arminia Bielefeld,2015
+Sebastian Schuppan,LB,29,450 Tsd. €,Arminia Bielefeld,2015
+Florian Dick,RB,31,650 Tsd. €,Arminia Bielefeld,2015
+Steffen Lang,RB,22,200 Tsd. €,Arminia Bielefeld,2015
+Jonas Strifler,RB,26,150 Tsd. €,Arminia Bielefeld,2015
+Tom Schütz,CDM,28,750 Tsd. €,Arminia Bielefeld,2015
+Peer Kluge,CDM,35,125 Tsd. €,Arminia Bielefeld,2015
+Manuel Junglas,CM,27,750 Tsd. €,Arminia Bielefeld,2015
+Dennis Mast,CM,24,400 Tsd. €,Arminia Bielefeld,2015
+Daniel Brinkmann,CM,30,200 Tsd. €,Arminia Bielefeld,2015
+Marco Hober,CM,20,100 Tsd. €,Arminia Bielefeld,2015
+Francisco Rodríguez,CAM,20,800 Tsd. €,Arminia Bielefeld,2015
+Seung-woo Ryu,CAM,22,650 Tsd. €,Arminia Bielefeld,2015
+Björn Jopek,CAM,22,400 Tsd. €,Arminia Bielefeld,2015
+David Ulm,CAM,32,300 Tsd. €,Arminia Bielefeld,2015
+Christian Müller,CAM,32,250 Tsd. €,Arminia Bielefeld,2015
+Amin Affane,CAM,22,150 Tsd. €,Arminia Bielefeld,2015
+Keanu Staude,LW,19,-,Arminia Bielefeld,2015
+Christoph Hemlein,RW,25,650 Tsd. €,Arminia Bielefeld,2015
+Michael Görlitz,RW,29,400 Tsd. €,Arminia Bielefeld,2015
+Fabian Klos,ST,28,800 Tsd. €,Arminia Bielefeld,2015
+Christopher Nöthe,ST,28,600 Tsd. €,Arminia Bielefeld,2015
+Andreas Voglsammer,ST,24,400 Tsd. €,Arminia Bielefeld,2015
+Koen van der Biezen,ST,30,250 Tsd. €,Arminia Bielefeld,2015
+Wolfgang Hesl,GK,31,400 Tsd. €,Arminia Bielefeld,2016
+Daniel Davari,GK,29,350 Tsd. €,Arminia Bielefeld,2016
+Nikolai Rehnen,GK,20,125 Tsd. €,Arminia Bielefeld,2016
+Baboucarr Gaye,GK,19,100 Tsd. €,Arminia Bielefeld,2016
+Julian Börner,CB,26,"1,20 Mio. €",Arminia Bielefeld,2016
+Brian Behrendt,CB,25,800 Tsd. €,Arminia Bielefeld,2016
+Stephan Salger,CB,27,600 Tsd. €,Arminia Bielefeld,2016
+Malcolm Cacutalua,CB,22,400 Tsd. €,Arminia Bielefeld,2016
+Manuel Hornig,CB,34,100 Tsd. €,Arminia Bielefeld,2016
+Henri Weigelt,CB,19,100 Tsd. €,Arminia Bielefeld,2016
+Florian Hartherz,LB,24,600 Tsd. €,Arminia Bielefeld,2016
+Sebastian Schuppan,LB,30,400 Tsd. €,Arminia Bielefeld,2016
+Florian Dick,RB,32,300 Tsd. €,Arminia Bielefeld,2016
+Steffen Lang,RB,23,200 Tsd. €,Arminia Bielefeld,2016
+Tom Schütz,CDM,29,700 Tsd. €,Arminia Bielefeld,2016
+Manuel Prietl,CDM,25,600 Tsd. €,Arminia Bielefeld,2016
+Tomasz Holota,CDM,26,250 Tsd. €,Arminia Bielefeld,2016
+Allan Firmino Dantas,CDM,20,100 Tsd. €,Arminia Bielefeld,2016
+Reinhold Yabo,CM,25,"1,00 Mio. €",Arminia Bielefeld,2016
+Manuel Junglas,CM,28,600 Tsd. €,Arminia Bielefeld,2016
+Dennis Mast,CM,25,350 Tsd. €,Arminia Bielefeld,2016
+Marco Hober,CM,21,150 Tsd. €,Arminia Bielefeld,2016
+David Ulm,CAM,33,200 Tsd. €,Arminia Bielefeld,2016
+Michal Mak,LW,25,450 Tsd. €,Arminia Bielefeld,2016
+Keanu Staude,LW,20,450 Tsd. €,Arminia Bielefeld,2016
+Leandro Putaro,LW,20,300 Tsd. €,Arminia Bielefeld,2016
+Christoph Hemlein,RW,26,750 Tsd. €,Arminia Bielefeld,2016
+Michael Görlitz,RW,30,450 Tsd. €,Arminia Bielefeld,2016
+Sören Brandy,Second Striker,32,350 Tsd. €,Arminia Bielefeld,2016
+Fabian Klos,ST,29,900 Tsd. €,Arminia Bielefeld,2016
+Andreas Voglsammer,ST,25,700 Tsd. €,Arminia Bielefeld,2016
+Christopher Nöthe,ST,29,550 Tsd. €,Arminia Bielefeld,2016
+Stefan Ortega,GK,25,900 Tsd. €,Arminia Bielefeld,2017
+Nikolai Rehnen,GK,21,150 Tsd. €,Arminia Bielefeld,2017
+Baboucarr Gaye,GK,20,100 Tsd. €,Arminia Bielefeld,2017
+Julian Börner,CB,27,"1,50 Mio. €",Arminia Bielefeld,2017
+Brian Behrendt,CB,26,800 Tsd. €,Arminia Bielefeld,2017
+Stephan Salger,CB,28,700 Tsd. €,Arminia Bielefeld,2017
+Henri Weigelt,CB,20,300 Tsd. €,Arminia Bielefeld,2017
+Florian Hartherz,LB,25,900 Tsd. €,Arminia Bielefeld,2017
+Florian Dick,RB,33,250 Tsd. €,Arminia Bielefeld,2017
+Manuel Prietl,CDM,26,850 Tsd. €,Arminia Bielefeld,2017
+Tom Schütz,CDM,30,750 Tsd. €,Arminia Bielefeld,2017
+Nils Teixeira,CDM,27,300 Tsd. €,Arminia Bielefeld,2017
+Can Özkan,CDM,18,150 Tsd. €,Arminia Bielefeld,2017
+Semir Ucar,CDM,19,100 Tsd. €,Arminia Bielefeld,2017
+Konstantin Kerschbaumer,CM,25,"1,50 Mio. €",Arminia Bielefeld,2017
+Cerruti Siya,CM,19,100 Tsd. €,Arminia Bielefeld,2017
+Roberto Massimo,LM,17,"1,50 Mio. €",Arminia Bielefeld,2017
+Patrick Weihrauch,CAM,24,700 Tsd. €,Arminia Bielefeld,2017
+David Ulm,CAM,34,100 Tsd. €,Arminia Bielefeld,2017
+Keanu Staude,LW,21,700 Tsd. €,Arminia Bielefeld,2017
+Leandro Putaro,LW,21,400 Tsd. €,Arminia Bielefeld,2017
+Christoph Hemlein,RW,27,450 Tsd. €,Arminia Bielefeld,2017
+Sören Brandy,Second Striker,33,200 Tsd. €,Arminia Bielefeld,2017
+Andreas Voglsammer,ST,26,"1,75 Mio. €",Arminia Bielefeld,2017
+Andraz Sporar,ST,24,"1,25 Mio. €",Arminia Bielefeld,2017
+Fabian Klos,ST,30,900 Tsd. €,Arminia Bielefeld,2017
+Christopher Nöthe,ST,30,350 Tsd. €,Arminia Bielefeld,2017
+Nils Quaschner,ST,24,350 Tsd. €,Arminia Bielefeld,2017
+Stefan Ortega,GK,26,900 Tsd. €,Arminia Bielefeld,2018
+Philipp Klewin,GK,25,300 Tsd. €,Arminia Bielefeld,2018
+Nikolai Rehnen,GK,22,200 Tsd. €,Arminia Bielefeld,2018
+Baboucarr Gaye,GK,21,100 Tsd. €,Arminia Bielefeld,2018
+Julian Börner,CB,28,"1,25 Mio. €",Arminia Bielefeld,2018
+Brian Behrendt,CB,27,800 Tsd. €,Arminia Bielefeld,2018
+Stephan Salger,CB,29,550 Tsd. €,Arminia Bielefeld,2018
+Amos Pieper,CB,21,450 Tsd. €,Arminia Bielefeld,2018
+Florian Hartherz,LB,26,800 Tsd. €,Arminia Bielefeld,2018
+Anderson Lucoqui,LB,21,600 Tsd. €,Arminia Bielefeld,2018
+Cédric Brunner,RB,25,700 Tsd. €,Arminia Bielefeld,2018
+Jonathan Clauss,RB,26,650 Tsd. €,Arminia Bielefeld,2018
+Manuel Prietl,CDM,27,850 Tsd. €,Arminia Bielefeld,2018
+Tom Schütz,CDM,31,500 Tsd. €,Arminia Bielefeld,2018
+Max Christiansen,CDM,22,450 Tsd. €,Arminia Bielefeld,2018
+Can Özkan,CDM,19,150 Tsd. €,Arminia Bielefeld,2018
+Semir Ucar,CDM,20,100 Tsd. €,Arminia Bielefeld,2018
+Reinhold Yabo,CM,27,"1,25 Mio. €",Arminia Bielefeld,2018
+Nils Seufert,CM,22,800 Tsd. €,Arminia Bielefeld,2018
+Cerruti Siya,CM,20,100 Tsd. €,Arminia Bielefeld,2018
+Roberto Massimo,LM,18,"1,50 Mio. €",Arminia Bielefeld,2018
+Patrick Weihrauch,CAM,25,650 Tsd. €,Arminia Bielefeld,2018
+Keanu Staude,LW,22,600 Tsd. €,Arminia Bielefeld,2018
+Leandro Putaro,LW,22,300 Tsd. €,Arminia Bielefeld,2018
+Sören Brandy,Second Striker,34,150 Tsd. €,Arminia Bielefeld,2018
+Andreas Voglsammer,ST,27,"1,75 Mio. €",Arminia Bielefeld,2018
+Fabian Klos,ST,31,800 Tsd. €,Arminia Bielefeld,2018
+Jóan Símun Edmundsson,ST,27,800 Tsd. €,Arminia Bielefeld,2018
+Sven Schipplock,ST,30,350 Tsd. €,Arminia Bielefeld,2018
+Prince Owusu,ST,22,300 Tsd. €,Arminia Bielefeld,2018
+Christopher Nöthe,ST,31,250 Tsd. €,Arminia Bielefeld,2018
+Nils Quaschner,ST,25,250 Tsd. €,Arminia Bielefeld,2018
+Stefan Ortega,GK,27,800 Tsd. €,Arminia Bielefeld,2019
+Oscar Linnér,GK,23,600 Tsd. €,Arminia Bielefeld,2019
+Philipp Klewin,GK,26,300 Tsd. €,Arminia Bielefeld,2019
+Ágoston Kiss,GK,19,100 Tsd. €,Arminia Bielefeld,2019
+Amos Pieper,CB,22,"1,80 Mio. €",Arminia Bielefeld,2019
+Joakim Nilsson,CB,26,"1,60 Mio. €",Arminia Bielefeld,2019
+Brian Behrendt,CB,28,600 Tsd. €,Arminia Bielefeld,2019
+Álex Pérez,CB,28,400 Tsd. €,Arminia Bielefeld,2019
+Stephan Salger,CB,30,350 Tsd. €,Arminia Bielefeld,2019
+Florian Hartherz,LB,27,725 Tsd. €,Arminia Bielefeld,2019
+Anderson Lucoqui,LB,22,400 Tsd. €,Arminia Bielefeld,2019
+Jonathan Clauss,RB,27,"1,20 Mio. €",Arminia Bielefeld,2019
+Cédric Brunner,RB,26,950 Tsd. €,Arminia Bielefeld,2019
+Manuel Prietl,CDM,28,800 Tsd. €,Arminia Bielefeld,2019
+Fabian Kunze,CDM,22,450 Tsd. €,Arminia Bielefeld,2019
+Tom Schütz,CDM,32,325 Tsd. €,Arminia Bielefeld,2019
+Marcel Hartel,CM,24,"1,60 Mio. €",Arminia Bielefeld,2019
+Reinhold Yabo,CM,28,"1,00 Mio. €",Arminia Bielefeld,2019
+Nils Seufert,CM,23,450 Tsd. €,Arminia Bielefeld,2019
+Jomaine Consbruch,CM,18,250 Tsd. €,Arminia Bielefeld,2019
+Patrick Weihrauch,CAM,26,450 Tsd. €,Arminia Bielefeld,2019
+Keanu Staude,LW,23,450 Tsd. €,Arminia Bielefeld,2019
+Cebio Soukou,RW,27,650 Tsd. €,Arminia Bielefeld,2019
+Sebastian Müller,RW,19,300 Tsd. €,Arminia Bielefeld,2019
+Andreas Voglsammer,ST,28,"2,00 Mio. €",Arminia Bielefeld,2019
+Fabian Klos,ST,32,650 Tsd. €,Arminia Bielefeld,2019
+Jóan Símun Edmundsson,ST,28,650 Tsd. €,Arminia Bielefeld,2019
+Sven Schipplock,ST,31,300 Tsd. €,Arminia Bielefeld,2019
+Nils Quaschner,ST,26,200 Tsd. €,Arminia Bielefeld,2019
+Stefan Ortega,GK,28,"6,00 Mio. €",Arminia Bielefeld,2020
+Oscar Linnér,GK,24,500 Tsd. €,Arminia Bielefeld,2020
+Nikolai Rehnen,GK,24,100 Tsd. €,Arminia Bielefeld,2020
+Arne Schulz,GK,18,100 Tsd. €,Arminia Bielefeld,2020
+Amos Pieper,CB,23,"7,00 Mio. €",Arminia Bielefeld,2020
+Joakim Nilsson,CB,27,"2,50 Mio. €",Arminia Bielefeld,2020
+Mike van der Hoorn,CB,28,"2,00 Mio. €",Arminia Bielefeld,2020
+Nathan de Medina,CB,23,650 Tsd. €,Arminia Bielefeld,2020
+Brian Behrendt,CB,29,500 Tsd. €,Arminia Bielefeld,2020
+Anderson Lucoqui,LB,23,"1,00 Mio. €",Arminia Bielefeld,2020
+Jacob Barrett Laursen,LB,26,700 Tsd. €,Arminia Bielefeld,2020
+Cédric Brunner,RB,27,"2,80 Mio. €",Arminia Bielefeld,2020
+Manuel Prietl,CDM,29,"1,80 Mio. €",Arminia Bielefeld,2020
+Fabian Kunze,CDM,23,"1,00 Mio. €",Arminia Bielefeld,2020
+Julian Frommann,CDM,18,200 Tsd. €,Arminia Bielefeld,2020
+Vladislav Cherny,CDM,18,100 Tsd. €,Arminia Bielefeld,2020
+Arne Maier,CM,22,"7,00 Mio. €",Arminia Bielefeld,2020
+Marcel Hartel,CM,25,"1,80 Mio. €",Arminia Bielefeld,2020
+Nils Seufert,CM,24,800 Tsd. €,Arminia Bielefeld,2020
+Reinhold Yabo,CM,29,700 Tsd. €,Arminia Bielefeld,2020
+Jomaine Consbruch,CM,19,300 Tsd. €,Arminia Bielefeld,2020
+Michel Vlap,CAM,24,"3,00 Mio. €",Arminia Bielefeld,2020
+Masaya Okugawa,LW,25,"2,50 Mio. €",Arminia Bielefeld,2020
+Noel Niemann,LW,21,275 Tsd. €,Arminia Bielefeld,2020
+Ritsu Doan,RW,23,"7,00 Mio. €",Arminia Bielefeld,2020
+Christian Gebauer,RW,27,800 Tsd. €,Arminia Bielefeld,2020
+Cebio Soukou,RW,28,700 Tsd. €,Arminia Bielefeld,2020
+Sebastian Müller,RW,20,300 Tsd. €,Arminia Bielefeld,2020
+Andreas Voglsammer,ST,29,"1,70 Mio. €",Arminia Bielefeld,2020
+Sergio Córdova,ST,23,"1,20 Mio. €",Arminia Bielefeld,2020
+Fabian Klos,ST,33,800 Tsd. €,Arminia Bielefeld,2020
+Jóan Símun Edmundsson,ST,29,500 Tsd. €,Arminia Bielefeld,2020
+Sven Schipplock,ST,32,400 Tsd. €,Arminia Bielefeld,2020
+Stefan Ortega,GK,29,"6,00 Mio. €",Arminia Bielefeld,2021
+Stefanos Kapino,GK,28,700 Tsd. €,Arminia Bielefeld,2021
+Oscar Linnér,GK,25,300 Tsd. €,Arminia Bielefeld,2021
+Arne Schulz,GK,19,100 Tsd. €,Arminia Bielefeld,2021
+Amos Pieper,CB,24,"5,00 Mio. €",Arminia Bielefeld,2021
+Joakim Nilsson,CB,28,"3,50 Mio. €",Arminia Bielefeld,2021
+Gui Ramos,CB,24,"2,00 Mio. €",Arminia Bielefeld,2021
+Andrés Andrade,CB,23,"2,00 Mio. €",Arminia Bielefeld,2021
+Mike van der Hoorn,CB,29,"1,60 Mio. €",Arminia Bielefeld,2021
+Nathan de Medina,CB,24,750 Tsd. €,Arminia Bielefeld,2021
+Kenson Pierre Bauer,CB,18,-,Arminia Bielefeld,2021
+George Bello,LB,20,"3,00 Mio. €",Arminia Bielefeld,2021
+Lennart Czyborra,LB,23,"2,30 Mio. €",Arminia Bielefeld,2021
+Jacob Barrett Laursen,LB,27,"1,70 Mio. €",Arminia Bielefeld,2021
+Cédric Brunner,RB,28,"3,20 Mio. €",Arminia Bielefeld,2021
+Edimilson Fernandes,CDM,26,"2,00 Mio. €",Arminia Bielefeld,2021
+Manuel Prietl,CDM,30,"1,80 Mio. €",Arminia Bielefeld,2021
+Fabian Kunze,CDM,24,"1,00 Mio. €",Arminia Bielefeld,2021
+Julian Frommann,CDM,19,200 Tsd. €,Arminia Bielefeld,2021
+Vladislav Cherny,CDM,19,100 Tsd. €,Arminia Bielefeld,2021
+Alessandro Schöpf,CM,28,"2,50 Mio. €",Arminia Bielefeld,2021
+Marcel Hartel,CM,26,"1,80 Mio. €",Arminia Bielefeld,2021
+Sebastian Vasiliadis,CM,24,"1,80 Mio. €",Arminia Bielefeld,2021
+Gonzalo Castro,CM,35,500 Tsd. €,Arminia Bielefeld,2021
+Burak İnce,CAM,18,"1,50 Mio. €",Arminia Bielefeld,2021
+Masaya Okugawa,LW,26,"5,00 Mio. €",Arminia Bielefeld,2021
+Robin Hack,LW,23,"2,00 Mio. €",Arminia Bielefeld,2021
+Patrick Wimmer,RW,21,"8,00 Mio. €",Arminia Bielefeld,2021
+Christian Gebauer,RW,28,500 Tsd. €,Arminia Bielefeld,2021
+Florian Krüger,ST,23,"1,80 Mio. €",Arminia Bielefeld,2021
+Janni Serra,ST,24,"1,80 Mio. €",Arminia Bielefeld,2021
+Bryan Lasme,ST,23,"1,00 Mio. €",Arminia Bielefeld,2021
+Fabian Klos,ST,34,400 Tsd. €,Arminia Bielefeld,2021
+Cem-Ali Dogan,ST,17,-,Arminia Bielefeld,2021
+Martin Fraisl,GK,30,500 Tsd. €,Arminia Bielefeld,2022
+Stefanos Kapino,GK,29,350 Tsd. €,Arminia Bielefeld,2022
+Armin Gremsl,GK,28,100 Tsd. €,Arminia Bielefeld,2022
+Arne Schulz,GK,20,100 Tsd. €,Arminia Bielefeld,2022
+Nils Hahne,GK,19,50 Tsd. €,Arminia Bielefeld,2022
+Gui Ramos,CB,25,"1,00 Mio. €",Arminia Bielefeld,2022
+Andrés Andrade,CB,24,"1,00 Mio. €",Arminia Bielefeld,2022
+Frederik Jäkel,CB,22,900 Tsd. €,Arminia Bielefeld,2022
+Nathan de Medina,CB,25,800 Tsd. €,Arminia Bielefeld,2022
+Lukas Klünter,CB,27,600 Tsd. €,Arminia Bielefeld,2022
+Oliver Hüsing,CB,30,500 Tsd. €,Arminia Bielefeld,2022
+Jacob Barrett Laursen,LB,28,"1,20 Mio. €",Arminia Bielefeld,2022
+George Bello,LB,21,"1,00 Mio. €",Arminia Bielefeld,2022
+Bastian Oczipka,LB,34,300 Tsd. €,Arminia Bielefeld,2022
+Silvan Sidler,RB,24,400 Tsd. €,Arminia Bielefeld,2022
+Ivan Lepinjica,CDM,23,600 Tsd. €,Arminia Bielefeld,2022
+Manuel Prietl,CDM,31,450 Tsd. €,Arminia Bielefeld,2022
+Jomaine Consbruch,CM,21,"1,00 Mio. €",Arminia Bielefeld,2022
+Sebastian Vasiliadis,CM,25,900 Tsd. €,Arminia Bielefeld,2022
+Marc Rzatkowski,CM,33,300 Tsd. €,Arminia Bielefeld,2022
+Benjamin Kanuric,LM,20,450 Tsd. €,Arminia Bielefeld,2022
+Mateo Klimowicz,CAM,22,"1,20 Mio. €",Arminia Bielefeld,2022
+Burak İnce,CAM,19,500 Tsd. €,Arminia Bielefeld,2022
+Robin Hack,LW,24,"3,00 Mio. €",Arminia Bielefeld,2022
+Masaya Okugawa,LW,27,"2,50 Mio. €",Arminia Bielefeld,2022
+Noel Niemann,LW,23,500 Tsd. €,Arminia Bielefeld,2022
+Theo Corbeanu,RW,21,"1,20 Mio. €",Arminia Bielefeld,2022
+Christian Gebauer,RW,29,450 Tsd. €,Arminia Bielefeld,2022
+Janni Serra,ST,25,"1,00 Mio. €",Arminia Bielefeld,2022
+Florian Krüger,ST,24,900 Tsd. €,Arminia Bielefeld,2022
+Bryan Lasme,ST,24,800 Tsd. €,Arminia Bielefeld,2022
+Fabian Klos,ST,35,300 Tsd. €,Arminia Bielefeld,2022
+Christopher Schepp,ST,23,150 Tsd. €,Arminia Bielefeld,2022
+Henrik Koch,ST,16,-,Arminia Bielefeld,2022
+Jonas Kersken,GK,23,225 Tsd. €,Arminia Bielefeld,2023
+Leo Oppermann,GK,22,125 Tsd. €,Arminia Bielefeld,2023
+Jonah Busse,GK,18,-,Arminia Bielefeld,2023
+Artem Zaloha,GK,17,-,Arminia Bielefeld,2023
+Maximilian Großer,CB,22,275 Tsd. €,Arminia Bielefeld,2023
+Leon Schneider,CB,24,275 Tsd. €,Arminia Bielefeld,2023
+Semi Belkahia,CB,25,175 Tsd. €,Arminia Bielefeld,2023
+Gerrit Gohlke,CB,25,175 Tsd. €,Arminia Bielefeld,2023
+Louis Oppie,LB,22,250 Tsd. €,Arminia Bielefeld,2023
+Max Lippert,LB,18,-,Arminia Bielefeld,2023
+Justin Lukas,LB,18,-,Arminia Bielefeld,2023
+Christopher Lannert,RB,26,300 Tsd. €,Arminia Bielefeld,2023
+Can Özkan,CDM,24,175 Tsd. €,Arminia Bielefeld,2023
+Tom Geerkens,CDM,23,150 Tsd. €,Arminia Bielefeld,2023
+Vladislav Cherny,CDM,21,75 Tsd. €,Arminia Bielefeld,2023
+Henry Obermeyer,CDM,18,-,Arminia Bielefeld,2023
+Marius Wörl,CM,20,450 Tsd. €,Arminia Bielefeld,2023
+Mael Corboz,CM,29,350 Tsd. €,Arminia Bielefeld,2023
+Sam Schreck,CM,25,325 Tsd. €,Arminia Bielefeld,2023
+Nassim Boujellab,CM,25,300 Tsd. €,Arminia Bielefeld,2023
+Merveille Biankadi,LW,29,325 Tsd. €,Arminia Bielefeld,2023
+Kaito Mizuta,LW,24,250 Tsd. €,Arminia Bielefeld,2023
+Leandro Putaro,LW,27,225 Tsd. €,Arminia Bielefeld,2023
+Aygün Yildirim,LW,29,200 Tsd. €,Arminia Bielefeld,2023
+Nicklas Shipnoski,RW,26,350 Tsd. €,Arminia Bielefeld,2023
+Monju Momuluh,RW,22,350 Tsd. €,Arminia Bielefeld,2023
+Noah Sarenren Bazee,RW,27,350 Tsd. €,Arminia Bielefeld,2023
+Lucas Kiewitt,RW,18,-,Arminia Bielefeld,2023
+Fabiano Krasnic,RW,18,-,Arminia Bielefeld,2023
+Manuel Wintzheimer,ST,25,300 Tsd. €,Arminia Bielefeld,2023
+Henrik Koch,ST,17,200 Tsd. €,Arminia Bielefeld,2023
+Christopher Schepp,ST,24,175 Tsd. €,Arminia Bielefeld,2023
+Fabian Klos,ST,36,-,Arminia Bielefeld,2023
+Jonas Kersken,GK,24,300 Tsd. €,Arminia Bielefeld,2024
+Leo Oppermann,GK,23,100 Tsd. €,Arminia Bielefeld,2024
+Artem Zaloha,GK,17,-,Arminia Bielefeld,2024
+Joel Felix,CB,27,650 Tsd. €,Arminia Bielefeld,2024
+Maximilian Großer,CB,23,400 Tsd. €,Arminia Bielefeld,2024
+Leon Schneider,CB,24,350 Tsd. €,Arminia Bielefeld,2024
+Semi Belkahia,CB,26,175 Tsd. €,Arminia Bielefeld,2024
+Louis Oppie,LB,23,400 Tsd. €,Arminia Bielefeld,2024
+Max Lippert,LB,19,-,Arminia Bielefeld,2024
+Justin Lukas,LB,19,-,Arminia Bielefeld,2024
+Christopher Lannert,RB,26,300 Tsd. €,Arminia Bielefeld,2024
+Felix Hagmann,RB,21,275 Tsd. €,Arminia Bielefeld,2024
+Stefano Russo,CDM,24,500 Tsd. €,Arminia Bielefeld,2024
+Marius Wörl,CM,21,800 Tsd. €,Arminia Bielefeld,2024
+Lukas Kunze,CM,26,400 Tsd. €,Arminia Bielefeld,2024
+Mael Corboz,CM,30,350 Tsd. €,Arminia Bielefeld,2024
+Sam Schreck,CM,26,300 Tsd. €,Arminia Bielefeld,2024
+Nassim Boujellab,CM,25,250 Tsd. €,Arminia Bielefeld,2024
+Joel Grodowski,LW,27,600 Tsd. €,Arminia Bielefeld,2024
+Merveille Biankadi,LW,30,325 Tsd. €,Arminia Bielefeld,2024
+Mika Schroers,LW,23,200 Tsd. €,Arminia Bielefeld,2024
+Daniel Richter,LW,17,-,Arminia Bielefeld,2024
+Noah Sarenren Bazee,RW,28,300 Tsd. €,Arminia Bielefeld,2024
+Isaiah Young,RW,27,250 Tsd. €,Arminia Bielefeld,2024
+Roberts Uldrikis,ST,27,600 Tsd. €,Arminia Bielefeld,2024
+Julian Kania,ST,23,400 Tsd. €,Arminia Bielefeld,2024

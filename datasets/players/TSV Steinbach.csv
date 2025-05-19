@@ -1,0 +1,335 @@
+name,position,age,value,team,season
+Sebastian Vogl,GK,23,-,TSV Steinbach,2014
+Sven Eckhardt,GK,39,-,TSV Steinbach,2014
+Lars Benner,GK,19,-,TSV Steinbach,2014
+Maximilian Pauli,GK,25,-,TSV Steinbach,2014
+Daniel Bogusz,CB,40,-,TSV Steinbach,2014
+Jan-Philipp Gelber,CB,24,-,TSV Steinbach,2014
+Masih Saighani,CB,28,-,TSV Steinbach,2014
+Sven Waldschmidt,CB,24,-,TSV Steinbach,2014
+Tim Acker,CB,22,-,TSV Steinbach,2014
+Arthur Tomas,LB,21,-,TSV Steinbach,2014
+Marcel Georg,RB,24,-,TSV Steinbach,2014
+Andreas Proske,RB,29,-,TSV Steinbach,2014
+Paul Wadolowski,RB,26,-,TSV Steinbach,2014
+Marco Maser,CDM,35,-,TSV Steinbach,2014
+Alexander Baldus,CDM,28,-,TSV Steinbach,2014
+Dennis Schmidt,RM,23,-,TSV Steinbach,2014
+Daniel Waldrich,RM,25,-,TSV Steinbach,2014
+Hüsni Tahiri,LM,32,-,TSV Steinbach,2014
+Daniel Wadolowski,LM,23,-,TSV Steinbach,2014
+Sven Baldus,CAM,28,-,TSV Steinbach,2014
+Johannes Burk,CAM,27,-,TSV Steinbach,2014
+Atilla Selcuk,CAM,19,-,TSV Steinbach,2014
+Pierre Bellinghausen,CAM,27,-,TSV Steinbach,2014
+Keigo Matsuda,ST,22,-,TSV Steinbach,2014
+Patrick Diehl,ST,26,-,TSV Steinbach,2014
+Sebastian Schneider,ST,26,-,TSV Steinbach,2014
+Frederic Löhe,GK,27,150 Tsd. €,TSV Steinbach,2015
+Sebastian Vogl,GK,24,75 Tsd. €,TSV Steinbach,2015
+Julian Bibleka,GK,20,25 Tsd. €,TSV Steinbach,2015
+Maximilian Pauli,GK,26,-,TSV Steinbach,2015
+Lars Benner,GK,20,-,TSV Steinbach,2015
+Jure Colak,CB,26,100 Tsd. €,TSV Steinbach,2015
+Sven Waldschmidt,CB,25,75 Tsd. €,TSV Steinbach,2015
+Christopher Schadeberg,CB,25,75 Tsd. €,TSV Steinbach,2015
+Francis Adomah,CB,24,75 Tsd. €,TSV Steinbach,2015
+Daniel Reith,CB,28,75 Tsd. €,TSV Steinbach,2015
+Noel Below,CB,22,50 Tsd. €,TSV Steinbach,2015
+Alex Rodriguez-Caso,CB,19,25 Tsd. €,TSV Steinbach,2015
+Steve Gohouri,CB,34,-,TSV Steinbach,2015
+Masih Saighani,CB,29,-,TSV Steinbach,2015
+Jan-Philipp Gelber,CB,25,-,TSV Steinbach,2015
+Sasa Strujic,LB,24,75 Tsd. €,TSV Steinbach,2015
+Arthur Tomas,LB,22,50 Tsd. €,TSV Steinbach,2015
+Alexander Mißbach,LB,22,50 Tsd. €,TSV Steinbach,2015
+Jan Nagel,RB,25,100 Tsd. €,TSV Steinbach,2015
+Timo Kunert,CDM,29,100 Tsd. €,TSV Steinbach,2015
+Nikola Trkulja,CDM,25,75 Tsd. €,TSV Steinbach,2015
+Dino Bisanovic,CDM,26,75 Tsd. €,TSV Steinbach,2015
+Metin Kücükarslan,CDM,19,75 Tsd. €,TSV Steinbach,2015
+Julian Jakobs,Midfielder,26,50 Tsd. €,TSV Steinbach,2015
+Kevin Rodrigues-Pires,CM,24,150 Tsd. €,TSV Steinbach,2015
+Philip Hauck,CM,23,150 Tsd. €,TSV Steinbach,2015
+Tunay Deniz,CM,22,100 Tsd. €,TSV Steinbach,2015
+Niklas Zeller,CM,21,75 Tsd. €,TSV Steinbach,2015
+Daniel Waldrich,RM,26,50 Tsd. €,TSV Steinbach,2015
+Maurice Müller,LM,23,75 Tsd. €,TSV Steinbach,2015
+Hüsni Tahiri,LM,33,50 Tsd. €,TSV Steinbach,2015
+Sascha Marquet,CAM,26,150 Tsd. €,TSV Steinbach,2015
+Johannes Burk,CAM,28,-,TSV Steinbach,2015
+Pierre Bellinghausen,CAM,28,-,TSV Steinbach,2015
+Masatoshi Hamanaka,Second Striker,27,50 Tsd. €,TSV Steinbach,2015
+Pierre Merkel,ST,27,125 Tsd. €,TSV Steinbach,2015
+Velimir Jovanovic,ST,28,125 Tsd. €,TSV Steinbach,2015
+Moritz Göttel,ST,23,100 Tsd. €,TSV Steinbach,2015
+Sargis Adamyan,ST,23,100 Tsd. €,TSV Steinbach,2015
+Daniel Jais,ST,23,75 Tsd. €,TSV Steinbach,2015
+Keigo Matsuda,ST,23,-,TSV Steinbach,2015
+Frederic Löhe,GK,28,150 Tsd. €,TSV Steinbach,2016
+Sebastian Brune,GK,23,50 Tsd. €,TSV Steinbach,2016
+Julian Bibleka,GK,21,25 Tsd. €,TSV Steinbach,2016
+Nico Herzig,CB,33,100 Tsd. €,TSV Steinbach,2016
+Daniel Reith,CB,29,100 Tsd. €,TSV Steinbach,2016
+Sasa Strujic,LB,25,100 Tsd. €,TSV Steinbach,2016
+Torge Bremer,LB,22,75 Tsd. €,TSV Steinbach,2016
+Alexander Mißbach,LB,23,50 Tsd. €,TSV Steinbach,2016
+Jan Nagel,RB,26,50 Tsd. €,TSV Steinbach,2016
+Timo Kunert,CDM,30,125 Tsd. €,TSV Steinbach,2016
+Dino Bisanovic,CDM,27,100 Tsd. €,TSV Steinbach,2016
+Nikola Trkulja,CDM,26,100 Tsd. €,TSV Steinbach,2016
+Mirko Schuster,CDM,22,100 Tsd. €,TSV Steinbach,2016
+Simon Kranitz,CM,21,75 Tsd. €,TSV Steinbach,2016
+André Mandt,CM,23,50 Tsd. €,TSV Steinbach,2016
+Tunay Deniz,CM,23,50 Tsd. €,TSV Steinbach,2016
+Maurice Müller,LM,24,100 Tsd. €,TSV Steinbach,2016
+Hüsni Tahiri,LM,34,50 Tsd. €,TSV Steinbach,2016
+Sascha Marquet,CAM,27,100 Tsd. €,TSV Steinbach,2016
+Vojno Jesic,CAM,23,75 Tsd. €,TSV Steinbach,2016
+Sargis Adamyan,ST,24,150 Tsd. €,TSV Steinbach,2016
+Daniel Engelbrecht,ST,26,125 Tsd. €,TSV Steinbach,2016
+Patrick Dulleck,ST,27,100 Tsd. €,TSV Steinbach,2016
+Giuseppe Burgio,ST,28,100 Tsd. €,TSV Steinbach,2016
+Laurynas Kulikas,ST,23,50 Tsd. €,TSV Steinbach,2016
+Cliff Uyimwen,ST,19,25 Tsd. €,TSV Steinbach,2016
+Velimir Jovanovic,ST,29,-,TSV Steinbach,2016
+Frederic Löhe,GK,29,150 Tsd. €,TSV Steinbach,2017
+Julian Bibleka,GK,22,25 Tsd. €,TSV Steinbach,2017
+Maximilian Pauli,GK,28,-,TSV Steinbach,2017
+Nico Herzig,CB,34,100 Tsd. €,TSV Steinbach,2017
+Daniel Reith,CB,30,100 Tsd. €,TSV Steinbach,2017
+Tim Welker,CB,24,25 Tsd. €,TSV Steinbach,2017
+Sasa Strujic,LB,26,125 Tsd. €,TSV Steinbach,2017
+Torge Bremer,LB,23,50 Tsd. €,TSV Steinbach,2017
+Alexander Mißbach,LB,24,25 Tsd. €,TSV Steinbach,2017
+Lars Thomas,LB,25,-,TSV Steinbach,2017
+Florian Heister,RB,21,50 Tsd. €,TSV Steinbach,2017
+Timo Kunert,CDM,31,125 Tsd. €,TSV Steinbach,2017
+Tim Müller,CDM,21,125 Tsd. €,TSV Steinbach,2017
+Dino Bisanovic,CDM,28,100 Tsd. €,TSV Steinbach,2017
+Nikola Trkulja,CDM,27,100 Tsd. €,TSV Steinbach,2017
+Simon Kranitz,CM,22,50 Tsd. €,TSV Steinbach,2017
+Leon Wirtz,CM,19,-,TSV Steinbach,2017
+Maurice Müller,LM,25,100 Tsd. €,TSV Steinbach,2017
+Hüsni Tahiri,LM,35,50 Tsd. €,TSV Steinbach,2017
+Sascha Marquet,CAM,28,100 Tsd. €,TSV Steinbach,2017
+Cem Felek,CAM,22,25 Tsd. €,TSV Steinbach,2017
+Pierre Bellinghausen,CAM,30,-,TSV Steinbach,2017
+Raffael Cvijetkovic,LW,20,50 Tsd. €,TSV Steinbach,2017
+Fatih Candan,ST,28,150 Tsd. €,TSV Steinbach,2017
+Fatjon Celani,ST,26,75 Tsd. €,TSV Steinbach,2017
+Shqipon Bektasi,ST,27,75 Tsd. €,TSV Steinbach,2017
+Dennis Wegner,ST,27,75 Tsd. €,TSV Steinbach,2017
+Tim Paterok,GK,26,75 Tsd. €,TSV Steinbach,2018
+Matay Birol,GK,21,50 Tsd. €,TSV Steinbach,2018
+Julian Bibleka,GK,23,25 Tsd. €,TSV Steinbach,2018
+Frederic Löhe,GK,30,-,TSV Steinbach,2018
+David Haider,CB,27,125 Tsd. €,TSV Steinbach,2018
+Nico Herzig,CB,35,100 Tsd. €,TSV Steinbach,2018
+Daniel Reith,CB,31,75 Tsd. €,TSV Steinbach,2018
+Tom Zündorf,CB,22,50 Tsd. €,TSV Steinbach,2018
+Tim Welker,CB,25,25 Tsd. €,TSV Steinbach,2018
+Sasa Strujic,LB,27,125 Tsd. €,TSV Steinbach,2018
+Wilfried Sarr,LB,23,75 Tsd. €,TSV Steinbach,2018
+Junior Ebot-Etchi,RB,23,100 Tsd. €,TSV Steinbach,2018
+Florian Heister,RB,22,75 Tsd. €,TSV Steinbach,2018
+Tim Müller,CDM,22,125 Tsd. €,TSV Steinbach,2018
+Timo Kunert,CDM,32,100 Tsd. €,TSV Steinbach,2018
+Dino Bisanovic,CDM,29,100 Tsd. €,TSV Steinbach,2018
+Nikola Trkulja,CDM,28,100 Tsd. €,TSV Steinbach,2018
+Gani Sevim,CM,19,25 Tsd. €,TSV Steinbach,2018
+Moritz Hannappel,RM,23,25 Tsd. €,TSV Steinbach,2018
+Maurice Müller,LM,26,75 Tsd. €,TSV Steinbach,2018
+Hüsni Tahiri,LM,36,-,TSV Steinbach,2018
+Sascha Marquet,CAM,29,100 Tsd. €,TSV Steinbach,2018
+Arnold Budimbu,RW,24,100 Tsd. €,TSV Steinbach,2018
+Christopher Kramer,ST,29,200 Tsd. €,TSV Steinbach,2018
+Fatih Candan,ST,29,150 Tsd. €,TSV Steinbach,2018
+Benedikt Koep,ST,31,100 Tsd. €,TSV Steinbach,2018
+Marcel Reichwein,ST,33,100 Tsd. €,TSV Steinbach,2018
+Dennis Wegner,ST,28,75 Tsd. €,TSV Steinbach,2018
+Moritz Göttel,ST,26,75 Tsd. €,TSV Steinbach,2018
+Shqipon Bektasi,ST,28,-,TSV Steinbach,2018
+Tim Paterok,GK,27,125 Tsd. €,TSV Steinbach,2019
+Raphael Koczor,GK,31,75 Tsd. €,TSV Steinbach,2019
+Matay Birol,GK,22,25 Tsd. €,TSV Steinbach,2019
+Benjamin Kirchhoff,CB,25,150 Tsd. €,TSV Steinbach,2019
+David Haider,CB,28,125 Tsd. €,TSV Steinbach,2019
+Nico Herzig,CB,36,75 Tsd. €,TSV Steinbach,2019
+Michael Schüler,CB,22,75 Tsd. €,TSV Steinbach,2019
+Maurice Buckesfeld,CB,22,-,TSV Steinbach,2019
+Sasa Strujic,LB,28,150 Tsd. €,TSV Steinbach,2019
+Florian Bichler,RB,28,125 Tsd. €,TSV Steinbach,2019
+Sascha Wenninger,RB,25,100 Tsd. €,TSV Steinbach,2019
+Philipp Hanke,RB,27,75 Tsd. €,TSV Steinbach,2019
+Tino Bradara,RB,22,50 Tsd. €,TSV Steinbach,2019
+Gian Maria Olizzo,RB,19,25 Tsd. €,TSV Steinbach,2019
+Sören Eismann,CDM,32,125 Tsd. €,TSV Steinbach,2019
+Dino Bisanovic,CDM,30,75 Tsd. €,TSV Steinbach,2019
+Nikola Trkulja,CDM,29,-,TSV Steinbach,2019
+Christian März,CM,25,150 Tsd. €,TSV Steinbach,2019
+Johannes Bender,CM,22,100 Tsd. €,TSV Steinbach,2019
+Gani Sevim,CM,20,25 Tsd. €,TSV Steinbach,2019
+Kevin Lahn,RM,28,75 Tsd. €,TSV Steinbach,2019
+Serhat Ilhan,LM,23,100 Tsd. €,TSV Steinbach,2019
+Marcel Damaschek,LM,23,50 Tsd. €,TSV Steinbach,2019
+Manuel Hoffmann,CAM,27,150 Tsd. €,TSV Steinbach,2019
+Sascha Marquet,CAM,30,150 Tsd. €,TSV Steinbach,2019
+Fabian Eisele,ST,25,175 Tsd. €,TSV Steinbach,2019
+Christopher Kramer,ST,30,175 Tsd. €,TSV Steinbach,2019
+Enis Bytyqi,ST,23,125 Tsd. €,TSV Steinbach,2019
+Moritz Göttel,ST,27,75 Tsd. €,TSV Steinbach,2019
+Jannik Mause,ST,21,75 Tsd. €,TSV Steinbach,2019
+Dennis Wegner,ST,29,50 Tsd. €,TSV Steinbach,2019
+Tim Paterok,GK,28,75 Tsd. €,TSV Steinbach,2020
+Raphael Koczor,GK,32,50 Tsd. €,TSV Steinbach,2020
+Matay Birol,GK,23,25 Tsd. €,TSV Steinbach,2020
+Johann Hipper,GK,22,25 Tsd. €,TSV Steinbach,2020
+Benjamin Kirchhoff,CB,26,150 Tsd. €,TSV Steinbach,2020
+Ivan Mihaljevic,CB,19,125 Tsd. €,TSV Steinbach,2020
+David Haider,CB,29,75 Tsd. €,TSV Steinbach,2020
+Michael Schüler,CB,23,50 Tsd. €,TSV Steinbach,2020
+Maurice Buckesfeld,CB,23,50 Tsd. €,TSV Steinbach,2020
+Sasa Strujic,LB,29,150 Tsd. €,TSV Steinbach,2020
+Finn Bedenbender,LB,20,-,TSV Steinbach,2020
+Florian Bichler,RB,29,100 Tsd. €,TSV Steinbach,2020
+Philipp Hanke,RB,28,100 Tsd. €,TSV Steinbach,2020
+Leon Heinze,RB,22,75 Tsd. €,TSV Steinbach,2020
+Tino Bradara,RB,23,50 Tsd. €,TSV Steinbach,2020
+Sascha Wenninger,RB,26,50 Tsd. €,TSV Steinbach,2020
+Gian Maria Olizzo,RB,20,25 Tsd. €,TSV Steinbach,2020
+Dino Bisanovic,CDM,31,100 Tsd. €,TSV Steinbach,2020
+Sören Eismann,CDM,33,100 Tsd. €,TSV Steinbach,2020
+Christian März,CM,26,150 Tsd. €,TSV Steinbach,2020
+Ko Sawada,CM,29,75 Tsd. €,TSV Steinbach,2020
+Johannes Bender,CM,23,75 Tsd. €,TSV Steinbach,2020
+Kevin Lahn,RM,29,125 Tsd. €,TSV Steinbach,2020
+Serhat Ilhan,LM,24,125 Tsd. €,TSV Steinbach,2020
+Hüsni Tahiri,LM,38,-,TSV Steinbach,2020
+Sascha Marquet,CAM,31,175 Tsd. €,TSV Steinbach,2020
+Manuel Hoffmann,CAM,28,100 Tsd. €,TSV Steinbach,2020
+Paul Stock,CAM,24,75 Tsd. €,TSV Steinbach,2020
+Arnold Budimbu,RW,26,125 Tsd. €,TSV Steinbach,2020
+Fabian Eisele,ST,26,125 Tsd. €,TSV Steinbach,2020
+Enis Bytyqi,ST,24,125 Tsd. €,TSV Steinbach,2020
+Moritz Göttel,ST,28,50 Tsd. €,TSV Steinbach,2020
+Dennis Wegner,ST,30,50 Tsd. €,TSV Steinbach,2020
+Maik Diede,ST,20,25 Tsd. €,TSV Steinbach,2020
+Eike Bansen,GK,24,100 Tsd. €,TSV Steinbach,2021
+Markus Scholz,GK,34,50 Tsd. €,TSV Steinbach,2021
+Kevin Ibrahim,GK,22,50 Tsd. €,TSV Steinbach,2021
+Henri Weigelt,CB,24,175 Tsd. €,TSV Steinbach,2021
+Benjamin Kirchhoff,CB,27,100 Tsd. €,TSV Steinbach,2021
+Ivan Mihaljevic,CB,20,75 Tsd. €,TSV Steinbach,2021
+David Haider,CB,30,75 Tsd. €,TSV Steinbach,2021
+Sasa Strujic,LB,30,150 Tsd. €,TSV Steinbach,2021
+Jannik Bandowski,LB,28,75 Tsd. €,TSV Steinbach,2021
+Paul Milde,RB,27,125 Tsd. €,TSV Steinbach,2021
+Tino Bradara,RB,24,100 Tsd. €,TSV Steinbach,2021
+Tim Kircher,RB,23,75 Tsd. €,TSV Steinbach,2021
+Gian Maria Olizzo,RB,21,10 Tsd. €,TSV Steinbach,2021
+Dino Bisanovic,CDM,32,50 Tsd. €,TSV Steinbach,2021
+Nino Miotke,CDM,24,50 Tsd. €,TSV Steinbach,2021
+Sören Eismann,CDM,34,50 Tsd. €,TSV Steinbach,2021
+Jannes Wulff,CM,22,150 Tsd. €,TSV Steinbach,2021
+Christian März,CM,27,125 Tsd. €,TSV Steinbach,2021
+Kevin Lahn,RM,30,50 Tsd. €,TSV Steinbach,2021
+Serhat Ilhan,LM,25,75 Tsd. €,TSV Steinbach,2021
+Paul Stock,CAM,25,125 Tsd. €,TSV Steinbach,2021
+Jonas Singer,LW,24,100 Tsd. €,TSV Steinbach,2021
+Marcell Sobotta,LW,25,75 Tsd. €,TSV Steinbach,2021
+Dennis Chessa,RW,29,175 Tsd. €,TSV Steinbach,2021
+Daniele Gabriele,Second Striker,27,150 Tsd. €,TSV Steinbach,2021
+Enis Bytyqi,ST,25,100 Tsd. €,TSV Steinbach,2021
+David Nieland,ST,23,75 Tsd. €,TSV Steinbach,2021
+Kevin Ibrahim,GK,23,125 Tsd. €,TSV Steinbach,2022
+Markus Scholz,GK,35,50 Tsd. €,TSV Steinbach,2022
+Angelo Tramontana,GK,21,25 Tsd. €,TSV Steinbach,2022
+Manuel Kober,CB,24,125 Tsd. €,TSV Steinbach,2022
+Yannick Langesberg,CB,29,125 Tsd. €,TSV Steinbach,2022
+Ivan Mihaljevic,CB,21,100 Tsd. €,TSV Steinbach,2022
+Henri Weigelt,CB,25,100 Tsd. €,TSV Steinbach,2022
+Benjamin Kirchhoff,CB,28,75 Tsd. €,TSV Steinbach,2022
+Sasa Strujic,LB,31,150 Tsd. €,TSV Steinbach,2022
+Lloyd-Addo Kuffour,LB,21,50 Tsd. €,TSV Steinbach,2022
+Tim Kircher,RB,24,100 Tsd. €,TSV Steinbach,2022
+Enrique Pereira da Silva,RB,21,50 Tsd. €,TSV Steinbach,2022
+Dino Bisanovic,CDM,33,50 Tsd. €,TSV Steinbach,2022
+Sören Eismann,CDM,35,50 Tsd. €,TSV Steinbach,2022
+Nino Miotke,CDM,25,25 Tsd. €,TSV Steinbach,2022
+Christian März,CM,28,100 Tsd. €,TSV Steinbach,2022
+Leon Ampadu,CM,21,50 Tsd. €,TSV Steinbach,2022
+Celal Aydogan,CM,19,25 Tsd. €,TSV Steinbach,2022
+Dennis Owusu,RM,22,75 Tsd. €,TSV Steinbach,2022
+Paul Stock,CAM,26,200 Tsd. €,TSV Steinbach,2022
+Mick Gudra,CAM,22,175 Tsd. €,TSV Steinbach,2022
+Donny Bogicevic,CAM,21,125 Tsd. €,TSV Steinbach,2022
+Gianluca Korte,CAM,32,125 Tsd. €,TSV Steinbach,2022
+Michael Guthörl,CAM,24,75 Tsd. €,TSV Steinbach,2022
+Franck Tehe,LW,21,125 Tsd. €,TSV Steinbach,2022
+Jonas Singer,LW,25,125 Tsd. €,TSV Steinbach,2022
+Serkan Firat,RW,29,175 Tsd. €,TSV Steinbach,2022
+Daniele Gabriele,Second Striker,28,100 Tsd. €,TSV Steinbach,2022
+Arif Güclü,ST,30,125 Tsd. €,TSV Steinbach,2022
+Danny Breitfelder,ST,26,75 Tsd. €,TSV Steinbach,2022
+Ertan Hajdaraj,ST,20,50 Tsd. €,TSV Steinbach,2022
+Kevin Ibrahim,GK,24,75 Tsd. €,TSV Steinbach,2023
+Lennart Schulze-Kökelsum,GK,22,25 Tsd. €,TSV Steinbach,2023
+David Nreca-Bisinger,GK,22,25 Tsd. €,TSV Steinbach,2023
+Marcel Bergmann,GK,26,-,TSV Steinbach,2023
+Till Brinkmann,GK,28,-,TSV Steinbach,2023
+Chris Schubert,GK,18,-,TSV Steinbach,2023
+Manuel Kober,CB,25,100 Tsd. €,TSV Steinbach,2023
+Henri Weigelt,CB,26,100 Tsd. €,TSV Steinbach,2023
+Yannick Langesberg,CB,30,75 Tsd. €,TSV Steinbach,2023
+Marco Müller,CB,30,75 Tsd. €,TSV Steinbach,2023
+Vincent Schwab,CB,20,50 Tsd. €,TSV Steinbach,2023
+David Grözinger,LB,25,100 Tsd. €,TSV Steinbach,2023
+Nick Galle,LB,25,75 Tsd. €,TSV Steinbach,2023
+Levin Leandro D'Aloia,LB,18,-,TSV Steinbach,2023
+Tim Kircher,RB,25,75 Tsd. €,TSV Steinbach,2023
+Enrique Pereira da Silva,RB,22,25 Tsd. €,TSV Steinbach,2023
+Nino Miotke,CDM,26,100 Tsd. €,TSV Steinbach,2023
+Andreas Busik,CDM,23,-,TSV Steinbach,2023
+Christopher Wähling,CM,22,100 Tsd. €,TSV Steinbach,2023
+Leon Wirtz,CM,25,-,TSV Steinbach,2023
+Marvin Jung,RM,22,100 Tsd. €,TSV Steinbach,2023
+Kim Bellinghausen,LM,20,-,TSV Steinbach,2023
+Christopher Theisen,CAM,31,100 Tsd. €,TSV Steinbach,2023
+Christoph Maier,CAM,24,100 Tsd. €,TSV Steinbach,2023
+Mick Gudra,CAM,23,100 Tsd. €,TSV Steinbach,2023
+Michael Guthörl,CAM,25,75 Tsd. €,TSV Steinbach,2023
+Gianluca Korte,CAM,33,-,TSV Steinbach,2023
+Jonas Singer,LW,26,100 Tsd. €,TSV Steinbach,2023
+Ayodele Adetula,LW,26,100 Tsd. €,TSV Steinbach,2023
+Nicolas Wähling,LW,26,100 Tsd. €,TSV Steinbach,2023
+Serkan Firat,RW,30,150 Tsd. €,TSV Steinbach,2023
+Daniel Steininger,ST,29,100 Tsd. €,TSV Steinbach,2023
+Arif Güclü,ST,31,75 Tsd. €,TSV Steinbach,2023
+Ertan Hajdaraj,ST,21,75 Tsd. €,TSV Steinbach,2023
+Jesper Heim,GK,25,100 Tsd. €,TSV Steinbach,2024
+Mike Dreier,GK,21,50 Tsd. €,TSV Steinbach,2024
+Kevin Ibrahim,GK,24,50 Tsd. €,TSV Steinbach,2024
+Aaron Manu,CB,25,125 Tsd. €,TSV Steinbach,2024
+Vincent Schwab,CB,21,100 Tsd. €,TSV Steinbach,2024
+Dominic Volkmer,CB,29,75 Tsd. €,TSV Steinbach,2024
+Marco Müller,CB,31,75 Tsd. €,TSV Steinbach,2024
+Nick Galle,LB,26,100 Tsd. €,TSV Steinbach,2024
+Levin Leandro D'Aloia,LB,19,25 Tsd. €,TSV Steinbach,2024
+Tim Kircher,RB,26,100 Tsd. €,TSV Steinbach,2024
+Ole Käuper,CDM,28,125 Tsd. €,TSV Steinbach,2024
+Nino Miotke,CDM,27,50 Tsd. €,TSV Steinbach,2024
+Christopher Wähling,CM,23,100 Tsd. €,TSV Steinbach,2024
+Leon Wirtz,CM,26,25 Tsd. €,TSV Steinbach,2024
+Marvin Jung,RM,23,75 Tsd. €,TSV Steinbach,2024
+Eros Dacaj,CAM,28,125 Tsd. €,TSV Steinbach,2024
+Christoph Maier,CAM,25,100 Tsd. €,TSV Steinbach,2024
+Christopher Theisen,CAM,31,75 Tsd. €,TSV Steinbach,2024
+Michael Guthörl,CAM,26,75 Tsd. €,TSV Steinbach,2024
+Jonas Singer,LW,27,100 Tsd. €,TSV Steinbach,2024
+Paolo Maiella,LW,27,75 Tsd. €,TSV Steinbach,2024
+Serkan Firat,RW,31,150 Tsd. €,TSV Steinbach,2024
+Justin Steinkötter,ST,25,175 Tsd. €,TSV Steinbach,2024
+Ertan Hajdaraj,ST,22,75 Tsd. €,TSV Steinbach,2024
+Daniel Steininger,ST,30,75 Tsd. €,TSV Steinbach,2024
+Jakob Pfahl,ST,21,25 Tsd. €,TSV Steinbach,2024

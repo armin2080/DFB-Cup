@@ -1,0 +1,330 @@
+name,position,age,value,team,season
+Dennis Schäfer,GK,26,-,SV Drochtersen/Assel,2014
+Hendrik Lemke,GK,30,-,SV Drochtersen/Assel,2014
+Christoffer Schellin,GK,30,-,SV Drochtersen/Assel,2014
+Henry Sung,CB,26,-,SV Drochtersen/Assel,2014
+Thomas Johrden,CB,28,-,SV Drochtersen/Assel,2014
+Thilo Gooßen,CB,22,-,SV Drochtersen/Assel,2014
+Nico von der Reith,CB,22,-,SV Drochtersen/Assel,2014
+Sören Behrmann,CB,25,-,SV Drochtersen/Assel,2014
+Jannes Elfers,LB,19,-,SV Drochtersen/Assel,2014
+Meikel Klee,RB,27,-,SV Drochtersen/Assel,2014
+Jan Koch,CDM,31,-,SV Drochtersen/Assel,2014
+Michel Junge,Midfielder,22,-,SV Drochtersen/Assel,2014
+Benjamin Zielke,CDM,28,-,SV Drochtersen/Assel,2014
+Daniel Jankowski,Midfielder,24,-,SV Drochtersen/Assel,2014
+Sven Zöpfgen,CDM,25,-,SV Drochtersen/Assel,2014
+René Kracke,CAM,28,-,SV Drochtersen/Assel,2014
+Daniel von Dollen (Gröne),CAM,28,-,SV Drochtersen/Assel,2014
+Florian Nagel,RW,23,-,SV Drochtersen/Assel,2014
+Finn Gierke,ST,26,-,SV Drochtersen/Assel,2014
+Alexander Neumann,ST,25,-,SV Drochtersen/Assel,2014
+Felix Anders,ST,25,-,SV Drochtersen/Assel,2014
+Süleyman Yaman,ST,19,-,SV Drochtersen/Assel,2014
+Danny-Torben Kühn,ST,29,-,SV Drochtersen/Assel,2014
+Jasper Gooßen,ST,19,-,SV Drochtersen/Assel,2014
+Patrick Siefkes,GK,26,100 Tsd. €,SV Drochtersen/Assel,2015
+Christoffer Schellin,GK,31,50 Tsd. €,SV Drochtersen/Assel,2015
+Hendrik Lemke,GK,31,25 Tsd. €,SV Drochtersen/Assel,2015
+Henry Sung,CB,27,50 Tsd. €,SV Drochtersen/Assel,2015
+Sören Behrmann,CB,26,100 Tsd. €,SV Drochtersen/Assel,2015
+Stefan Wolk,CB,26,75 Tsd. €,SV Drochtersen/Assel,2015
+Thomas Johrden,CB,29,75 Tsd. €,SV Drochtersen/Assel,2015
+Nico von der Reith,CB,23,50 Tsd. €,SV Drochtersen/Assel,2015
+Nikola Serra,CB,21,25 Tsd. €,SV Drochtersen/Assel,2015
+Thilo Gooßen,CB,23,25 Tsd. €,SV Drochtersen/Assel,2015
+Jannes Elfers,LB,20,50 Tsd. €,SV Drochtersen/Assel,2015
+Oliver Ioannou,RB,27,100 Tsd. €,SV Drochtersen/Assel,2015
+Meikel Klee,RB,28,50 Tsd. €,SV Drochtersen/Assel,2015
+Jonas Hammermeister,RB,18,-,SV Drochtersen/Assel,2015
+Kevin Ingreso,CDM,23,75 Tsd. €,SV Drochtersen/Assel,2015
+Matti Grahle,Midfielder,23,75 Tsd. €,SV Drochtersen/Assel,2015
+Sven Zöpfgen,CDM,26,50 Tsd. €,SV Drochtersen/Assel,2015
+Benjamin Zielke,CDM,29,25 Tsd. €,SV Drochtersen/Assel,2015
+Marcel Brunsch,RM,19,25 Tsd. €,SV Drochtersen/Assel,2015
+Florian Nagel,RW,24,100 Tsd. €,SV Drochtersen/Assel,2015
+Alexander Neumann,ST,26,100 Tsd. €,SV Drochtersen/Assel,2015
+Finn Gierke,ST,27,75 Tsd. €,SV Drochtersen/Assel,2015
+Kevin Krottke,ST,21,75 Tsd. €,SV Drochtersen/Assel,2015
+Danny-Torben Kühn,ST,30,75 Tsd. €,SV Drochtersen/Assel,2015
+Süleyman Yaman,ST,20,25 Tsd. €,SV Drochtersen/Assel,2015
+Jasper Gooßen,ST,20,25 Tsd. €,SV Drochtersen/Assel,2015
+Patrick Siefkes,GK,27,125 Tsd. €,SV Drochtersen/Assel,2016
+Jannis Trapp,GK,24,25 Tsd. €,SV Drochtersen/Assel,2016
+Christoffer Schellin,GK,32,-,SV Drochtersen/Assel,2016
+Henry Sung,CB,28,75 Tsd. €,SV Drochtersen/Assel,2016
+Stefan Wolk,CB,27,100 Tsd. €,SV Drochtersen/Assel,2016
+Nico von der Reith,CB,24,75 Tsd. €,SV Drochtersen/Assel,2016
+Sören Behrmann,CB,27,75 Tsd. €,SV Drochtersen/Assel,2016
+Nikola Serra,CB,22,50 Tsd. €,SV Drochtersen/Assel,2016
+Laurens Rogowski,CB,23,50 Tsd. €,SV Drochtersen/Assel,2016
+Dimitri Fiks,CB,26,25 Tsd. €,SV Drochtersen/Assel,2016
+Jannes Elfers,LB,21,50 Tsd. €,SV Drochtersen/Assel,2016
+Oliver Ioannou,RB,28,100 Tsd. €,SV Drochtersen/Assel,2016
+Meikel Klee,RB,29,50 Tsd. €,SV Drochtersen/Assel,2016
+Matti Grahle,Midfielder,24,100 Tsd. €,SV Drochtersen/Assel,2016
+Marius Winkelmann,CDM,26,100 Tsd. €,SV Drochtersen/Assel,2016
+Sven Zöpfgen,CDM,27,50 Tsd. €,SV Drochtersen/Assel,2016
+Niklas Niekerken,CDM,20,25 Tsd. €,SV Drochtersen/Assel,2016
+Marcel Brunsch,RM,20,25 Tsd. €,SV Drochtersen/Assel,2016
+Bünyamin Balat,CAM,20,25 Tsd. €,SV Drochtersen/Assel,2016
+Florian Nagel,RW,25,125 Tsd. €,SV Drochtersen/Assel,2016
+Alexander Neumann,ST,27,100 Tsd. €,SV Drochtersen/Assel,2016
+Kevin Krottke,ST,22,50 Tsd. €,SV Drochtersen/Assel,2016
+Finn Gierke,ST,28,50 Tsd. €,SV Drochtersen/Assel,2016
+Jasper Gooßen,ST,21,50 Tsd. €,SV Drochtersen/Assel,2016
+Danny-Torben Kühn,ST,31,50 Tsd. €,SV Drochtersen/Assel,2016
+Philipp Kühn,GK,25,150 Tsd. €,SV Drochtersen/Assel,2017
+Patrick Siefkes,GK,28,125 Tsd. €,SV Drochtersen/Assel,2017
+Jannis Trapp,GK,25,25 Tsd. €,SV Drochtersen/Assel,2017
+Christoffer Schellin,GK,33,-,SV Drochtersen/Assel,2017
+Tobias Schwed,CB,20,-,SV Drochtersen/Assel,2017
+Nico von der Reith,CB,25,100 Tsd. €,SV Drochtersen/Assel,2017
+Sören Behrmann,CB,28,75 Tsd. €,SV Drochtersen/Assel,2017
+Nikola Serra,CB,23,50 Tsd. €,SV Drochtersen/Assel,2017
+Laurens Rogowski,CB,24,50 Tsd. €,SV Drochtersen/Assel,2017
+Dimitri Fiks,CB,27,25 Tsd. €,SV Drochtersen/Assel,2017
+Danny Berner,CB,25,25 Tsd. €,SV Drochtersen/Assel,2017
+Jannes Elfers,LB,22,75 Tsd. €,SV Drochtersen/Assel,2017
+Julian Stöhr,LB,20,25 Tsd. €,SV Drochtersen/Assel,2017
+Oliver Ioannou,RB,29,75 Tsd. €,SV Drochtersen/Assel,2017
+Meikel Klee,RB,30,50 Tsd. €,SV Drochtersen/Assel,2017
+Matti Grahle,Midfielder,25,100 Tsd. €,SV Drochtersen/Assel,2017
+Marius Winkelmann,CDM,27,100 Tsd. €,SV Drochtersen/Assel,2017
+Marcel Andrijanic,CDM,25,75 Tsd. €,SV Drochtersen/Assel,2017
+Sven Zöpfgen,CDM,28,75 Tsd. €,SV Drochtersen/Assel,2017
+Marcel Brunsch,RM,21,25 Tsd. €,SV Drochtersen/Assel,2017
+Marco Schuhmann,LM,23,50 Tsd. €,SV Drochtersen/Assel,2017
+Florian Nagel,RW,26,150 Tsd. €,SV Drochtersen/Assel,2017
+Alexander Neumann,ST,28,125 Tsd. €,SV Drochtersen/Assel,2017
+Erdogan Pini,ST,26,75 Tsd. €,SV Drochtersen/Assel,2017
+Finn Gierke,ST,29,50 Tsd. €,SV Drochtersen/Assel,2017
+Jasper Gooßen,ST,22,50 Tsd. €,SV Drochtersen/Assel,2017
+Paul Meyer,ST,19,25 Tsd. €,SV Drochtersen/Assel,2017
+Patrick Siefkes,GK,29,100 Tsd. €,SV Drochtersen/Assel,2018
+Fabian Klinkmann,GK,22,50 Tsd. €,SV Drochtersen/Assel,2018
+Julian Quack,GK,19,25 Tsd. €,SV Drochtersen/Assel,2018
+Hendrik Breede,CB,19,-,SV Drochtersen/Assel,2018
+Nico von der Reith,CB,26,100 Tsd. €,SV Drochtersen/Assel,2018
+Sören Behrmann,CB,29,75 Tsd. €,SV Drochtersen/Assel,2018
+Dimitri Fiks,CB,28,75 Tsd. €,SV Drochtersen/Assel,2018
+Laurens Rogowski,CB,25,50 Tsd. €,SV Drochtersen/Assel,2018
+Niklas Hadaschik,CB,19,25 Tsd. €,SV Drochtersen/Assel,2018
+Liam Giwah,CB,19,25 Tsd. €,SV Drochtersen/Assel,2018
+Christian Rusch,CB,18,-,SV Drochtersen/Assel,2018
+Jannes Elfers,LB,23,75 Tsd. €,SV Drochtersen/Assel,2018
+Julian Stöhr,LB,21,50 Tsd. €,SV Drochtersen/Assel,2018
+Oliver Ioannou,RB,30,75 Tsd. €,SV Drochtersen/Assel,2018
+Meikel Klee,RB,31,50 Tsd. €,SV Drochtersen/Assel,2018
+Eyke Kleine,RB,23,50 Tsd. €,SV Drochtersen/Assel,2018
+Marcel Andrijanic,CDM,26,100 Tsd. €,SV Drochtersen/Assel,2018
+Till Hermandung,CDM,21,75 Tsd. €,SV Drochtersen/Assel,2018
+Sven Zöpfgen,CDM,29,75 Tsd. €,SV Drochtersen/Assel,2018
+Marius Winkelmann,CDM,28,-,SV Drochtersen/Assel,2018
+Lukas Hatecke,Midfielder,26,-,SV Drochtersen/Assel,2018
+Ole Franz,Midfielder,18,-,SV Drochtersen/Assel,2018
+Hassan El-Saleh,CM,22,50 Tsd. €,SV Drochtersen/Assel,2018
+Jan-Ove Edeling,RM,25,50 Tsd. €,SV Drochtersen/Assel,2018
+Marco Schuhmann,LM,24,50 Tsd. €,SV Drochtersen/Assel,2018
+Max Reichardt,CAM,18,-,SV Drochtersen/Assel,2018
+Sung-hyun Jung,LW,24,75 Tsd. €,SV Drochtersen/Assel,2018
+Florian Nagel,RW,27,100 Tsd. €,SV Drochtersen/Assel,2018
+Alexander Neumann,ST,29,100 Tsd. €,SV Drochtersen/Assel,2018
+Jasper Gooßen,ST,23,75 Tsd. €,SV Drochtersen/Assel,2018
+Erdogan Pini,ST,27,50 Tsd. €,SV Drochtersen/Assel,2018
+Paul Meyer,ST,20,-,SV Drochtersen/Assel,2018
+Janosch Lüders,ST,18,-,SV Drochtersen/Assel,2018
+Patrick Siefkes,GK,30,100 Tsd. €,SV Drochtersen/Assel,2019
+Julian Quack,GK,20,25 Tsd. €,SV Drochtersen/Assel,2019
+Fabian Klinkmann,GK,23,-,SV Drochtersen/Assel,2019
+Mark Osnowski,GK,21,-,SV Drochtersen/Assel,2019
+Nico von der Reith,CB,27,75 Tsd. €,SV Drochtersen/Assel,2019
+Sören Behrmann,CB,30,75 Tsd. €,SV Drochtersen/Assel,2019
+Laurens Rogowski,CB,26,75 Tsd. €,SV Drochtersen/Assel,2019
+Dimitri Fiks,CB,29,75 Tsd. €,SV Drochtersen/Assel,2019
+Liam Giwah,CB,20,75 Tsd. €,SV Drochtersen/Assel,2019
+Justin Heinbockel,CB,20,25 Tsd. €,SV Drochtersen/Assel,2019
+Benjamin Nadjem,CB,25,-,SV Drochtersen/Assel,2019
+Jannes Elfers,LB,24,50 Tsd. €,SV Drochtersen/Assel,2019
+Oliver Ioannou,RB,31,75 Tsd. €,SV Drochtersen/Assel,2019
+Daniel Owusu,RB,19,50 Tsd. €,SV Drochtersen/Assel,2019
+Eyke Kleine,RB,24,50 Tsd. €,SV Drochtersen/Assel,2019
+Marcel Andrijanic,CDM,27,100 Tsd. €,SV Drochtersen/Assel,2019
+Dren Feka,CDM,23,100 Tsd. €,SV Drochtersen/Assel,2019
+Till Hermandung,CDM,22,75 Tsd. €,SV Drochtersen/Assel,2019
+Sven Zöpfgen,CDM,30,75 Tsd. €,SV Drochtersen/Assel,2019
+Jannes Wulff,CM,20,50 Tsd. €,SV Drochtersen/Assel,2019
+Hassan El-Saleh,CM,23,50 Tsd. €,SV Drochtersen/Assel,2019
+Finn Zeugner,RM,21,75 Tsd. €,SV Drochtersen/Assel,2019
+Jan-Ove Edeling,RM,26,50 Tsd. €,SV Drochtersen/Assel,2019
+Marco Schuhmann,LM,25,50 Tsd. €,SV Drochtersen/Assel,2019
+Stig Hartig,CAM,19,25 Tsd. €,SV Drochtersen/Assel,2019
+Dario Kovacic,CAM,21,-,SV Drochtersen/Assel,2019
+Hilkiah Voigt,LW,20,-,SV Drochtersen/Assel,2019
+Ashton Götz,RW,26,100 Tsd. €,SV Drochtersen/Assel,2019
+Florian Nagel,RW,28,75 Tsd. €,SV Drochtersen/Assel,2019
+Alexander Shehada,RW,20,50 Tsd. €,SV Drochtersen/Assel,2019
+Jan-Miklas Steffens,RW,20,-,SV Drochtersen/Assel,2019
+Alexander Neumann,ST,30,125 Tsd. €,SV Drochtersen/Assel,2019
+Jasper Gooßen,ST,24,75 Tsd. €,SV Drochtersen/Assel,2019
+Marcus Borgmann,ST,20,25 Tsd. €,SV Drochtersen/Assel,2019
+Patrick Siefkes,GK,31,100 Tsd. €,SV Drochtersen/Assel,2020
+Julian Quack,GK,21,25 Tsd. €,SV Drochtersen/Assel,2020
+Tom Uhtes,GK,27,-,SV Drochtersen/Assel,2020
+Nikola Serra,CB,26,75 Tsd. €,SV Drochtersen/Assel,2020
+Efkan Erdogan,CB,24,75 Tsd. €,SV Drochtersen/Assel,2020
+Nico von der Reith,CB,28,75 Tsd. €,SV Drochtersen/Assel,2020
+Sören Behrmann,CB,31,75 Tsd. €,SV Drochtersen/Assel,2020
+Dimitri Fiks,CB,30,50 Tsd. €,SV Drochtersen/Assel,2020
+Christian Rusch,CB,20,10 Tsd. €,SV Drochtersen/Assel,2020
+Jannes Elfers,LB,25,50 Tsd. €,SV Drochtersen/Assel,2020
+Jean-Philippe Meibohm,LB,23,10 Tsd. €,SV Drochtersen/Assel,2020
+Daniel Owusu,RB,20,50 Tsd. €,SV Drochtersen/Assel,2020
+Oliver Ioannou,RB,32,50 Tsd. €,SV Drochtersen/Assel,2020
+Arian Khodabakhshian,RB,20,10 Tsd. €,SV Drochtersen/Assel,2020
+Marcel Andrijanic,CDM,28,75 Tsd. €,SV Drochtersen/Assel,2020
+Maximilian Geißen,CDM,22,75 Tsd. €,SV Drochtersen/Assel,2020
+Sven Zöpfgen,CDM,31,25 Tsd. €,SV Drochtersen/Assel,2020
+Jannes Wulff,CM,21,75 Tsd. €,SV Drochtersen/Assel,2020
+Hassan El-Saleh,CM,24,50 Tsd. €,SV Drochtersen/Assel,2020
+Finn Zeugner,RM,22,75 Tsd. €,SV Drochtersen/Assel,2020
+Stig Hartig,CAM,20,10 Tsd. €,SV Drochtersen/Assel,2020
+Ashton Götz,RW,27,75 Tsd. €,SV Drochtersen/Assel,2020
+Florian Nagel,RW,29,50 Tsd. €,SV Drochtersen/Assel,2020
+Martin Sattler,RW,21,25 Tsd. €,SV Drochtersen/Assel,2020
+Alexander Shehada,RW,21,25 Tsd. €,SV Drochtersen/Assel,2020
+Alexander Neumann,ST,31,125 Tsd. €,SV Drochtersen/Assel,2020
+Jasper Gooßen,ST,25,75 Tsd. €,SV Drochtersen/Assel,2020
+Fabio Dias,ST,28,50 Tsd. €,SV Drochtersen/Assel,2020
+Lennard Fock,ST,21,10 Tsd. €,SV Drochtersen/Assel,2020
+Patrick Siefkes,GK,32,75 Tsd. €,SV Drochtersen/Assel,2021
+Fynn Hegerfeldt,GK,21,10 Tsd. €,SV Drochtersen/Assel,2021
+Julian Quack,GK,22,-,SV Drochtersen/Assel,2021
+Lias Patjens,CB,22,-,SV Drochtersen/Assel,2021
+Nick Dehde,CB,20,-,SV Drochtersen/Assel,2021
+Milan Schweiger,CB,20,-,SV Drochtersen/Assel,2021
+Tjorve Mohr,CB,25,75 Tsd. €,SV Drochtersen/Assel,2021
+Nico von der Reith,CB,29,75 Tsd. €,SV Drochtersen/Assel,2021
+Nikola Serra,CB,27,50 Tsd. €,SV Drochtersen/Assel,2021
+Liam Giwah,CB,22,50 Tsd. €,SV Drochtersen/Assel,2021
+Christian Rusch,CB,21,25 Tsd. €,SV Drochtersen/Assel,2021
+Sören Behrmann,CB,32,-,SV Drochtersen/Assel,2021
+Jannes Elfers,LB,26,50 Tsd. €,SV Drochtersen/Assel,2021
+Arian Khodabakhshian,RB,21,50 Tsd. €,SV Drochtersen/Assel,2021
+Daniel Owusu,RB,21,25 Tsd. €,SV Drochtersen/Assel,2021
+Oliver Ioannou,RB,33,-,SV Drochtersen/Assel,2021
+Maximilian Geißen,CDM,23,75 Tsd. €,SV Drochtersen/Assel,2021
+Julian Budde,CDM,20,-,SV Drochtersen/Assel,2021
+Hassan El-Saleh,CM,25,75 Tsd. €,SV Drochtersen/Assel,2021
+Jorik Wulff,CM,21,50 Tsd. €,SV Drochtersen/Assel,2021
+Niklas Golke,RM,22,-,SV Drochtersen/Assel,2021
+Finn Zeugner,RM,23,-,SV Drochtersen/Assel,2021
+Max Reichardt,CAM,21,-,SV Drochtersen/Assel,2021
+Felix Niebergall,LW,23,50 Tsd. €,SV Drochtersen/Assel,2021
+Ashton Götz,RW,28,75 Tsd. €,SV Drochtersen/Assel,2021
+Martin Sattler,RW,22,50 Tsd. €,SV Drochtersen/Assel,2021
+Jan-Miklas Steffens,RW,22,25 Tsd. €,SV Drochtersen/Assel,2021
+Florian Nagel,RW,30,-,SV Drochtersen/Assel,2021
+Alexander Neumann,ST,32,50 Tsd. €,SV Drochtersen/Assel,2021
+Jasper Gooßen,ST,26,25 Tsd. €,SV Drochtersen/Assel,2021
+Lennard Fock,ST,22,10 Tsd. €,SV Drochtersen/Assel,2021
+Fabio Dias,ST,29,-,SV Drochtersen/Assel,2021
+Janosch Lüders,ST,21,-,SV Drochtersen/Assel,2021
+Fabian von Essen,ST,20,-,SV Drochtersen/Assel,2021
+Patrick Siefkes,GK,33,75 Tsd. €,SV Drochtersen/Assel,2022
+Fynn Hegerfeldt,GK,22,10 Tsd. €,SV Drochtersen/Assel,2022
+Julian Geitz,GK,22,10 Tsd. €,SV Drochtersen/Assel,2022
+Tino Ebeling,GK,18,-,SV Drochtersen/Assel,2022
+Lias Patjens,CB,23,-,SV Drochtersen/Assel,2022
+Abdullah-Mert Yaman,CB,23,-,SV Drochtersen/Assel,2022
+Moritz Vedovelli,CB,19,-,SV Drochtersen/Assel,2022
+Tjorve Mohr,CB,26,75 Tsd. €,SV Drochtersen/Assel,2022
+Nico von der Reith,CB,30,75 Tsd. €,SV Drochtersen/Assel,2022
+Liam Giwah,CB,23,75 Tsd. €,SV Drochtersen/Assel,2022
+Nikola Serra,CB,28,50 Tsd. €,SV Drochtersen/Assel,2022
+Christian Rusch,CB,22,25 Tsd. €,SV Drochtersen/Assel,2022
+Jannes Elfers,LB,27,50 Tsd. €,SV Drochtersen/Assel,2022
+Tom Kinitz,LB,21,50 Tsd. €,SV Drochtersen/Assel,2022
+Justin Schefer,LB,19,-,SV Drochtersen/Assel,2022
+Arian Khodabakhshian,RB,22,50 Tsd. €,SV Drochtersen/Assel,2022
+Daniel Owusu,RB,22,-,SV Drochtersen/Assel,2022
+Maximilian Geißen,CDM,24,75 Tsd. €,SV Drochtersen/Assel,2022
+Sebastian Haut,CDM,27,50 Tsd. €,SV Drochtersen/Assel,2022
+Bennet Wittig,CDM,20,10 Tsd. €,SV Drochtersen/Assel,2022
+Dennis Grooten,Midfielder,21,-,SV Drochtersen/Assel,2022
+Julian Budde,CDM,21,-,SV Drochtersen/Assel,2022
+Jorik Wulff,CM,22,100 Tsd. €,SV Drochtersen/Assel,2022
+Eric Albers,CM,20,-,SV Drochtersen/Assel,2022
+Dennis Rosin,CAM,27,50 Tsd. €,SV Drochtersen/Assel,2022
+Max Reichardt,CAM,22,-,SV Drochtersen/Assel,2022
+Marcell Sobotta,LW,26,100 Tsd. €,SV Drochtersen/Assel,2022
+Felix Niebergall,LW,24,50 Tsd. €,SV Drochtersen/Assel,2022
+Ashton Götz,RW,29,50 Tsd. €,SV Drochtersen/Assel,2022
+Jan-Miklas Steffens,RW,23,50 Tsd. €,SV Drochtersen/Assel,2022
+Martin Sattler,RW,23,25 Tsd. €,SV Drochtersen/Assel,2022
+Alexander Neumann,ST,33,75 Tsd. €,SV Drochtersen/Assel,2022
+Jasper Gooßen,ST,27,25 Tsd. €,SV Drochtersen/Assel,2022
+Lennard Fock,ST,23,25 Tsd. €,SV Drochtersen/Assel,2022
+Felix Schmiederer,ST,27,25 Tsd. €,SV Drochtersen/Assel,2022
+Lukas Schumacher,ST,20,10 Tsd. €,SV Drochtersen/Assel,2022
+Fabio Parduhn,ST,28,-,SV Drochtersen/Assel,2022
+Niklas von Borstel,ST,29,-,SV Drochtersen/Assel,2022
+Fabian von Essen,ST,21,-,SV Drochtersen/Assel,2022
+Louis-Maximilian Ney,ST,20,-,SV Drochtersen/Assel,2022
+Patrick Siefkes,GK,34,50 Tsd. €,SV Drochtersen/Assel,2023
+Fynn Hegerfeldt,GK,23,10 Tsd. €,SV Drochtersen/Assel,2023
+Fabian Klinkmann,GK,27,-,SV Drochtersen/Assel,2023
+Julian Geitz,GK,23,-,SV Drochtersen/Assel,2023
+Tjorve Mohr,CB,27,50 Tsd. €,SV Drochtersen/Assel,2023
+Nico von der Reith,CB,31,50 Tsd. €,SV Drochtersen/Assel,2023
+Liam Giwah,CB,24,50 Tsd. €,SV Drochtersen/Assel,2023
+Nikola Serra,CB,29,25 Tsd. €,SV Drochtersen/Assel,2023
+Christian Rusch,CB,23,10 Tsd. €,SV Drochtersen/Assel,2023
+Jannes Elfers,LB,28,50 Tsd. €,SV Drochtersen/Assel,2023
+Tom Kinitz,LB,22,10 Tsd. €,SV Drochtersen/Assel,2023
+Arian Khodabakhshian,RB,23,25 Tsd. €,SV Drochtersen/Assel,2023
+Mika Ney,RB,19,10 Tsd. €,SV Drochtersen/Assel,2023
+Matti Steinmann,CDM,29,175 Tsd. €,SV Drochtersen/Assel,2023
+Maximilian Geißen,CDM,25,75 Tsd. €,SV Drochtersen/Assel,2023
+Sebastian Haut,CDM,28,25 Tsd. €,SV Drochtersen/Assel,2023
+Maurits Nagel,CM,19,25 Tsd. €,SV Drochtersen/Assel,2023
+Matti Cebulla,CM,22,10 Tsd. €,SV Drochtersen/Assel,2023
+Willi Reincke,RM,21,75 Tsd. €,SV Drochtersen/Assel,2023
+Eric Gueye,LM,24,75 Tsd. €,SV Drochtersen/Assel,2023
+Dennis Rosin,CAM,28,50 Tsd. €,SV Drochtersen/Assel,2023
+Miguel Fernandes,LW,27,50 Tsd. €,SV Drochtersen/Assel,2023
+Allah Aid Hamid,LW,21,50 Tsd. €,SV Drochtersen/Assel,2023
+Marcell Sobotta,LW,27,-,SV Drochtersen/Assel,2023
+Filip Pavlovic,LW,22,-,SV Drochtersen/Assel,2023
+Martin Sattler,RW,24,50 Tsd. €,SV Drochtersen/Assel,2023
+Jan-Miklas Steffens,RW,24,25 Tsd. €,SV Drochtersen/Assel,2023
+Philipp Aue,RW,24,10 Tsd. €,SV Drochtersen/Assel,2023
+Moritz Göttel,ST,31,100 Tsd. €,SV Drochtersen/Assel,2023
+Felix Schmiederer,ST,28,50 Tsd. €,SV Drochtersen/Assel,2023
+Alexander Neumann,ST,34,-,SV Drochtersen/Assel,2023
+Lukas Schumacher,ST,21,-,SV Drochtersen/Assel,2023
+Patrick Siefkes,GK,35,50 Tsd. €,SV Drochtersen/Assel,2024
+Simon Heinbockel,GK,19,-,SV Drochtersen/Assel,2024
+Bennet Marquardt,GK,19,-,SV Drochtersen/Assel,2024
+Tjorve Mohr,CB,28,75 Tsd. €,SV Drochtersen/Assel,2024
+Liam Giwah,CB,25,75 Tsd. €,SV Drochtersen/Assel,2024
+Nikola Serra,CB,30,50 Tsd. €,SV Drochtersen/Assel,2024
+Nico von der Reith,CB,31,50 Tsd. €,SV Drochtersen/Assel,2024
+Justin Plautz,LB,26,75 Tsd. €,SV Drochtersen/Assel,2024
+Jannes Elfers,LB,29,50 Tsd. €,SV Drochtersen/Assel,2024
+Felix Boelter,LB,20,25 Tsd. €,SV Drochtersen/Assel,2024
+Matti Steinmann,CDM,30,150 Tsd. €,SV Drochtersen/Assel,2024
+Maximilian Geißen,CDM,26,50 Tsd. €,SV Drochtersen/Assel,2024
+Sebastian Haut,CDM,29,25 Tsd. €,SV Drochtersen/Assel,2024
+Maurits Nagel,CM,20,25 Tsd. €,SV Drochtersen/Assel,2024
+Matti Cebulla,CM,23,10 Tsd. €,SV Drochtersen/Assel,2024
+Willi Reincke,RM,22,75 Tsd. €,SV Drochtersen/Assel,2024
+Dennis Rosin,CAM,28,75 Tsd. €,SV Drochtersen/Assel,2024
+Miguel Fernandes,LW,28,75 Tsd. €,SV Drochtersen/Assel,2024
+Niklas Bär,LW,22,25 Tsd. €,SV Drochtersen/Assel,2024
+Martin Sattler,RW,25,50 Tsd. €,SV Drochtersen/Assel,2024
+Jan-Miklas Steffens,RW,25,25 Tsd. €,SV Drochtersen/Assel,2024
+Philipp Aue,RW,25,10 Tsd. €,SV Drochtersen/Assel,2024
+Haris Hyseni,ST,32,100 Tsd. €,SV Drochtersen/Assel,2024
+Finn Wendler,ST,19,10 Tsd. €,SV Drochtersen/Assel,2024
+Jelldrik Dallmann,ST,24,-,SV Drochtersen/Assel,2024

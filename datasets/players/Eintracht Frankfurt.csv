@@ -1,0 +1,400 @@
+name,position,age,value,team,season
+Kevin Trapp,GK,24,"8,00 Mio. €",Eintracht Frankfurt,2014
+Felix Wiedwald,GK,25,"1,50 Mio. €",Eintracht Frankfurt,2014
+Timo Hildebrand,GK,36,750 Tsd. €,Eintracht Frankfurt,2014
+Emil Balayev,GK,21,200 Tsd. €,Eintracht Frankfurt,2014
+Yannick Zummack,GK,19,100 Tsd. €,Eintracht Frankfurt,2014
+Carlos Zambrano,CB,25,"8,00 Mio. €",Eintracht Frankfurt,2014
+Marco Russ,CB,29,"3,00 Mio. €",Eintracht Frankfurt,2014
+Bamba Anderson,CB,27,"2,50 Mio. €",Eintracht Frankfurt,2014
+Alexander Madlung,CB,32,800 Tsd. €,Eintracht Frankfurt,2014
+Bastian Oczipka,LB,26,"3,00 Mio. €",Eintracht Frankfurt,2014
+Constant Djakpa,LB,28,"1,50 Mio. €",Eintracht Frankfurt,2014
+Timothy Chandler,RB,25,"2,50 Mio. €",Eintracht Frankfurt,2014
+Makoto Hasebe,CDM,31,"2,50 Mio. €",Eintracht Frankfurt,2014
+Slobodan Medojevic,CDM,24,"2,50 Mio. €",Eintracht Frankfurt,2014
+Aleksandar Ignjovski,CDM,24,"2,00 Mio. €",Eintracht Frankfurt,2014
+Martin Lanig,CDM,30,600 Tsd. €,Eintracht Frankfurt,2014
+Marc Stendera,CM,19,"5,00 Mio. €",Eintracht Frankfurt,2014
+Johannes Flum,CM,27,"2,50 Mio. €",Eintracht Frankfurt,2014
+David Kinsombi,CM,19,250 Tsd. €,Eintracht Frankfurt,2014
+Lucas Piazón,CAM,21,"5,00 Mio. €",Eintracht Frankfurt,2014
+Sonny Kittel,CAM,22,500 Tsd. €,Eintracht Frankfurt,2014
+Joel Gerezgiher,CAM,19,100 Tsd. €,Eintracht Frankfurt,2014
+Takashi Inui,LW,27,"2,50 Mio. €",Eintracht Frankfurt,2014
+Stefan Aigner,RW,27,"5,00 Mio. €",Eintracht Frankfurt,2014
+Alexander Meier,Second Striker,32,"3,00 Mio. €",Eintracht Frankfurt,2014
+Haris Seferovic,ST,23,"6,00 Mio. €",Eintracht Frankfurt,2014
+Vaclav Kadlec,ST,23,"3,00 Mio. €",Eintracht Frankfurt,2014
+Nelson Valdez,ST,31,"2,00 Mio. €",Eintracht Frankfurt,2014
+Luca Waldschmidt,ST,19,500 Tsd. €,Eintracht Frankfurt,2014
+Yaffa Yusupha,ST,18,100 Tsd. €,Eintracht Frankfurt,2014
+Lukas Hradecky,GK,26,"3,50 Mio. €",Eintracht Frankfurt,2015
+Heinz Lindner,GK,25,"1,00 Mio. €",Eintracht Frankfurt,2015
+Emil Balayev,GK,22,150 Tsd. €,Eintracht Frankfurt,2015
+Yannick Zummack,GK,20,150 Tsd. €,Eintracht Frankfurt,2015
+Carlos Zambrano,CB,26,"6,50 Mio. €",Eintracht Frankfurt,2015
+Marco Russ,CB,30,"2,50 Mio. €",Eintracht Frankfurt,2015
+David Abraham,CB,29,"2,50 Mio. €",Eintracht Frankfurt,2015
+Bamba Anderson,CB,28,"1,25 Mio. €",Eintracht Frankfurt,2015
+Bastian Oczipka,LB,27,"3,00 Mio. €",Eintracht Frankfurt,2015
+Constant Djakpa,LB,29,"1,25 Mio. €",Eintracht Frankfurt,2015
+Kaan Ayhan,RB,21,"3,50 Mio. €",Eintracht Frankfurt,2015
+Timothy Chandler,RB,26,"2,00 Mio. €",Eintracht Frankfurt,2015
+Makoto Hasebe,CDM,32,"2,50 Mio. €",Eintracht Frankfurt,2015
+Aleksandar Ignjovski,CDM,25,"2,00 Mio. €",Eintracht Frankfurt,2015
+Slobodan Medojevic,CDM,25,"1,50 Mio. €",Eintracht Frankfurt,2015
+Yanni Regäsel,CDM,20,750 Tsd. €,Eintracht Frankfurt,2015
+Nico Rinderknecht,CDM,18,150 Tsd. €,Eintracht Frankfurt,2015
+Stefan Reinartz,CDM,27,-,Eintracht Frankfurt,2015
+Marc Stendera,CM,20,"8,00 Mio. €",Eintracht Frankfurt,2015
+Johannes Flum,CM,28,"1,25 Mio. €",Eintracht Frankfurt,2015
+David Kinsombi,CM,20,300 Tsd. €,Eintracht Frankfurt,2015
+Szabolcs Huszti,LM,33,"1,00 Mio. €",Eintracht Frankfurt,2015
+Marco Fabián,CAM,26,"5,00 Mio. €",Eintracht Frankfurt,2015
+Mijat Gacinovic,CAM,21,"1,50 Mio. €",Eintracht Frankfurt,2015
+Änis Ben-Hatira,CAM,27,"1,25 Mio. €",Eintracht Frankfurt,2015
+Joel Gerezgiher,CAM,20,500 Tsd. €,Eintracht Frankfurt,2015
+Sonny Kittel,CAM,23,500 Tsd. €,Eintracht Frankfurt,2015
+Takashi Inui,LW,28,"3,00 Mio. €",Eintracht Frankfurt,2015
+Stefan Aigner,RW,28,"4,50 Mio. €",Eintracht Frankfurt,2015
+Alexander Meier,Second Striker,33,"3,00 Mio. €",Eintracht Frankfurt,2015
+Haris Seferovic,ST,24,"5,50 Mio. €",Eintracht Frankfurt,2015
+Luc Castaignos,ST,23,"4,00 Mio. €",Eintracht Frankfurt,2015
+Vaclav Kadlec,ST,24,"2,00 Mio. €",Eintracht Frankfurt,2015
+Luca Waldschmidt,ST,20,"1,00 Mio. €",Eintracht Frankfurt,2015
+Enis Bunjaki,ST,18,100 Tsd. €,Eintracht Frankfurt,2015
+Lukas Hradecky,GK,27,"4,50 Mio. €",Eintracht Frankfurt,2016
+Heinz Lindner,GK,26,"1,00 Mio. €",Eintracht Frankfurt,2016
+Leon Bätge,GK,19,100 Tsd. €,Eintracht Frankfurt,2016
+Jesús Vallejo,CB,20,"8,00 Mio. €",Eintracht Frankfurt,2016
+David Abraham,CB,30,"4,00 Mio. €",Eintracht Frankfurt,2016
+Michael Hector,CB,24,"3,00 Mio. €",Eintracht Frankfurt,2016
+Marco Russ,CB,31,"2,00 Mio. €",Eintracht Frankfurt,2016
+Andersson Ordóñez,CB,23,750 Tsd. €,Eintracht Frankfurt,2016
+Furkan Zorba,CB,19,150 Tsd. €,Eintracht Frankfurt,2016
+Noel Knothe,CB,18,-,Eintracht Frankfurt,2016
+Deji Beyreuther,CB,17,-,Eintracht Frankfurt,2016
+Bastian Oczipka,LB,28,"3,50 Mio. €",Eintracht Frankfurt,2016
+Taleb Tawatha,LB,25,"1,50 Mio. €",Eintracht Frankfurt,2016
+Timothy Chandler,RB,27,"3,50 Mio. €",Eintracht Frankfurt,2016
+Guillermo Varela,RB,24,750 Tsd. €,Eintracht Frankfurt,2016
+Marius Wolf,RB,22,500 Tsd. €,Eintracht Frankfurt,2016
+Omar Mascarell,CDM,24,"4,50 Mio. €",Eintracht Frankfurt,2016
+Makoto Hasebe,CDM,33,"1,50 Mio. €",Eintracht Frankfurt,2016
+Yanni Regäsel,CDM,21,500 Tsd. €,Eintracht Frankfurt,2016
+Slobodan Medojevic,CDM,26,500 Tsd. €,Eintracht Frankfurt,2016
+Marc Stendera,CM,21,"4,50 Mio. €",Eintracht Frankfurt,2016
+Max Besuschkow,CM,20,400 Tsd. €,Eintracht Frankfurt,2016
+Miguel Blanco-Lopez,CM,18,100 Tsd. €,Eintracht Frankfurt,2016
+Szabolcs Huszti,LM,34,700 Tsd. €,Eintracht Frankfurt,2016
+Marco Fabián,CAM,27,"7,00 Mio. €",Eintracht Frankfurt,2016
+Mijat Gacinovic,CAM,22,"3,50 Mio. €",Eintracht Frankfurt,2016
+Aymen Barkok,CAM,19,"1,25 Mio. €",Eintracht Frankfurt,2016
+Ante Rebić,LW,23,"2,50 Mio. €",Eintracht Frankfurt,2016
+Danny Blum,LW,26,"1,50 Mio. €",Eintracht Frankfurt,2016
+Shani Tarashaj,Second Striker,22,"2,00 Mio. €",Eintracht Frankfurt,2016
+Alexander Meier,Second Striker,34,"1,00 Mio. €",Eintracht Frankfurt,2016
+Haris Seferovic,ST,25,"3,00 Mio. €",Eintracht Frankfurt,2016
+Branimir Hrgota,ST,24,"2,50 Mio. €",Eintracht Frankfurt,2016
+Luc Castaignos,ST,24,"2,00 Mio. €",Eintracht Frankfurt,2016
+Enis Bunjaki,ST,19,100 Tsd. €,Eintracht Frankfurt,2016
+Lukas Hradecky,GK,28,"10,00 Mio. €",Eintracht Frankfurt,2017
+Jan Zimmermann,GK,33,250 Tsd. €,Eintracht Frankfurt,2017
+Leon Bätge,GK,20,100 Tsd. €,Eintracht Frankfurt,2017
+Carlos Salcedo,CB,24,"7,00 Mio. €",Eintracht Frankfurt,2017
+David Abraham,CB,31,"5,00 Mio. €",Eintracht Frankfurt,2017
+Simon Falette,CB,26,"4,00 Mio. €",Eintracht Frankfurt,2017
+Danny da Costa,CB,24,"3,50 Mio. €",Eintracht Frankfurt,2017
+Marco Russ,CB,32,"1,00 Mio. €",Eintracht Frankfurt,2017
+Deji Beyreuther,CB,18,150 Tsd. €,Eintracht Frankfurt,2017
+Noel Knothe,CB,19,100 Tsd. €,Eintracht Frankfurt,2017
+Jetro Willems,LB,24,"7,00 Mio. €",Eintracht Frankfurt,2017
+Taleb Tawatha,LB,26,"1,50 Mio. €",Eintracht Frankfurt,2017
+Marius Wolf,RB,23,"10,00 Mio. €",Eintracht Frankfurt,2017
+Timothy Chandler,RB,28,"5,00 Mio. €",Eintracht Frankfurt,2017
+Omar Mascarell,CDM,25,"8,00 Mio. €",Eintracht Frankfurt,2017
+Jonathan de Guzmán,CDM,30,"2,50 Mio. €",Eintracht Frankfurt,2017
+Gelson Fernandes,CDM,31,"1,50 Mio. €",Eintracht Frankfurt,2017
+Makoto Hasebe,CDM,34,"1,00 Mio. €",Eintracht Frankfurt,2017
+Slobodan Medojevic,CDM,27,500 Tsd. €,Eintracht Frankfurt,2017
+Marc Stendera,CM,22,"2,00 Mio. €",Eintracht Frankfurt,2017
+Marijan Cavar,CM,20,400 Tsd. €,Eintracht Frankfurt,2017
+Max Besuschkow,CM,21,250 Tsd. €,Eintracht Frankfurt,2017
+Şahverdi Çetin,CM,17,100 Tsd. €,Eintracht Frankfurt,2017
+Nelson Mandela Mbouhom,CM,19,100 Tsd. €,Eintracht Frankfurt,2017
+Mijat Gacinovic,CAM,23,"8,00 Mio. €",Eintracht Frankfurt,2017
+Kevin-Prince Boateng,CAM,31,"7,00 Mio. €",Eintracht Frankfurt,2017
+Marco Fabián,CAM,28,"4,50 Mio. €",Eintracht Frankfurt,2017
+Aymen Barkok,CAM,20,"2,00 Mio. €",Eintracht Frankfurt,2017
+Daichi Kamada,CAM,21,"1,00 Mio. €",Eintracht Frankfurt,2017
+Ante Rebić,LW,24,"10,00 Mio. €",Eintracht Frankfurt,2017
+Danny Blum,LW,27,750 Tsd. €,Eintracht Frankfurt,2017
+Alexander Meier,Second Striker,35,750 Tsd. €,Eintracht Frankfurt,2017
+Sébastien Haller,ST,24,"12,00 Mio. €",Eintracht Frankfurt,2017
+Luka Jović,ST,20,"8,00 Mio. €",Eintracht Frankfurt,2017
+Branimir Hrgota,ST,25,"1,00 Mio. €",Eintracht Frankfurt,2017
+Renat Dadashov,ST,19,200 Tsd. €,Eintracht Frankfurt,2017
+Kevin Trapp,GK,28,"10,00 Mio. €",Eintracht Frankfurt,2018
+Frederik Rönnow,GK,26,"1,50 Mio. €",Eintracht Frankfurt,2018
+Felix Wiedwald,GK,29,600 Tsd. €,Eintracht Frankfurt,2018
+Jan Zimmermann,GK,34,250 Tsd. €,Eintracht Frankfurt,2018
+Tobias Stirl,GK,19,200 Tsd. €,Eintracht Frankfurt,2018
+Evan Ndicka,CB,19,"25,00 Mio. €",Eintracht Frankfurt,2018
+Martin Hinteregger,CB,26,"16,00 Mio. €",Eintracht Frankfurt,2018
+Danny da Costa,CB,25,"15,00 Mio. €",Eintracht Frankfurt,2018
+Carlos Salcedo,CB,25,"10,00 Mio. €",Eintracht Frankfurt,2018
+Almamy Touré,CB,23,"6,50 Mio. €",Eintracht Frankfurt,2018
+Simon Falette,CB,27,"4,00 Mio. €",Eintracht Frankfurt,2018
+David Abraham,CB,32,"2,50 Mio. €",Eintracht Frankfurt,2018
+Tuta,CB,19,"1,80 Mio. €",Eintracht Frankfurt,2018
+Marco Russ,CB,33,750 Tsd. €,Eintracht Frankfurt,2018
+Andersson Ordóñez,CB,25,600 Tsd. €,Eintracht Frankfurt,2018
+Noel Knothe,CB,20,100 Tsd. €,Eintracht Frankfurt,2018
+Deji Beyreuther,CB,19,100 Tsd. €,Eintracht Frankfurt,2018
+Jetro Willems,LB,25,"5,00 Mio. €",Eintracht Frankfurt,2018
+Taleb Tawatha,LB,27,"1,00 Mio. €",Eintracht Frankfurt,2018
+Timothy Chandler,RB,29,"4,00 Mio. €",Eintracht Frankfurt,2018
+Lucas Torró,CDM,24,"6,00 Mio. €",Eintracht Frankfurt,2018
+Jonathan de Guzmán,CDM,31,"2,50 Mio. €",Eintracht Frankfurt,2018
+Gelson Fernandes,CDM,32,"1,50 Mio. €",Eintracht Frankfurt,2018
+Allan,CDM,22,"1,00 Mio. €",Eintracht Frankfurt,2018
+Makoto Hasebe,CDM,35,"1,00 Mio. €",Eintracht Frankfurt,2018
+Sebastian Rode,CM,28,"3,00 Mio. €",Eintracht Frankfurt,2018
+Marc Stendera,CM,23,"1,50 Mio. €",Eintracht Frankfurt,2018
+Max Besuschkow,CM,22,400 Tsd. €,Eintracht Frankfurt,2018
+Marijan Cavar,CM,21,400 Tsd. €,Eintracht Frankfurt,2018
+Nils Stendera,CM,18,200 Tsd. €,Eintracht Frankfurt,2018
+Şahverdi Çetin,CM,18,200 Tsd. €,Eintracht Frankfurt,2018
+Nelson Mandela Mbouhom,CM,20,200 Tsd. €,Eintracht Frankfurt,2018
+Filip Kostić,LM,26,"22,00 Mio. €",Eintracht Frankfurt,2018
+Mijat Gacinovic,CAM,24,"11,00 Mio. €",Eintracht Frankfurt,2018
+Daichi Kamada,CAM,22,"4,50 Mio. €",Eintracht Frankfurt,2018
+Marco Fabián,CAM,29,"2,00 Mio. €",Eintracht Frankfurt,2018
+Chico Geraldes,CAM,24,"2,00 Mio. €",Eintracht Frankfurt,2018
+Nicolai Müller,CAM,31,"1,50 Mio. €",Eintracht Frankfurt,2018
+Patrick Finger,CAM,18,150 Tsd. €,Eintracht Frankfurt,2018
+Ante Rebić,LW,25,"40,00 Mio. €",Eintracht Frankfurt,2018
+Danny Blum,LW,28,500 Tsd. €,Eintracht Frankfurt,2018
+Mischa Häuser,LW,19,150 Tsd. €,Eintracht Frankfurt,2018
+Patrice Kabuya,RW,19,200 Tsd. €,Eintracht Frankfurt,2018
+Luka Jović,ST,21,"60,00 Mio. €",Eintracht Frankfurt,2018
+Sébastien Haller,ST,25,"40,00 Mio. €",Eintracht Frankfurt,2018
+Gonçalo Paciência,ST,24,"6,00 Mio. €",Eintracht Frankfurt,2018
+Branimir Hrgota,ST,26,600 Tsd. €,Eintracht Frankfurt,2018
+Kevin Trapp,GK,29,"8,00 Mio. €",Eintracht Frankfurt,2019
+Frederik Rönnow,GK,27,"2,40 Mio. €",Eintracht Frankfurt,2019
+Felix Wiedwald,GK,30,475 Tsd. €,Eintracht Frankfurt,2019
+Jan Zimmermann,GK,35,250 Tsd. €,Eintracht Frankfurt,2019
+Elias Bördner,GK,18,-,Eintracht Frankfurt,2019
+Evan Ndicka,CB,20,"22,50 Mio. €",Eintracht Frankfurt,2019
+Martin Hinteregger,CB,27,"14,50 Mio. €",Eintracht Frankfurt,2019
+Danny da Costa,CB,26,"8,00 Mio. €",Eintracht Frankfurt,2019
+Almamy Touré,CB,24,"6,50 Mio. €",Eintracht Frankfurt,2019
+Simon Falette,CB,28,"2,40 Mio. €",Eintracht Frankfurt,2019
+David Abraham,CB,33,"1,20 Mio. €",Eintracht Frankfurt,2019
+Marco Russ,CB,34,400 Tsd. €,Eintracht Frankfurt,2019
+Timothy Chandler,RB,30,"2,40 Mio. €",Eintracht Frankfurt,2019
+Erik Durm,RB,28,"1,60 Mio. €",Eintracht Frankfurt,2019
+Dominik Kohr,CDM,26,"6,80 Mio. €",Eintracht Frankfurt,2019
+Stefan Ilsanker,CDM,31,"2,40 Mio. €",Eintracht Frankfurt,2019
+Lucas Torró,CDM,25,"2,40 Mio. €",Eintracht Frankfurt,2019
+Gelson Fernandes,CDM,33,"1,20 Mio. €",Eintracht Frankfurt,2019
+Jonathan de Guzmán,CDM,32,"1,20 Mio. €",Eintracht Frankfurt,2019
+Makoto Hasebe,CDM,36,800 Tsd. €,Eintracht Frankfurt,2019
+Djibril Sow,CM,23,"9,50 Mio. €",Eintracht Frankfurt,2019
+Sebastian Rode,CM,29,"4,00 Mio. €",Eintracht Frankfurt,2019
+Marijan Cavar,CM,22,350 Tsd. €,Eintracht Frankfurt,2019
+Nils Stendera,CM,19,200 Tsd. €,Eintracht Frankfurt,2019
+Şahverdi Çetin,CM,19,200 Tsd. €,Eintracht Frankfurt,2019
+Rodrigo Zalazar,CM,20,50 Tsd. €,Eintracht Frankfurt,2019
+Filip Kostić,LM,27,"32,00 Mio. €",Eintracht Frankfurt,2019
+Daichi Kamada,CAM,23,"8,00 Mio. €",Eintracht Frankfurt,2019
+Mijat Gacinovic,CAM,25,"7,00 Mio. €",Eintracht Frankfurt,2019
+Patrick Finger,CAM,19,150 Tsd. €,Eintracht Frankfurt,2019
+Ante Rebić,LW,26,"24,00 Mio. €",Eintracht Frankfurt,2019
+André Silva,ST,24,"16,00 Mio. €",Eintracht Frankfurt,2019
+Gonçalo Paciência,ST,25,"12,00 Mio. €",Eintracht Frankfurt,2019
+Bas Dost,ST,31,"6,50 Mio. €",Eintracht Frankfurt,2019
+Dejan Joveljić,ST,20,"3,60 Mio. €",Eintracht Frankfurt,2019
+Kevin Trapp,GK,30,"6,50 Mio. €",Eintracht Frankfurt,2020
+Frederik Rönnow,GK,28,"2,50 Mio. €",Eintracht Frankfurt,2020
+Markus Schubert,GK,23,"1,80 Mio. €",Eintracht Frankfurt,2020
+Elias Bördner,GK,19,250 Tsd. €,Eintracht Frankfurt,2020
+Evan Ndicka,CB,21,"28,00 Mio. €",Eintracht Frankfurt,2020
+Martin Hinteregger,CB,28,"18,00 Mio. €",Eintracht Frankfurt,2020
+Tuta,CB,21,"9,00 Mio. €",Eintracht Frankfurt,2020
+Danny da Costa,CB,27,"6,00 Mio. €",Eintracht Frankfurt,2020
+Almamy Touré,CB,25,"5,50 Mio. €",Eintracht Frankfurt,2020
+Simon Falette,CB,29,800 Tsd. €,Eintracht Frankfurt,2020
+Fynn Otto,CB,19,200 Tsd. €,Eintracht Frankfurt,2020
+Felix Irorere,CB,19,200 Tsd. €,Eintracht Frankfurt,2020
+Yannick Brugger,CB,20,100 Tsd. €,Eintracht Frankfurt,2020
+David Abraham,CB,34,-,Eintracht Frankfurt,2020
+Jetro Willems,LB,27,"2,50 Mio. €",Eintracht Frankfurt,2020
+Erik Durm,RB,29,"2,50 Mio. €",Eintracht Frankfurt,2020
+Timothy Chandler,RB,31,"1,50 Mio. €",Eintracht Frankfurt,2020
+Dominik Kohr,CDM,27,"6,00 Mio. €",Eintracht Frankfurt,2020
+Stefan Ilsanker,CDM,32,"1,70 Mio. €",Eintracht Frankfurt,2020
+Makoto Hasebe,CDM,37,800 Tsd. €,Eintracht Frankfurt,2020
+Jabez Makanda,CDM,19,200 Tsd. €,Eintracht Frankfurt,2020
+Lukas Fahrnberger,CDM,20,200 Tsd. €,Eintracht Frankfurt,2020
+Djibril Sow,CM,24,"15,00 Mio. €",Eintracht Frankfurt,2020
+Sebastian Rode,CM,30,"4,00 Mio. €",Eintracht Frankfurt,2020
+Filip Kostić,LM,28,"35,00 Mio. €",Eintracht Frankfurt,2020
+Daichi Kamada,CAM,24,"25,00 Mio. €",Eintracht Frankfurt,2020
+Aymen Barkok,CAM,23,"3,50 Mio. €",Eintracht Frankfurt,2020
+Steven Zuber,CAM,29,"2,50 Mio. €",Eintracht Frankfurt,2020
+Ajdin Hrustić,CAM,24,"1,80 Mio. €",Eintracht Frankfurt,2020
+Amin Younes,LW,27,"10,00 Mio. €",Eintracht Frankfurt,2020
+André Silva,ST,25,"45,00 Mio. €",Eintracht Frankfurt,2020
+Luka Jović,ST,23,"20,00 Mio. €",Eintracht Frankfurt,2020
+Gonçalo Paciência,ST,26,"5,00 Mio. €",Eintracht Frankfurt,2020
+Bas Dost,ST,32,"4,80 Mio. €",Eintracht Frankfurt,2020
+Ragnar Ache,ST,22,"1,80 Mio. €",Eintracht Frankfurt,2020
+Ali Akman,ST,19,"1,50 Mio. €",Eintracht Frankfurt,2020
+Kevin Trapp,GK,31,"7,00 Mio. €",Eintracht Frankfurt,2021
+Diant Ramaj,GK,20,750 Tsd. €,Eintracht Frankfurt,2021
+Jens Grahl,GK,33,200 Tsd. €,Eintracht Frankfurt,2021
+Jannik Horz,GK,19,200 Tsd. €,Eintracht Frankfurt,2021
+Matteo Bignetti,GK,18,-,Eintracht Frankfurt,2021
+Evan Ndicka,CB,22,"32,00 Mio. €",Eintracht Frankfurt,2021
+Tuta,CB,22,"13,00 Mio. €",Eintracht Frankfurt,2021
+Martin Hinteregger,CB,29,"9,00 Mio. €",Eintracht Frankfurt,2021
+Almamy Touré,CB,26,"3,50 Mio. €",Eintracht Frankfurt,2021
+Danny da Costa,CB,28,"2,30 Mio. €",Eintracht Frankfurt,2021
+Christopher Lenz,LB,27,"4,00 Mio. €",Eintracht Frankfurt,2021
+Jan Schröder,LB,19,200 Tsd. €,Eintracht Frankfurt,2021
+Timothy Chandler,RB,32,"1,20 Mio. €",Eintracht Frankfurt,2021
+Erik Durm,RB,30,"1,20 Mio. €",Eintracht Frankfurt,2021
+Kristijan Jakic,CDM,25,"9,00 Mio. €",Eintracht Frankfurt,2021
+Stefan Ilsanker,CDM,33,"1,00 Mio. €",Eintracht Frankfurt,2021
+Makoto Hasebe,CDM,38,800 Tsd. €,Eintracht Frankfurt,2021
+Djibril Sow,CM,25,"22,00 Mio. €",Eintracht Frankfurt,2021
+Sebastian Rode,CM,31,"2,50 Mio. €",Eintracht Frankfurt,2021
+Filip Kostić,LM,29,"24,00 Mio. €",Eintracht Frankfurt,2021
+Daichi Kamada,CAM,25,"22,00 Mio. €",Eintracht Frankfurt,2021
+Ajdin Hrustić,CAM,25,"3,00 Mio. €",Eintracht Frankfurt,2021
+Steven Zuber,CAM,30,"2,50 Mio. €",Eintracht Frankfurt,2021
+Aymen Barkok,CAM,24,"1,80 Mio. €",Eintracht Frankfurt,2021
+Antonio Foti,CAM,18,400 Tsd. €,Eintracht Frankfurt,2021
+Jens Petter Hauge,LW,22,"8,00 Mio. €",Eintracht Frankfurt,2021
+Amin Younes,LW,28,"1,50 Mio. €",Eintracht Frankfurt,2021
+Fabio Blanco,LW,18,750 Tsd. €,Eintracht Frankfurt,2021
+Gianluca Schäfer,LW,19,150 Tsd. €,Eintracht Frankfurt,2021
+Jesper Lindstrøm,RW,22,"17,00 Mio. €",Eintracht Frankfurt,2021
+Ansgar Knauff,RW,20,"10,00 Mio. €",Eintracht Frankfurt,2021
+Rafael Borré,ST,26,"20,00 Mio. €",Eintracht Frankfurt,2021
+Sam Lammers,ST,25,"3,00 Mio. €",Eintracht Frankfurt,2021
+Gonçalo Paciência,ST,27,"3,00 Mio. €",Eintracht Frankfurt,2021
+Ragnar Ache,ST,23,"1,50 Mio. €",Eintracht Frankfurt,2021
+Enrique Herrero,ST,17,300 Tsd. €,Eintracht Frankfurt,2021
+Kevin Trapp,GK,32,"8,50 Mio. €",Eintracht Frankfurt,2022
+Diant Ramaj,GK,21,750 Tsd. €,Eintracht Frankfurt,2022
+Jannik Horz,GK,20,200 Tsd. €,Eintracht Frankfurt,2022
+Jens Grahl,GK,34,200 Tsd. €,Eintracht Frankfurt,2022
+Simon Simoni,GK,18,200 Tsd. €,Eintracht Frankfurt,2022
+Evan Ndicka,CB,23,"28,00 Mio. €",Eintracht Frankfurt,2022
+Tuta,CB,23,"15,00 Mio. €",Eintracht Frankfurt,2022
+Hrvoje Smolcic,CB,22,"4,00 Mio. €",Eintracht Frankfurt,2022
+Almamy Touré,CB,27,"2,50 Mio. €",Eintracht Frankfurt,2022
+Jérôme Onguéné,CB,25,"2,00 Mio. €",Eintracht Frankfurt,2022
+Dario Gebuhr,CB,20,400 Tsd. €,Eintracht Frankfurt,2022
+Luca Pellegrini,LB,24,"7,00 Mio. €",Eintracht Frankfurt,2022
+Philipp Max,LB,29,"3,00 Mio. €",Eintracht Frankfurt,2022
+Christopher Lenz,LB,28,"2,50 Mio. €",Eintracht Frankfurt,2022
+Jan Schröder,LB,20,200 Tsd. €,Eintracht Frankfurt,2022
+Aurélio Buta,RB,26,"8,00 Mio. €",Eintracht Frankfurt,2022
+Timothy Chandler,RB,33,700 Tsd. €,Eintracht Frankfurt,2022
+Kristijan Jakic,CDM,26,"7,00 Mio. €",Eintracht Frankfurt,2022
+Makoto Hasebe,CDM,39,800 Tsd. €,Eintracht Frankfurt,2022
+Djibril Sow,CM,26,"22,00 Mio. €",Eintracht Frankfurt,2022
+Paxten Aaronson,CM,19,"4,50 Mio. €",Eintracht Frankfurt,2022
+Sebastian Rode,CM,32,"2,00 Mio. €",Eintracht Frankfurt,2022
+Mehdi Loune,CM,19,300 Tsd. €,Eintracht Frankfurt,2022
+Junior Dina Ebimbe,RM,22,"10,00 Mio. €",Eintracht Frankfurt,2022
+Filip Kostić,LM,30,"22,00 Mio. €",Eintracht Frankfurt,2022
+Daichi Kamada,CAM,26,"27,00 Mio. €",Eintracht Frankfurt,2022
+Mario Götze,CAM,31,"12,00 Mio. €",Eintracht Frankfurt,2022
+Marcel Wenig,CAM,19,800 Tsd. €,Eintracht Frankfurt,2022
+Jens Petter Hauge,LW,23,"2,50 Mio. €",Eintracht Frankfurt,2022
+Faride Alidou,LW,21,"2,50 Mio. €",Eintracht Frankfurt,2022
+Jesper Lindstrøm,RW,23,"28,00 Mio. €",Eintracht Frankfurt,2022
+Ansgar Knauff,RW,21,"8,00 Mio. €",Eintracht Frankfurt,2022
+Randal Kolo Muani,ST,24,"80,00 Mio. €",Eintracht Frankfurt,2022
+Rafael Borré,ST,27,"9,00 Mio. €",Eintracht Frankfurt,2022
+Lucas Alario,ST,30,"2,50 Mio. €",Eintracht Frankfurt,2022
+Nacho Ferri,ST,18,500 Tsd. €,Eintracht Frankfurt,2022
+Kevin Trapp,GK,33,"4,00 Mio. €",Eintracht Frankfurt,2023
+Kauã Santos,GK,21,"1,50 Mio. €",Eintracht Frankfurt,2023
+Simon Simoni,GK,19,500 Tsd. €,Eintracht Frankfurt,2023
+Jens Grahl,GK,35,200 Tsd. €,Eintracht Frankfurt,2023
+Luke Gauer,GK,19,100 Tsd. €,Eintracht Frankfurt,2023
+Nils Ramming,GK,17,-,Eintracht Frankfurt,2023
+Willian Pacho,CB,22,"35,00 Mio. €",Eintracht Frankfurt,2023
+Robin Koch,CB,27,"18,00 Mio. €",Eintracht Frankfurt,2023
+Tuta,CB,24,"12,00 Mio. €",Eintracht Frankfurt,2023
+Hrvoje Smolcic,CB,23,"3,00 Mio. €",Eintracht Frankfurt,2023
+Nnamdi Collins,CB,20,"1,00 Mio. €",Eintracht Frankfurt,2023
+Dario Gebuhr,CB,21,400 Tsd. €,Eintracht Frankfurt,2023
+Davis Bautista,CB,19,250 Tsd. €,Eintracht Frankfurt,2023
+Niels Nkounkou,LB,23,"7,50 Mio. €",Eintracht Frankfurt,2023
+Philipp Max,LB,30,"2,00 Mio. €",Eintracht Frankfurt,2023
+Christopher Lenz,LB,29,"1,50 Mio. €",Eintracht Frankfurt,2023
+Aurélio Buta,RB,27,"5,00 Mio. €",Eintracht Frankfurt,2023
+Elias Baum,RB,18,"1,00 Mio. €",Eintracht Frankfurt,2023
+Timothy Chandler,RB,34,500 Tsd. €,Eintracht Frankfurt,2023
+Ellyes Skhiri,CDM,29,"11,00 Mio. €",Eintracht Frankfurt,2023
+Kristijan Jakic,CDM,27,"6,50 Mio. €",Eintracht Frankfurt,2023
+Makoto Hasebe,CDM,40,500 Tsd. €,Eintracht Frankfurt,2023
+Hugo Larsson,CM,20,"28,00 Mio. €",Eintracht Frankfurt,2023
+Donny van de Beek,CM,27,"5,00 Mio. €",Eintracht Frankfurt,2023
+Paxten Aaronson,CM,20,"4,50 Mio. €",Eintracht Frankfurt,2023
+Sebastian Rode,CM,33,"1,00 Mio. €",Eintracht Frankfurt,2023
+Marko Mladenovic,CM,19,500 Tsd. €,Eintracht Frankfurt,2023
+Sidney Raebiger,CM,19,300 Tsd. €,Eintracht Frankfurt,2023
+Mehdi Loune,CM,20,300 Tsd. €,Eintracht Frankfurt,2023
+Harpreet Ghotra,CM,21,100 Tsd. €,Eintracht Frankfurt,2023
+Junior Dina Ebimbe,RM,23,"12,00 Mio. €",Eintracht Frankfurt,2023
+Farès Chaïbi,CAM,21,"18,00 Mio. €",Eintracht Frankfurt,2023
+Mario Götze,CAM,32,"5,50 Mio. €",Eintracht Frankfurt,2023
+Marcel Wenig,CAM,20,600 Tsd. €,Eintracht Frankfurt,2023
+Jean-Mattéo Bahoya,LW,19,"7,50 Mio. €",Eintracht Frankfurt,2023
+Jens Petter Hauge,LW,24,"2,50 Mio. €",Eintracht Frankfurt,2023
+Jesper Lindstrøm,RW,24,"22,00 Mio. €",Eintracht Frankfurt,2023
+Ansgar Knauff,RW,22,"10,00 Mio. €",Eintracht Frankfurt,2023
+Randal Kolo Muani,ST,25,"45,00 Mio. €",Eintracht Frankfurt,2023
+Omar Marmoush,ST,25,"22,00 Mio. €",Eintracht Frankfurt,2023
+Hugo Ekitiké,ST,22,"20,00 Mio. €",Eintracht Frankfurt,2023
+Sasa Kalajdzic,ST,26,"5,00 Mio. €",Eintracht Frankfurt,2023
+Nacho Ferri,ST,19,"2,00 Mio. €",Eintracht Frankfurt,2023
+Jessic Ngankam,ST,23,"1,50 Mio. €",Eintracht Frankfurt,2023
+Lucas Alario,ST,31,"1,50 Mio. €",Eintracht Frankfurt,2023
+Noel Futkeu,ST,21,400 Tsd. €,Eintracht Frankfurt,2023
+Kevin Trapp,GK,34,"3,00 Mio. €",Eintracht Frankfurt,2024
+Kauã Santos,GK,22,"2,50 Mio. €",Eintracht Frankfurt,2024
+Jens Grahl,GK,36,200 Tsd. €,Eintracht Frankfurt,2024
+Arthur Theate,CB,24,"24,00 Mio. €",Eintracht Frankfurt,2024
+Robin Koch,CB,28,"18,00 Mio. €",Eintracht Frankfurt,2024
+Tuta,CB,25,"15,00 Mio. €",Eintracht Frankfurt,2024
+Nnamdi Collins,CB,21,"10,00 Mio. €",Eintracht Frankfurt,2024
+Aurèle Amenda,CB,21,"7,50 Mio. €",Eintracht Frankfurt,2024
+Nathaniel Brown,LB,21,"15,00 Mio. €",Eintracht Frankfurt,2024
+Niels Nkounkou,LB,24,"5,00 Mio. €",Eintracht Frankfurt,2024
+Rasmus Kristensen,RB,27,"10,00 Mio. €",Eintracht Frankfurt,2024
+Timothy Chandler,RB,35,350 Tsd. €,Eintracht Frankfurt,2024
+Ellyes Skhiri,CDM,30,"9,00 Mio. €",Eintracht Frankfurt,2024
+Hugo Larsson,CM,20,"40,00 Mio. €",Eintracht Frankfurt,2024
+Oscar Højlund,CM,20,"7,50 Mio. €",Eintracht Frankfurt,2024
+Mahmoud Dahoud,CM,29,"5,00 Mio. €",Eintracht Frankfurt,2024
+Junior Dina Ebimbe,RM,24,"7,00 Mio. €",Eintracht Frankfurt,2024
+Can Uzun,CAM,19,"18,00 Mio. €",Eintracht Frankfurt,2024
+Farès Chaïbi,CAM,22,"9,00 Mio. €",Eintracht Frankfurt,2024
+Mario Götze,CAM,32,"5,00 Mio. €",Eintracht Frankfurt,2024
+Krisztián Lisztes,CAM,20,"2,00 Mio. €",Eintracht Frankfurt,2024
+Jean-Mattéo Bahoya,LW,20,"9,00 Mio. €",Eintracht Frankfurt,2024
+Ansgar Knauff,RW,23,"10,00 Mio. €",Eintracht Frankfurt,2024
+Hugo Ekitiké,ST,22,"55,00 Mio. €",Eintracht Frankfurt,2024
+Elye Wahi,ST,22,"25,00 Mio. €",Eintracht Frankfurt,2024
+Igor Matanovic,ST,22,"6,00 Mio. €",Eintracht Frankfurt,2024
+Michy Batshuayi,ST,31,"5,00 Mio. €",Eintracht Frankfurt,2024
