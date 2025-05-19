@@ -1,0 +1,427 @@
+date,time,home_team,away_team,participants,home_score,away_score,match_link,season,competition
+26.07.2014,14:00,Hallescher FC,Chemnitzer FC,8.794,0,3,/spielbericht/index/spielbericht/2462899,2014,3. Liga
+02.08.2014,14:00,Arm. Bielefeld,Hallescher FC,12.628,1,5,/spielbericht/index/spielbericht/2462906,2014,3. Liga
+06.08.2014,19:00,Hallescher FC,Fortuna Köln,8.568,0,2,/spielbericht/index/spielbericht/2462923,2014,3. Liga
+09.08.2014,14:00,MSV Duisburg,Hallescher FC,11.095,1,1,/spielbericht/index/spielbericht/2462928,2014,3. Liga
+23.08.2014,14:00,Hallescher FC,Stuttg. Kickers,5.390,1,2,/spielbericht/index/spielbericht/2462943,2014,3. Liga
+27.08.2014,19:00,Unterhaching,Hallescher FC,2.600,0,4,/spielbericht/index/spielbericht/2462950,2014,3. Liga
+30.08.2014,14:00,Hallescher FC,B. Dortmund II,6.314,0,0,/spielbericht/index/spielbericht/2462963,2014,3. Liga
+06.09.2014,14:00,Hansa Rostock,Hallescher FC,9.500,0,1,/spielbericht/index/spielbericht/2462972,2014,3. Liga
+13.09.2014,14:00,Hallescher FC,Stuttgart II,5.372,0,2,/spielbericht/index/spielbericht/2462983,2014,3. Liga
+20.09.2014,14:00,Energie Cottbus,Hallescher FC,8.013,1,2,/spielbericht/index/spielbericht/2462993,2014,3. Liga
+24.09.2014,19:00,Hallescher FC,Dynamo Dresden,12.466,1,1,/spielbericht/index/spielbericht/2463003,2014,3. Liga
+28.09.2014,14:00,Pr. Münster,Hallescher FC,7.553,2,0,/spielbericht/index/spielbericht/2463006,2014,3. Liga
+05.10.2014,14:00,Hallescher FC,Rot-Weiß Erfurt,8.336,1,2,/spielbericht/index/spielbericht/2463023,2014,3. Liga
+18.10.2014,14:00,Holstein Kiel,Hallescher FC,4.611,3,0,/spielbericht/index/spielbericht/2463028,2014,3. Liga
+25.10.2014,14:00,Hallescher FC,Wehen Wiesbaden,5.483,3,1,/spielbericht/index/spielbericht/2463043,2014,3. Liga
+02.11.2014,14:00,J. Regensburg,Hallescher FC,3.772,1,1,/spielbericht/index/spielbericht/2463050,2014,3. Liga
+08.11.2014,14:00,Hallescher FC,Sonnenhof-Gr.,6.033,0,2,/spielbericht/index/spielbericht/2463063,2014,3. Liga
+23.11.2014,14:00,FSV Mainz 05 II,Hallescher FC,1.003,0,1,/spielbericht/index/spielbericht/2463072,2014,3. Liga
+29.11.2014,14:00,Hallescher FC,VfL Osnabrück,5.328,2,1,/spielbericht/index/spielbericht/2463083,2014,3. Liga
+06.12.2014,14:00,Chemnitzer FC,Hallescher FC,5.603,0,2,/spielbericht/index/spielbericht/2463086,2014,3. Liga
+13.12.2014,14:00,Hallescher FC,Arm. Bielefeld,6.623,0,3,/spielbericht/index/spielbericht/2463096,2014,3. Liga
+20.12.2014,14:00,Fortuna Köln,Hallescher FC,1.821,2,2,/spielbericht/index/spielbericht/2463113,2014,3. Liga
+31.01.2015,14:00,Hallescher FC,MSV Duisburg,6.286,1,2,/spielbericht/index/spielbericht/2463118,2014,3. Liga
+10.03.2015,19:00,Stuttg. Kickers,Hallescher FC,5.220,1,1,/spielbericht/index/spielbericht/2463133,2014,3. Liga
+14.02.2015,14:00,Hallescher FC,Unterhaching,5.208,2,1,/spielbericht/index/spielbericht/2463140,2014,3. Liga
+20.02.2015,19:00,B. Dortmund II,Hallescher FC,634,1,1,/spielbericht/index/spielbericht/2463153,2014,3. Liga
+28.02.2015,14:05,Hallescher FC,Hansa Rostock,11.324,1,2,/spielbericht/index/spielbericht/2463162,2014,3. Liga
+07.03.2015,14:00,Stuttgart II,Hallescher FC,850,0,1,/spielbericht/index/spielbericht/2463173,2014,3. Liga
+14.03.2015,14:00,Hallescher FC,Energie Cottbus,8.026,3,1,/spielbericht/index/spielbericht/2463183,2014,3. Liga
+21.03.2015,14:05,Dynamo Dresden,Hallescher FC,25.391,2,3,/spielbericht/index/spielbericht/2463193,2014,3. Liga
+04.04.2015,14:00,Hallescher FC,Pr. Münster,7.498,3,0,/spielbericht/index/spielbericht/2463196,2014,3. Liga
+11.04.2015,14:00,Rot-Weiß Erfurt,Hallescher FC,5.848,1,2,/spielbericht/index/spielbericht/2463213,2014,3. Liga
+19.04.2015,14:00,Hallescher FC,Holstein Kiel,8.283,2,2,/spielbericht/index/spielbericht/2463218,2014,3. Liga
+25.04.2015,14:00,Wehen Wiesbaden,Hallescher FC,2.280,3,0,/spielbericht/index/spielbericht/2463233,2014,3. Liga
+02.05.2015,14:00,Hallescher FC,J. Regensburg,6.054,2,1,/spielbericht/index/spielbericht/2463240,2014,3. Liga
+10.05.2015,14:00,Sonnenhof-Gr.,Hallescher FC,1.500,2,1,/spielbericht/index/spielbericht/2463253,2014,3. Liga
+16.05.2015,13:30,Hallescher FC,FSV Mainz 05 II,6.217,1,2,/spielbericht/index/spielbericht/2463262,2014,3. Liga
+23.05.2015,13:30,VfL Osnabrück,Hallescher FC,7.500,2,0,/spielbericht/index/spielbericht/2463273,2014,3. Liga
+26.07.2015,14:00,Energie Cottbus,Hallescher FC,9.306,2,0,/spielbericht/index/spielbericht/2584699,2015,3. Liga
+02.08.2015,14:00,Hallescher FC,Holstein Kiel,7.204,0,2,/spielbericht/index/spielbericht/2584928,2015,3. Liga
+16.08.2015,14:00,1.FC Magdeburg,Hallescher FC,20.912,2,1,/spielbericht/index/spielbericht/2584938,2015,3. Liga
+22.08.2015,14:00,Hallescher FC,Wehen Wiesbaden,5.008,3,0,/spielbericht/index/spielbericht/2584948,2015,3. Liga
+26.08.2015,20:30,Dynamo Dresden,Hallescher FC,27.135,3,2,/spielbericht/index/spielbericht/2584956,2015,3. Liga
+29.08.2015,14:00,Hallescher FC,Pr. Münster,5.214,1,3,/spielbericht/index/spielbericht/2584968,2015,3. Liga
+15.09.2015,18:30,Sonnenhof-Gr.,Hallescher FC,1.200,0,0,/spielbericht/index/spielbericht/2584983,2015,3. Liga
+12.09.2015,14:00,Hallescher FC,Stuttgart II,5.637,3,0,/spielbericht/index/spielbericht/2584988,2015,3. Liga
+19.09.2015,14:00,Würzb. Kickers,Hallescher FC,3.950,0,1,/spielbericht/index/spielbericht/2585001,2015,3. Liga
+22.09.2015,19:00,Hallescher FC,Rot-Weiß Erfurt,8.022,2,1,/spielbericht/index/spielbericht/2585008,2015,3. Liga
+25.09.2015,19:00,FSV Mainz 05 II,Hallescher FC,1.087,2,0,/spielbericht/index/spielbericht/2585019,2015,3. Liga
+03.10.2015,14:00,Hallescher FC,Erzgebirge Aue,9.030,1,0,/spielbericht/index/spielbericht/2585028,2015,3. Liga
+17.10.2015,14:00,Hallescher FC,W. Bremen II,6.043,6,2,/spielbericht/index/spielbericht/2585038,2015,3. Liga
+25.10.2015,15:00,Chemnitzer FC,Hallescher FC,8.225,3,1,/spielbericht/index/spielbericht/2585046,2015,3. Liga
+31.10.2015,14:00,Hallescher FC,Fortuna Köln,6.133,1,1,/spielbericht/index/spielbericht/2585058,2015,3. Liga
+06.11.2015,19:00,VfL Osnabrück,Hallescher FC,9.641,2,0,/spielbericht/index/spielbericht/2585074,2015,3. Liga
+21.11.2015,14:00,Hallescher FC,Stuttg. Kickers,5.012,1,1,/spielbericht/index/spielbericht/2585078,2015,3. Liga
+28.11.2015,14:00,VfR Aalen,Hallescher FC,5.077,0,0,/spielbericht/index/spielbericht/2585092,2015,3. Liga
+05.12.2015,14:00,Hallescher FC,Hansa Rostock,10.572,2,0,/spielbericht/index/spielbericht/2585098,2015,3. Liga
+13.12.2015,14:00,Hallescher FC,Energie Cottbus,6.358,1,1,/spielbericht/index/spielbericht/2585109,2015,3. Liga
+18.12.2015,19:00,Holstein Kiel,Hallescher FC,5.424,0,4,/spielbericht/index/spielbericht/2585118,2015,3. Liga
+24.01.2016,14:00,Hallescher FC,1.FC Magdeburg,12.503,1,2,/spielbericht/index/spielbericht/2585128,2015,3. Liga
+31.01.2016,14:00,Wehen Wiesbaden,Hallescher FC,2.492,1,0,/spielbericht/index/spielbericht/2585138,2015,3. Liga
+07.02.2016,14:00,Hallescher FC,Dynamo Dresden,11.534,0,0,/spielbericht/index/spielbericht/2585146,2015,3. Liga
+13.02.2016,14:00,Pr. Münster,Hallescher FC,6.781,0,1,/spielbericht/index/spielbericht/2585158,2015,3. Liga
+20.02.2016,14:00,Hallescher FC,Sonnenhof-Gr.,5.295,4,1,/spielbericht/index/spielbericht/2585173,2015,3. Liga
+26.02.2016,19:00,Stuttgart II,Hallescher FC,735,1,1,/spielbericht/index/spielbericht/2585178,2015,3. Liga
+01.03.2016,19:00,Hallescher FC,Würzb. Kickers,6.043,1,3,/spielbericht/index/spielbericht/2585191,2015,3. Liga
+05.03.2016,14:00,Rot-Weiß Erfurt,Hallescher FC,5.959,1,1,/spielbericht/index/spielbericht/2585198,2015,3. Liga
+11.03.2016,19:00,Hallescher FC,FSV Mainz 05 II,5.575,1,1,/spielbericht/index/spielbericht/2585209,2015,3. Liga
+18.03.2016,17:30,Erzgebirge Aue,Hallescher FC,8.100,4,0,/spielbericht/index/spielbericht/2585218,2015,3. Liga
+02.04.2016,14:00,W. Bremen II,Hallescher FC,1.003,2,0,/spielbericht/index/spielbericht/2585228,2015,3. Liga
+10.04.2016,14:00,Hallescher FC,Chemnitzer FC,9.117,1,2,/spielbericht/index/spielbericht/2585236,2015,3. Liga
+17.04.2016,14:00,Fortuna Köln,Hallescher FC,2.082,0,2,/spielbericht/index/spielbericht/2585248,2015,3. Liga
+23.04.2016,14:00,Hallescher FC,VfL Osnabrück,7.885,1,0,/spielbericht/index/spielbericht/2585264,2015,3. Liga
+30.04.2016,14:00,Stuttg. Kickers,Hallescher FC,4.270,1,0,/spielbericht/index/spielbericht/2585268,2015,3. Liga
+07.05.2016,13:30,Hallescher FC,VfR Aalen,8.011,3,1,/spielbericht/index/spielbericht/2585282,2015,3. Liga
+14.05.2016,13:45,Hansa Rostock,Hallescher FC,19.400,3,1,/spielbericht/index/spielbericht/2585288,2015,3. Liga
+08.08.2015,15:30,Hallescher FC,E. Braunschweig,9.549,0,1,/spielbericht/index/spielbericht/2576665,2015,DFB-Pokal
+30.07.2016,14:00,Rot-Weiß Erfurt,Hallescher FC,8.168,0,3,/spielbericht/index/spielbericht/2709767,2016,3. Liga
+06.08.2016,14:00,Hallescher FC,Chemnitzer FC,8.716,1,1,/spielbericht/index/spielbericht/2709791,2016,3. Liga
+10.08.2016,19:00,J. Regensburg,Hallescher FC,6.823,2,0,/spielbericht/index/spielbericht/2709814,2016,3. Liga
+13.08.2016,14:00,Hallescher FC,Hansa Rostock,8.631,0,0,/spielbericht/index/spielbericht/2709821,2016,3. Liga
+27.08.2016,14:00,Sonnenhof-Gr.,Hallescher FC,1.100,3,0,/spielbericht/index/spielbericht/2709842,2016,3. Liga
+09.09.2016,18:30,Hallescher FC,Pr. Münster,6.818,2,1,/spielbericht/index/spielbericht/2709861,2016,3. Liga
+17.09.2016,14:00,Hallescher FC,FSV Frankfurt,5.798,1,1,/spielbericht/index/spielbericht/2709881,2016,3. Liga
+20.09.2016,18:30,VfR Aalen,Hallescher FC,3.338,1,1,/spielbericht/index/spielbericht/2709899,2016,3. Liga
+24.09.2016,14:00,Hallescher FC,SF Lotte,5.955,2,0,/spielbericht/index/spielbericht/2709911,2016,3. Liga
+01.10.2016,14:00,Fortuna Köln,Hallescher FC,1.674,1,1,/spielbericht/index/spielbericht/2709927,2016,3. Liga
+15.10.2016,14:00,Hallescher FC,FSV Zwickau,7.016,3,2,/spielbericht/index/spielbericht/2709941,2016,3. Liga
+22.10.2016,14:00,SC Paderborn,Hallescher FC,4.647,0,0,/spielbericht/index/spielbericht/2709955,2016,3. Liga
+29.10.2016,14:00,Hallescher FC,VfL Osnabrück,6.029,1,0,/spielbericht/index/spielbericht/2709981,2016,3. Liga
+05.11.2016,14:03,MSV Duisburg,Hallescher FC,12.568,0,0,/spielbericht/index/spielbericht/2709993,2016,3. Liga
+19.11.2016,14:00,Hallescher FC,FSV Mainz 05 II,6.087,2,0,/spielbericht/index/spielbericht/2710011,2016,3. Liga
+26.11.2016,14:00,1.FC Magdeburg,Hallescher FC,19.235,1,0,/spielbericht/index/spielbericht/2710021,2016,3. Liga
+03.12.2016,14:00,Hallescher FC,W. Bremen II,5.344,2,0,/spielbericht/index/spielbericht/2710041,2016,3. Liga
+10.12.2016,14:00,Wehen Wiesbaden,Hallescher FC,2.935,1,1,/spielbericht/index/spielbericht/2710059,2016,3. Liga
+17.12.2016,14:00,Hallescher FC,Holstein Kiel,8.103,0,0,/spielbericht/index/spielbericht/2710081,2016,3. Liga
+28.01.2017,14:00,Hallescher FC,Rot-Weiß Erfurt,7.711,1,0,/spielbericht/index/spielbericht/2710097,2016,3. Liga
+04.02.2017,14:04,Chemnitzer FC,Hallescher FC,8.283,1,1,/spielbericht/index/spielbericht/2710141,2016,3. Liga
+11.02.2017,14:00,Hallescher FC,J. Regensburg,5.683,1,1,/spielbericht/index/spielbericht/2710134,2016,3. Liga
+19.02.2017,14:05,Hansa Rostock,Hallescher FC,10.300,1,0,/spielbericht/index/spielbericht/2710121,2016,3. Liga
+25.02.2017,14:04,Hallescher FC,Sonnenhof-Gr.,5.526,0,1,/spielbericht/index/spielbericht/2710112,2016,3. Liga
+04.03.2017,14:00,Pr. Münster,Hallescher FC,6.110,1,1,/spielbericht/index/spielbericht/2710091,2016,3. Liga
+11.03.2017,14:00,FSV Frankfurt,Hallescher FC,3.071,0,1,/spielbericht/index/spielbericht/2710071,2016,3. Liga
+14.03.2017,19:00,Hallescher FC,VfR Aalen,5.920,1,4,/spielbericht/index/spielbericht/2710049,2016,3. Liga
+19.03.2017,14:00,SF Lotte,Hallescher FC,1.789,0,0,/spielbericht/index/spielbericht/2710031,2016,3. Liga
+25.03.2017,14:00,Hallescher FC,Fortuna Köln,6.129,0,0,/spielbericht/index/spielbericht/2709997,2016,3. Liga
+02.04.2017,14:05,FSV Zwickau,Hallescher FC,7.360,2,0,/spielbericht/index/spielbericht/2709971,2016,3. Liga
+05.04.2017,19:00,Hallescher FC,SC Paderborn,5.242,1,1,/spielbericht/index/spielbericht/2709945,2016,3. Liga
+08.04.2017,14:05,VfL Osnabrück,Hallescher FC,8.012,1,2,/spielbericht/index/spielbericht/2709921,2016,3. Liga
+15.04.2017,14:07,Hallescher FC,MSV Duisburg,6.381,1,1,/spielbericht/index/spielbericht/2709893,2016,3. Liga
+22.04.2017,14:00,FSV Mainz 05 II,Hallescher FC,698,3,2,/spielbericht/index/spielbericht/2709871,2016,3. Liga
+29.04.2017,14:00,Hallescher FC,1.FC Magdeburg,8.021,1,1,/spielbericht/index/spielbericht/2709851,2016,3. Liga
+05.05.2017,19:00,W. Bremen II,Hallescher FC,653,1,1,/spielbericht/index/spielbericht/2709831,2016,3. Liga
+13.05.2017,13:30,Hallescher FC,Wehen Wiesbaden,6.035,0,3,/spielbericht/index/spielbericht/2709799,2016,3. Liga
+20.05.2017,13:30,Holstein Kiel,Hallescher FC,9.243,3,0,/spielbericht/index/spielbericht/2709781,2016,3. Liga
+20.08.2016,15:30,Hallescher FC,1.FC K'lautern,10.021,4,3,/spielbericht/index/spielbericht/2699235,2016,DFB-Pokal
+25.10.2016,20:45,Hallescher FC,Hamburger SV,14.004,0,4,/spielbericht/index/spielbericht/2754874,2016,DFB-Pokal
+22.07.2017,14:00,Hallescher FC,SC Paderborn,6.507,4,4,/spielbericht/index/spielbericht/2877437,2017,3. Liga
+29.07.2017,14:00,VfR Aalen,Hallescher FC,3.866,2,1,/spielbericht/index/spielbericht/2877443,2017,3. Liga
+01.08.2017,19:00,Hallescher FC,Carl Zeiss Jena,10.019,0,2,/spielbericht/index/spielbericht/2877456,2017,3. Liga
+06.08.2017,14:00,VfL Osnabrück,Hallescher FC,6.765,3,3,/spielbericht/index/spielbericht/2877461,2017,3. Liga
+19.08.2017,14:00,Hallescher FC,Unterhaching,5.730,1,2,/spielbericht/index/spielbericht/2877476,2017,3. Liga
+26.08.2017,14:05,Karlsruher SC,Hallescher FC,9.850,1,1,/spielbericht/index/spielbericht/2877489,2017,3. Liga
+09.09.2017,14:00,Hallescher FC,Wehen Wiesbaden,5.115,2,1,/spielbericht/index/spielbericht/2877496,2017,3. Liga
+16.09.2017,14:00,Fortuna Köln,Hallescher FC,2.879,1,1,/spielbericht/index/spielbericht/2877507,2017,3. Liga
+19.09.2017,19:00,W. Bremen II,Hallescher FC,625,1,2,/spielbericht/index/spielbericht/2877511,2017,3. Liga
+23.09.2017,14:05,Hallescher FC,Chemnitzer FC,7.145,0,3,/spielbericht/index/spielbericht/2877526,2017,3. Liga
+29.09.2017,19:00,SF Lotte,Hallescher FC,1.695,2,1,/spielbericht/index/spielbericht/2877534,2017,3. Liga
+13.10.2017,19:00,Hallescher FC,Sonnenhof-Gr.,6.419,3,0,/spielbericht/index/spielbericht/2877546,2017,3. Liga
+21.10.2017,14:05,Rot-Weiß Erfurt,Hallescher FC,6.147,1,1,/spielbericht/index/spielbericht/2877552,2017,3. Liga
+28.10.2017,14:00,Hallescher FC,SV Meppen,5.533,2,0,/spielbericht/index/spielbericht/2877566,2017,3. Liga
+04.11.2017,14:00,Würzb. Kickers,Hallescher FC,5.104,1,0,/spielbericht/index/spielbericht/2877579,2017,3. Liga
+17.11.2017,19:00,Hallescher FC,Pr. Münster,6.067,3,0,/spielbericht/index/spielbericht/2877586,2017,3. Liga
+25.11.2017,14:05,1.FC Magdeburg,Hallescher FC,22.481,2,1,/spielbericht/index/spielbericht/2877597,2017,3. Liga
+01.12.2017,19:00,Hallescher FC,Hansa Rostock,10.067,0,2,/spielbericht/index/spielbericht/2877606,2017,3. Liga
+10.12.2017,14:00,FSV Zwickau,Hallescher FC,4.411,1,1,/spielbericht/index/spielbericht/2877615,2017,3. Liga
+15.12.2017,19:00,SC Paderborn,Hallescher FC,5.431,0,0,/spielbericht/index/spielbericht/2877627,2017,3. Liga
+20.01.2018,14:00,Hallescher FC,VfR Aalen,5.270,3,2,/spielbericht/index/spielbericht/2877637,2017,3. Liga
+28.01.2018,14:08,Carl Zeiss Jena,Hallescher FC,7.260,2,1,/spielbericht/index/spielbericht/2877646,2017,3. Liga
+03.02.2018,14:00,Hallescher FC,VfL Osnabrück,5.571,1,0,/spielbericht/index/spielbericht/2877651,2017,3. Liga
+11.02.2018,14:05,Unterhaching,Hallescher FC,2.000,1,1,/spielbericht/index/spielbericht/2877666,2017,3. Liga
+17.02.2018,14:00,Hallescher FC,Karlsruher SC,5.948,0,1,/spielbericht/index/spielbericht/2877679,2017,3. Liga
+24.02.2018,14:00,Wehen Wiesbaden,Hallescher FC,1.788,3,1,/spielbericht/index/spielbericht/2877686,2017,3. Liga
+04.03.2018,14:00,Hallescher FC,Fortuna Köln,4.668,0,3,/spielbericht/index/spielbericht/2877697,2017,3. Liga
+07.03.2018,19:00,Hallescher FC,W. Bremen II,4.733,1,0,/spielbericht/index/spielbericht/2877701,2017,3. Liga
+11.03.2018,14:00,Chemnitzer FC,Hallescher FC,7.719,1,1,/spielbericht/index/spielbericht/2877716,2017,3. Liga
+16.03.2018,19:00,Hallescher FC,SF Lotte,4.307,1,0,/spielbericht/index/spielbericht/2877724,2017,3. Liga
+24.03.2018,14:00,Sonnenhof-Gr.,Hallescher FC,1.500,0,3,/spielbericht/index/spielbericht/2877736,2017,3. Liga
+01.04.2018,14:00,Hallescher FC,Rot-Weiß Erfurt,5.725,3,0,/spielbericht/index/spielbericht/2877742,2017,3. Liga
+08.04.2018,14:00,SV Meppen,Hallescher FC,5.590,2,2,/spielbericht/index/spielbericht/2877756,2017,3. Liga
+14.04.2018,14:00,Hallescher FC,Würzb. Kickers,4.455,1,3,/spielbericht/index/spielbericht/2877769,2017,3. Liga
+22.04.2018,14:00,Pr. Münster,Hallescher FC,5.786,1,2,/spielbericht/index/spielbericht/2877776,2017,3. Liga
+28.04.2018,14:00,Hallescher FC,1.FC Magdeburg,6.321,0,2,/spielbericht/index/spielbericht/2877787,2017,3. Liga
+05.05.2018,13:30,Hansa Rostock,Hallescher FC,17.100,4,2,/spielbericht/index/spielbericht/2877796,2017,3. Liga
+12.05.2018,13:30,Hallescher FC,FSV Zwickau,6.452,2,0,/spielbericht/index/spielbericht/2877805,2017,3. Liga
+28.07.2018,14:00,FSV Zwickau,Hallescher FC,7.125,2,0,/spielbericht/index/spielbericht/3066539,2018,3. Liga
+04.08.2018,14:00,Hallescher FC,Fortuna Köln,6.227,1,2,/spielbericht/index/spielbericht/3066549,2018,3. Liga
+07.08.2018,19:00,Carl Zeiss Jena,Hallescher FC,8.024,0,3,/spielbericht/index/spielbericht/3066565,2018,3. Liga
+11.08.2018,14:00,Hallescher FC,1.FC K'lautern,8.133,2,0,/spielbericht/index/spielbericht/3066569,2018,3. Liga
+26.08.2018,13:00,SF Lotte,Hallescher FC,1.706,0,1,/spielbericht/index/spielbericht/3066584,2018,3. Liga
+01.09.2018,14:00,Hallescher FC,VfL Osnabrück,8.000,1,1,/spielbericht/index/spielbericht/3066597,2018,3. Liga
+15.09.2018,14:00,KFC Uerdingen,Hallescher FC,3.500,2,1,/spielbericht/index/spielbericht/3066609,2018,3. Liga
+23.09.2018,14:00,Hallescher FC,VfR Aalen,7.012,1,0,/spielbericht/index/spielbericht/3066617,2018,3. Liga
+10.10.2018,19:00,Energie Cottbus,Hallescher FC,7.817,1,2,/spielbericht/index/spielbericht/3066636,2018,3. Liga
+16.10.2018,19:00,Hallescher FC,Hansa Rostock,10.781,0,1,/spielbericht/index/spielbericht/3066644,2018,3. Liga
+07.10.2018,14:00,Wehen Wiesbaden,Hallescher FC,2.129,2,0,/spielbericht/index/spielbericht/3066661,2018,3. Liga
+20.10.2018,14:00,Hallescher FC,Unterhaching,7.500,1,1,/spielbericht/index/spielbericht/3066671,2018,3. Liga
+27.10.2018,14:00,Würzb. Kickers,Hallescher FC,4.734,1,2,/spielbericht/index/spielbericht/3066686,2018,3. Liga
+04.11.2018,13:00,Hallescher FC,SV Meppen,6.379,2,1,/spielbericht/index/spielbericht/3066698,2018,3. Liga
+10.11.2018,14:00,1860 München,Hallescher FC,15.000,1,1,/spielbericht/index/spielbericht/3066711,2018,3. Liga
+24.11.2018,14:00,Hallescher FC,Sonnenhof-Gr.,5.427,2,0,/spielbericht/index/spielbericht/3066718,2018,3. Liga
+01.12.2018,14:00,Pr. Münster,Hallescher FC,5.934,1,2,/spielbericht/index/spielbericht/3066736,2018,3. Liga
+08.12.2018,14:00,E. Braunschweig,Hallescher FC,16.750,0,1,/spielbericht/index/spielbericht/3066745,2018,3. Liga
+15.12.2018,14:00,Hallescher FC,Karlsruher SC,8.003,0,3,/spielbericht/index/spielbericht/3066762,2018,3. Liga
+22.12.2018,14:00,Hallescher FC,FSV Zwickau,7.510,2,0,/spielbericht/index/spielbericht/3066780,2018,3. Liga
+26.01.2019,14:00,Fortuna Köln,Hallescher FC,2.500,0,1,/spielbericht/index/spielbericht/3066789,2018,3. Liga
+02.02.2019,14:00,Hallescher FC,Carl Zeiss Jena,8.621,0,0,/spielbericht/index/spielbericht/3066821,2018,3. Liga
+09.02.2019,14:00,1.FC K'lautern,Hallescher FC,19.857,0,0,/spielbericht/index/spielbericht/3066834,2018,3. Liga
+16.02.2019,14:00,Hallescher FC,SF Lotte,6.037,0,0,/spielbericht/index/spielbericht/3066864,2018,3. Liga
+23.02.2019,14:00,VfL Osnabrück,Hallescher FC,10.134,2,0,/spielbericht/index/spielbericht/3066870,2018,3. Liga
+01.03.2019,19:00,Hallescher FC,KFC Uerdingen,7.922,4,0,/spielbericht/index/spielbericht/3066959,2018,3. Liga
+10.03.2019,14:00,VfR Aalen,Hallescher FC,3.015,0,1,/spielbericht/index/spielbericht/3066976,2018,3. Liga
+13.03.2019,19:00,Hallescher FC,Energie Cottbus,8.304,2,3,/spielbericht/index/spielbericht/3067004,2018,3. Liga
+18.03.2019,19:00,Hansa Rostock,Hallescher FC,12.005,1,1,/spielbericht/index/spielbericht/3067005,2018,3. Liga
+23.03.2019,14:00,Hallescher FC,Wehen Wiesbaden,8.017,1,4,/spielbericht/index/spielbericht/3067022,2018,3. Liga
+30.03.2019,14:00,Unterhaching,Hallescher FC,2.000,0,0,/spielbericht/index/spielbericht/3067034,2018,3. Liga
+06.04.2019,14:00,Hallescher FC,Würzb. Kickers,6.533,1,0,/spielbericht/index/spielbericht/3067049,2018,3. Liga
+12.04.2019,19:00,SV Meppen,Hallescher FC,7.676,0,2,/spielbericht/index/spielbericht/3067054,2018,3. Liga
+20.04.2019,14:00,Hallescher FC,1860 München,10.890,3,0,/spielbericht/index/spielbericht/3067067,2018,3. Liga
+26.04.2019,19:00,Sonnenhof-Gr.,Hallescher FC,2.214,1,1,/spielbericht/index/spielbericht/3067074,2018,3. Liga
+04.05.2019,14:00,Hallescher FC,Pr. Münster,7.469,1,2,/spielbericht/index/spielbericht/3067085,2018,3. Liga
+11.05.2019,13:30,Hallescher FC,E. Braunschweig,10.034,1,0,/spielbericht/index/spielbericht/3067094,2018,3. Liga
+18.05.2019,13:30,Karlsruher SC,Hallescher FC,15.232,2,3,/spielbericht/index/spielbericht/3067104,2018,3. Liga
+21.07.2019,14:00,KFC Uerdingen,Hallescher FC,3.300,1,0,/spielbericht/index/spielbericht/3207394,2019,3. Liga
+27.07.2019,14:00,Hallescher FC,Hansa Rostock,9.430,1,0,/spielbericht/index/spielbericht/3208211,2019,3. Liga
+31.07.2019,19:00,Viktoria Köln,Hallescher FC,3.100,0,2,/spielbericht/index/spielbericht/3208222,2019,3. Liga
+03.08.2019,14:00,Hallescher FC,Chemnitzer FC,7.812,3,1,/spielbericht/index/spielbericht/3208231,2019,3. Liga
+19.08.2019,19:00,Hallescher FC,B. München II,10.056,1,2,/spielbericht/index/spielbericht/3208241,2019,3. Liga
+25.08.2019,14:00,Unterhaching,Hallescher FC,5.000,0,3,/spielbericht/index/spielbericht/3208249,2019,3. Liga
+31.08.2019,14:00,Hallescher FC,Sonnenhof-Gr.,6.821,4,0,/spielbericht/index/spielbericht/3208261,2019,3. Liga
+15.09.2019,13:00,FC Ingolstadt,Hallescher FC,7.059,2,3,/spielbericht/index/spielbericht/3208267,2019,3. Liga
+21.09.2019,14:00,Hallescher FC,Pr. Münster,9.021,2,2,/spielbericht/index/spielbericht/3208281,2019,3. Liga
+28.09.2019,14:00,E. Braunschweig,Hallescher FC,19.250,1,1,/spielbericht/index/spielbericht/3208285,2019,3. Liga
+05.10.2019,14:00,Hallescher FC,FSV Zwickau,8.570,1,1,/spielbericht/index/spielbericht/3208301,2019,3. Liga
+19.10.2019,14:00,W. Mannheim,Hallescher FC,9.959,0,4,/spielbericht/index/spielbericht/3208313,2019,3. Liga
+26.10.2019,14:00,Hallescher FC,SV Meppen,8.323,3,3,/spielbericht/index/spielbericht/3208321,2019,3. Liga
+02.11.2019,14:00,1.FC Magdeburg,Hallescher FC,17.449,1,0,/spielbericht/index/spielbericht/3208331,2019,3. Liga
+09.11.2019,14:00,Hallescher FC,1860 München,8.624,0,1,/spielbericht/index/spielbericht/3208341,2019,3. Liga
+22.11.2019,19:00,Carl Zeiss Jena,Hallescher FC,8.212,0,3,/spielbericht/index/spielbericht/3208349,2019,3. Liga
+30.11.2019,14:00,Hallescher FC,MSV Duisburg,7.508,1,0,/spielbericht/index/spielbericht/3208361,2019,3. Liga
+07.12.2019,14:00,1.FC K'lautern,Hallescher FC,19.060,1,0,/spielbericht/index/spielbericht/3208367,2019,3. Liga
+14.12.2019,14:00,Hallescher FC,Würzb. Kickers,6.507,2,5,/spielbericht/index/spielbericht/3208381,2019,3. Liga
+22.12.2019,13:00,Hallescher FC,KFC Uerdingen,7.803,1,1,/spielbericht/index/spielbericht/3208392,2019,3. Liga
+24.01.2020,19:00,Hansa Rostock,Hallescher FC,16.744,1,0,/spielbericht/index/spielbericht/3208401,2019,3. Liga
+31.01.2020,19:00,Hallescher FC,Viktoria Köln,7.608,3,4,/spielbericht/index/spielbericht/3208412,2019,3. Liga
+09.02.2020,14:00,Chemnitzer FC,Hallescher FC,6.910,3,0,/spielbericht/index/spielbericht/3208421,2019,3. Liga
+17.02.2020,19:00,B. München II,Hallescher FC,1.491,6,1,/spielbericht/index/spielbericht/3208431,2019,3. Liga
+23.02.2020,14:00,Hallescher FC,Unterhaching,6.107,3,5,/spielbericht/index/spielbericht/3208439,2019,3. Liga
+29.02.2020,14:00,Sonnenhof-Gr.,Hallescher FC,1.581,1,0,/spielbericht/index/spielbericht/3208451,2019,3. Liga
+08.03.2020,14:00,Hallescher FC,FC Ingolstadt,6.238,1,1,/spielbericht/index/spielbericht/3208457,2019,3. Liga
+31.05.2020,14:00,Pr. Münster,Hallescher FC,x,4,2,/spielbericht/index/spielbericht/3208471,2019,3. Liga
+03.06.2020,19:00,Hallescher FC,E. Braunschweig,x,0,1,/spielbericht/index/spielbericht/3208475,2019,3. Liga
+06.06.2020,14:00,FSV Zwickau,Hallescher FC,x,5,1,/spielbericht/index/spielbericht/3208491,2019,3. Liga
+09.06.2020,20:30,Hallescher FC,W. Mannheim,x,3,0,/spielbericht/index/spielbericht/3208503,2019,3. Liga
+12.06.2020,19:00,SV Meppen,Hallescher FC,x,2,3,/spielbericht/index/spielbericht/3208511,2019,3. Liga
+16.06.2020,20:30,Hallescher FC,1.FC Magdeburg,x,1,1,/spielbericht/index/spielbericht/3208521,2019,3. Liga
+21.06.2020,14:00,1860 München,Hallescher FC,x,2,1,/spielbericht/index/spielbericht/3208531,2019,3. Liga
+24.06.2020,20:30,Hallescher FC,Carl Zeiss Jena,x,5,3,/spielbericht/index/spielbericht/3208539,2019,3. Liga
+27.06.2020,14:00,MSV Duisburg,Hallescher FC,x,2,2,/spielbericht/index/spielbericht/3208551,2019,3. Liga
+01.07.2020,19:00,Hallescher FC,1.FC K'lautern,x,1,1,/spielbericht/index/spielbericht/3208557,2019,3. Liga
+04.07.2020,14:00,Würzb. Kickers,Hallescher FC,x,2,2,/spielbericht/index/spielbericht/3208571,2019,3. Liga
+12.08.2019,18:30,Hallescher FC,VfL Wolfsburg,13.500,3,5,/spielbericht/index/spielbericht/3195524,2019,DFB-Pokal
+20.09.2020,14:00,1.FC Magdeburg,Hallescher FC,5.200,0,2,/spielbericht/index/spielbericht/3421867,2020,3. Liga
+26.09.2020,14:00,Hallescher FC,FC Ingolstadt,2.428,0,2,/spielbericht/index/spielbericht/3421881,2020,3. Liga
+04.10.2020,14:00,Saarbrücken,Hallescher FC,900,4,0,/spielbericht/index/spielbericht/3421889,2020,3. Liga
+12.10.2020,19:00,Hallescher FC,FSV Zwickau,3.358,0,2,/spielbericht/index/spielbericht/3421897,2020,3. Liga
+17.11.2020,19:00,MSV Duisburg,Hallescher FC,x,0,0,/spielbericht/index/spielbericht/3421906,2020,3. Liga
+21.10.2020,19:00,Hallescher FC,SV Meppen,999,4,1,/spielbericht/index/spielbericht/3421915,2020,3. Liga
+24.10.2020,14:00,VfB Lübeck,Hallescher FC,1.860,2,3,/spielbericht/index/spielbericht/3421929,2020,3. Liga
+01.12.2020,19:00,Hallescher FC,Unterhaching,x,2,0,/spielbericht/index/spielbericht/3421939,2020,3. Liga
+07.11.2020,14:00,1860 München,Hallescher FC,x,6,1,/spielbericht/index/spielbericht/3421950,2020,3. Liga
+14.11.2020,14:00,Hallescher FC,Hansa Rostock,x,1,1,/spielbericht/index/spielbericht/3421956,2020,3. Liga
+21.11.2020,14:00,Hallescher FC,1.FC K'lautern,x,1,1,/spielbericht/index/spielbericht/3421968,2020,3. Liga
+24.11.2020,19:00,KFC Uerdingen,Hallescher FC,x,0,1,/spielbericht/index/spielbericht/3421976,2020,3. Liga
+28.11.2020,14:00,Hallescher FC,Viktoria Köln,x,2,0,/spielbericht/index/spielbericht/3421986,2020,3. Liga
+06.12.2020,14:00,SC Verl,Hallescher FC,x,4,2,/spielbericht/index/spielbericht/3421999,2020,3. Liga
+12.12.2020,14:00,Hallescher FC,Dynamo Dresden,x,1,3,/spielbericht/index/spielbericht/3422006,2020,3. Liga
+15.12.2020,19:00,Türkgücü Münch.,Hallescher FC,x,0,3,/spielbericht/index/spielbericht/3422027,2020,3. Liga
+20.01.2021,19:00,Hallescher FC,W. Mannheim,x,0,0,/spielbericht/index/spielbericht/3422035,2020,3. Liga
+09.01.2021,14:00,Wehen Wiesbaden,Hallescher FC,x,1,1,/spielbericht/index/spielbericht/3422044,2020,3. Liga
+16.01.2021,14:00,Hallescher FC,B. München II,x,0,4,/spielbericht/index/spielbericht/3506132,2020,3. Liga
+23.01.2021,14:00,Hallescher FC,1.FC Magdeburg,x,1,0,/spielbericht/index/spielbericht/3422067,2020,3. Liga
+27.01.2021,19:00,FC Ingolstadt,Hallescher FC,x,1,1,/spielbericht/index/spielbericht/3422073,2020,3. Liga
+01.02.2021,19:00,Hallescher FC,Saarbrücken,x,1,1,/spielbericht/index/spielbericht/3422091,2020,3. Liga
+06.02.2021,14:00,FSV Zwickau,Hallescher FC,x,2,2,/spielbericht/index/spielbericht/3422100,2020,3. Liga
+16.03.2021,19:00,Hallescher FC,MSV Duisburg,x,1,1,/spielbericht/index/spielbericht/3422110,2020,3. Liga
+19.02.2021,19:00,SV Meppen,Hallescher FC,x,2,1,/spielbericht/index/spielbericht/3422119,2020,3. Liga
+27.02.2021,14:00,Hallescher FC,VfB Lübeck,x,2,1,/spielbericht/index/spielbericht/3422128,2020,3. Liga
+07.03.2021,13:00,Unterhaching,Hallescher FC,x,3,0,/spielbericht/index/spielbericht/3422142,2020,3. Liga
+13.03.2021,14:00,Hallescher FC,1860 München,x,0,4,/spielbericht/index/spielbericht/3422156,2020,3. Liga
+20.03.2021,14:00,Hansa Rostock,Hallescher FC,702,1,0,/spielbericht/index/spielbericht/3422168,2020,3. Liga
+03.04.2021,14:00,1.FC K'lautern,Hallescher FC,x,3,1,/spielbericht/index/spielbericht/3422180,2020,3. Liga
+09.04.2021,19:00,Hallescher FC,KFC Uerdingen,x,2,1,/spielbericht/index/spielbericht/3422193,2020,3. Liga
+17.04.2021,14:00,Viktoria Köln,Hallescher FC,x,2,0,/spielbericht/index/spielbericht/3422207,2020,3. Liga
+20.04.2021,19:00,Hallescher FC,SC Verl,x,1,1,/spielbericht/index/spielbericht/3422216,2020,3. Liga
+24.04.2021,14:00,Dynamo Dresden,Hallescher FC,x,0,3,/spielbericht/index/spielbericht/3422225,2020,3. Liga
+04.05.2021,19:00,Hallescher FC,Türkgücü Münch.,x,4,1,/spielbericht/index/spielbericht/3422236,2020,3. Liga
+10.05.2021,19:00,W. Mannheim,Hallescher FC,x,3,2,/spielbericht/index/spielbericht/3422246,2020,3. Liga
+16.05.2021,13:00,Hallescher FC,Wehen Wiesbaden,x,4,0,/spielbericht/index/spielbericht/3422257,2020,3. Liga
+22.05.2021,13:30,B. München II,Hallescher FC,250,0,1,/spielbericht/index/spielbericht/3422264,2020,3. Liga
+24.07.2021,14:00,Hallescher FC,SV Meppen,5.037,3,1,/spielbericht/index/spielbericht/3594099,2021,3. Liga
+01.08.2021,13:00,Türkgücü Münch.,Hallescher FC,688,,,/spielbericht/index/spielbericht/3594164,2021,3. Liga
+16.08.2021,19:00,Hallescher FC,E. Braunschweig,7.292,0,2,/spielbericht/index/spielbericht/3594182,2021,3. Liga
+20.08.2021,19:00,Viktoria Berlin,Hallescher FC,2.512,0,1,/spielbericht/index/spielbericht/3594170,2021,3. Liga
+24.08.2021,19:00,Hallescher FC,1.FC K'lautern,6.060,1,0,/spielbericht/index/spielbericht/3594155,2021,3. Liga
+27.08.2021,19:00,Hallescher FC,SC Verl,4.997,4,4,/spielbericht/index/spielbericht/3594203,2021,3. Liga
+15.09.2021,19:00,FSV Zwickau,Hallescher FC,4.210,2,2,/spielbericht/index/spielbericht/3594252,2021,3. Liga
+12.09.2021,13:00,Hallescher FC,1860 München,6.466,1,1,/spielbericht/index/spielbericht/3594193,2021,3. Liga
+18.09.2021,14:00,W. Mannheim,Hallescher FC,7.563,2,1,/spielbericht/index/spielbericht/3594241,2021,3. Liga
+24.09.2021,19:00,Hallescher FC,1.FC Magdeburg,10.065,3,2,/spielbericht/index/spielbericht/3594135,2021,3. Liga
+02.10.2021,14:00,SC Freiburg II,Hallescher FC,1.277,1,1,/spielbericht/index/spielbericht/3594224,2021,3. Liga
+16.10.2021,14:00,Hallescher FC,Saarbrücken,5.634,2,3,/spielbericht/index/spielbericht/3594215,2021,3. Liga
+22.10.2021,19:00,VfL Osnabrück,Hallescher FC,9.814,0,0,/spielbericht/index/spielbericht/3594230,2021,3. Liga
+30.10.2021,14:00,Hallescher FC,MSV Duisburg,5.262,2,1,/spielbericht/index/spielbericht/3594444,2021,3. Liga
+06.11.2021,14:00,TSV Havelse,Hallescher FC,533,2,1,/spielbericht/index/spielbericht/3594342,2021,3. Liga
+20.11.2021,14:00,Hallescher FC,B. Dortmund II,6.247,1,2,/spielbericht/index/spielbericht/3594142,2021,3. Liga
+28.11.2021,14:00,Viktoria Köln,Hallescher FC,2.223,2,0,/spielbericht/index/spielbericht/3594428,2021,3. Liga
+04.12.2021,14:00,Hallescher FC,Würzb. Kickers,2.992,0,0,/spielbericht/index/spielbericht/3594314,2021,3. Liga
+13.12.2021,19:00,Wehen Wiesbaden,Hallescher FC,1.106,2,1,/spielbericht/index/spielbericht/3594277,2021,3. Liga
+18.12.2021,14:00,SV Meppen,Hallescher FC,5.000,4,1,/spielbericht/index/spielbericht/3594442,2021,3. Liga
+08.02.2022,19:00,Hallescher FC,Türkgücü Münch.,3.318,,,/spielbericht/index/spielbericht/3594328,2021,3. Liga
+22.01.2022,14:00,E. Braunschweig,Hallescher FC,500,1,0,/spielbericht/index/spielbericht/3594362,2021,3. Liga
+02.03.2022,19:00,Hallescher FC,Viktoria Berlin,4.503,4,1,/spielbericht/index/spielbericht/3594465,2021,3. Liga
+29.01.2022,14:00,1.FC K'lautern,Hallescher FC,1.000,1,0,/spielbericht/index/spielbericht/3594321,2021,3. Liga
+05.02.2022,14:00,SC Verl,Hallescher FC,424,0,0,/spielbericht/index/spielbericht/3594294,2021,3. Liga
+11.02.2022,19:00,Hallescher FC,FSV Zwickau,4.280,2,0,/spielbericht/index/spielbericht/3594437,2021,3. Liga
+21.02.2022,19:00,1860 München,Hallescher FC,6.100,0,2,/spielbericht/index/spielbericht/3594466,2021,3. Liga
+26.02.2022,14:00,Hallescher FC,W. Mannheim,4.000,1,2,/spielbericht/index/spielbericht/3594427,2021,3. Liga
+05.03.2022,14:00,1.FC Magdeburg,Hallescher FC,20.280,1,1,/spielbericht/index/spielbericht/3594357,2021,3. Liga
+06.04.2022,19:00,Hallescher FC,SC Freiburg II,4.693,1,0,/spielbericht/index/spielbericht/3594418,2021,3. Liga
+19.03.2022,14:00,Saarbrücken,Hallescher FC,7.092,2,1,/spielbericht/index/spielbericht/3594303,2021,3. Liga
+19.04.2022,19:00,Hallescher FC,VfL Osnabrück,5.175,3,3,/spielbericht/index/spielbericht/3594452,2021,3. Liga
+09.04.2022,14:00,MSV Duisburg,Hallescher FC,8.839,2,1,/spielbericht/index/spielbericht/3594279,2021,3. Liga
+16.04.2022,14:00,Hallescher FC,TSV Havelse,5.160,1,1,/spielbericht/index/spielbericht/3594451,2021,3. Liga
+23.04.2022,14:00,B. Dortmund II,Hallescher FC,3.465,0,0,/spielbericht/index/spielbericht/3594429,2021,3. Liga
+30.04.2022,14:00,Hallescher FC,Viktoria Köln,5.742,1,1,/spielbericht/index/spielbericht/3594415,2021,3. Liga
+08.05.2022,13:00,Würzb. Kickers,Hallescher FC,1.907,1,2,/spielbericht/index/spielbericht/3594459,2021,3. Liga
+14.05.2022,13:30,Hallescher FC,Wehen Wiesbaden,7.348,1,1,/spielbericht/index/spielbericht/3594261,2021,3. Liga
+24.07.2022,14:00,FSV Zwickau,Hallescher FC,6.795,3,2,/spielbericht/index/spielbericht/3845232,2022,3. Liga
+06.08.2022,14:00,Hallescher FC,Dynamo Dresden,11.804,0,2,/spielbericht/index/spielbericht/3845258,2022,3. Liga
+09.08.2022,19:00,SC Freiburg II,Hallescher FC,2.300,2,0,/spielbericht/index/spielbericht/3845280,2022,3. Liga
+12.08.2022,19:00,Hallescher FC,VfB Oldenburg,5.721,2,0,/spielbericht/index/spielbericht/3845304,2022,3. Liga
+19.08.2022,19:00,1860 München,Hallescher FC,15.000,3,1,/spielbericht/index/spielbericht/3845309,2022,3. Liga
+26.08.2022,19:00,Hallescher FC,SV Meppen,6.217,1,1,/spielbericht/index/spielbericht/3845334,2022,3. Liga
+03.09.2022,14:00,Hallescher FC,SC Verl,5.122,5,1,/spielbericht/index/spielbericht/3845352,2022,3. Liga
+10.09.2022,14:00,Viktoria Köln,Hallescher FC,2.342,2,2,/spielbericht/index/spielbericht/3845374,2022,3. Liga
+17.09.2022,14:00,Hallescher FC,SV Elversberg,5.612,1,3,/spielbericht/index/spielbericht/3845392,2022,3. Liga
+01.10.2022,14:00,MSV Duisburg,Hallescher FC,9.086,1,0,/spielbericht/index/spielbericht/3845400,2022,3. Liga
+10.10.2022,19:00,Hallescher FC,B. Dortmund II,6.712,0,0,/spielbericht/index/spielbericht/3845422,2022,3. Liga
+14.10.2022,19:00,Erzgebirge Aue,Hallescher FC,10.214,1,1,/spielbericht/index/spielbericht/3845445,2022,3. Liga
+24.10.2022,19:00,Hallescher FC,SpVgg Bayreuth,6.526,3,0,/spielbericht/index/spielbericht/3845453,2022,3. Liga
+31.10.2022,19:00,VfL Osnabrück,Hallescher FC,13.262,3,2,/spielbericht/index/spielbericht/3845468,2022,3. Liga
+05.11.2022,14:00,Hallescher FC,W. Mannheim,6.574,3,1,/spielbericht/index/spielbericht/3845493,2022,3. Liga
+08.11.2022,19:00,FC Ingolstadt,Hallescher FC,3.670,1,0,/spielbericht/index/spielbericht/3845510,2022,3. Liga
+12.11.2022,14:00,Hallescher FC,Saarbrücken,7.039,1,2,/spielbericht/index/spielbericht/3845534,2022,3. Liga
+14.01.2023,14:00,RW Essen,Hallescher FC,17.070,0,0,/spielbericht/index/spielbericht/3845551,2022,3. Liga
+22.01.2023,14:00,Hallescher FC,Wehen Wiesbaden,6.037,2,3,/spielbericht/index/spielbericht/3845575,2022,3. Liga
+28.01.2023,14:00,Hallescher FC,FSV Zwickau,7.997,0,2,/spielbericht/index/spielbericht/3845595,2022,3. Liga
+04.02.2023,14:00,Dynamo Dresden,Hallescher FC,25.386,7,1,/spielbericht/index/spielbericht/3845614,2022,3. Liga
+11.02.2023,14:00,Hallescher FC,SC Freiburg II,5.067,1,3,/spielbericht/index/spielbericht/3845605,2022,3. Liga
+20.02.2023,19:00,VfB Oldenburg,Hallescher FC,1.835,0,1,/spielbericht/index/spielbericht/3845580,2022,3. Liga
+24.02.2023,19:00,Hallescher FC,1860 München,8.582,0,0,/spielbericht/index/spielbericht/3845564,2022,3. Liga
+04.03.2023,14:00,SV Meppen,Hallescher FC,7.679,2,3,/spielbericht/index/spielbericht/3845542,2022,3. Liga
+10.03.2023,19:00,SC Verl,Hallescher FC,1.208,2,2,/spielbericht/index/spielbericht/3845525,2022,3. Liga
+14.03.2023,19:00,Hallescher FC,Viktoria Köln,5.724,2,2,/spielbericht/index/spielbericht/3845502,2022,3. Liga
+19.03.2023,13:00,SV Elversberg,Hallescher FC,5.278,1,1,/spielbericht/index/spielbericht/3845482,2022,3. Liga
+24.03.2023,19:00,Hallescher FC,MSV Duisburg,9.012,2,2,/spielbericht/index/spielbericht/3845462,2022,3. Liga
+01.04.2023,14:00,B. Dortmund II,Hallescher FC,1.259,0,0,/spielbericht/index/spielbericht/3845433,2022,3. Liga
+08.04.2023,14:00,Hallescher FC,Erzgebirge Aue,10.756,5,2,/spielbericht/index/spielbericht/3845413,2022,3. Liga
+15.04.2023,14:00,SpVgg Bayreuth,Hallescher FC,5.363,0,1,/spielbericht/index/spielbericht/3845386,2022,3. Liga
+21.04.2023,19:00,Hallescher FC,VfL Osnabrück,10.271,0,1,/spielbericht/index/spielbericht/3845363,2022,3. Liga
+28.04.2023,19:00,W. Mannheim,Hallescher FC,10.004,4,1,/spielbericht/index/spielbericht/3845341,2022,3. Liga
+06.05.2023,14:00,Hallescher FC,FC Ingolstadt,7.736,1,0,/spielbericht/index/spielbericht/3845323,2022,3. Liga
+13.05.2023,14:00,Saarbrücken,Hallescher FC,11.234,2,0,/spielbericht/index/spielbericht/3845294,2022,3. Liga
+20.05.2023,14:00,Hallescher FC,RW Essen,12.773,2,0,/spielbericht/index/spielbericht/3845269,2022,3. Liga
+27.05.2023,13:30,Wehen Wiesbaden,Hallescher FC,8.126,1,0,/spielbericht/index/spielbericht/3845241,2022,3. Liga
+04.08.2023,19:00,Hallescher FC,RW Essen,12.429,2,1,/spielbericht/index/spielbericht/4104691,2023,3. Liga
+19.08.2023,14:00,FC Ingolstadt,Hallescher FC,3.843,4,0,/spielbericht/index/spielbericht/4104697,2023,3. Liga
+22.08.2023,19:00,Hallescher FC,MSV Duisburg,6.869,1,1,/spielbericht/index/spielbericht/4104711,2023,3. Liga
+27.08.2023,16:30,W. Mannheim,Hallescher FC,7.907,3,2,/spielbericht/index/spielbericht/4104721,2023,3. Liga
+03.09.2023,13:30,Hallescher FC,SV Sandhausen,6.427,4,1,/spielbericht/index/spielbericht/4104728,2023,3. Liga
+17.09.2023,13:30,Erzgebirge Aue,Hallescher FC,13.654,3,1,/spielbericht/index/spielbericht/4104742,2023,3. Liga
+23.09.2023,16:30,Hallescher FC,1860 München,9.427,0,2,/spielbericht/index/spielbericht/4104745,2023,3. Liga
+30.09.2023,16:30,VfB Lübeck,Hallescher FC,6.012,2,2,/spielbericht/index/spielbericht/4104763,2023,3. Liga
+04.10.2023,19:00,Dynamo Dresden,Hallescher FC,29.159,2,1,/spielbericht/index/spielbericht/4104766,2023,3. Liga
+08.10.2023,16:30,Hallescher FC,Pr. Münster,7.374,1,4,/spielbericht/index/spielbericht/4104782,2023,3. Liga
+28.11.2023,19:00,SC Freiburg II,Hallescher FC,1.004,1,2,/spielbericht/index/spielbericht/4104792,2023,3. Liga
+21.10.2023,14:00,Hallescher FC,J. Regensburg,5.867,1,2,/spielbericht/index/spielbericht/4104801,2023,3. Liga
+28.10.2023,14:00,SSV Ulm 1846,Hallescher FC,7.966,2,3,/spielbericht/index/spielbericht/4104805,2023,3. Liga
+05.11.2023,19:30,Hallescher FC,Viktoria Köln,6.187,2,1,/spielbericht/index/spielbericht/4104824,2023,3. Liga
+11.11.2023,14:00,SC Verl,Hallescher FC,2.322,3,2,/spielbericht/index/spielbericht/4104830,2023,3. Liga
+25.11.2023,14:00,Hallescher FC,Saarbrücken,6.300,0,2,/spielbericht/index/spielbericht/4104843,2023,3. Liga
+07.02.2024,19:00,Unterhaching,Hallescher FC,2.750,2,0,/spielbericht/index/spielbericht/4104846,2023,3. Liga
+08.12.2023,19:00,Hallescher FC,Arm. Bielefeld,6.666,2,2,/spielbericht/index/spielbericht/4104855,2023,3. Liga
+16.12.2023,14:00,B. Dortmund II,Hallescher FC,1.440,2,1,/spielbericht/index/spielbericht/4104867,2023,3. Liga
+19.12.2023,19:00,RW Essen,Hallescher FC,14.887,3,2,/spielbericht/index/spielbericht/4104882,2023,3. Liga
+20.01.2024,14:00,Hallescher FC,FC Ingolstadt,5.673,3,1,/spielbericht/index/spielbericht/4104891,2023,3. Liga
+23.01.2024,19:00,MSV Duisburg,Hallescher FC,8.809,2,3,/spielbericht/index/spielbericht/4104904,2023,3. Liga
+26.01.2024,19:00,Hallescher FC,W. Mannheim,7.332,1,4,/spielbericht/index/spielbericht/4104914,2023,3. Liga
+03.02.2024,14:00,SV Sandhausen,Hallescher FC,3.335,1,1,/spielbericht/index/spielbericht/4104924,2023,3. Liga
+11.02.2024,13:30,Hallescher FC,Erzgebirge Aue,9.326,2,3,/spielbericht/index/spielbericht/4104933,2023,3. Liga
+18.02.2024,19:30,1860 München,Hallescher FC,15.000,1,0,/spielbericht/index/spielbericht/4104942,2023,3. Liga
+25.02.2024,13:30,Hallescher FC,VfB Lübeck,7.121,3,0,/spielbericht/index/spielbericht/4104946,2023,3. Liga
+02.03.2024,14:00,Hallescher FC,Dynamo Dresden,13.114,1,0,/spielbericht/index/spielbericht/4104955,2023,3. Liga
+09.03.2024,16:30,Pr. Münster,Hallescher FC,11.845,1,0,/spielbericht/index/spielbericht/4104965,2023,3. Liga
+16.03.2024,16:30,Hallescher FC,SC Freiburg II,7.309,2,2,/spielbericht/index/spielbericht/4104979,2023,3. Liga
+30.03.2024,14:00,J. Regensburg,Hallescher FC,9.375,2,0,/spielbericht/index/spielbericht/4104991,2023,3. Liga
+07.04.2024,19:30,Hallescher FC,SSV Ulm 1846,7.157,0,2,/spielbericht/index/spielbericht/4105001,2023,3. Liga
+13.04.2024,14:00,Viktoria Köln,Hallescher FC,4.882,4,2,/spielbericht/index/spielbericht/4105014,2023,3. Liga
+20.04.2024,14:00,Hallescher FC,SC Verl,6.213,1,0,/spielbericht/index/spielbericht/4105022,2023,3. Liga
+27.04.2024,14:00,Saarbrücken,Hallescher FC,11.751,0,1,/spielbericht/index/spielbericht/4105031,2023,3. Liga
+05.05.2024,16:30,Hallescher FC,Unterhaching,10.732,0,1,/spielbericht/index/spielbericht/4105037,2023,3. Liga
+11.05.2024,14:00,Arm. Bielefeld,Hallescher FC,25.194,0,0,/spielbericht/index/spielbericht/4105053,2023,3. Liga
+18.05.2024,13:30,Hallescher FC,B. Dortmund II,7.358,1,1,/spielbericht/index/spielbericht/4105063,2023,3. Liga
+12.08.2023,18:00,Hallescher FC,Greuther Fürth,11.251,0,1,/spielbericht/index/spielbericht/4088587,2023,DFB-Pokal
+25.07.2024,20:20,Chemnitzer FC,Hallescher FC,8.357,0,0,/spielbericht/index/spielbericht/4387187,2024,Regionalliga Nordost
+02.08.2024,19:00,Hallescher FC,VFC Plauen,6.702,1,1,/spielbericht/index/spielbericht/4387200,2024,Regionalliga Nordost
+11.08.2024,13:00,Rot-Weiß Erfurt,Hallescher FC,9.905,0,4,/spielbericht/index/spielbericht/4387206,2024,Regionalliga Nordost
+20.08.2024,19:00,Hallescher FC,Altglienicke,5.046,1,0,/spielbericht/index/spielbericht/4391965,2024,Regionalliga Nordost
+25.08.2024,13:00,Lok Leipzig,Hallescher FC,8.180,1,1,/spielbericht/index/spielbericht/4391977,2024,Regionalliga Nordost
+01.09.2024,13:00,Hallescher FC,FC Eilenburg,5.712,2,2,/spielbericht/index/spielbericht/4391983,2024,Regionalliga Nordost
+10.09.2024,19:00,Viktoria Berlin,Hallescher FC,906,1,0,/spielbericht/index/spielbericht/4391993,2024,Regionalliga Nordost
+13.09.2024,19:00,Hallescher FC,FSV Luckenwalde,5.104,1,0,/spielbericht/index/spielbericht/4392010,2024,Regionalliga Nordost
+20.09.2024,19:00,Hallescher FC,Hertha BSC II,6.833,4,1,/spielbericht/index/spielbericht/4392028,2024,Regionalliga Nordost
+27.09.2024,19:00,FSV Zwickau,Hallescher FC,7.019,1,0,/spielbericht/index/spielbericht/4391999,2024,Regionalliga Nordost
+05.10.2024,15:00,Hallescher FC,Carl Zeiss Jena,9.655,2,1,/spielbericht/index/spielbericht/4392055,2024,Regionalliga Nordost
+20.10.2024,13:00,Babelsberg 03,Hallescher FC,3.941,0,4,/spielbericht/index/spielbericht/4392033,2024,Regionalliga Nordost
+26.10.2024,14:05,Hallescher FC,ZFC Meuselwitz,5.590,2,1,/spielbericht/index/spielbericht/4392019,2024,Regionalliga Nordost
+02.11.2024,14:05,Chemie Leipzig,Hallescher FC,4.999,1,1,/spielbericht/index/spielbericht/4392049,2024,Regionalliga Nordost
+10.11.2024,14:00,Hallescher FC,BFC Dynamo,9.089,2,0,/spielbericht/index/spielbericht/4392064,2024,Regionalliga Nordost
+24.11.2024,13:00,H. Zehlendorf,Hallescher FC,860,1,2,/spielbericht/index/spielbericht/4391957,2024,Regionalliga Nordost
+30.11.2024,13:00,Hallescher FC,Greifswalder FC,5.406,1,0,/spielbericht/index/spielbericht/4392082,2024,Regionalliga Nordost
+07.12.2024,16:00,Hallescher FC,Chemnitzer FC,7.349,0,1,/spielbericht/index/spielbericht/4392072,2024,Regionalliga Nordost
+28.01.2025,19:00,VFC Plauen,Hallescher FC,1.833,1,2,/spielbericht/index/spielbericht/4392136,2024,Regionalliga Nordost
+01.02.2025,16:00,Hallescher FC,Rot-Weiß Erfurt,9.838,2,0,/spielbericht/index/spielbericht/4392097,2024,Regionalliga Nordost
+09.02.2025,13:00,Altglienicke,Hallescher FC,1.249,1,2,/spielbericht/index/spielbericht/4392118,2024,Regionalliga Nordost
+15.02.2025,14:00,Hallescher FC,Lok Leipzig,13.105,0,1,/spielbericht/index/spielbericht/4392193,2024,Regionalliga Nordost
+25.03.2025,19:00,FC Eilenburg,Hallescher FC,1.064,2,2,/spielbericht/index/spielbericht/4392109,2024,Regionalliga Nordost
+01.03.2025,13:00,Hallescher FC,Viktoria Berlin,5.680,3,0,/spielbericht/index/spielbericht/4392092,2024,Regionalliga Nordost
+08.03.2025,13:00,FSV Luckenwalde,Hallescher FC,1.135,1,1,/spielbericht/index/spielbericht/4392199,2024,Regionalliga Nordost
+14.03.2025,19:00,Hertha BSC II,Hallescher FC,1.189,0,1,/spielbericht/index/spielbericht/4392127,2024,Regionalliga Nordost
+29.03.2025,16:00,Hallescher FC,FSV Zwickau,7.743,2,0,/spielbericht/index/spielbericht/4392161,2024,Regionalliga Nordost
+04.04.2025,20:20,Carl Zeiss Jena,Hallescher FC,9.257,2,0,/spielbericht/index/spielbericht/4392145,2024,Regionalliga Nordost
+11.04.2025,19:00,Hallescher FC,Babelsberg 03,6.121,2,0,/spielbericht/index/spielbericht/4392177,2024,Regionalliga Nordost
+19.04.2025,13:00,ZFC Meuselwitz,Hallescher FC,1.296,1,2,/spielbericht/index/spielbericht/4392208,2024,Regionalliga Nordost
+25.04.2025,19:00,Hallescher FC,Chemie Leipzig,10.970,3,1,/spielbericht/index/spielbericht/4392157,2024,Regionalliga Nordost
+02.05.2025,19:00,BFC Dynamo,Hallescher FC,2.911,1,2,/spielbericht/index/spielbericht/4392172,2024,Regionalliga Nordost
+11.05.2025,13:00,Hallescher FC,H. Zehlendorf,8.280,4,1,/spielbericht/index/spielbericht/4392227,2024,Regionalliga Nordost
+18.05.2025,13:05,Greifswalder FC,Hallescher FC,,4,0,/spielbericht/index/spielbericht/4392217,2024,Regionalliga Nordost
+16.08.2024,18:00,Hallescher FC,FC St. Pauli,14.000,2,3,/spielbericht/index/spielbericht/4353915,2024,DFB-Pokal
+06.09.2024,18:30,Lüttchendorf,Hallescher FC,839,1,3,/spielbericht/index/spielbericht/4445790,2024,Landespokal Sachsen-Anhalt
+12.10.2024,14:00,Hallescher FC,Germ. Roßlau,537,13,0,/spielbericht/index/spielbericht/4447401,2024,Landespokal Sachsen-Anhalt
+30.10.2024,18:30,G. Halberstadt,Hallescher FC,1.500,3,6,/spielbericht/index/spielbericht/4460418,2024,Landespokal Sachsen-Anhalt
+25.01.2025,14:00,Blau-Weiß Dölau,Hallescher FC,3.517,0,7,/spielbericht/index/spielbericht/4478027,2024,Landespokal Sachsen-Anhalt
+22.03.2025,14:00,VfL Halle 96,Hallescher FC,1.530,0,2,/spielbericht/index/spielbericht/4578289,2024,Landespokal Sachsen-Anhalt
+24.05.2025,14:30,Lok Stendal,Hallescher FC,,-,-,/spielbericht/index/spielbericht/4581664,2024,Landespokal Sachsen-Anhalt

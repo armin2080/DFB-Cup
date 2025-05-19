@@ -1,0 +1,415 @@
+date,time,home_team,away_team,participants,home_score,away_score,match_link,season,competition
+02.08.2014,14:00,FK Pirmasens,Kickers Offenbach,2.954,3,0,/spielbericht/index/spielbericht/2467009,2014,Regionalliga Südwest
+06.08.2014,19:30,Kickers Offenbach,SpVgg Neckarelz,5.208,2,0,/spielbericht/index/spielbericht/2467018,2014,Regionalliga Südwest
+10.08.2014,14:00,Wormatia Worms,Kickers Offenbach,2.239,0,0,/spielbericht/index/spielbericht/2467029,2014,Regionalliga Südwest
+23.09.2014,19:00,Kickers Offenbach,FC 08 Homburg,5.368,2,1,/spielbericht/index/spielbericht/2497602,2014,Regionalliga Südwest
+23.08.2014,14:00,SC Freiburg II,Kickers Offenbach,250,1,3,/spielbericht/index/spielbericht/2467035,2014,Regionalliga Südwest
+26.08.2014,19:30,Kickers Offenbach,FCA Walldorf,5.123,1,0,/spielbericht/index/spielbericht/2467055,2014,Regionalliga Südwest
+30.08.2014,14:00,SV Elversberg,Kickers Offenbach,1.522,0,1,/spielbericht/index/spielbericht/2467124,2014,Regionalliga Südwest
+06.09.2014,14:00,Kickers Offenbach,KSV Baunatal,5.907,3,2,/spielbericht/index/spielbericht/2467136,2014,Regionalliga Südwest
+13.09.2014,14:00,SVN Zweibrücken,Kickers Offenbach,689,0,3,/spielbericht/index/spielbericht/2467148,2014,Regionalliga Südwest
+19.09.2014,19:30,Kickers Offenbach,FC Nöttingen,6.188,3,1,/spielbericht/index/spielbericht/2467152,2014,Regionalliga Südwest
+27.09.2014,14:00,TuS Koblenz,Kickers Offenbach,2.072,1,2,/spielbericht/index/spielbericht/2467165,2014,Regionalliga Südwest
+19.10.2014,15:30,Kickers Offenbach,W. Mannheim,9.529,1,0,/spielbericht/index/spielbericht/2467177,2014,Regionalliga Südwest
+10.10.2014,19:00,Saarbrücken,Kickers Offenbach,7.011,1,1,/spielbericht/index/spielbericht/2467180,2014,Regionalliga Südwest
+15.11.2014,14:00,Kickers Offenbach,K'lautern II,5.784,3,0,/spielbericht/index/spielbericht/2467194,2014,Regionalliga Südwest
+24.10.2014,19:30,Eintracht Trier,Kickers Offenbach,2.393,0,1,/spielbericht/index/spielbericht/2467198,2014,Regionalliga Südwest
+02.11.2014,14:00,Hoffenheim II,Kickers Offenbach,1.300,2,2,/spielbericht/index/spielbericht/2467213,2014,Regionalliga Südwest
+11.11.2014,20:15,Kickers Offenbach,Hessen Kassel,5.564,1,0,/spielbericht/index/spielbericht/2467215,2014,Regionalliga Südwest
+22.11.2014,14:00,Kickers Offenbach,FK Pirmasens,5.451,0,0,/spielbericht/index/spielbericht/2467229,2014,Regionalliga Südwest
+29.11.2014,14:00,SpVgg Neckarelz,Kickers Offenbach,1.100,2,3,/spielbericht/index/spielbericht/2467232,2014,Regionalliga Südwest
+02.12.2014,20:15,Kickers Offenbach,Wormatia Worms,5.193,2,1,/spielbericht/index/spielbericht/2467246,2014,Regionalliga Südwest
+14.04.2015,19:30,FC 08 Homburg,Kickers Offenbach,2.280,0,1,/spielbericht/index/spielbericht/2490716,2014,Regionalliga Südwest
+08.03.2015,14:00,Kickers Offenbach,SC Freiburg II,6.624,2,1,/spielbericht/index/spielbericht/2490727,2014,Regionalliga Südwest
+13.03.2015,19:30,FCA Walldorf,Kickers Offenbach,1.800,1,1,/spielbericht/index/spielbericht/2490733,2014,Regionalliga Südwest
+20.03.2015,19:30,Kickers Offenbach,SV Elversberg,8.421,0,0,/spielbericht/index/spielbericht/2490743,2014,Regionalliga Südwest
+28.03.2015,14:00,KSV Baunatal,Kickers Offenbach,1.000,0,2,/spielbericht/index/spielbericht/2490750,2014,Regionalliga Südwest
+01.04.2015,19:30,Kickers Offenbach,SVN Zweibrücken,6.048,5,0,/spielbericht/index/spielbericht/2490766,2014,Regionalliga Südwest
+05.04.2015,14:00,FC Nöttingen,Kickers Offenbach,1.405,0,1,/spielbericht/index/spielbericht/2490768,2014,Regionalliga Südwest
+10.04.2015,19:30,Kickers Offenbach,TuS Koblenz,7.191,3,0,/spielbericht/index/spielbericht/2490782,2014,Regionalliga Südwest
+19.04.2015,14:00,W. Mannheim,Kickers Offenbach,6.811,0,0,/spielbericht/index/spielbericht/2490786,2014,Regionalliga Südwest
+25.04.2015,14:00,Kickers Offenbach,Saarbrücken,9.326,2,0,/spielbericht/index/spielbericht/2490799,2014,Regionalliga Südwest
+02.05.2015,14:00,K'lautern II,Kickers Offenbach,1.020,2,0,/spielbericht/index/spielbericht/2490804,2014,Regionalliga Südwest
+09.05.2015,14:00,Kickers Offenbach,Eintracht Trier,5.782,1,0,/spielbericht/index/spielbericht/2490814,2014,Regionalliga Südwest
+16.05.2015,14:00,Kickers Offenbach,Hoffenheim II,5.469,3,2,/spielbericht/index/spielbericht/2490824,2014,Regionalliga Südwest
+23.05.2015,14:00,Hessen Kassel,Kickers Offenbach,2.000,1,0,/spielbericht/index/spielbericht/2490831,2014,Regionalliga Südwest
+27.05.2015,19:00,1.FC Magdeburg,Kickers Offenbach,23.139,1,0,/spielbericht/index/spielbericht/2567941,2014,Aufstiegsrunde zur 3. Liga
+31.05.2015,14:00,Kickers Offenbach,1.FC Magdeburg,19.124,1,3,/spielbericht/index/spielbericht/2567942,2014,Aufstiegsrunde zur 3. Liga
+18.08.2014,18:30,Kickers Offenbach,FC Ingolstadt,7.386,4,2,/spielbericht/index/spielbericht/2458335,2014,DFB-Pokal
+28.10.2014,19:00,Kickers Offenbach,Karlsruher SC,16.106,1,0,/spielbericht/index/spielbericht/2488528,2014,DFB-Pokal
+04.03.2015,20:30,Kickers Offenbach,Bor. M'gladbach,20.500,0,2,/spielbericht/index/spielbericht/2507894,2014,DFB-Pokal
+05.11.2014,19:00,SV Wiesbaden,Kickers Offenbach,1.850,0,1,/spielbericht/index/spielbericht/2810656,2014,Landespokal Hessen
+24.03.2015,19:00,Kickers Offenbach,Hessen Kassel,2.318,0,1,/spielbericht/index/spielbericht/2988454,2014,Landespokal Hessen
+31.07.2015,19:00,Hessen Kassel,Kickers Offenbach,5.300,2,2,/spielbericht/index/spielbericht/2585966,2015,Regionalliga Südwest
+08.08.2015,14:00,Kickers Offenbach,FC 08 Homburg,3.586,2,2,/spielbericht/index/spielbericht/2605307,2015,Regionalliga Südwest
+15.08.2015,14:00,Kickers Offenbach,SC Freiburg II,5.455,5,1,/spielbericht/index/spielbericht/2605320,2015,Regionalliga Südwest
+23.08.2015,14:00,TSV Steinbach,Kickers Offenbach,3.600,0,3,/spielbericht/index/spielbericht/2605328,2015,Regionalliga Südwest
+26.08.2015,19:30,Kickers Offenbach,Wormatia Worms,6.413,4,1,/spielbericht/index/spielbericht/2605337,2015,Regionalliga Südwest
+29.08.2015,14:00,FK Pirmasens,Kickers Offenbach,1.266,1,2,/spielbericht/index/spielbericht/2605341,2015,Regionalliga Südwest
+05.09.2015,14:00,Kickers Offenbach,SV Spielberg,6.010,2,1,/spielbericht/index/spielbericht/2605355,2015,Regionalliga Südwest
+13.09.2015,14:00,SV Elversberg,Kickers Offenbach,1.577,4,3,/spielbericht/index/spielbericht/2605359,2015,Regionalliga Südwest
+19.09.2015,14:00,Kickers Offenbach,SV Saar 05,5.434,3,1,/spielbericht/index/spielbericht/2605373,2015,Regionalliga Südwest
+27.09.2015,14:00,W. Mannheim,Kickers Offenbach,11.575,0,2,/spielbericht/index/spielbericht/2605382,2015,Regionalliga Südwest
+04.10.2015,18:00,Kickers Offenbach,Hoffenheim II,5.826,1,1,/spielbericht/index/spielbericht/2605391,2015,Regionalliga Südwest
+12.10.2015,20:15,Eintracht Trier,Kickers Offenbach,3.128,6,0,/spielbericht/index/spielbericht/2605401,2015,Regionalliga Südwest
+17.10.2015,14:00,Kickers Offenbach,SpVgg Neckarelz,5.020,0,0,/spielbericht/index/spielbericht/2605409,2015,Regionalliga Südwest
+23.10.2015,19:00,FCA Walldorf,Kickers Offenbach,1.025,1,0,/spielbericht/index/spielbericht/2605411,2015,Regionalliga Südwest
+31.10.2015,14:00,Kickers Offenbach,K'lautern II,5.181,1,0,/spielbericht/index/spielbericht/2605427,2015,Regionalliga Südwest
+07.11.2015,14:00,Bahlinger SC,Kickers Offenbach,2.374,4,1,/spielbericht/index/spielbericht/2605431,2015,Regionalliga Südwest
+22.11.2015,14:00,Kickers Offenbach,Saarbrücken,6.144,0,1,/spielbericht/index/spielbericht/2605445,2015,Regionalliga Südwest
+01.12.2015,20:15,Kickers Offenbach,Hessen Kassel,5.113,2,1,/spielbericht/index/spielbericht/2605455,2015,Regionalliga Südwest
+05.12.2015,14:00,FC 08 Homburg,Kickers Offenbach,1.432,3,4,/spielbericht/index/spielbericht/2605462,2015,Regionalliga Südwest
+28.02.2016,14:00,SC Freiburg II,Kickers Offenbach,600,1,2,/spielbericht/index/spielbericht/2605468,2015,Regionalliga Südwest
+04.03.2016,19:30,Kickers Offenbach,TSV Steinbach,6.062,0,0,/spielbericht/index/spielbericht/2605479,2015,Regionalliga Südwest
+12.03.2016,14:00,Wormatia Worms,Kickers Offenbach,1.542,1,2,/spielbericht/index/spielbericht/2605485,2015,Regionalliga Südwest
+19.03.2016,14:00,Kickers Offenbach,FK Pirmasens,5.461,4,0,/spielbericht/index/spielbericht/2605496,2015,Regionalliga Südwest
+23.03.2016,16:30,SV Spielberg,Kickers Offenbach,1.100,1,5,/spielbericht/index/spielbericht/2605508,2015,Regionalliga Südwest
+28.03.2016,20:15,Kickers Offenbach,SV Elversberg,7.327,1,1,/spielbericht/index/spielbericht/2605512,2015,Regionalliga Südwest
+02.04.2016,14:00,SV Saar 05,Kickers Offenbach,485,1,4,/spielbericht/index/spielbericht/2605527,2015,Regionalliga Südwest
+10.04.2016,14:00,Kickers Offenbach,W. Mannheim,11.399,0,4,/spielbericht/index/spielbericht/2605536,2015,Regionalliga Südwest
+17.04.2016,14:00,Hoffenheim II,Kickers Offenbach,695,5,1,/spielbericht/index/spielbericht/2605538,2015,Regionalliga Südwest
+23.04.2016,14:00,Kickers Offenbach,Eintracht Trier,5.090,1,0,/spielbericht/index/spielbericht/2605553,2015,Regionalliga Südwest
+30.04.2016,14:00,SpVgg Neckarelz,Kickers Offenbach,390,0,3,/spielbericht/index/spielbericht/2605562,2015,Regionalliga Südwest
+07.05.2016,14:00,Kickers Offenbach,FCA Walldorf,4.857,2,1,/spielbericht/index/spielbericht/2605570,2015,Regionalliga Südwest
+10.05.2016,19:00,K'lautern II,Kickers Offenbach,420,1,1,/spielbericht/index/spielbericht/2605580,2015,Regionalliga Südwest
+14.05.2016,14:00,Kickers Offenbach,Bahlinger SC,4.814,4,0,/spielbericht/index/spielbericht/2605586,2015,Regionalliga Südwest
+21.05.2016,14:00,Saarbrücken,Kickers Offenbach,1.705,3,0,/spielbericht/index/spielbericht/2605598,2015,Regionalliga Südwest
+30.09.2015,19:00,TS Ober-Roden,Kickers Offenbach,1.000,1,5,/spielbericht/index/spielbericht/2833151,2015,Landespokal Hessen
+14.11.2015,14:00,Oberliederbach,Kickers Offenbach,1.150,0,7,/spielbericht/index/spielbericht/2832179,2015,Landespokal Hessen
+05.04.2016,20:00,Kickers Offenbach,Hessen Kassel,3.598,8,7,/spielbericht/index/spielbericht/2831777,2015,Landespokal Hessen
+04.05.2016,19:30,Wehen Wiesbaden,Kickers Offenbach,2.300,1,2,/spielbericht/index/spielbericht/2829901,2015,Landespokal Hessen
+05.08.2016,19:30,Wormatia Worms,Kickers Offenbach,2.280,2,2,/spielbericht/index/spielbericht/2710541,2016,Regionalliga Südwest
+12.08.2016,19:30,Kickers Offenbach,FCA Walldorf,4.216,3,2,/spielbericht/index/spielbericht/2710559,2016,Regionalliga Südwest
+17.08.2016,19:00,Saarbrücken,Kickers Offenbach,4.033,1,1,/spielbericht/index/spielbericht/2710583,2016,Regionalliga Südwest
+06.09.2016,19:30,Kickers Offenbach,FK Pirmasens,3.844,3,1,/spielbericht/index/spielbericht/2710691,2016,Regionalliga Südwest
+26.08.2016,19:30,SC Teutonia,Kickers Offenbach,2.554,2,1,/spielbericht/index/spielbericht/2710709,2016,Regionalliga Südwest
+30.08.2016,19:30,Kickers Offenbach,FC Nöttingen,4.326,1,0,/spielbericht/index/spielbericht/2710740,2016,Regionalliga Südwest
+11.09.2016,14:00,Kickers Offenbach,Eintracht Trier,4.344,1,1,/spielbericht/index/spielbericht/2710803,2016,Regionalliga Südwest
+15.09.2016,19:30,Stuttg. Kickers,Kickers Offenbach,2.820,0,1,/spielbericht/index/spielbericht/2710829,2016,Regionalliga Südwest
+20.09.2016,19:30,Kickers Offenbach,W. Mannheim,6.630,1,1,/spielbericht/index/spielbericht/2710839,2016,Regionalliga Südwest
+24.09.2016,14:00,SV Elversberg,Kickers Offenbach,1.978,0,0,/spielbericht/index/spielbericht/2710863,2016,Regionalliga Südwest
+02.10.2016,14:00,Kickers Offenbach,K'lautern II,4.815,1,0,/spielbericht/index/spielbericht/2710875,2016,Regionalliga Südwest
+05.10.2016,19:30,FC 08 Homburg,Kickers Offenbach,952,1,0,/spielbericht/index/spielbericht/2710949,2016,Regionalliga Südwest
+18.10.2016,19:30,Kickers Offenbach,TSV Steinbach,4.117,1,1,/spielbericht/index/spielbericht/2710954,2016,Regionalliga Südwest
+15.10.2016,14:00,Hessen Kassel,Kickers Offenbach,2.847,1,0,/spielbericht/index/spielbericht/2710965,2016,Regionalliga Südwest
+22.10.2016,14:00,Kickers Offenbach,SSV Ulm 1846,4.757,3,2,/spielbericht/index/spielbericht/2710972,2016,Regionalliga Südwest
+29.10.2016,14:00,TuS Koblenz,Kickers Offenbach,1.960,2,1,/spielbericht/index/spielbericht/2710982,2016,Regionalliga Südwest
+01.11.2016,19:00,Hoffenheim II,Kickers Offenbach,570,1,1,/spielbericht/index/spielbericht/2711008,2016,Regionalliga Südwest
+06.11.2016,14:00,Kickers Offenbach,Stuttgart II,4.315,2,2,/spielbericht/index/spielbericht/2711071,2016,Regionalliga Südwest
+12.11.2016,14:00,Kickers Offenbach,Wormatia Worms,4.123,2,0,/spielbericht/index/spielbericht/2710943,2016,Regionalliga Südwest
+18.11.2016,19:30,FCA Walldorf,Kickers Offenbach,650,4,2,/spielbericht/index/spielbericht/2710927,2016,Regionalliga Südwest
+27.11.2016,14:00,Kickers Offenbach,Saarbrücken,4.838,2,3,/spielbericht/index/spielbericht/2710923,2016,Regionalliga Südwest
+02.12.2016,19:30,FK Pirmasens,Kickers Offenbach,661,2,0,/spielbericht/index/spielbericht/2710909,2016,Regionalliga Südwest
+09.12.2016,19:30,Kickers Offenbach,SC Teutonia,4.002,3,0,/spielbericht/index/spielbericht/2710896,2016,Regionalliga Südwest
+18.02.2017,14:00,FC Nöttingen,Kickers Offenbach,921,1,3,/spielbericht/index/spielbericht/2710884,2016,Regionalliga Südwest
+05.03.2017,14:00,Eintracht Trier,Kickers Offenbach,1.861,1,0,/spielbericht/index/spielbericht/2710848,2016,Regionalliga Südwest
+11.03.2017,14:00,Kickers Offenbach,Stuttg. Kickers,5.501,2,0,/spielbericht/index/spielbericht/2710793,2016,Regionalliga Südwest
+19.03.2017,14:00,W. Mannheim,Kickers Offenbach,10.038,2,1,/spielbericht/index/spielbericht/2710749,2016,Regionalliga Südwest
+25.03.2017,14:00,Kickers Offenbach,SV Elversberg,6.071,0,0,/spielbericht/index/spielbericht/2710728,2016,Regionalliga Südwest
+29.03.2017,19:00,K'lautern II,Kickers Offenbach,639,0,0,/spielbericht/index/spielbericht/2710704,2016,Regionalliga Südwest
+09.04.2017,14:00,Kickers Offenbach,FC 08 Homburg,7.721,4,0,/spielbericht/index/spielbericht/2710699,2016,Regionalliga Südwest
+15.04.2017,14:00,TSV Steinbach,Kickers Offenbach,2.762,0,1,/spielbericht/index/spielbericht/2710677,2016,Regionalliga Südwest
+23.04.2017,14:00,Kickers Offenbach,Hessen Kassel,7.087,2,2,/spielbericht/index/spielbericht/2710670,2016,Regionalliga Südwest
+29.04.2017,14:00,SSV Ulm 1846,Kickers Offenbach,2.476,2,1,/spielbericht/index/spielbericht/2710659,2016,Regionalliga Südwest
+05.05.2017,19:30,Kickers Offenbach,TuS Koblenz,6.519,2,0,/spielbericht/index/spielbericht/2710633,2016,Regionalliga Südwest
+13.05.2017,14:00,Kickers Offenbach,Hoffenheim II,6.893,1,0,/spielbericht/index/spielbericht/2710594,2016,Regionalliga Südwest
+20.05.2017,14:00,Stuttgart II,Kickers Offenbach,812,2,0,/spielbericht/index/spielbericht/2710551,2016,Regionalliga Südwest
+22.08.2016,18:30,Kickers Offenbach,Hannover 96,10.573,2,3,/spielbericht/index/spielbericht/2699111,2016,DFB-Pokal
+03.09.2016,16:00,SF Seligenstadt,Kickers Offenbach,1.652,6,5,/spielbericht/index/spielbericht/2753656,2016,Landespokal Hessen
+29.07.2017,14:00,Hoffenheim II,Kickers Offenbach,1.200,2,2,/spielbericht/index/spielbericht/2894137,2017,Regionalliga Südwest
+04.08.2017,19:30,Kickers Offenbach,TSV Steinbach,6.445,2,0,/spielbericht/index/spielbericht/2890994,2017,Regionalliga Südwest
+12.08.2017,14:00,SSV Ulm 1846,Kickers Offenbach,1.515,1,2,/spielbericht/index/spielbericht/2894146,2017,Regionalliga Südwest
+20.08.2017,14:00,Kickers Offenbach,Hessen Kassel,7.313,1,0,/spielbericht/index/spielbericht/2891028,2017,Regionalliga Südwest
+23.08.2017,19:00,SV Elversberg,Kickers Offenbach,1.879,1,3,/spielbericht/index/spielbericht/2890975,2017,Regionalliga Südwest
+27.08.2017,14:00,Kickers Offenbach,SV Röchling,5.659,4,1,/spielbericht/index/spielbericht/2890980,2017,Regionalliga Südwest
+02.09.2017,14:00,SC Freiburg II,Kickers Offenbach,750,5,1,/spielbericht/index/spielbericht/2894372,2017,Regionalliga Südwest
+09.09.2017,14:00,Kickers Offenbach,Stuttg. Kickers,5.058,3,0,/spielbericht/index/spielbericht/2894377,2017,Regionalliga Südwest
+16.09.2017,14:00,FSV Mainz 05 II,Kickers Offenbach,2.398,2,0,/spielbericht/index/spielbericht/2890987,2017,Regionalliga Südwest
+25.09.2017,18:15,Kickers Offenbach,FSV Frankfurt,7.129,4,1,/spielbericht/index/spielbericht/2896037,2017,Regionalliga Südwest
+13.09.2017,19:30,Wormatia Worms,Kickers Offenbach,1.252,1,2,/spielbericht/index/spielbericht/2891023,2017,Regionalliga Südwest
+03.10.2017,14:00,Kickers Offenbach,FCA Walldorf,6.126,4,3,/spielbericht/index/spielbericht/2896042,2017,Regionalliga Südwest
+08.10.2017,14:00,TuS Koblenz,Kickers Offenbach,1.217,0,1,/spielbericht/index/spielbericht/2891009,2017,Regionalliga Südwest
+13.10.2017,19:30,Kickers Offenbach,Stadtallendorf,7.124,1,0,/spielbericht/index/spielbericht/2891025,2017,Regionalliga Südwest
+22.10.2017,14:00,W. Mannheim,Kickers Offenbach,8.170,2,0,/spielbericht/index/spielbericht/2896062,2017,Regionalliga Südwest
+28.10.2017,14:00,Kickers Offenbach,Saarbrücken,9.274,1,2,/spielbericht/index/spielbericht/2896068,2017,Regionalliga Südwest
+31.10.2017,14:00,Stuttgart II,Kickers Offenbach,1.226,2,2,/spielbericht/index/spielbericht/2896075,2017,Regionalliga Südwest
+11.11.2017,14:00,Kickers Offenbach,Schott Mainz,4.489,3,0,/spielbericht/index/spielbericht/2896091,2017,Regionalliga Südwest
+19.11.2017,14:00,Kickers Offenbach,Hoffenheim II,4.827,1,1,/spielbericht/index/spielbericht/2891017,2017,Regionalliga Südwest
+27.11.2017,20:15,TSV Steinbach,Kickers Offenbach,1.389,2,1,/spielbericht/index/spielbericht/2896104,2017,Regionalliga Südwest
+02.12.2017,14:00,Kickers Offenbach,SSV Ulm 1846,4.203,3,1,/spielbericht/index/spielbericht/2896116,2017,Regionalliga Südwest
+20.02.2018,19:30,Hessen Kassel,Kickers Offenbach,2.100,1,1,/spielbericht/index/spielbericht/2896124,2017,Regionalliga Südwest
+11.02.2018,14:00,Kickers Offenbach,SV Elversberg,5.056,3,0,/spielbericht/index/spielbericht/2915419,2017,Regionalliga Südwest
+17.02.2018,14:00,SV Röchling,Kickers Offenbach,500,0,3,/spielbericht/index/spielbericht/2915425,2017,Regionalliga Südwest
+24.02.2018,14:00,Kickers Offenbach,SC Freiburg II,4.686,0,0,/spielbericht/index/spielbericht/2920261,2017,Regionalliga Südwest
+03.03.2018,14:00,Stuttg. Kickers,Kickers Offenbach,2.380,2,1,/spielbericht/index/spielbericht/2920269,2017,Regionalliga Südwest
+09.03.2018,19:00,Kickers Offenbach,FSV Mainz 05 II,5.071,3,1,/spielbericht/index/spielbericht/2920286,2017,Regionalliga Südwest
+19.03.2018,20:15,FSV Frankfurt,Kickers Offenbach,5.234,1,3,/spielbericht/index/spielbericht/2920294,2017,Regionalliga Südwest
+25.03.2018,13:00,Kickers Offenbach,Wormatia Worms,5.348,2,2,/spielbericht/index/spielbericht/2920323,2017,Regionalliga Südwest
+28.03.2018,19:00,FCA Walldorf,Kickers Offenbach,1.408,1,2,/spielbericht/index/spielbericht/2920333,2017,Regionalliga Südwest
+02.04.2018,20:15,Kickers Offenbach,TuS Koblenz,6.031,2,3,/spielbericht/index/spielbericht/2920360,2017,Regionalliga Südwest
+07.04.2018,14:00,Stadtallendorf,Kickers Offenbach,3.292,0,2,/spielbericht/index/spielbericht/2920365,2017,Regionalliga Südwest
+14.04.2018,15:30,Kickers Offenbach,W. Mannheim,13.231,0,1,/spielbericht/index/spielbericht/2920376,2017,Regionalliga Südwest
+22.04.2018,15:00,Saarbrücken,Kickers Offenbach,3.703,2,0,/spielbericht/index/spielbericht/2920383,2017,Regionalliga Südwest
+27.04.2018,19:00,Kickers Offenbach,Stuttgart II,4.506,0,1,/spielbericht/index/spielbericht/2920392,2017,Regionalliga Südwest
+12.05.2018,14:00,Schott Mainz,Kickers Offenbach,750,1,5,/spielbericht/index/spielbericht/2921049,2017,Regionalliga Südwest
+20.09.2017,19:00,TSV Lehnerz,Kickers Offenbach,2.000,0,5,/spielbericht/index/spielbericht/2923649,2017,Landespokal Hessen
+17.10.2017,19:00,TSV Steinbach,Kickers Offenbach,1.610,2,1,/spielbericht/index/spielbericht/2942641,2017,Landespokal Hessen
+27.07.2018,19:00,Kickers Offenbach,SV Elversberg,6.664,1,1,/spielbericht/index/spielbericht/3068098,2018,Regionalliga Südwest
+03.08.2018,19:00,FCA Walldorf,Kickers Offenbach,1.058,1,1,/spielbericht/index/spielbericht/3068112,2018,Regionalliga Südwest
+07.08.2018,19:30,Kickers Offenbach,FSV Mainz 05 II,5.173,0,1,/spielbericht/index/spielbericht/3068117,2018,Regionalliga Südwest
+10.08.2018,19:00,SSV Ulm 1846,Kickers Offenbach,2.481,2,1,/spielbericht/index/spielbericht/3068163,2018,Regionalliga Südwest
+18.08.2018,14:00,Kickers Offenbach,Hoffenheim II,4.524,5,2,/spielbericht/index/spielbericht/3068169,2018,Regionalliga Südwest
+25.08.2018,14:00,Hessen Dreieich,Kickers Offenbach,2.621,0,1,/spielbericht/index/spielbericht/3068187,2018,Regionalliga Südwest
+02.09.2018,15:00,Kickers Offenbach,FSV Frankfurt,6.698,7,0,/spielbericht/index/spielbericht/3068205,2018,Regionalliga Südwest
+11.09.2018,17:00,SC Freiburg II,Kickers Offenbach,600,2,1,/spielbericht/index/spielbericht/3068230,2018,Regionalliga Südwest
+16.09.2018,15:00,Kickers Offenbach,Saarbrücken,6.523,1,1,/spielbericht/index/spielbericht/3068232,2018,Regionalliga Südwest
+22.09.2018,14:00,Stadtallendorf,Kickers Offenbach,2.127,1,3,/spielbericht/index/spielbericht/3068246,2018,Regionalliga Südwest
+29.09.2018,14:00,Kickers Offenbach,TSV Steinbach,4.768,0,0,/spielbericht/index/spielbericht/3068250,2018,Regionalliga Südwest
+06.10.2018,14:00,W. Mannheim,Kickers Offenbach,9.017,1,3,/spielbericht/index/spielbericht/3068262,2018,Regionalliga Südwest
+13.10.2018,14:00,Kickers Offenbach,TSG Balingen,5.273,1,1,/spielbericht/index/spielbericht/3068268,2018,Regionalliga Südwest
+19.10.2018,19:30,FK Pirmasens,Kickers Offenbach,1.059,1,1,/spielbericht/index/spielbericht/3068278,2018,Regionalliga Südwest
+27.10.2018,14:00,Stuttgart II,Kickers Offenbach,445,2,4,/spielbericht/index/spielbericht/3068285,2018,Regionalliga Südwest
+03.11.2018,14:00,Kickers Offenbach,Wormatia Worms,4.411,2,1,/spielbericht/index/spielbericht/3068295,2018,Regionalliga Südwest
+09.11.2018,19:30,FC 08 Homburg,Kickers Offenbach,1.850,2,1,/spielbericht/index/spielbericht/3068310,2018,Regionalliga Südwest
+23.11.2018,19:30,SV Elversberg,Kickers Offenbach,1.025,0,1,/spielbericht/index/spielbericht/3074790,2018,Regionalliga Südwest
+02.12.2018,14:00,Kickers Offenbach,FCA Walldorf,5.106,2,1,/spielbericht/index/spielbericht/3074802,2018,Regionalliga Südwest
+08.12.2018,14:00,FSV Mainz 05 II,Kickers Offenbach,1.098,1,3,/spielbericht/index/spielbericht/3074805,2018,Regionalliga Südwest
+23.02.2019,14:00,Kickers Offenbach,SSV Ulm 1846,5.561,3,0,/spielbericht/index/spielbericht/3074816,2018,Regionalliga Südwest
+01.03.2019,19:30,Hoffenheim II,Kickers Offenbach,723,0,5,/spielbericht/index/spielbericht/3074823,2018,Regionalliga Südwest
+08.03.2019,19:30,Kickers Offenbach,Hessen Dreieich,6.176,1,0,/spielbericht/index/spielbericht/3074832,2018,Regionalliga Südwest
+13.03.2019,19:30,FSV Frankfurt,Kickers Offenbach,3.877,2,0,/spielbericht/index/spielbericht/3074841,2018,Regionalliga Südwest
+17.03.2019,14:00,Kickers Offenbach,SC Freiburg II,4.087,2,0,/spielbericht/index/spielbericht/3074857,2018,Regionalliga Südwest
+23.03.2019,14:00,Saarbrücken,Kickers Offenbach,3.117,1,1,/spielbericht/index/spielbericht/3074923,2018,Regionalliga Südwest
+30.03.2019,14:00,Kickers Offenbach,Stadtallendorf,4.549,1,1,/spielbericht/index/spielbericht/3074937,2018,Regionalliga Südwest
+06.04.2019,14:00,TSV Steinbach,Kickers Offenbach,1.749,1,1,/spielbericht/index/spielbericht/3074941,2018,Regionalliga Südwest
+13.04.2019,14:10,Kickers Offenbach,W. Mannheim,10.701,0,4,/spielbericht/index/spielbericht/3074953,2018,Regionalliga Südwest
+20.04.2019,14:00,TSG Balingen,Kickers Offenbach,1.956,2,2,/spielbericht/index/spielbericht/3074959,2018,Regionalliga Südwest
+27.04.2019,14:00,Kickers Offenbach,FK Pirmasens,3.655,0,1,/spielbericht/index/spielbericht/3074969,2018,Regionalliga Südwest
+03.05.2019,19:30,Kickers Offenbach,Stuttgart II,3.876,2,0,/spielbericht/index/spielbericht/3074976,2018,Regionalliga Südwest
+11.05.2019,14:00,Wormatia Worms,Kickers Offenbach,1.166,1,4,/spielbericht/index/spielbericht/3074986,2018,Regionalliga Südwest
+18.05.2019,14:00,Kickers Offenbach,FC 08 Homburg,4.220,0,0,/spielbericht/index/spielbericht/3075001,2018,Regionalliga Südwest
+03.10.2018,15:00,Bayern Alzenau,Kickers Offenbach,2.300,2,3,/spielbericht/index/spielbericht/3096191,2018,Landespokal Hessen
+23.10.2018,19:00,Kickers Offenbach,Hessen Dreieich,2.534,1,2,/spielbericht/index/spielbericht/3115283,2018,Landespokal Hessen
+29.07.2019,20:15,Kickers Offenbach,SSV Ulm 1846,7.041,2,0,/spielbericht/index/spielbericht/3216662,2019,Regionalliga Südwest
+04.08.2019,14:00,SC Freiburg II,Kickers Offenbach,1.000,1,2,/spielbericht/index/spielbericht/3216678,2019,Regionalliga Südwest
+09.08.2019,19:30,Kickers Offenbach,VfR Aalen,8.118,1,1,/spielbericht/index/spielbericht/3216689,2019,Regionalliga Südwest
+14.08.2019,18:00,Bahlinger SC,Kickers Offenbach,2.840,1,2,/spielbericht/index/spielbericht/3216718,2019,Regionalliga Südwest
+18.08.2019,13:00,Hoffenheim II,Kickers Offenbach,1.351,1,2,/spielbericht/index/spielbericht/3216733,2019,Regionalliga Südwest
+24.08.2019,14:00,Kickers Offenbach,SV Elversberg,7.744,0,3,/spielbericht/index/spielbericht/3216748,2019,Regionalliga Südwest
+31.08.2019,14:00,FC 08 Homburg,Kickers Offenbach,1.647,2,1,/spielbericht/index/spielbericht/3216764,2019,Regionalliga Südwest
+07.09.2019,14:00,Kickers Offenbach,FK Pirmasens,5.003,0,0,/spielbericht/index/spielbericht/3216776,2019,Regionalliga Südwest
+14.09.2019,14:00,TSV Steinbach,Kickers Offenbach,2.257,1,0,/spielbericht/index/spielbericht/3216790,2019,Regionalliga Südwest
+21.09.2019,14:00,Kickers Offenbach,RW Koblenz,5.112,4,0,/spielbericht/index/spielbericht/3216800,2019,Regionalliga Südwest
+29.09.2019,14:00,FSV Frankfurt,Kickers Offenbach,4.655,0,0,/spielbericht/index/spielbericht/3216821,2019,Regionalliga Südwest
+05.10.2019,14:00,Kickers Offenbach,TSG Balingen,4.555,3,0,/spielbericht/index/spielbericht/3216829,2019,Regionalliga Südwest
+11.10.2019,19:30,FCA Walldorf,Kickers Offenbach,1.058,2,2,/spielbericht/index/spielbericht/3216832,2019,Regionalliga Südwest
+19.10.2019,14:00,Kickers Offenbach,FSV Mainz 05 II,4.408,1,3,/spielbericht/index/spielbericht/3216846,2019,Regionalliga Südwest
+26.10.2019,14:00,Saarbrücken,Kickers Offenbach,3.723,5,0,/spielbericht/index/spielbericht/3216854,2019,Regionalliga Südwest
+01.11.2019,19:30,Kickers Offenbach,Bayern Alzenau,5.995,0,2,/spielbericht/index/spielbericht/3216858,2019,Regionalliga Südwest
+09.11.2019,14:00,FC Gießen,Kickers Offenbach,2.700,1,1,/spielbericht/index/spielbericht/3216871,2019,Regionalliga Südwest
+25.11.2019,20:15,SSV Ulm 1846,Kickers Offenbach,1.888,1,0,/spielbericht/index/spielbericht/3217566,2019,Regionalliga Südwest
+01.12.2019,14:00,Kickers Offenbach,SC Freiburg II,4.107,3,1,/spielbericht/index/spielbericht/3217568,2019,Regionalliga Südwest
+15.02.2020,14:00,VfR Aalen,Kickers Offenbach,2.419,3,0,/spielbericht/index/spielbericht/3217582,2019,Regionalliga Südwest
+22.02.2020,14:00,Kickers Offenbach,Bahlinger SC,4.141,3,0,/spielbericht/index/spielbericht/3217592,2019,Regionalliga Südwest
+09.03.2020,20:15,SV Elversberg,Kickers Offenbach,1.347,0,2,/spielbericht/index/spielbericht/3217609,2019,Regionalliga Südwest
+16.11.2019,13:45,Bayern Alzenau,Kickers Offenbach,2.300,0,1,/spielbericht/index/spielbericht/3260547,2019,Landespokal Hessen
+14.12.2019,14:00,FC Gießen,Kickers Offenbach,1.412,1,0,/spielbericht/index/spielbericht/3281769,2019,Landespokal Hessen
+05.09.2020,14:00,Kickers Offenbach,Bahlinger SC,100,0,0,/spielbericht/index/spielbericht/3425103,2020,Regionalliga Südwest
+11.09.2020,19:00,Sonnenhof-Gr.,Kickers Offenbach,464,0,2,/spielbericht/index/spielbericht/3425110,2020,Regionalliga Südwest
+15.09.2020,19:00,FK Pirmasens,Kickers Offenbach,619,0,2,/spielbericht/index/spielbericht/3425120,2020,Regionalliga Südwest
+19.09.2020,14:00,Kickers Offenbach,Hoffenheim II,1.500,3,0,/spielbericht/index/spielbericht/3425138,2020,Regionalliga Südwest
+22.12.2020,19:00,TSG Balingen,Kickers Offenbach,x,1,0,/spielbericht/index/spielbericht/3425147,2020,Regionalliga Südwest
+29.09.2020,19:00,Kickers Offenbach,TSV Steinbach,3.150,1,1,/spielbericht/index/spielbericht/3425160,2020,Regionalliga Südwest
+03.10.2020,14:30,SC Freiburg II,Kickers Offenbach,80,2,2,/spielbericht/index/spielbericht/3425167,2020,Regionalliga Südwest
+09.10.2020,19:30,Kickers Offenbach,Bayern Alzenau,100,3,0,/spielbericht/index/spielbericht/3440240,2020,Regionalliga Südwest
+16.10.2020,19:00,SSV Ulm 1846,Kickers Offenbach,436,1,0,/spielbericht/index/spielbericht/3440246,2020,Regionalliga Südwest
+20.10.2020,19:00,Kickers Offenbach,FC Gießen,100,1,0,/spielbericht/index/spielbericht/3440263,2020,Regionalliga Südwest
+24.10.2020,14:30,Stuttgart II,Kickers Offenbach,x,2,2,/spielbericht/index/spielbericht/3440266,2020,Regionalliga Südwest
+30.10.2020,19:30,Kickers Offenbach,Schott Mainz,100,4,0,/spielbericht/index/spielbericht/3440285,2020,Regionalliga Südwest
+09.01.2021,14:00,Stadtallendorf,Kickers Offenbach,x,1,4,/spielbericht/index/spielbericht/3440296,2020,Regionalliga Südwest
+15.12.2020,19:00,Kickers Offenbach,Hessen Kassel,x,5,1,/spielbericht/index/spielbericht/3440307,2020,Regionalliga Südwest
+02.03.2021,17:00,FC 08 Homburg,Kickers Offenbach,x,1,2,/spielbericht/index/spielbericht/3440315,2020,Regionalliga Südwest
+20.01.2021,19:00,Kickers Offenbach,SV Elversberg,x,0,0,/spielbericht/index/spielbericht/3440329,2020,Regionalliga Südwest
+24.01.2021,14:00,RW Koblenz,Kickers Offenbach,x,0,0,/spielbericht/index/spielbericht/3440336,2020,Regionalliga Südwest
+30.03.2021,19:00,Kickers Offenbach,FSV Frankfurt,x,0,0,/spielbericht/index/spielbericht/3440350,2020,Regionalliga Südwest
+11.12.2020,19:00,FCA Walldorf,Kickers Offenbach,x,0,0,/spielbericht/index/spielbericht/3440356,2020,Regionalliga Südwest
+19.12.2020,14:00,Kickers Offenbach,VfR Aalen,x,0,2,/spielbericht/index/spielbericht/3440373,2020,Regionalliga Südwest
+30.01.2021,14:00,FSV Mainz 05 II,Kickers Offenbach,x,1,1,/spielbericht/index/spielbericht/3440376,2020,Regionalliga Südwest
+06.02.2021,14:00,Bahlinger SC,Kickers Offenbach,x,1,6,/spielbericht/index/spielbericht/3440394,2020,Regionalliga Südwest
+13.02.2021,14:00,Kickers Offenbach,Sonnenhof-Gr.,x,3,1,/spielbericht/index/spielbericht/3440406,2020,Regionalliga Südwest
+20.02.2021,14:00,Kickers Offenbach,FK Pirmasens,x,1,0,/spielbericht/index/spielbericht/3440407,2020,Regionalliga Südwest
+27.02.2021,14:00,Hoffenheim II,Kickers Offenbach,x,0,1,/spielbericht/index/spielbericht/3440425,2020,Regionalliga Südwest
+06.03.2021,14:00,Kickers Offenbach,TSG Balingen,x,1,0,/spielbericht/index/spielbericht/3440435,2020,Regionalliga Südwest
+13.03.2021,14:00,TSV Steinbach,Kickers Offenbach,x,4,0,/spielbericht/index/spielbericht/3440448,2020,Regionalliga Südwest
+20.03.2021,14:00,Kickers Offenbach,SC Freiburg II,x,1,1,/spielbericht/index/spielbericht/3440455,2020,Regionalliga Südwest
+27.03.2021,14:00,Bayern Alzenau,Kickers Offenbach,x,1,3,/spielbericht/index/spielbericht/3440470,2020,Regionalliga Südwest
+03.04.2021,14:00,Kickers Offenbach,SSV Ulm 1846,x,1,0,/spielbericht/index/spielbericht/3440475,2020,Regionalliga Südwest
+10.04.2021,14:00,FC Gießen,Kickers Offenbach,x,0,2,/spielbericht/index/spielbericht/3440491,2020,Regionalliga Südwest
+17.04.2021,14:00,Kickers Offenbach,Stuttgart II,x,1,1,/spielbericht/index/spielbericht/3440495,2020,Regionalliga Südwest
+20.04.2021,19:00,Schott Mainz,Kickers Offenbach,x,2,4,/spielbericht/index/spielbericht/3440514,2020,Regionalliga Südwest
+24.04.2021,14:00,Kickers Offenbach,Stadtallendorf,x,4,0,/spielbericht/index/spielbericht/3440525,2020,Regionalliga Südwest
+01.05.2021,14:00,Hessen Kassel,Kickers Offenbach,x,0,4,/spielbericht/index/spielbericht/3440537,2020,Regionalliga Südwest
+04.05.2021,19:00,Kickers Offenbach,FC 08 Homburg,x,3,2,/spielbericht/index/spielbericht/3440547,2020,Regionalliga Südwest
+08.05.2021,14:00,SV Elversberg,Kickers Offenbach,x,3,0,/spielbericht/index/spielbericht/3440558,2020,Regionalliga Südwest
+15.05.2021,14:00,Kickers Offenbach,RW Koblenz,x,4,2,/spielbericht/index/spielbericht/3440565,2020,Regionalliga Südwest
+22.05.2021,14:00,FSV Frankfurt,Kickers Offenbach,x,0,0,/spielbericht/index/spielbericht/3440580,2020,Regionalliga Südwest
+01.06.2021,19:00,Kickers Offenbach,FCA Walldorf,x,6,1,/spielbericht/index/spielbericht/3440585,2020,Regionalliga Südwest
+05.06.2021,14:00,VfR Aalen,Kickers Offenbach,100,0,2,/spielbericht/index/spielbericht/3440602,2020,Regionalliga Südwest
+11.06.2021,19:00,Kickers Offenbach,FSV Mainz 05 II,2.200,1,0,/spielbericht/index/spielbericht/3440605,2020,Regionalliga Südwest
+,,Hünfelder SV,Kickers Offenbach,,,,/spielbericht/index/spielbericht/3495630,2020,Landespokal Hessen
+28.04.2021,17:30,Bayern Alzenau,Kickers Offenbach,x,2,1,/spielbericht/index/spielbericht/3556589,2020,Landespokal Hessen
+14.08.2021,14:00,Kickers Offenbach,FC 08 Homburg,4.501,1,0,/spielbericht/index/spielbericht/3617125,2021,Regionalliga Südwest
+21.08.2021,14:00,SV Elversberg,Kickers Offenbach,2.092,1,2,/spielbericht/index/spielbericht/3617117,2021,Regionalliga Südwest
+28.08.2021,14:00,Kickers Offenbach,SSV Ulm 1846,5.174,1,2,/spielbericht/index/spielbericht/3617152,2021,Regionalliga Südwest
+04.09.2021,14:00,RW Koblenz,Kickers Offenbach,720,1,1,/spielbericht/index/spielbericht/3617159,2021,Regionalliga Südwest
+10.09.2021,19:00,Kickers Offenbach,Hoffenheim II,4.606,1,0,/spielbericht/index/spielbericht/3617188,2021,Regionalliga Südwest
+14.09.2021,18:30,Hessen Kassel,Kickers Offenbach,3.102,0,0,/spielbericht/index/spielbericht/3617140,2021,Regionalliga Südwest
+19.09.2021,14:00,Kickers Offenbach,FCA Walldorf,4.367,2,0,/spielbericht/index/spielbericht/3617170,2021,Regionalliga Südwest
+25.09.2021,14:00,FSV Mainz 05 II,Kickers Offenbach,1.005,2,0,/spielbericht/index/spielbericht/3617173,2021,Regionalliga Südwest
+28.09.2021,19:00,Kickers Offenbach,Schott Mainz,4.100,0,1,/spielbericht/index/spielbericht/3617197,2021,Regionalliga Südwest
+02.10.2021,14:00,FK Pirmasens,Kickers Offenbach,800,0,2,/spielbericht/index/spielbericht/3617207,2021,Regionalliga Südwest
+09.10.2021,14:00,Kickers Offenbach,Bahlinger SC,4.372,1,0,/spielbericht/index/spielbericht/3617224,2021,Regionalliga Südwest
+17.10.2021,14:00,TSG Balingen,Kickers Offenbach,750,1,6,/spielbericht/index/spielbericht/3617214,2021,Regionalliga Südwest
+22.10.2021,19:00,Kickers Offenbach,VfR Aalen,5.071,4,0,/spielbericht/index/spielbericht/3617233,2021,Regionalliga Südwest
+26.10.2021,16:00,FC Gießen,Kickers Offenbach,1.200,0,3,/spielbericht/index/spielbericht/3617240,2021,Regionalliga Südwest
+31.10.2021,14:00,Kickers Offenbach,TSV Steinbach,6.119,4,0,/spielbericht/index/spielbericht/3617260,2021,Regionalliga Südwest
+05.11.2021,19:00,Sonnenhof-Gr.,Kickers Offenbach,1.100,3,2,/spielbericht/index/spielbericht/3617339,2021,Regionalliga Südwest
+14.11.2021,14:00,Kickers Offenbach,Stuttgart II,4.751,3,1,/spielbericht/index/spielbericht/3617278,2021,Regionalliga Südwest
+21.11.2021,14:00,FSV Frankfurt,Kickers Offenbach,3.616,0,2,/spielbericht/index/spielbericht/3617341,2021,Regionalliga Südwest
+28.11.2021,14:00,FC 08 Homburg,Kickers Offenbach,1.344,0,1,/spielbericht/index/spielbericht/3617251,2021,Regionalliga Südwest
+05.12.2021,14:00,Kickers Offenbach,SV Elversberg,5.173,3,1,/spielbericht/index/spielbericht/3617297,2021,Regionalliga Südwest
+18.12.2021,14:00,SSV Ulm 1846,Kickers Offenbach,580,1,0,/spielbericht/index/spielbericht/3617287,2021,Regionalliga Südwest
+11.02.2022,19:00,Kickers Offenbach,RW Koblenz,6.119,0,1,/spielbericht/index/spielbericht/3617267,2021,Regionalliga Südwest
+20.02.2022,14:00,Hoffenheim II,Kickers Offenbach,599,2,2,/spielbericht/index/spielbericht/3617413,2021,Regionalliga Südwest
+27.02.2022,14:00,Kickers Offenbach,Hessen Kassel,5.842,0,1,/spielbericht/index/spielbericht/3617363,2021,Regionalliga Südwest
+06.03.2022,14:00,FCA Walldorf,Kickers Offenbach,800,1,2,/spielbericht/index/spielbericht/3617418,2021,Regionalliga Südwest
+12.03.2022,14:00,Kickers Offenbach,FSV Mainz 05 II,6.219,2,0,/spielbericht/index/spielbericht/3617308,2021,Regionalliga Südwest
+20.03.2022,14:00,Schott Mainz,Kickers Offenbach,1.521,0,2,/spielbericht/index/spielbericht/3617305,2021,Regionalliga Südwest
+26.03.2022,14:00,Kickers Offenbach,FK Pirmasens,6.019,3,0,/spielbericht/index/spielbericht/3617432,2021,Regionalliga Südwest
+13.04.2022,17:00,Bahlinger SC,Kickers Offenbach,1.060,1,3,/spielbericht/index/spielbericht/3617422,2021,Regionalliga Südwest
+19.04.2022,19:00,Kickers Offenbach,TSG Balingen,6.101,1,1,/spielbericht/index/spielbericht/3617448,2021,Regionalliga Südwest
+10.04.2022,14:00,VfR Aalen,Kickers Offenbach,1.481,0,2,/spielbericht/index/spielbericht/3617435,2021,Regionalliga Südwest
+16.04.2022,14:00,Kickers Offenbach,FC Gießen,6.121,2,0,/spielbericht/index/spielbericht/3617390,2021,Regionalliga Südwest
+23.04.2022,14:00,TSV Steinbach,Kickers Offenbach,2.269,3,0,/spielbericht/index/spielbericht/3617400,2021,Regionalliga Südwest
+01.05.2022,14:00,Kickers Offenbach,Sonnenhof-Gr.,4.869,1,0,/spielbericht/index/spielbericht/3617367,2021,Regionalliga Südwest
+07.05.2022,14:00,Stuttgart II,Kickers Offenbach,550,2,4,/spielbericht/index/spielbericht/3617436,2021,Regionalliga Südwest
+14.05.2022,14:00,Kickers Offenbach,FSV Frankfurt,6.176,4,0,/spielbericht/index/spielbericht/3617346,2021,Regionalliga Südwest
+24.11.2021,18:30,Königstein,Kickers Offenbach,800,1,2,/spielbericht/index/spielbericht/3686064,2021,Landespokal Hessen
+23.02.2022,19:30,FV Biebrich 02,Kickers Offenbach,610,0,4,/spielbericht/index/spielbericht/3710237,2021,Landespokal Hessen
+23.03.2022,19:00,FSV Fernwald,Kickers Offenbach,650,1,3,/spielbericht/index/spielbericht/3758658,2021,Landespokal Hessen
+27.04.2022,20:00,Kickers Offenbach,FSV Frankfurt,4.072,4,0,/spielbericht/index/spielbericht/3777141,2021,Landespokal Hessen
+21.05.2022,12:15,TSV Steinbach,Kickers Offenbach,3.587,0,1,/spielbericht/index/spielbericht/3807226,2021,Landespokal Hessen
+07.08.2022,14:00,Wormatia Worms,Kickers Offenbach,3.756,1,0,/spielbericht/index/spielbericht/3866445,2022,Regionalliga Südwest
+12.08.2022,19:00,Kickers Offenbach,Hoffenheim II,6.119,5,2,/spielbericht/index/spielbericht/3866453,2022,Regionalliga Südwest
+21.08.2022,14:00,RW Koblenz,Kickers Offenbach,1.280,1,0,/spielbericht/index/spielbericht/3866461,2022,Regionalliga Südwest
+28.08.2022,14:00,Kickers Offenbach,FSV Frankfurt,6.735,3,1,/spielbericht/index/spielbericht/3866471,2022,Regionalliga Südwest
+03.09.2022,14:00,SGV Freiberg,Kickers Offenbach,800,2,2,/spielbericht/index/spielbericht/3866485,2022,Regionalliga Südwest
+10.09.2022,14:00,Kickers Offenbach,VfR Aalen,5.244,3,1,/spielbericht/index/spielbericht/3866924,2022,Regionalliga Südwest
+13.09.2022,19:00,TSG Balingen,Kickers Offenbach,832,1,1,/spielbericht/index/spielbericht/3866946,2022,Regionalliga Südwest
+17.09.2022,14:00,Kickers Offenbach,FC 08 Homburg,5.499,1,2,/spielbericht/index/spielbericht/3866934,2022,Regionalliga Südwest
+24.09.2022,14:00,Hessen Kassel,Kickers Offenbach,4.026,0,1,/spielbericht/index/spielbericht/3866953,2022,Regionalliga Südwest
+30.09.2022,19:00,Kickers Offenbach,SG Barockstadt,6.561,1,1,/spielbericht/index/spielbericht/3866961,2022,Regionalliga Südwest
+07.10.2022,19:00,Kickers Offenbach,FCA Walldorf,5.240,3,0,/spielbericht/index/spielbericht/3866970,2022,Regionalliga Südwest
+16.10.2022,14:00,Stuttgart II,Kickers Offenbach,550,0,2,/spielbericht/index/spielbericht/3866977,2022,Regionalliga Südwest
+21.10.2022,19:00,Kickers Offenbach,SSV Ulm 1846,7.577,3,1,/spielbericht/index/spielbericht/3867150,2022,Regionalliga Südwest
+29.10.2022,14:00,TSV Steinbach,Kickers Offenbach,2.870,3,2,/spielbericht/index/spielbericht/3867011,2022,Regionalliga Südwest
+05.11.2022,14:00,Kickers Offenbach,FSV Mainz 05 II,5.691,1,1,/spielbericht/index/spielbericht/3867015,2022,Regionalliga Südwest
+13.11.2022,14:00,Bahlinger SC,Kickers Offenbach,900,1,2,/spielbericht/index/spielbericht/3866994,2022,Regionalliga Südwest
+18.11.2022,19:00,Kickers Offenbach,Eintracht Trier,6.521,2,1,/spielbericht/index/spielbericht/3866991,2022,Regionalliga Südwest
+26.11.2022,14:00,Kickers Offenbach,Wormatia Worms,5.562,3,0,/spielbericht/index/spielbericht/3867034,2022,Regionalliga Südwest
+03.12.2022,14:00,Hoffenheim II,Kickers Offenbach,530,3,1,/spielbericht/index/spielbericht/3867087,2022,Regionalliga Südwest
+10.12.2022,14:00,Kickers Offenbach,RW Koblenz,5.236,1,0,/spielbericht/index/spielbericht/3867050,2022,Regionalliga Südwest
+05.03.2023,13:00,FSV Frankfurt,Kickers Offenbach,6.426,0,1,/spielbericht/index/spielbericht/3867069,2022,Regionalliga Südwest
+10.03.2023,19:00,Kickers Offenbach,SGV Freiberg,5.864,2,1,/spielbericht/index/spielbericht/3867110,2022,Regionalliga Südwest
+18.03.2023,14:00,VfR Aalen,Kickers Offenbach,1.499,2,0,/spielbericht/index/spielbericht/3867168,2022,Regionalliga Südwest
+24.03.2023,14:00,Kickers Offenbach,TSG Balingen,6.081,2,1,/spielbericht/index/spielbericht/3867063,2022,Regionalliga Südwest
+01.04.2023,14:00,FC 08 Homburg,Kickers Offenbach,1.880,1,1,/spielbericht/index/spielbericht/3867177,2022,Regionalliga Südwest
+05.04.2023,19:00,Kickers Offenbach,Hessen Kassel,6.769,0,0,/spielbericht/index/spielbericht/3867124,2022,Regionalliga Südwest
+08.04.2023,14:00,SG Barockstadt,Kickers Offenbach,2.604,3,1,/spielbericht/index/spielbericht/3867078,2022,Regionalliga Südwest
+14.04.2023,19:00,FCA Walldorf,Kickers Offenbach,588,1,1,/spielbericht/index/spielbericht/3867141,2022,Regionalliga Südwest
+21.04.2023,19:00,Kickers Offenbach,Stuttgart II,5.610,0,1,/spielbericht/index/spielbericht/3867022,2022,Regionalliga Südwest
+30.04.2023,14:00,SSV Ulm 1846,Kickers Offenbach,8.432,1,0,/spielbericht/index/spielbericht/3867096,2022,Regionalliga Südwest
+06.05.2023,14:00,Kickers Offenbach,TSV Steinbach,5.243,0,2,/spielbericht/index/spielbericht/3867047,2022,Regionalliga Südwest
+13.05.2023,15:00,FSV Mainz 05 II,Kickers Offenbach,605,2,0,/spielbericht/index/spielbericht/3867159,2022,Regionalliga Südwest
+19.05.2023,19:00,Kickers Offenbach,Bahlinger SC,5.178,2,1,/spielbericht/index/spielbericht/3867135,2022,Regionalliga Südwest
+27.05.2023,14:00,Eintracht Trier,Kickers Offenbach,2.202,0,1,/spielbericht/index/spielbericht/3867114,2022,Regionalliga Südwest
+30.07.2022,18:01,Kickers Offenbach,F. Düsseldorf,16.620,1,4,/spielbericht/index/spielbericht/3825601,2022,DFB-Pokal
+02.11.2022,19:30,TG Friedberg,Kickers Offenbach,1.700,1,3,/spielbericht/index/spielbericht/3925999,2022,Landespokal Hessen
+25.02.2023,14:00,SG Barockstadt,Kickers Offenbach,2.572,0,1,/spielbericht/index/spielbericht/3953923,2022,Landespokal Hessen
+25.04.2023,19:00,FSV Frankfurt,Kickers Offenbach,4.517,3,2,/spielbericht/index/spielbericht/4031990,2022,Landespokal Hessen
+04.08.2023,20:00,Kickers Offenbach,Stuttg. Kickers,11.433,0,1,/spielbericht/index/spielbericht/4110773,2023,Regionalliga Südwest
+11.08.2023,19:00,VfR Aalen,Kickers Offenbach,1.720,2,1,/spielbericht/index/spielbericht/4110783,2023,Regionalliga Südwest
+20.08.2023,16:00,Kickers Offenbach,E. Frankfurt II,7.811,3,2,/spielbericht/index/spielbericht/4110799,2023,Regionalliga Südwest
+26.08.2023,14:00,Hoffenheim II,Kickers Offenbach,760,1,2,/spielbericht/index/spielbericht/4110808,2023,Regionalliga Südwest
+29.08.2023,19:00,Kickers Offenbach,SG Barockstadt,7.011,1,1,/spielbericht/index/spielbericht/4113527,2023,Regionalliga Südwest
+02.09.2023,14:00,Schott Mainz,Kickers Offenbach,1.512,2,1,/spielbericht/index/spielbericht/4113687,2023,Regionalliga Südwest
+09.09.2023,14:00,Kickers Offenbach,Bahlinger SC,5.123,5,2,/spielbericht/index/spielbericht/4113725,2023,Regionalliga Südwest
+16.09.2023,16:00,FSV Frankfurt,Kickers Offenbach,6.426,1,1,/spielbericht/index/spielbericht/4113739,2023,Regionalliga Südwest
+22.09.2023,19:00,Kickers Offenbach,Stuttgart II,6.210,2,2,/spielbericht/index/spielbericht/4113671,2023,Regionalliga Südwest
+29.09.2023,19:00,FCA Walldorf,Kickers Offenbach,908,1,0,/spielbericht/index/spielbericht/4113683,2023,Regionalliga Südwest
+03.10.2023,14:00,Kickers Offenbach,SGV Freiberg,5.566,2,0,/spielbericht/index/spielbericht/4113761,2023,Regionalliga Südwest
+07.10.2023,14:00,FC 08 Homburg,Kickers Offenbach,2.577,2,1,/spielbericht/index/spielbericht/4113699,2023,Regionalliga Südwest
+14.10.2023,14:00,TSG Balingen,Kickers Offenbach,950,2,3,/spielbericht/index/spielbericht/4113660,2023,Regionalliga Südwest
+20.10.2023,19:00,Kickers Offenbach,TuS Koblenz,5.790,1,1,/spielbericht/index/spielbericht/4113779,2023,Regionalliga Südwest
+27.10.2023,19:00,Hessen Kassel,Kickers Offenbach,7.315,1,2,/spielbericht/index/spielbericht/4113569,2023,Regionalliga Südwest
+04.11.2023,14:00,Kickers Offenbach,FSV Mainz 05 II,5.078,1,3,/spielbericht/index/spielbericht/4113743,2023,Regionalliga Südwest
+11.11.2023,14:00,TSV Steinbach,Kickers Offenbach,1.952,1,2,/spielbericht/index/spielbericht/4113792,2023,Regionalliga Südwest
+18.11.2023,14:00,Stuttg. Kickers,Kickers Offenbach,6.590,1,0,/spielbericht/index/spielbericht/4113716,2023,Regionalliga Südwest
+24.11.2023,19:00,Kickers Offenbach,VfR Aalen,5.013,1,0,/spielbericht/index/spielbericht/4113772,2023,Regionalliga Südwest
+03.12.2023,18:00,E. Frankfurt II,Kickers Offenbach,5.023,1,1,/spielbericht/index/spielbericht/4113752,2023,Regionalliga Südwest
+09.12.2023,14:00,Kickers Offenbach,Hoffenheim II,4.574,0,1,/spielbericht/index/spielbericht/4113707,2023,Regionalliga Südwest
+03.03.2024,14:00,SG Barockstadt,Kickers Offenbach,3.872,0,0,/spielbericht/index/spielbericht/4113545,2023,Regionalliga Südwest
+09.03.2024,14:00,Kickers Offenbach,Schott Mainz,5.247,6,1,/spielbericht/index/spielbericht/4113534,2023,Regionalliga Südwest
+17.03.2024,14:00,Bahlinger SC,Kickers Offenbach,1.047,2,1,/spielbericht/index/spielbericht/4113554,2023,Regionalliga Südwest
+23.03.2024,14:00,Kickers Offenbach,FSV Frankfurt,7.358,3,0,/spielbericht/index/spielbericht/4113577,2023,Regionalliga Südwest
+30.03.2024,14:00,Stuttgart II,Kickers Offenbach,650,0,1,/spielbericht/index/spielbericht/4113590,2023,Regionalliga Südwest
+02.04.2024,19:00,Kickers Offenbach,FCA Walldorf,5.247,5,0,/spielbericht/index/spielbericht/4113611,2023,Regionalliga Südwest
+06.04.2024,14:00,SGV Freiberg,Kickers Offenbach,1.020,2,2,/spielbericht/index/spielbericht/4113599,2023,Regionalliga Südwest
+12.04.2024,19:00,Kickers Offenbach,FC 08 Homburg,6.117,3,5,/spielbericht/index/spielbericht/4113582,2023,Regionalliga Südwest
+20.04.2024,14:00,Kickers Offenbach,TSG Balingen,5.052,5,0,/spielbericht/index/spielbericht/4113615,2023,Regionalliga Südwest
+27.04.2024,14:00,TuS Koblenz,Kickers Offenbach,1.830,3,1,/spielbericht/index/spielbericht/4113626,2023,Regionalliga Südwest
+04.05.2024,14:00,Kickers Offenbach,Hessen Kassel,6.471,1,2,/spielbericht/index/spielbericht/4113650,2023,Regionalliga Südwest
+11.05.2024,14:00,FSV Mainz 05 II,Kickers Offenbach,750,3,0,/spielbericht/index/spielbericht/4113635,2023,Regionalliga Südwest
+18.05.2024,15:00,Kickers Offenbach,TSV Steinbach,5.063,0,3,/spielbericht/index/spielbericht/4113657,2023,Regionalliga Südwest
+13.03.2024,19:00,SV Steinbach,Kickers Offenbach,1.150,1,6,/spielbericht/index/spielbericht/4234418,2023,Landespokal Hessen
+16.04.2024,17:30,FSV Wolfhagen,Kickers Offenbach,1.300,1,4,/spielbericht/index/spielbericht/4311416,2023,Landespokal Hessen
+30.04.2024,19:00,SG Barockstadt,Kickers Offenbach,4.279,6,7,/spielbericht/index/spielbericht/4329869,2023,Landespokal Hessen
+25.05.2024,16:45,TG Friedberg,Kickers Offenbach,8.472,2,3,/spielbericht/index/spielbericht/4339452,2023,Landespokal Hessen
+27.07.2024,14:00,SC Freiburg II,Kickers Offenbach,1.905,2,2,/spielbericht/index/spielbericht/4392503,2024,Regionalliga Südwest
+03.08.2024,14:00,Kickers Offenbach,FSV Frankfurt,7.456,5,0,/spielbericht/index/spielbericht/4392519,2024,Regionalliga Südwest
+10.08.2024,14:00,SGV Freiberg,Kickers Offenbach,1.132,0,0,/spielbericht/index/spielbericht/4392544,2024,Regionalliga Südwest
+28.08.2024,19:00,Kickers Offenbach,Hoffenheim II,6.570,0,0,/spielbericht/index/spielbericht/4392555,2024,Regionalliga Südwest
+25.08.2024,14:00,Bahlinger SC,Kickers Offenbach,1.668,1,5,/spielbericht/index/spielbericht/4392533,2024,Regionalliga Südwest
+01.09.2024,14:00,Kickers Offenbach,SG Barockstadt,6.376,2,1,/spielbericht/index/spielbericht/4392528,2024,Regionalliga Südwest
+08.09.2024,14:00,Eintracht Trier,Kickers Offenbach,5.402,0,3,/spielbericht/index/spielbericht/4392558,2024,Regionalliga Südwest
+13.09.2024,19:00,Kickers Offenbach,Stuttg. Kickers,10.451,2,0,/spielbericht/index/spielbericht/4392600,2024,Regionalliga Südwest
+20.09.2024,19:00,FSV Mainz 05 II,Kickers Offenbach,2.069,4,2,/spielbericht/index/spielbericht/4392613,2024,Regionalliga Südwest
+29.09.2024,14:00,Kickers Offenbach,Hessen Kassel,7.529,6,2,/spielbericht/index/spielbericht/4392582,2024,Regionalliga Südwest
+06.10.2024,17:30,E. Frankfurt II,Kickers Offenbach,3.711,0,0,/spielbericht/index/spielbericht/4392589,2024,Regionalliga Südwest
+11.10.2024,19:00,Kickers Offenbach,FC 08 Homburg,7.106,5,1,/spielbericht/index/spielbericht/4392573,2024,Regionalliga Südwest
+19.10.2024,14:00,FC 08 Villingen,Kickers Offenbach,1.543,3,2,/spielbericht/index/spielbericht/4392650,2024,Regionalliga Südwest
+25.10.2024,19:00,Kickers Offenbach,FC Gießen,6.511,1,1,/spielbericht/index/spielbericht/4392609,2024,Regionalliga Südwest
+03.11.2024,14:00,FCA Walldorf,Kickers Offenbach,1.108,0,2,/spielbericht/index/spielbericht/4392666,2024,Regionalliga Südwest
+09.11.2024,14:00,Kickers Offenbach,1. Göppinger SV,5.620,4,1,/spielbericht/index/spielbericht/4392636,2024,Regionalliga Südwest
+16.11.2024,14:00,TSV Steinbach,Kickers Offenbach,2.687,1,0,/spielbericht/index/spielbericht/4392736,2024,Regionalliga Südwest
+23.11.2024,14:00,Kickers Offenbach,SC Freiburg II,5.089,3,1,/spielbericht/index/spielbericht/4392619,2024,Regionalliga Südwest
+01.12.2024,15:30,FSV Frankfurt,Kickers Offenbach,7.313,0,1,/spielbericht/index/spielbericht/4392657,2024,Regionalliga Südwest
+06.12.2024,19:00,Kickers Offenbach,SGV Freiberg,6.687,0,2,/spielbericht/index/spielbericht/4392679,2024,Regionalliga Südwest
+22.02.2025,14:00,Hoffenheim II,Kickers Offenbach,3.480,1,1,/spielbericht/index/spielbericht/4392645,2024,Regionalliga Südwest
+02.03.2025,14:00,Kickers Offenbach,Bahlinger SC,6.417,3,0,/spielbericht/index/spielbericht/4392713,2024,Regionalliga Südwest
+08.03.2025,14:00,SG Barockstadt,Kickers Offenbach,4.185,0,3,/spielbericht/index/spielbericht/4392690,2024,Regionalliga Südwest
+15.03.2025,14:00,Kickers Offenbach,Eintracht Trier,9.723,2,2,/spielbericht/index/spielbericht/4392693,2024,Regionalliga Südwest
+22.03.2025,14:00,Stuttg. Kickers,Kickers Offenbach,8.740,1,1,/spielbericht/index/spielbericht/4392726,2024,Regionalliga Südwest
+29.03.2025,14:00,Kickers Offenbach,FSV Mainz 05 II,6.141,3,2,/spielbericht/index/spielbericht/4392735,2024,Regionalliga Südwest
+01.04.2025,19:00,Hessen Kassel,Kickers Offenbach,7.314,4,1,/spielbericht/index/spielbericht/4392708,2024,Regionalliga Südwest
+05.04.2025,14:00,Kickers Offenbach,E. Frankfurt II,6.887,1,0,/spielbericht/index/spielbericht/4392751,2024,Regionalliga Südwest
+11.04.2025,19:00,FC 08 Homburg,Kickers Offenbach,1.820,5,1,/spielbericht/index/spielbericht/4392762,2024,Regionalliga Südwest
+17.04.2025,19:00,Kickers Offenbach,FC 08 Villingen,5.215,3,1,/spielbericht/index/spielbericht/4392785,2024,Regionalliga Südwest
+27.04.2025,14:00,FC Gießen,Kickers Offenbach,2.102,1,1,/spielbericht/index/spielbericht/4392771,2024,Regionalliga Südwest
+03.05.2025,14:00,Kickers Offenbach,FCA Walldorf,5.074,3,2,/spielbericht/index/spielbericht/4392801,2024,Regionalliga Südwest
+10.05.2025,14:00,1. Göppinger SV,Kickers Offenbach,1.400,2,2,/spielbericht/index/spielbericht/4392780,2024,Regionalliga Südwest
+17.05.2025,14:00,Kickers Offenbach,TSV Steinbach,6.183,5,1,/spielbericht/index/spielbericht/4392790,2024,Regionalliga Südwest
+19.08.2024,18:00,Kickers Offenbach,1.FC Magdeburg,16.847,2,1,/spielbericht/index/spielbericht/4353911,2024,DFB-Pokal
+29.10.2024,18:00,Kickers Offenbach,Karlsruher SC,20.071,0,2,/spielbericht/index/spielbericht/4446789,2024,DFB-Pokal
+27.11.2024,19:00,SF/BG Marburg,Kickers Offenbach,1.450,0,3,/spielbericht/index/spielbericht/4471972,2024,Landespokal Hessen
+19.03.2025,19:00,Kickers Offenbach,Wehen Wiesbaden,6.261,0,4,/spielbericht/index/spielbericht/4471980,2024,Landespokal Hessen

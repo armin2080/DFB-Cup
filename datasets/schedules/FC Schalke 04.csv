@@ -1,0 +1,417 @@
+date,time,home_team,away_team,participants,home_score,away_score,match_link,season,competition
+23.08.2014,15:30,Hannover 96,FC Schalke 04,49.000,2,1,/spielbericht/index/spielbericht/2460630,2014,Bundesliga
+30.08.2014,18:30,FC Schalke 04,Bayern München,61.973,1,1,/spielbericht/index/spielbericht/2460635,2014,Bundesliga
+13.09.2014,18:30,Bor. M'gladbach,FC Schalke 04,54.010,4,1,/spielbericht/index/spielbericht/2460647,2014,Bundesliga
+20.09.2014,15:30,FC Schalke 04,E. Frankfurt,61.798,2,2,/spielbericht/index/spielbericht/2460653,2014,Bundesliga
+23.09.2014,20:00,Werder Bremen,FC Schalke 04,40.139,0,3,/spielbericht/index/spielbericht/2460669,2014,Bundesliga
+27.09.2014,15:30,FC Schalke 04,Bor. Dortmund,61.973,2,1,/spielbericht/index/spielbericht/2460671,2014,Bundesliga
+04.10.2014,15:30,TSG Hoffenheim,FC Schalke 04,30.000,2,1,/spielbericht/index/spielbericht/2460685,2014,Bundesliga
+18.10.2014,18:30,FC Schalke 04,Hertha BSC,61.973,2,0,/spielbericht/index/spielbericht/2460690,2014,Bundesliga
+25.10.2014,18:30,B. Leverkusen,FC Schalke 04,30.210,1,0,/spielbericht/index/spielbericht/2460699,2014,Bundesliga
+31.10.2014,20:30,FC Schalke 04,FC Augsburg,60.954,1,0,/spielbericht/index/spielbericht/2460708,2014,Bundesliga
+08.11.2014,15:30,SC Freiburg,FC Schalke 04,24.000,2,0,/spielbericht/index/spielbericht/2460724,2014,Bundesliga
+22.11.2014,15:30,FC Schalke 04,VfL Wolfsburg,60.989,3,2,/spielbericht/index/spielbericht/2460726,2014,Bundesliga
+29.11.2014,15:30,FC Schalke 04,1.FSV Mainz 05,60.904,4,1,/spielbericht/index/spielbericht/2460734,2014,Bundesliga
+06.12.2014,15:30,VfB Stuttgart,FC Schalke 04,44.700,0,4,/spielbericht/index/spielbericht/2460748,2014,Bundesliga
+13.12.2014,15:30,FC Schalke 04,1.FC Köln,61.516,1,2,/spielbericht/index/spielbericht/2460752,2014,Bundesliga
+17.12.2014,20:00,SC Paderborn,FC Schalke 04,15.000,1,2,/spielbericht/index/spielbericht/2460769,2014,Bundesliga
+20.12.2014,15:30,FC Schalke 04,Hamburger SV,61.973,0,0,/spielbericht/index/spielbericht/2460770,2014,Bundesliga
+31.01.2015,15:30,FC Schalke 04,Hannover 96,61.646,1,0,/spielbericht/index/spielbericht/2460779,2014,Bundesliga
+03.02.2015,20:00,Bayern München,FC Schalke 04,75.000,1,1,/spielbericht/index/spielbericht/2460788,2014,Bundesliga
+06.02.2015,20:40,FC Schalke 04,Bor. M'gladbach,61.973,1,0,/spielbericht/index/spielbericht/2460797,2014,Bundesliga
+14.02.2015,18:30,E. Frankfurt,FC Schalke 04,50.400,1,0,/spielbericht/index/spielbericht/2460814,2014,Bundesliga
+21.02.2015,15:30,FC Schalke 04,Werder Bremen,61.973,1,1,/spielbericht/index/spielbericht/2460815,2014,Bundesliga
+28.02.2015,15:30,Bor. Dortmund,FC Schalke 04,79.500,3,0,/spielbericht/index/spielbericht/2460825,2014,Bundesliga
+07.03.2015,15:30,FC Schalke 04,TSG Hoffenheim,60.607,3,1,/spielbericht/index/spielbericht/2460833,2014,Bundesliga
+14.03.2015,15:30,Hertha BSC,FC Schalke 04,59.156,2,2,/spielbericht/index/spielbericht/2460848,2014,Bundesliga
+21.03.2015,18:30,FC Schalke 04,B. Leverkusen,61.973,0,1,/spielbericht/index/spielbericht/2460852,2014,Bundesliga
+05.04.2015,15:30,FC Augsburg,FC Schalke 04,30.660,0,0,/spielbericht/index/spielbericht/2460863,2014,Bundesliga
+11.04.2015,15:30,FC Schalke 04,SC Freiburg,61.471,0,0,/spielbericht/index/spielbericht/2460870,2014,Bundesliga
+19.04.2015,17:30,VfL Wolfsburg,FC Schalke 04,30.000,1,1,/spielbericht/index/spielbericht/2460880,2014,Bundesliga
+24.04.2015,20:30,1.FSV Mainz 05,FC Schalke 04,34.000,2,0,/spielbericht/index/spielbericht/2460890,2014,Bundesliga
+02.05.2015,15:30,FC Schalke 04,VfB Stuttgart,61.973,3,2,/spielbericht/index/spielbericht/2460896,2014,Bundesliga
+10.05.2015,17:30,1.FC Köln,FC Schalke 04,46.500,2,0,/spielbericht/index/spielbericht/2460912,2014,Bundesliga
+16.05.2015,15:30,FC Schalke 04,SC Paderborn,61.973,1,0,/spielbericht/index/spielbericht/2460914,2014,Bundesliga
+23.05.2015,15:30,Hamburger SV,FC Schalke 04,57.000,2,0,/spielbericht/index/spielbericht/2460929,2014,Bundesliga
+17.09.2014,20:45,FC Chelsea,FC Schalke 04,40.648,1,1,/spielbericht/index/spielbericht/2490854,2014,UEFA Champions League
+30.09.2014,20:45,FC Schalke 04,NK Maribor,47.997,1,1,/spielbericht/index/spielbericht/2495299,2014,UEFA Champions League
+21.10.2014,20:45,FC Schalke 04,Sporting,49.943,4,3,/spielbericht/index/spielbericht/2495314,2014,UEFA Champions League
+05.11.2014,20:45,Sporting,FC Schalke 04,35.473,4,2,/spielbericht/index/spielbericht/2495339,2014,UEFA Champions League
+25.11.2014,20:45,FC Schalke 04,FC Chelsea,54.442,0,5,/spielbericht/index/spielbericht/2495347,2014,UEFA Champions League
+10.12.2014,20:45,NK Maribor,FC Schalke 04,12.516,0,1,/spielbericht/index/spielbericht/2495370,2014,UEFA Champions League
+18.02.2015,20:45,FC Schalke 04,Real Madrid,54.442,0,2,/spielbericht/index/spielbericht/2517516,2014,UEFA Champions League
+10.03.2015,20:45,Real Madrid,FC Schalke 04,69.986,3,4,/spielbericht/index/spielbericht/2517524,2014,UEFA Champions League
+15.08.2015,15:30,Werder Bremen,FC Schalke 04,42.100,0,3,/spielbericht/index/spielbericht/2581149,2015,Bundesliga
+22.08.2015,15:30,FC Schalke 04,Darmstadt 98,61.565,1,1,/spielbericht/index/spielbericht/2581174,2015,Bundesliga
+28.08.2015,20:30,VfL Wolfsburg,FC Schalke 04,30.000,3,0,/spielbericht/index/spielbericht/2581185,2015,Bundesliga
+13.09.2015,17:30,FC Schalke 04,1.FSV Mainz 05,60.083,2,1,/spielbericht/index/spielbericht/2581193,2015,Bundesliga
+20.09.2015,15:30,VfB Stuttgart,FC Schalke 04,48.510,0,1,/spielbericht/index/spielbericht/2581636,2015,Bundesliga
+23.09.2015,20:00,FC Schalke 04,E. Frankfurt,60.104,2,0,/spielbericht/index/spielbericht/2581643,2015,Bundesliga
+26.09.2015,18:30,Hamburger SV,FC Schalke 04,53.192,0,1,/spielbericht/index/spielbericht/2581653,2015,Bundesliga
+04.10.2015,15:30,FC Schalke 04,1.FC Köln,61.723,0,3,/spielbericht/index/spielbericht/2581667,2015,Bundesliga
+17.10.2015,15:30,FC Schalke 04,Hertha BSC,61.336,2,1,/spielbericht/index/spielbericht/2581675,2015,Bundesliga
+25.10.2015,17:30,Bor. M'gladbach,FC Schalke 04,54.010,3,1,/spielbericht/index/spielbericht/2581693,2015,Bundesliga
+31.10.2015,15:30,FC Schalke 04,FC Ingolstadt,60.144,1,1,/spielbericht/index/spielbericht/2581699,2015,Bundesliga
+08.11.2015,15:30,Bor. Dortmund,FC Schalke 04,79.956,3,2,/spielbericht/index/spielbericht/2581715,2015,Bundesliga
+21.11.2015,18:30,FC Schalke 04,Bayern München,62.271,1,3,/spielbericht/index/spielbericht/2581723,2015,Bundesliga
+29.11.2015,17:30,B. Leverkusen,FC Schalke 04,30.210,1,1,/spielbericht/index/spielbericht/2581740,2015,Bundesliga
+04.12.2015,20:30,FC Schalke 04,Hannover 96,61.229,3,1,/spielbericht/index/spielbericht/2581753,2015,Bundesliga
+13.12.2015,15:30,FC Augsburg,FC Schalke 04,28.410,2,1,/spielbericht/index/spielbericht/2581766,2015,Bundesliga
+18.12.2015,20:30,FC Schalke 04,TSG Hoffenheim,60.749,1,0,/spielbericht/index/spielbericht/2581777,2015,Bundesliga
+24.01.2016,17:30,FC Schalke 04,Werder Bremen,62.271,1,3,/spielbericht/index/spielbericht/2581786,2015,Bundesliga
+30.01.2016,15:30,Darmstadt 98,FC Schalke 04,17.000,0,2,/spielbericht/index/spielbericht/2581815,2015,Bundesliga
+06.02.2016,15:30,FC Schalke 04,VfL Wolfsburg,61.483,3,0,/spielbericht/index/spielbericht/2581822,2015,Bundesliga
+12.02.2016,20:30,1.FSV Mainz 05,FC Schalke 04,32.107,2,1,/spielbericht/index/spielbericht/2581850,2015,Bundesliga
+21.02.2016,17:30,FC Schalke 04,VfB Stuttgart,61.262,1,1,/spielbericht/index/spielbericht/2581853,2015,Bundesliga
+28.02.2016,19:30,E. Frankfurt,FC Schalke 04,43.500,0,0,/spielbericht/index/spielbericht/2581873,2015,Bundesliga
+02.03.2016,20:00,FC Schalke 04,Hamburger SV,60.856,3,2,/spielbericht/index/spielbericht/2581889,2015,Bundesliga
+05.03.2016,15:30,1.FC Köln,FC Schalke 04,49.300,1,3,/spielbericht/index/spielbericht/2581910,2015,Bundesliga
+11.03.2016,20:30,Hertha BSC,FC Schalke 04,51.424,2,0,/spielbericht/index/spielbericht/2581923,2015,Bundesliga
+18.03.2016,20:30,FC Schalke 04,Bor. M'gladbach,62.271,2,1,/spielbericht/index/spielbericht/2581933,2015,Bundesliga
+02.04.2016,15:30,FC Ingolstadt,FC Schalke 04,15.200,3,0,/spielbericht/index/spielbericht/2581949,2015,Bundesliga
+10.04.2016,15:30,FC Schalke 04,Bor. Dortmund,61.670,2,2,/spielbericht/index/spielbericht/2581951,2015,Bundesliga
+16.04.2016,18:30,Bayern München,FC Schalke 04,75.000,3,0,/spielbericht/index/spielbericht/2581960,2015,Bundesliga
+23.04.2016,18:30,FC Schalke 04,B. Leverkusen,62.271,2,3,/spielbericht/index/spielbericht/2581969,2015,Bundesliga
+30.04.2016,15:30,Hannover 96,FC Schalke 04,46.900,1,3,/spielbericht/index/spielbericht/2581983,2015,Bundesliga
+07.05.2016,15:30,FC Schalke 04,FC Augsburg,62.271,1,1,/spielbericht/index/spielbericht/2581987,2015,Bundesliga
+14.05.2016,15:30,TSG Hoffenheim,FC Schalke 04,30.150,1,4,/spielbericht/index/spielbericht/2582002,2015,Bundesliga
+17.09.2015,21:05,APOEL Nikosia,FC Schalke 04,13.512,0,3,/spielbericht/index/spielbericht/2618741,2015,UEFA Europa League
+01.10.2015,19:00,FC Schalke 04,Asteras Tripoli,42.447,4,0,/spielbericht/index/spielbericht/2618766,2015,UEFA Europa League
+22.10.2015,19:00,FC Schalke 04,Sparta Prag,51.244,2,2,/spielbericht/index/spielbericht/2618801,2015,UEFA Europa League
+05.11.2015,21:05,Sparta Prag,FC Schalke 04,17.352,1,1,/spielbericht/index/spielbericht/2618803,2015,UEFA Europa League
+26.11.2015,19:00,FC Schalke 04,APOEL Nikosia,43.117,1,0,/spielbericht/index/spielbericht/2618805,2015,UEFA Europa League
+10.12.2015,21:05,Asteras Tripoli,FC Schalke 04,4.000,0,4,/spielbericht/index/spielbericht/2618808,2015,UEFA Europa League
+18.02.2016,21:05,Shakhtar D.,FC Schalke 04,23.615,0,0,/spielbericht/index/spielbericht/2646012,2015,UEFA Europa League
+25.02.2016,19:00,FC Schalke 04,Shakhtar D.,45.308,0,3,/spielbericht/index/spielbericht/2646027,2015,UEFA Europa League
+27.08.2016,15:30,E. Frankfurt,FC Schalke 04,47.000,1,0,/spielbericht/index/spielbericht/2704212,2016,Bundesliga
+09.09.2016,20:30,FC Schalke 04,Bayern München,62.271,0,2,/spielbericht/index/spielbericht/2704223,2016,Bundesliga
+18.09.2016,17:30,Hertha BSC,FC Schalke 04,49.251,2,0,/spielbericht/index/spielbericht/2704234,2016,Bundesliga
+21.09.2016,20:00,FC Schalke 04,1.FC Köln,60.876,1,3,/spielbericht/index/spielbericht/2704242,2016,Bundesliga
+25.09.2016,15:30,TSG Hoffenheim,FC Schalke 04,29.288,2,1,/spielbericht/index/spielbericht/2704258,2016,Bundesliga
+02.10.2016,17:30,FC Schalke 04,Bor. M'gladbach,62.271,4,0,/spielbericht/index/spielbericht/2704262,2016,Bundesliga
+15.10.2016,15:30,FC Augsburg,FC Schalke 04,30.660,1,1,/spielbericht/index/spielbericht/2704274,2016,Bundesliga
+23.10.2016,17:30,FC Schalke 04,1.FSV Mainz 05,59.357,3,0,/spielbericht/index/spielbericht/2704280,2016,Bundesliga
+29.10.2016,18:30,Bor. Dortmund,FC Schalke 04,80.179,0,0,/spielbericht/index/spielbericht/2704304,2016,Bundesliga
+06.11.2016,17:30,FC Schalke 04,Werder Bremen,62.271,3,1,/spielbericht/index/spielbericht/2704315,2016,Bundesliga
+19.11.2016,15:30,VfL Wolfsburg,FC Schalke 04,30.000,0,1,/spielbericht/index/spielbericht/2704335,2016,Bundesliga
+27.11.2016,15:30,FC Schalke 04,Darmstadt 98,58.703,3,1,/spielbericht/index/spielbericht/2704353,2016,Bundesliga
+03.12.2016,18:30,RB Leipzig,FC Schalke 04,42.558,2,1,/spielbericht/index/spielbericht/2704368,2016,Bundesliga
+11.12.2016,17:30,FC Schalke 04,B. Leverkusen,60.821,0,1,/spielbericht/index/spielbericht/2704427,2016,Bundesliga
+17.12.2016,15:30,FC Schalke 04,SC Freiburg,60.445,1,1,/spielbericht/index/spielbericht/2704435,2016,Bundesliga
+20.12.2016,20:00,Hamburger SV,FC Schalke 04,49.789,2,1,/spielbericht/index/spielbericht/2704457,2016,Bundesliga
+21.01.2017,15:30,FC Schalke 04,FC Ingolstadt,58.004,1,0,/spielbericht/index/spielbericht/2704462,2016,Bundesliga
+27.01.2017,20:30,FC Schalke 04,E. Frankfurt,60.885,0,1,/spielbericht/index/spielbericht/2704480,2016,Bundesliga
+04.02.2017,15:30,Bayern München,FC Schalke 04,75.000,1,1,/spielbericht/index/spielbericht/2704497,2016,Bundesliga
+11.02.2017,18:30,FC Schalke 04,Hertha BSC,61.981,2,0,/spielbericht/index/spielbericht/2704507,2016,Bundesliga
+19.02.2017,17:30,1.FC Köln,FC Schalke 04,50.000,1,1,/spielbericht/index/spielbericht/2704528,2016,Bundesliga
+26.02.2017,17:30,FC Schalke 04,TSG Hoffenheim,58.839,1,1,/spielbericht/index/spielbericht/2704544,2016,Bundesliga
+04.03.2017,18:30,Bor. M'gladbach,FC Schalke 04,54.014,4,2,/spielbericht/index/spielbericht/2704552,2016,Bundesliga
+12.03.2017,15:30,FC Schalke 04,FC Augsburg,59.481,3,0,/spielbericht/index/spielbericht/2704571,2016,Bundesliga
+19.03.2017,15:30,1.FSV Mainz 05,FC Schalke 04,30.847,0,1,/spielbericht/index/spielbericht/2704580,2016,Bundesliga
+01.04.2017,15:30,FC Schalke 04,Bor. Dortmund,62.271,1,1,/spielbericht/index/spielbericht/2704589,2016,Bundesliga
+04.04.2017,20:02,Werder Bremen,FC Schalke 04,42.100,3,0,/spielbericht/index/spielbericht/2704611,2016,Bundesliga
+08.04.2017,15:30,FC Schalke 04,VfL Wolfsburg,61.298,4,1,/spielbericht/index/spielbericht/2704624,2016,Bundesliga
+16.04.2017,17:30,Darmstadt 98,FC Schalke 04,17.400,2,1,/spielbericht/index/spielbericht/2704647,2016,Bundesliga
+23.04.2017,17:30,FC Schalke 04,RB Leipzig,60.916,1,1,/spielbericht/index/spielbericht/2704652,2016,Bundesliga
+28.04.2017,20:30,B. Leverkusen,FC Schalke 04,30.210,1,4,/spielbericht/index/spielbericht/2704669,2016,Bundesliga
+07.05.2017,17:30,SC Freiburg,FC Schalke 04,24.000,2,0,/spielbericht/index/spielbericht/2704685,2016,Bundesliga
+13.05.2017,15:30,FC Schalke 04,Hamburger SV,62.271,1,1,/spielbericht/index/spielbericht/2704696,2016,Bundesliga
+20.05.2017,15:30,FC Ingolstadt,FC Schalke 04,15.200,1,1,/spielbericht/index/spielbericht/2704710,2016,Bundesliga
+15.09.2016,21:05,OGC Nizza,FC Schalke 04,21.378,0,1,/spielbericht/index/spielbericht/2754300,2016,UEFA Europa League
+29.09.2016,19:00,FC Schalke 04,RB Salzburg,48.374,3,1,/spielbericht/index/spielbericht/2754323,2016,UEFA Europa League
+20.10.2016,19:00,FK Krasnodar,FC Schalke 04,33.550,0,1,/spielbericht/index/spielbericht/2758699,2016,UEFA Europa League
+03.11.2016,21:05,FC Schalke 04,FK Krasnodar,42.210,2,0,/spielbericht/index/spielbericht/2758741,2016,UEFA Europa League
+24.11.2016,19:00,FC Schalke 04,OGC Nizza,51.504,2,0,/spielbericht/index/spielbericht/2765898,2016,UEFA Europa League
+08.12.2016,21:05,RB Salzburg,FC Schalke 04,23.133,2,0,/spielbericht/index/spielbericht/2765933,2016,UEFA Europa League
+16.02.2017,21:05,PAOK Saloniki,FC Schalke 04,25.593,0,3,/spielbericht/index/spielbericht/2805668,2016,UEFA Europa League
+22.02.2017,18:00,FC Schalke 04,PAOK Saloniki,50.619,1,1,/spielbericht/index/spielbericht/2805684,2016,UEFA Europa League
+09.03.2017,21:05,FC Schalke 04,Bor. M'gladbach,52.412,1,1,/spielbericht/index/spielbericht/2831519,2016,UEFA Europa League
+16.03.2017,21:05,Bor. M'gladbach,FC Schalke 04,46.283,2,2,/spielbericht/index/spielbericht/2831537,2016,UEFA Europa League
+13.04.2017,21:05,Ajax Amsterdam,FC Schalke 04,52.384,2,0,/spielbericht/index/spielbericht/2840955,2016,UEFA Europa League
+20.04.2017,21:05,FC Schalke 04,Ajax Amsterdam,53.701,3,2,/spielbericht/index/spielbericht/2840959,2016,UEFA Europa League
+19.08.2017,18:30,FC Schalke 04,RB Leipzig,61.435,2,0,/spielbericht/index/spielbericht/2871500,2017,Bundesliga
+27.08.2017,18:00,Hannover 96,FC Schalke 04,49.000,1,0,/spielbericht/index/spielbericht/2871550,2017,Bundesliga
+10.09.2017,18:02,FC Schalke 04,VfB Stuttgart,61.098,3,1,/spielbericht/index/spielbericht/2871595,2017,Bundesliga
+16.09.2017,15:32,Werder Bremen,FC Schalke 04,42.100,1,2,/spielbericht/index/spielbericht/2871659,2017,Bundesliga
+19.09.2017,20:30,FC Schalke 04,Bayern München,62.271,0,3,/spielbericht/index/spielbericht/2871695,2017,Bundesliga
+23.09.2017,15:30,TSG Hoffenheim,FC Schalke 04,30.150,2,0,/spielbericht/index/spielbericht/2871730,2017,Bundesliga
+29.09.2017,20:30,FC Schalke 04,B. Leverkusen,61.515,1,1,/spielbericht/index/spielbericht/2871777,2017,Bundesliga
+14.10.2017,15:30,Hertha BSC,FC Schalke 04,50.590,0,2,/spielbericht/index/spielbericht/2871812,2017,Bundesliga
+20.10.2017,20:32,FC Schalke 04,1.FSV Mainz 05,59.476,2,0,/spielbericht/index/spielbericht/2871858,2017,Bundesliga
+28.10.2017,15:30,FC Schalke 04,VfL Wolfsburg,60.429,1,1,/spielbericht/index/spielbericht/2871903,2017,Bundesliga
+04.11.2017,15:30,SC Freiburg,FC Schalke 04,24.000,0,1,/spielbericht/index/spielbericht/2871956,2017,Bundesliga
+19.11.2017,15:30,FC Schalke 04,Hamburger SV,62.271,2,0,/spielbericht/index/spielbericht/2871993,2017,Bundesliga
+25.11.2017,15:30,Bor. Dortmund,FC Schalke 04,80.179,4,4,/spielbericht/index/spielbericht/2872025,2017,Bundesliga
+02.12.2017,18:30,FC Schalke 04,1.FC Köln,61.761,2,2,/spielbericht/index/spielbericht/2871985,2017,Bundesliga
+09.12.2017,18:30,Bor. M'gladbach,FC Schalke 04,54.018,1,1,/spielbericht/index/spielbericht/2871938,2017,Bundesliga
+13.12.2017,20:30,FC Schalke 04,FC Augsburg,59.215,3,2,/spielbericht/index/spielbericht/2871912,2017,Bundesliga
+16.12.2017,15:30,E. Frankfurt,FC Schalke 04,50.600,2,2,/spielbericht/index/spielbericht/2871877,2017,Bundesliga
+13.01.2018,18:30,RB Leipzig,FC Schalke 04,42.558,3,1,/spielbericht/index/spielbericht/2871491,2017,Bundesliga
+21.01.2018,18:00,FC Schalke 04,Hannover 96,60.650,1,1,/spielbericht/index/spielbericht/2871552,2017,Bundesliga
+27.01.2018,15:30,VfB Stuttgart,FC Schalke 04,55.096,0,2,/spielbericht/index/spielbericht/2871579,2017,Bundesliga
+03.02.2018,15:30,FC Schalke 04,Werder Bremen,62.271,1,2,/spielbericht/index/spielbericht/2871650,2017,Bundesliga
+10.02.2018,18:30,Bayern München,FC Schalke 04,75.000,2,1,/spielbericht/index/spielbericht/2871673,2017,Bundesliga
+17.02.2018,18:30,FC Schalke 04,TSG Hoffenheim,60.741,2,1,/spielbericht/index/spielbericht/2871722,2017,Bundesliga
+25.02.2018,15:30,B. Leverkusen,FC Schalke 04,30.210,0,2,/spielbericht/index/spielbericht/2871759,2017,Bundesliga
+03.03.2018,15:30,FC Schalke 04,Hertha BSC,61.578,1,0,/spielbericht/index/spielbericht/2872110,2017,Bundesliga
+09.03.2018,20:30,1.FSV Mainz 05,FC Schalke 04,30.655,0,1,/spielbericht/index/spielbericht/2871797,2017,Bundesliga
+17.03.2018,18:30,VfL Wolfsburg,FC Schalke 04,27.502,0,1,/spielbericht/index/spielbericht/2871835,2017,Bundesliga
+31.03.2018,15:30,FC Schalke 04,SC Freiburg,62.271,2,0,/spielbericht/index/spielbericht/2872020,2017,Bundesliga
+07.04.2018,18:32,Hamburger SV,FC Schalke 04,54.137,3,2,/spielbericht/index/spielbericht/2872050,2017,Bundesliga
+15.04.2018,15:30,FC Schalke 04,Bor. Dortmund,61.786,2,0,/spielbericht/index/spielbericht/2872065,2017,Bundesliga
+22.04.2018,18:00,1.FC Köln,FC Schalke 04,50.000,2,2,/spielbericht/index/spielbericht/2872072,2017,Bundesliga
+28.04.2018,15:30,FC Schalke 04,Bor. M'gladbach,62.271,1,1,/spielbericht/index/spielbericht/2872084,2017,Bundesliga
+05.05.2018,15:30,FC Augsburg,FC Schalke 04,30.660,1,2,/spielbericht/index/spielbericht/2872094,2017,Bundesliga
+12.05.2018,15:31,FC Schalke 04,E. Frankfurt,61.585,1,0,/spielbericht/index/spielbericht/2872101,2017,Bundesliga
+25.08.2018,15:30,VfL Wolfsburg,FC Schalke 04,26.621,2,1,/spielbericht/index/spielbericht/3058413,2018,Bundesliga
+02.09.2018,18:00,FC Schalke 04,Hertha BSC,60.181,0,2,/spielbericht/index/spielbericht/3058424,2018,Bundesliga
+15.09.2018,18:30,Bor. M'gladbach,FC Schalke 04,54.022,2,1,/spielbericht/index/spielbericht/3058436,2018,Bundesliga
+22.09.2018,18:30,FC Schalke 04,Bayern München,62.721,0,2,/spielbericht/index/spielbericht/3058442,2018,Bundesliga
+25.09.2018,20:30,SC Freiburg,FC Schalke 04,24.000,1,0,/spielbericht/index/spielbericht/3058457,2018,Bundesliga
+29.09.2018,15:30,FC Schalke 04,1.FSV Mainz 05,61.810,1,0,/spielbericht/index/spielbericht/3058460,2018,Bundesliga
+06.10.2018,15:30,F. Düsseldorf,FC Schalke 04,52.000,0,2,/spielbericht/index/spielbericht/3058477,2018,Bundesliga
+20.10.2018,18:30,FC Schalke 04,Werder Bremen,62.271,0,2,/spielbericht/index/spielbericht/3058478,2018,Bundesliga
+28.10.2018,15:30,RB Leipzig,FC Schalke 04,41.939,0,0,/spielbericht/index/spielbericht/3058489,2018,Bundesliga
+03.11.2018,15:30,FC Schalke 04,Hannover 96,61.959,3,1,/spielbericht/index/spielbericht/3058497,2018,Bundesliga
+11.11.2018,18:00,E. Frankfurt,FC Schalke 04,50.700,3,0,/spielbericht/index/spielbericht/3058508,2018,Bundesliga
+24.11.2018,18:30,FC Schalke 04,1.FC Nürnberg,62.271,5,2,/spielbericht/index/spielbericht/3058515,2018,Bundesliga
+01.12.2018,18:30,TSG Hoffenheim,FC Schalke 04,30.000,1,1,/spielbericht/index/spielbericht/3058523,2018,Bundesliga
+08.12.2018,15:30,FC Schalke 04,Bor. Dortmund,61.767,1,2,/spielbericht/index/spielbericht/3058533,2018,Bundesliga
+15.12.2018,15:30,FC Augsburg,FC Schalke 04,27.233,1,1,/spielbericht/index/spielbericht/3058546,2018,Bundesliga
+19.12.2018,18:30,FC Schalke 04,B. Leverkusen,61.548,1,2,/spielbericht/index/spielbericht/3058551,2018,Bundesliga
+22.12.2018,15:30,VfB Stuttgart,FC Schalke 04,54.022,1,3,/spielbericht/index/spielbericht/3058563,2018,Bundesliga
+20.01.2019,18:00,FC Schalke 04,VfL Wolfsburg,58.827,2,1,/spielbericht/index/spielbericht/3058568,2018,Bundesliga
+25.01.2019,20:30,Hertha BSC,FC Schalke 04,43.027,2,2,/spielbericht/index/spielbericht/3058580,2018,Bundesliga
+02.02.2019,18:30,FC Schalke 04,Bor. M'gladbach,62.271,0,2,/spielbericht/index/spielbericht/3058585,2018,Bundesliga
+09.02.2019,18:30,Bayern München,FC Schalke 04,75.000,3,1,/spielbericht/index/spielbericht/3058594,2018,Bundesliga
+16.02.2019,15:30,FC Schalke 04,SC Freiburg,60.000,0,0,/spielbericht/index/spielbericht/3058603,2018,Bundesliga
+23.02.2019,15:30,1.FSV Mainz 05,FC Schalke 04,26.005,3,0,/spielbericht/index/spielbericht/3058619,2018,Bundesliga
+02.03.2019,15:30,FC Schalke 04,F. Düsseldorf,60.322,0,4,/spielbericht/index/spielbericht/3058630,2018,Bundesliga
+08.03.2019,20:30,Werder Bremen,FC Schalke 04,42.100,4,2,/spielbericht/index/spielbericht/3058643,2018,Bundesliga
+16.03.2019,15:30,FC Schalke 04,RB Leipzig,59.913,0,1,/spielbericht/index/spielbericht/3058649,2018,Bundesliga
+31.03.2019,15:30,Hannover 96,FC Schalke 04,44.500,0,1,/spielbericht/index/spielbericht/3058662,2018,Bundesliga
+06.04.2019,15:30,FC Schalke 04,E. Frankfurt,61.842,1,2,/spielbericht/index/spielbericht/3058667,2018,Bundesliga
+12.04.2019,20:30,1.FC Nürnberg,FC Schalke 04,50.000,1,1,/spielbericht/index/spielbericht/3058683,2018,Bundesliga
+20.04.2019,20:30,FC Schalke 04,TSG Hoffenheim,58.958,2,5,/spielbericht/index/spielbericht/3058685,2018,Bundesliga
+27.04.2019,15:30,Bor. Dortmund,FC Schalke 04,80.196,2,4,/spielbericht/index/spielbericht/3058694,2018,Bundesliga
+05.05.2019,13:30,FC Schalke 04,FC Augsburg,59.841,0,0,/spielbericht/index/spielbericht/3058703,2018,Bundesliga
+11.05.2019,15:30,B. Leverkusen,FC Schalke 04,30.210,1,1,/spielbericht/index/spielbericht/3058713,2018,Bundesliga
+18.05.2019,15:30,FC Schalke 04,VfB Stuttgart,61.676,0,0,/spielbericht/index/spielbericht/3058721,2018,Bundesliga
+18.09.2018,21:00,FC Schalke 04,FC Porto,45.755,1,1,/spielbericht/index/spielbericht/3097961,2018,UEFA Champions League
+03.10.2018,18:55,Lok Moskau,FC Schalke 04,21.471,0,1,/spielbericht/index/spielbericht/3097985,2018,UEFA Champions League
+24.10.2018,21:00,Galatasaray,FC Schalke 04,46.667,0,0,/spielbericht/index/spielbericht/3098002,2018,UEFA Champions League
+06.11.2018,21:00,FC Schalke 04,Galatasaray,54.740,2,0,/spielbericht/index/spielbericht/3098017,2018,UEFA Champions League
+28.11.2018,21:00,FC Porto,FC Schalke 04,41.603,3,1,/spielbericht/index/spielbericht/3098033,2018,UEFA Champions League
+11.12.2018,18:55,FC Schalke 04,Lok Moskau,48.883,1,0,/spielbericht/index/spielbericht/3098049,2018,UEFA Champions League
+20.02.2019,21:00,FC Schalke 04,Manchester City,54.417,2,3,/spielbericht/index/spielbericht/3135806,2018,UEFA Champions League
+12.03.2019,21:00,Manchester City,FC Schalke 04,51.518,7,0,/spielbericht/index/spielbericht/3135807,2018,UEFA Champions League
+17.08.2019,18:30,Bor. M'gladbach,FC Schalke 04,54.022,0,0,/spielbericht/index/spielbericht/3203427,2019,Bundesliga
+24.08.2019,18:30,FC Schalke 04,Bayern München,62.271,0,3,/spielbericht/index/spielbericht/3203447,2019,Bundesliga
+31.08.2019,15:30,FC Schalke 04,Hertha BSC,58.875,3,0,/spielbericht/index/spielbericht/3203458,2019,Bundesliga
+15.09.2019,18:00,SC Paderborn,FC Schalke 04,15.000,1,5,/spielbericht/index/spielbericht/3203467,2019,Bundesliga
+20.09.2019,20:30,FC Schalke 04,1.FSV Mainz 05,58.687,2,1,/spielbericht/index/spielbericht/3203477,2019,Bundesliga
+28.09.2019,15:30,RB Leipzig,FC Schalke 04,42.146,1,3,/spielbericht/index/spielbericht/3203479,2019,Bundesliga
+05.10.2019,18:30,FC Schalke 04,1.FC Köln,61.883,1,1,/spielbericht/index/spielbericht/3203494,2019,Bundesliga
+20.10.2019,18:00,TSG Hoffenheim,FC Schalke 04,29.477,2,0,/spielbericht/index/spielbericht/3203500,2019,Bundesliga
+26.10.2019,15:30,FC Schalke 04,Bor. Dortmund,62.271,0,0,/spielbericht/index/spielbericht/3203512,2019,Bundesliga
+03.11.2019,18:00,FC Augsburg,FC Schalke 04,30.361,2,3,/spielbericht/index/spielbericht/3203521,2019,Bundesliga
+09.11.2019,15:30,FC Schalke 04,F. Düsseldorf,61.831,3,3,/spielbericht/index/spielbericht/3203529,2019,Bundesliga
+23.11.2019,15:30,Werder Bremen,FC Schalke 04,42.100,1,2,/spielbericht/index/spielbericht/3203536,2019,Bundesliga
+29.11.2019,20:30,FC Schalke 04,Union Berlin,61.837,2,1,/spielbericht/index/spielbericht/3203547,2019,Bundesliga
+07.12.2019,18:30,B. Leverkusen,FC Schalke 04,30.210,2,1,/spielbericht/index/spielbericht/3203552,2019,Bundesliga
+15.12.2019,18:00,FC Schalke 04,E. Frankfurt,60.811,1,0,/spielbericht/index/spielbericht/3203565,2019,Bundesliga
+18.12.2019,20:30,VfL Wolfsburg,FC Schalke 04,24.651,1,1,/spielbericht/index/spielbericht/3203571,2019,Bundesliga
+21.12.2019,15:30,FC Schalke 04,SC Freiburg,61.867,2,2,/spielbericht/index/spielbericht/3203583,2019,Bundesliga
+17.01.2020,20:30,FC Schalke 04,Bor. M'gladbach,62.271,2,0,/spielbericht/index/spielbericht/3203591,2019,Bundesliga
+25.01.2020,18:30,Bayern München,FC Schalke 04,75.000,5,0,/spielbericht/index/spielbericht/3203595,2019,Bundesliga
+31.01.2020,20:30,Hertha BSC,FC Schalke 04,47.863,0,0,/spielbericht/index/spielbericht/3203608,2019,Bundesliga
+08.02.2020,15:30,FC Schalke 04,SC Paderborn,61.614,1,1,/spielbericht/index/spielbericht/3203621,2019,Bundesliga
+16.02.2020,18:00,1.FSV Mainz 05,FC Schalke 04,27.482,0,0,/spielbericht/index/spielbericht/3203626,2019,Bundesliga
+22.02.2020,18:30,FC Schalke 04,RB Leipzig,61.433,0,5,/spielbericht/index/spielbericht/3203639,2019,Bundesliga
+29.02.2020,18:30,1.FC Köln,FC Schalke 04,50.000,3,0,/spielbericht/index/spielbericht/3203647,2019,Bundesliga
+07.03.2020,15:30,FC Schalke 04,TSG Hoffenheim,58.324,1,1,/spielbericht/index/spielbericht/3203656,2019,Bundesliga
+16.05.2020,15:30,Bor. Dortmund,FC Schalke 04,x,4,0,/spielbericht/index/spielbericht/3203658,2019,Bundesliga
+24.05.2020,13:30,FC Schalke 04,FC Augsburg,x,0,3,/spielbericht/index/spielbericht/3203673,2019,Bundesliga
+27.05.2020,20:30,F. Düsseldorf,FC Schalke 04,x,2,1,/spielbericht/index/spielbericht/3203682,2019,Bundesliga
+30.05.2020,15:30,FC Schalke 04,Werder Bremen,x,0,1,/spielbericht/index/spielbericht/3203691,2019,Bundesliga
+07.06.2020,15:30,Union Berlin,FC Schalke 04,x,1,1,/spielbericht/index/spielbericht/3203702,2019,Bundesliga
+14.06.2020,18:00,FC Schalke 04,B. Leverkusen,x,1,1,/spielbericht/index/spielbericht/3203709,2019,Bundesliga
+17.06.2020,18:30,E. Frankfurt,FC Schalke 04,x,2,1,/spielbericht/index/spielbericht/3203716,2019,Bundesliga
+20.06.2020,15:30,FC Schalke 04,VfL Wolfsburg,x,1,4,/spielbericht/index/spielbericht/3203727,2019,Bundesliga
+27.06.2020,15:30,SC Freiburg,FC Schalke 04,x,4,0,/spielbericht/index/spielbericht/3203736,2019,Bundesliga
+18.09.2020,20:30,Bayern München,FC Schalke 04,x,8,0,/spielbericht/index/spielbericht/3412883,2020,Bundesliga
+26.09.2020,18:30,FC Schalke 04,Werder Bremen,x,1,3,/spielbericht/index/spielbericht/3412906,2020,Bundesliga
+03.10.2020,18:30,RB Leipzig,FC Schalke 04,8.500,4,0,/spielbericht/index/spielbericht/3412921,2020,Bundesliga
+18.10.2020,18:00,FC Schalke 04,Union Berlin,300,1,1,/spielbericht/index/spielbericht/3412941,2020,Bundesliga
+24.10.2020,18:30,Bor. Dortmund,FC Schalke 04,300,3,0,/spielbericht/index/spielbericht/3412956,2020,Bundesliga
+30.10.2020,20:30,FC Schalke 04,VfB Stuttgart,x,1,1,/spielbericht/index/spielbericht/3412978,2020,Bundesliga
+07.11.2020,15:30,1.FSV Mainz 05,FC Schalke 04,x,2,2,/spielbericht/index/spielbericht/3412996,2020,Bundesliga
+21.11.2020,15:30,FC Schalke 04,VfL Wolfsburg,x,0,2,/spielbericht/index/spielbericht/3413015,2020,Bundesliga
+28.11.2020,18:30,Bor. M'gladbach,FC Schalke 04,x,4,1,/spielbericht/index/spielbericht/3413020,2020,Bundesliga
+06.12.2020,18:00,FC Schalke 04,B. Leverkusen,x,0,3,/spielbericht/index/spielbericht/3413041,2020,Bundesliga
+13.12.2020,15:30,FC Augsburg,FC Schalke 04,x,2,2,/spielbericht/index/spielbericht/3413062,2020,Bundesliga
+16.12.2020,18:30,FC Schalke 04,SC Freiburg,x,0,2,/spielbericht/index/spielbericht/3413076,2020,Bundesliga
+19.12.2020,15:30,FC Schalke 04,Arm. Bielefeld,x,0,1,/spielbericht/index/spielbericht/3413087,2020,Bundesliga
+02.01.2021,18:30,Hertha BSC,FC Schalke 04,x,3,0,/spielbericht/index/spielbericht/3413103,2020,Bundesliga
+09.01.2021,15:30,FC Schalke 04,TSG Hoffenheim,x,4,0,/spielbericht/index/spielbericht/3413122,2020,Bundesliga
+17.01.2021,18:00,E. Frankfurt,FC Schalke 04,x,3,1,/spielbericht/index/spielbericht/3413139,2020,Bundesliga
+20.01.2021,18:30,FC Schalke 04,1.FC Köln,x,1,2,/spielbericht/index/spielbericht/3413158,2020,Bundesliga
+24.01.2021,15:30,FC Schalke 04,Bayern München,x,0,4,/spielbericht/index/spielbericht/3413176,2020,Bundesliga
+30.01.2021,15:30,Werder Bremen,FC Schalke 04,x,1,1,/spielbericht/index/spielbericht/3413169,2020,Bundesliga
+06.02.2021,15:30,FC Schalke 04,RB Leipzig,x,0,3,/spielbericht/index/spielbericht/3413149,2020,Bundesliga
+13.02.2021,18:30,Union Berlin,FC Schalke 04,x,0,0,/spielbericht/index/spielbericht/3413132,2020,Bundesliga
+20.02.2021,18:30,FC Schalke 04,Bor. Dortmund,x,0,4,/spielbericht/index/spielbericht/3413113,2020,Bundesliga
+27.02.2021,15:30,VfB Stuttgart,FC Schalke 04,x,5,1,/spielbericht/index/spielbericht/3413098,2020,Bundesliga
+05.03.2021,20:30,FC Schalke 04,1.FSV Mainz 05,x,0,0,/spielbericht/index/spielbericht/3413069,2020,Bundesliga
+13.03.2021,15:30,VfL Wolfsburg,FC Schalke 04,x,5,0,/spielbericht/index/spielbericht/3413048,2020,Bundesliga
+20.03.2021,18:30,FC Schalke 04,Bor. M'gladbach,x,0,3,/spielbericht/index/spielbericht/3413032,2020,Bundesliga
+03.04.2021,15:30,B. Leverkusen,FC Schalke 04,x,2,1,/spielbericht/index/spielbericht/3413003,2020,Bundesliga
+11.04.2021,15:30,FC Schalke 04,FC Augsburg,x,1,0,/spielbericht/index/spielbericht/3412986,2020,Bundesliga
+17.04.2021,15:30,SC Freiburg,FC Schalke 04,x,4,0,/spielbericht/index/spielbericht/3412969,2020,Bundesliga
+20.04.2021,20:30,Arm. Bielefeld,FC Schalke 04,x,1,0,/spielbericht/index/spielbericht/3412953,2020,Bundesliga
+12.05.2021,18:00,FC Schalke 04,Hertha BSC,x,1,2,/spielbericht/index/spielbericht/3412934,2020,Bundesliga
+08.05.2021,15:30,TSG Hoffenheim,FC Schalke 04,x,4,2,/spielbericht/index/spielbericht/3412912,2020,Bundesliga
+15.05.2021,15:30,FC Schalke 04,E. Frankfurt,x,4,3,/spielbericht/index/spielbericht/3412897,2020,Bundesliga
+22.05.2021,15:30,1.FC Köln,FC Schalke 04,x,1,0,/spielbericht/index/spielbericht/3412880,2020,Bundesliga
+23.07.2021,20:30,FC Schalke 04,Hamburger SV,19.770,1,3,/spielbericht/index/spielbericht/3588157,2021,2. Bundesliga
+01.08.2021,13:30,Holstein Kiel,FC Schalke 04,4.100,0,3,/spielbericht/index/spielbericht/3588184,2021,2. Bundesliga
+13.08.2021,18:30,FC Schalke 04,Erzgebirge Aue,20.768,1,1,/spielbericht/index/spielbericht/3588203,2021,2. Bundesliga
+21.08.2021,13:30,J. Regensburg,FC Schalke 04,5.324,4,1,/spielbericht/index/spielbericht/3588235,2021,2. Bundesliga
+28.08.2021,20:30,FC Schalke 04,F. Düsseldorf,25.000,3,1,/spielbericht/index/spielbericht/3588248,2021,2. Bundesliga
+12.09.2021,13:30,SC Paderborn,FC Schalke 04,8.500,0,1,/spielbericht/index/spielbericht/3588268,2021,2. Bundesliga
+17.09.2021,18:30,FC Schalke 04,Karlsruher SC,25.000,1,2,/spielbericht/index/spielbericht/3588293,2021,2. Bundesliga
+25.09.2021,20:30,Hansa Rostock,FC Schalke 04,14.500,0,2,/spielbericht/index/spielbericht/3588317,2021,2. Bundesliga
+03.10.2021,13:30,FC Schalke 04,FC Ingolstadt,26.546,3,0,/spielbericht/index/spielbericht/3588329,2021,2. Bundesliga
+15.10.2021,18:30,Hannover 96,FC Schalke 04,40.000,0,1,/spielbericht/index/spielbericht/3588360,2021,2. Bundesliga
+23.10.2021,20:30,FC Schalke 04,Dynamo Dresden,54.526,3,0,/spielbericht/index/spielbericht/3588364,2021,2. Bundesliga
+29.10.2021,18:30,1.FC Heidenheim,FC Schalke 04,10.000,1,0,/spielbericht/index/spielbericht/3588395,2021,2. Bundesliga
+07.11.2021,13:30,FC Schalke 04,Darmstadt 98,51.327,2,4,/spielbericht/index/spielbericht/3588409,2021,2. Bundesliga
+20.11.2021,20:30,Werder Bremen,FC Schalke 04,42.100,1,1,/spielbericht/index/spielbericht/3588427,2021,2. Bundesliga
+27.11.2021,13:30,FC Schalke 04,SV Sandhausen,46.319,5,2,/spielbericht/index/spielbericht/3588445,2021,2. Bundesliga
+04.12.2021,20:30,FC St. Pauli,FC Schalke 04,19.950,2,1,/spielbericht/index/spielbericht/3588475,2021,2. Bundesliga
+10.12.2021,18:30,FC Schalke 04,1.FC Nürnberg,15.000,4,1,/spielbericht/index/spielbericht/3588499,2021,2. Bundesliga
+18.12.2021,20:30,Hamburger SV,FC Schalke 04,15.000,1,1,/spielbericht/index/spielbericht/3588518,2021,2. Bundesliga
+16.01.2022,13:30,FC Schalke 04,Holstein Kiel,750,1,1,/spielbericht/index/spielbericht/3588536,2021,2. Bundesliga
+22.01.2022,20:30,Erzgebirge Aue,FC Schalke 04,1.000,0,5,/spielbericht/index/spielbericht/3588557,2021,2. Bundesliga
+05.02.2022,13:30,FC Schalke 04,J. Regensburg,10.000,2,1,/spielbericht/index/spielbericht/3588572,2021,2. Bundesliga
+13.02.2022,13:30,F. Düsseldorf,FC Schalke 04,10.000,2,1,/spielbericht/index/spielbericht/3588599,2021,2. Bundesliga
+18.02.2022,18:30,FC Schalke 04,SC Paderborn,10.000,2,0,/spielbericht/index/spielbericht/3588617,2021,2. Bundesliga
+26.02.2022,13:30,Karlsruher SC,FC Schalke 04,15.000,1,1,/spielbericht/index/spielbericht/3588635,2021,2. Bundesliga
+05.03.2022,13:30,FC Schalke 04,Hansa Rostock,28.790,3,4,/spielbericht/index/spielbericht/3588659,2021,2. Bundesliga
+13.03.2022,13:30,FC Ingolstadt,FC Schalke 04,7.593,0,3,/spielbericht/index/spielbericht/3588693,2021,2. Bundesliga
+19.03.2022,13:30,FC Schalke 04,Hannover 96,55.152,2,1,/spielbericht/index/spielbericht/3588677,2021,2. Bundesliga
+01.04.2022,18:30,Dynamo Dresden,FC Schalke 04,30.273,1,2,/spielbericht/index/spielbericht/3588707,2021,2. Bundesliga
+09.04.2022,13:30,FC Schalke 04,1.FC Heidenheim,57.126,3,0,/spielbericht/index/spielbericht/3588710,2021,2. Bundesliga
+17.04.2022,13:30,Darmstadt 98,FC Schalke 04,14.500,2,5,/spielbericht/index/spielbericht/3588721,2021,2. Bundesliga
+23.04.2022,13:30,FC Schalke 04,Werder Bremen,62.271,1,4,/spielbericht/index/spielbericht/3588728,2021,2. Bundesliga
+29.04.2022,18:30,SV Sandhausen,FC Schalke 04,12.355,1,2,/spielbericht/index/spielbericht/3588742,2021,2. Bundesliga
+07.05.2022,20:30,FC Schalke 04,FC St. Pauli,62.271,3,2,/spielbericht/index/spielbericht/3588746,2021,2. Bundesliga
+15.05.2022,15:30,1.FC Nürnberg,FC Schalke 04,50.000,1,2,/spielbericht/index/spielbericht/3588759,2021,2. Bundesliga
+08.08.2021,15:30,FC 08 Villingen,FC Schalke 04,4.992,1,4,/spielbericht/index/spielbericht/3601599,2021,DFB-Pokal
+26.10.2021,18:30,1860 München,FC Schalke 04,15.000,1,0,/spielbericht/index/spielbericht/3651883,2021,DFB-Pokal
+07.08.2022,17:30,1.FC Köln,FC Schalke 04,50.000,3,1,/spielbericht/index/spielbericht/3839028,2022,Bundesliga
+13.08.2022,18:30,FC Schalke 04,Bor. M'gladbach,62.271,2,2,/spielbericht/index/spielbericht/3839059,2022,Bundesliga
+20.08.2022,15:30,VfL Wolfsburg,FC Schalke 04,26.959,0,0,/spielbericht/index/spielbericht/3839084,2022,Bundesliga
+27.08.2022,15:30,FC Schalke 04,Union Berlin,62.271,1,6,/spielbericht/index/spielbericht/3839103,2022,Bundesliga
+03.09.2022,15:30,VfB Stuttgart,FC Schalke 04,47.500,1,1,/spielbericht/index/spielbericht/3839113,2022,Bundesliga
+10.09.2022,18:30,FC Schalke 04,VfL Bochum,62.041,3,1,/spielbericht/index/spielbericht/3839121,2022,Bundesliga
+17.09.2022,15:30,Bor. Dortmund,FC Schalke 04,81.100,1,0,/spielbericht/index/spielbericht/3839132,2022,Bundesliga
+02.10.2022,17:30,FC Schalke 04,FC Augsburg,60.328,2,3,/spielbericht/index/spielbericht/3839157,2022,Bundesliga
+08.10.2022,15:30,B. Leverkusen,FC Schalke 04,30.210,4,0,/spielbericht/index/spielbericht/3839160,2022,Bundesliga
+14.10.2022,20:30,FC Schalke 04,TSG Hoffenheim,59.811,0,3,/spielbericht/index/spielbericht/3839184,2022,Bundesliga
+23.10.2022,17:30,Hertha BSC,FC Schalke 04,60.165,2,1,/spielbericht/index/spielbericht/3839203,2022,Bundesliga
+30.10.2022,17:30,FC Schalke 04,SC Freiburg,61.115,0,2,/spielbericht/index/spielbericht/3839220,2022,Bundesliga
+05.11.2022,18:30,Werder Bremen,FC Schalke 04,42.100,2,1,/spielbericht/index/spielbericht/3839239,2022,Bundesliga
+09.11.2022,20:30,FC Schalke 04,1.FSV Mainz 05,58.256,1,0,/spielbericht/index/spielbericht/3839257,2022,Bundesliga
+12.11.2022,18:30,FC Schalke 04,Bayern München,62.271,0,2,/spielbericht/index/spielbericht/3839265,2022,Bundesliga
+21.01.2023,15:30,E. Frankfurt,FC Schalke 04,50.000,3,0,/spielbericht/index/spielbericht/3839281,2022,Bundesliga
+24.01.2023,18:30,FC Schalke 04,RB Leipzig,56.841,1,6,/spielbericht/index/spielbericht/3839301,2022,Bundesliga
+29.01.2023,15:30,FC Schalke 04,1.FC Köln,61.571,0,0,/spielbericht/index/spielbericht/3839319,2022,Bundesliga
+04.02.2023,18:30,Bor. M'gladbach,FC Schalke 04,54.042,0,0,/spielbericht/index/spielbericht/3839333,2022,Bundesliga
+10.02.2023,20:30,FC Schalke 04,VfL Wolfsburg,60.836,0,0,/spielbericht/index/spielbericht/3839355,2022,Bundesliga
+19.02.2023,15:30,Union Berlin,FC Schalke 04,22.012,0,0,/spielbericht/index/spielbericht/3839368,2022,Bundesliga
+25.02.2023,18:30,FC Schalke 04,VfB Stuttgart,62.271,2,1,/spielbericht/index/spielbericht/3839391,2022,Bundesliga
+04.03.2023,15:30,VfL Bochum,FC Schalke 04,26.000,0,2,/spielbericht/index/spielbericht/3839399,2022,Bundesliga
+11.03.2023,18:30,FC Schalke 04,Bor. Dortmund,61.571,2,2,/spielbericht/index/spielbericht/3839418,2022,Bundesliga
+18.03.2023,15:30,FC Augsburg,FC Schalke 04,30.660,1,1,/spielbericht/index/spielbericht/3839436,2022,Bundesliga
+01.04.2023,15:30,FC Schalke 04,B. Leverkusen,62.271,0,3,/spielbericht/index/spielbericht/3839454,2022,Bundesliga
+09.04.2023,19:30,TSG Hoffenheim,FC Schalke 04,30.150,2,0,/spielbericht/index/spielbericht/3839469,2022,Bundesliga
+14.04.2023,20:30,FC Schalke 04,Hertha BSC,61.981,5,2,/spielbericht/index/spielbericht/3839490,2022,Bundesliga
+23.04.2023,15:30,SC Freiburg,FC Schalke 04,34.700,4,0,/spielbericht/index/spielbericht/3839503,2022,Bundesliga
+29.04.2023,18:30,FC Schalke 04,Werder Bremen,61.981,2,1,/spielbericht/index/spielbericht/3839518,2022,Bundesliga
+05.05.2023,20:30,1.FSV Mainz 05,FC Schalke 04,33.305,2,3,/spielbericht/index/spielbericht/3839531,2022,Bundesliga
+13.05.2023,15:30,Bayern München,FC Schalke 04,75.000,6,0,/spielbericht/index/spielbericht/3839546,2022,Bundesliga
+20.05.2023,15:30,FC Schalke 04,E. Frankfurt,61.575,2,2,/spielbericht/index/spielbericht/3839571,2022,Bundesliga
+27.05.2023,15:30,RB Leipzig,FC Schalke 04,47.069,4,2,/spielbericht/index/spielbericht/3839583,2022,Bundesliga
+28.07.2023,20:30,Hamburger SV,FC Schalke 04,57.000,5,3,/spielbericht/index/spielbericht/4096273,2023,2. Bundesliga
+05.08.2023,20:30,FC Schalke 04,1.FC K'lautern,61.801,3,0,/spielbericht/index/spielbericht/4096282,2023,2. Bundesliga
+20.08.2023,13:30,E. Braunschweig,FC Schalke 04,21.800,1,0,/spielbericht/index/spielbericht/4096297,2023,2. Bundesliga
+25.08.2023,18:30,FC Schalke 04,Holstein Kiel,60.403,0,2,/spielbericht/index/spielbericht/4096300,2023,2. Bundesliga
+02.09.2023,13:00,Wehen Wiesbaden,FC Schalke 04,11.003,1,1,/spielbericht/index/spielbericht/4096317,2023,2. Bundesliga
+16.09.2023,20:30,FC Schalke 04,1.FC Magdeburg,61.755,4,3,/spielbericht/index/spielbericht/4096318,2023,2. Bundesliga
+23.09.2023,20:30,FC St. Pauli,FC Schalke 04,29.546,3,1,/spielbericht/index/spielbericht/4096328,2023,2. Bundesliga
+29.09.2023,18:30,SC Paderborn,FC Schalke 04,15.000,3,1,/spielbericht/index/spielbericht/4096338,2023,2. Bundesliga
+08.10.2023,13:30,FC Schalke 04,Hertha BSC,62.271,1,2,/spielbericht/index/spielbericht/4096345,2023,2. Bundesliga
+22.10.2023,13:30,Karlsruher SC,FC Schalke 04,33.000,3,0,/spielbericht/index/spielbericht/4096357,2023,2. Bundesliga
+28.10.2023,13:00,FC Schalke 04,Hannover 96,62.207,3,2,/spielbericht/index/spielbericht/4096363,2023,2. Bundesliga
+04.11.2023,13:00,1.FC Nürnberg,FC Schalke 04,50.000,1,2,/spielbericht/index/spielbericht/4096378,2023,2. Bundesliga
+10.11.2023,18:30,FC Schalke 04,SV Elversberg,61.110,1,2,/spielbericht/index/spielbericht/4096381,2023,2. Bundesliga
+25.11.2023,20:30,F. Düsseldorf,FC Schalke 04,52.000,5,3,/spielbericht/index/spielbericht/4096391,2023,2. Bundesliga
+01.12.2023,18:30,FC Schalke 04,VfL Osnabrück,62.093,4,0,/spielbericht/index/spielbericht/4096399,2023,2. Bundesliga
+10.12.2023,13:30,Hansa Rostock,FC Schalke 04,27.250,0,2,/spielbericht/index/spielbericht/4096413,2023,2. Bundesliga
+15.12.2023,18:30,FC Schalke 04,Greuther Fürth,60.166,2,2,/spielbericht/index/spielbericht/4096417,2023,2. Bundesliga
+20.01.2024,20:30,FC Schalke 04,Hamburger SV,61.992,0,2,/spielbericht/index/spielbericht/4096426,2023,2. Bundesliga
+26.01.2024,18:30,1.FC K'lautern,FC Schalke 04,49.327,4,1,/spielbericht/index/spielbericht/4096435,2023,2. Bundesliga
+03.02.2024,13:00,FC Schalke 04,E. Braunschweig,61.219,1,0,/spielbericht/index/spielbericht/4096450,2023,2. Bundesliga
+11.02.2024,13:30,Holstein Kiel,FC Schalke 04,14.500,1,0,/spielbericht/index/spielbericht/4096453,2023,2. Bundesliga
+17.02.2024,13:00,FC Schalke 04,Wehen Wiesbaden,60.542,1,0,/spielbericht/index/spielbericht/4096470,2023,2. Bundesliga
+24.02.2024,20:30,1.FC Magdeburg,FC Schalke 04,27.038,3,0,/spielbericht/index/spielbericht/4096471,2023,2. Bundesliga
+01.03.2024,18:30,FC Schalke 04,FC St. Pauli,61.497,3,1,/spielbericht/index/spielbericht/4096481,2023,2. Bundesliga
+09.03.2024,13:00,FC Schalke 04,SC Paderborn,61.475,3,3,/spielbericht/index/spielbericht/4096491,2023,2. Bundesliga
+17.03.2024,13:30,Hertha BSC,FC Schalke 04,69.156,5,2,/spielbericht/index/spielbericht/4096498,2023,2. Bundesliga
+31.03.2024,13:30,FC Schalke 04,Karlsruher SC,61.653,0,0,/spielbericht/index/spielbericht/4096510,2023,2. Bundesliga
+07.04.2024,13:30,Hannover 96,FC Schalke 04,49.000,1,1,/spielbericht/index/spielbericht/4096516,2023,2. Bundesliga
+13.04.2024,20:30,FC Schalke 04,1.FC Nürnberg,62.278,2,0,/spielbericht/index/spielbericht/4096531,2023,2. Bundesliga
+19.04.2024,18:30,SV Elversberg,FC Schalke 04,10.000,1,1,/spielbericht/index/spielbericht/4096534,2023,2. Bundesliga
+27.04.2024,20:30,FC Schalke 04,F. Düsseldorf,61.854,1,1,/spielbericht/index/spielbericht/4096544,2023,2. Bundesliga
+07.05.2024,18:30,VfL Osnabrück,FC Schalke 04,x,0,4,/spielbericht/index/spielbericht/4096552,2023,2. Bundesliga
+11.05.2024,13:00,FC Schalke 04,Hansa Rostock,61.833,2,1,/spielbericht/index/spielbericht/4096566,2023,2. Bundesliga
+19.05.2024,15:30,Greuther Fürth,FC Schalke 04,16.126,2,0,/spielbericht/index/spielbericht/4096570,2023,2. Bundesliga
+11.08.2023,20:45,E. Braunschweig,FC Schalke 04,21.800,1,3,/spielbericht/index/spielbericht/4088617,2023,DFB-Pokal
+31.10.2023,18:00,FC St. Pauli,FC Schalke 04,29.546,2,1,/spielbericht/index/spielbericht/4194145,2023,DFB-Pokal
+03.08.2024,20:30,FC Schalke 04,E. Braunschweig,60.534,5,1,/spielbericht/index/spielbericht/4373308,2024,2. Bundesliga
+10.08.2024,13:00,1.FC Nürnberg,FC Schalke 04,49.923,3,1,/spielbericht/index/spielbericht/4373333,2024,2. Bundesliga
+25.08.2024,13:30,1.FC Magdeburg,FC Schalke 04,27.146,2,2,/spielbericht/index/spielbericht/4373353,2024,2. Bundesliga
+01.09.2024,13:30,FC Schalke 04,1.FC Köln,61.475,1,3,/spielbericht/index/spielbericht/4373359,2024,2. Bundesliga
+13.09.2024,18:30,Karlsruher SC,FC Schalke 04,31.845,2,0,/spielbericht/index/spielbericht/4373377,2024,2. Bundesliga
+20.09.2024,18:30,FC Schalke 04,Darmstadt 98,61.021,3,5,/spielbericht/index/spielbericht/4373394,2024,2. Bundesliga
+28.09.2024,20:30,Pr. Münster,FC Schalke 04,12.422,1,2,/spielbericht/index/spielbericht/4373417,2024,2. Bundesliga
+05.10.2024,20:30,FC Schalke 04,Hertha BSC,61.939,2,2,/spielbericht/index/spielbericht/4373432,2024,2. Bundesliga
+19.10.2024,13:00,Hannover 96,FC Schalke 04,49.000,1,0,/spielbericht/index/spielbericht/4373448,2024,2. Bundesliga
+26.10.2024,13:00,FC Schalke 04,Greuther Fürth,60.344,3,4,/spielbericht/index/spielbericht/4373468,2024,2. Bundesliga
+01.11.2024,18:30,SSV Ulm 1846,FC Schalke 04,17.400,0,0,/spielbericht/index/spielbericht/4373488,2024,2. Bundesliga
+10.11.2024,13:30,FC Schalke 04,J. Regensburg,60.755,2,0,/spielbericht/index/spielbericht/4373504,2024,2. Bundesliga
+23.11.2024,20:30,Hamburger SV,FC Schalke 04,57.000,2,2,/spielbericht/index/spielbericht/4373519,2024,2. Bundesliga
+29.11.2024,18:30,FC Schalke 04,1.FC K'lautern,62.075,0,3,/spielbericht/index/spielbericht/4373539,2024,2. Bundesliga
+06.12.2024,18:30,SC Paderborn,FC Schalke 04,15.000,2,4,/spielbericht/index/spielbericht/4373557,2024,2. Bundesliga
+14.12.2024,13:00,FC Schalke 04,F. Düsseldorf,61.955,1,1,/spielbericht/index/spielbericht/4373577,2024,2. Bundesliga
+20.12.2024,18:30,SV Elversberg,FC Schalke 04,9.502,1,4,/spielbericht/index/spielbericht/4373603,2024,2. Bundesliga
+18.01.2025,13:00,E. Braunschweig,FC Schalke 04,22.389,0,0,/spielbericht/index/spielbericht/4373623,2024,2. Bundesliga
+25.01.2025,13:00,FC Schalke 04,1.FC Nürnberg,61.955,3,1,/spielbericht/index/spielbericht/4373641,2024,2. Bundesliga
+01.02.2025,20:30,FC Schalke 04,1.FC Magdeburg,61.681,2,5,/spielbericht/index/spielbericht/4373656,2024,2. Bundesliga
+09.02.2025,13:30,1.FC Köln,FC Schalke 04,50.000,1,0,/spielbericht/index/spielbericht/4373671,2024,2. Bundesliga
+16.02.2025,13:30,FC Schalke 04,Karlsruher SC,61.804,2,1,/spielbericht/index/spielbericht/4373682,2024,2. Bundesliga
+23.02.2025,13:30,Darmstadt 98,FC Schalke 04,17.810,2,0,/spielbericht/index/spielbericht/4373699,2024,2. Bundesliga
+28.02.2025,18:30,FC Schalke 04,Pr. Münster,62.077,1,0,/spielbericht/index/spielbericht/4373719,2024,2. Bundesliga
+08.03.2025,13:00,Hertha BSC,FC Schalke 04,70.159,1,2,/spielbericht/index/spielbericht/4373738,2024,2. Bundesliga
+14.03.2025,18:30,FC Schalke 04,Hannover 96,62.077,1,2,/spielbericht/index/spielbericht/4373756,2024,2. Bundesliga
+30.03.2025,13:30,Greuther Fürth,FC Schalke 04,16.126,3,3,/spielbericht/index/spielbericht/4373773,2024,2. Bundesliga
+06.04.2025,13:30,FC Schalke 04,SSV Ulm 1846,61.922,2,1,/spielbericht/index/spielbericht/4373792,2024,2. Bundesliga
+13.04.2025,13:30,J. Regensburg,FC Schalke 04,15.210,2,0,/spielbericht/index/spielbericht/4373814,2024,2. Bundesliga
+19.04.2025,20:30,FC Schalke 04,Hamburger SV,62.077,2,2,/spielbericht/index/spielbericht/4373827,2024,2. Bundesliga
+27.04.2025,13:30,1.FC K'lautern,FC Schalke 04,49.327,2,1,/spielbericht/index/spielbericht/4373848,2024,2. Bundesliga
+02.05.2025,18:30,FC Schalke 04,SC Paderborn,62.094,0,2,/spielbericht/index/spielbericht/4373864,2024,2. Bundesliga
+10.05.2025,13:00,F. Düsseldorf,FC Schalke 04,51.500,2,0,/spielbericht/index/spielbericht/4373878,2024,2. Bundesliga
+18.05.2025,15:30,FC Schalke 04,SV Elversberg,62.077,1,2,/spielbericht/index/spielbericht/4373901,2024,2. Bundesliga
+17.08.2024,15:30,VfR Aalen,FC Schalke 04,10.850,0,2,/spielbericht/index/spielbericht/4353913,2024,DFB-Pokal
+29.10.2024,18:00,FC Augsburg,FC Schalke 04,27.411,3,0,/spielbericht/index/spielbericht/4446795,2024,DFB-Pokal

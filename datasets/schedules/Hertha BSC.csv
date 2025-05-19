@@ -1,0 +1,393 @@
+date,time,home_team,away_team,participants,home_score,away_score,match_link,season,competition
+23.08.2014,15:30,Hertha BSC,Werder Bremen,59.762,2,2,/spielbericht/index/spielbericht/2460631,2014,Bundesliga
+30.08.2014,15:30,B. Leverkusen,Hertha BSC,27.819,4,2,/spielbericht/index/spielbericht/2460636,2014,Bundesliga
+13.09.2014,15:30,Hertha BSC,1.FSV Mainz 05,42.069,1,3,/spielbericht/index/spielbericht/2460650,2014,Bundesliga
+19.09.2014,20:30,SC Freiburg,Hertha BSC,23.600,2,2,/spielbericht/index/spielbericht/2460657,2014,Bundesliga
+24.09.2014,20:00,Hertha BSC,VfL Wolfsburg,35.847,1,0,/spielbericht/index/spielbericht/2460668,2014,Bundesliga
+28.09.2014,15:30,FC Augsburg,Hertha BSC,28.532,1,0,/spielbericht/index/spielbericht/2460674,2014,Bundesliga
+03.10.2014,20:30,Hertha BSC,VfB Stuttgart,46.312,3,2,/spielbericht/index/spielbericht/2460686,2014,Bundesliga
+18.10.2014,18:30,FC Schalke 04,Hertha BSC,61.973,2,0,/spielbericht/index/spielbericht/2460690,2014,Bundesliga
+25.10.2014,15:30,Hertha BSC,Hamburger SV,58.768,3,0,/spielbericht/index/spielbericht/2460704,2014,Bundesliga
+02.11.2014,17:30,SC Paderborn,Hertha BSC,14.630,3,1,/spielbericht/index/spielbericht/2460715,2014,Bundesliga
+07.11.2014,20:30,Hertha BSC,Hannover 96,39.710,0,2,/spielbericht/index/spielbericht/2460721,2014,Bundesliga
+22.11.2014,18:30,1.FC Köln,Hertha BSC,49.200,1,2,/spielbericht/index/spielbericht/2460732,2014,Bundesliga
+29.11.2014,15:30,Hertha BSC,Bayern München,76.197,0,1,/spielbericht/index/spielbericht/2460739,2014,Bundesliga
+06.12.2014,15:30,Bor. M'gladbach,Hertha BSC,50.190,3,2,/spielbericht/index/spielbericht/2460745,2014,Bundesliga
+13.12.2014,15:30,Hertha BSC,Bor. Dortmund,75.254,1,0,/spielbericht/index/spielbericht/2460758,2014,Bundesliga
+17.12.2014,20:00,E. Frankfurt,Hertha BSC,40.200,4,4,/spielbericht/index/spielbericht/2460766,2014,Bundesliga
+21.12.2014,15:30,Hertha BSC,TSG Hoffenheim,39.604,0,5,/spielbericht/index/spielbericht/2460775,2014,Bundesliga
+01.02.2015,15:30,Werder Bremen,Hertha BSC,40.187,2,0,/spielbericht/index/spielbericht/2460784,2014,Bundesliga
+04.02.2015,20:00,Hertha BSC,B. Leverkusen,34.636,0,1,/spielbericht/index/spielbericht/2460793,2014,Bundesliga
+07.02.2015,15:30,1.FSV Mainz 05,Hertha BSC,26.756,0,2,/spielbericht/index/spielbericht/2460799,2014,Bundesliga
+15.02.2015,15:30,Hertha BSC,SC Freiburg,38.000,0,2,/spielbericht/index/spielbericht/2460812,2014,Bundesliga
+22.02.2015,17:30,VfL Wolfsburg,Hertha BSC,27.683,2,1,/spielbericht/index/spielbericht/2460816,2014,Bundesliga
+28.02.2015,15:30,Hertha BSC,FC Augsburg,36.015,1,0,/spielbericht/index/spielbericht/2460830,2014,Bundesliga
+06.03.2015,20:30,VfB Stuttgart,Hertha BSC,45.420,0,0,/spielbericht/index/spielbericht/2460838,2014,Bundesliga
+14.03.2015,15:30,Hertha BSC,FC Schalke 04,59.156,2,2,/spielbericht/index/spielbericht/2460848,2014,Bundesliga
+20.03.2015,20:30,Hamburger SV,Hertha BSC,53.640,0,1,/spielbericht/index/spielbericht/2460857,2014,Bundesliga
+05.04.2015,17:30,Hertha BSC,SC Paderborn,44.031,2,0,/spielbericht/index/spielbericht/2460865,2014,Bundesliga
+10.04.2015,20:30,Hannover 96,Hertha BSC,46.000,1,1,/spielbericht/index/spielbericht/2460873,2014,Bundesliga
+18.04.2015,15:30,Hertha BSC,1.FC Köln,51.203,0,0,/spielbericht/index/spielbericht/2460883,2014,Bundesliga
+25.04.2015,18:30,Bayern München,Hertha BSC,75.024,1,0,/spielbericht/index/spielbericht/2460887,2014,Bundesliga
+03.05.2015,17:30,Hertha BSC,Bor. M'gladbach,56.881,1,2,/spielbericht/index/spielbericht/2460902,2014,Bundesliga
+09.05.2015,15:30,Bor. Dortmund,Hertha BSC,80.667,2,0,/spielbericht/index/spielbericht/2460906,2014,Bundesliga
+16.05.2015,15:30,Hertha BSC,E. Frankfurt,60.168,0,0,/spielbericht/index/spielbericht/2460919,2014,Bundesliga
+23.05.2015,15:30,TSG Hoffenheim,Hertha BSC,30.150,2,1,/spielbericht/index/spielbericht/2460926,2014,Bundesliga
+15.08.2015,15:30,FC Augsburg,Hertha BSC,28.130,0,1,/spielbericht/index/spielbericht/2581155,2015,Bundesliga
+21.08.2015,20:30,Hertha BSC,Werder Bremen,56.376,1,1,/spielbericht/index/spielbericht/2581180,2015,Bundesliga
+30.08.2015,15:30,Bor. Dortmund,Hertha BSC,80.500,3,1,/spielbericht/index/spielbericht/2581184,2015,Bundesliga
+12.09.2015,15:30,Hertha BSC,VfB Stuttgart,45.994,2,1,/spielbericht/index/spielbericht/2581198,2015,Bundesliga
+19.09.2015,15:30,VfL Wolfsburg,Hertha BSC,29.000,2,0,/spielbericht/index/spielbericht/2581634,2015,Bundesliga
+22.09.2015,20:00,Hertha BSC,1.FC Köln,40.181,2,0,/spielbericht/index/spielbericht/2581647,2015,Bundesliga
+27.09.2015,15:30,E. Frankfurt,Hertha BSC,46.000,1,1,/spielbericht/index/spielbericht/2581657,2015,Bundesliga
+03.10.2015,15:30,Hertha BSC,Hamburger SV,65.427,3,0,/spielbericht/index/spielbericht/2581671,2015,Bundesliga
+17.10.2015,15:30,FC Schalke 04,Hertha BSC,61.336,2,1,/spielbericht/index/spielbericht/2581675,2015,Bundesliga
+24.10.2015,18:30,FC Ingolstadt,Hertha BSC,15.000,0,1,/spielbericht/index/spielbericht/2581697,2015,Bundesliga
+31.10.2015,15:30,Hertha BSC,Bor. M'gladbach,58.566,1,4,/spielbericht/index/spielbericht/2581707,2015,Bundesliga
+06.11.2015,20:30,Hannover 96,Hertha BSC,40.200,1,3,/spielbericht/index/spielbericht/2581719,2015,Bundesliga
+22.11.2015,15:30,Hertha BSC,TSG Hoffenheim,37.045,1,0,/spielbericht/index/spielbericht/2581730,2015,Bundesliga
+28.11.2015,15:30,Bayern München,Hertha BSC,75.000,2,0,/spielbericht/index/spielbericht/2581738,2015,Bundesliga
+05.12.2015,15:30,Hertha BSC,B. Leverkusen,41.819,2,1,/spielbericht/index/spielbericht/2581760,2015,Bundesliga
+12.12.2015,15:31,Darmstadt 98,Hertha BSC,17.000,0,4,/spielbericht/index/spielbericht/2581770,2015,Bundesliga
+20.12.2015,15:30,Hertha BSC,1.FSV Mainz 05,39.835,2,0,/spielbericht/index/spielbericht/2581784,2015,Bundesliga
+23.01.2016,15:30,Hertha BSC,FC Augsburg,35.196,0,0,/spielbericht/index/spielbericht/2581792,2015,Bundesliga
+30.01.2016,15:30,Werder Bremen,Hertha BSC,40.141,3,3,/spielbericht/index/spielbericht/2581813,2015,Bundesliga
+06.02.2016,15:30,Hertha BSC,Bor. Dortmund,74.244,0,0,/spielbericht/index/spielbericht/2581828,2015,Bundesliga
+13.02.2016,15:30,VfB Stuttgart,Hertha BSC,45.465,2,0,/spielbericht/index/spielbericht/2581846,2015,Bundesliga
+20.02.2016,15:30,Hertha BSC,VfL Wolfsburg,40.126,1,1,/spielbericht/index/spielbericht/2581858,2015,Bundesliga
+26.02.2016,20:30,1.FC Köln,Hertha BSC,48.900,0,1,/spielbericht/index/spielbericht/2581874,2015,Bundesliga
+02.03.2016,20:00,Hertha BSC,E. Frankfurt,36.608,2,0,/spielbericht/index/spielbericht/2581893,2015,Bundesliga
+06.03.2016,17:30,Hamburger SV,Hertha BSC,46.136,2,0,/spielbericht/index/spielbericht/2581905,2015,Bundesliga
+11.03.2016,20:30,Hertha BSC,FC Schalke 04,51.424,2,0,/spielbericht/index/spielbericht/2581923,2015,Bundesliga
+19.03.2016,15:30,Hertha BSC,FC Ingolstadt,40.385,2,1,/spielbericht/index/spielbericht/2581941,2015,Bundesliga
+03.04.2016,15:30,Bor. M'gladbach,Hertha BSC,53.114,5,0,/spielbericht/index/spielbericht/2581945,2015,Bundesliga
+08.04.2016,20:30,Hertha BSC,Hannover 96,45.229,2,2,/spielbericht/index/spielbericht/2581958,2015,Bundesliga
+16.04.2016,15:30,TSG Hoffenheim,Hertha BSC,27.745,2,1,/spielbericht/index/spielbericht/2581966,2015,Bundesliga
+23.04.2016,15:30,Hertha BSC,Bayern München,76.233,0,2,/spielbericht/index/spielbericht/2581976,2015,Bundesliga
+30.04.2016,18:30,B. Leverkusen,Hertha BSC,30.210,2,1,/spielbericht/index/spielbericht/2581980,2015,Bundesliga
+07.05.2016,15:30,Hertha BSC,Darmstadt 98,60.280,1,2,/spielbericht/index/spielbericht/2581994,2015,Bundesliga
+14.05.2016,15:30,1.FSV Mainz 05,Hertha BSC,33.800,0,0,/spielbericht/index/spielbericht/2582003,2015,Bundesliga
+28.08.2016,15:30,Hertha BSC,SC Freiburg,41.648,2,1,/spielbericht/index/spielbericht/2704207,2016,Bundesliga
+10.09.2016,15:30,FC Ingolstadt,Hertha BSC,14.100,0,2,/spielbericht/index/spielbericht/2704226,2016,Bundesliga
+18.09.2016,17:30,Hertha BSC,FC Schalke 04,49.251,2,0,/spielbericht/index/spielbericht/2704234,2016,Bundesliga
+21.09.2016,20:00,Bayern München,Hertha BSC,75.000,3,0,/spielbericht/index/spielbericht/2704240,2016,Bundesliga
+24.09.2016,15:30,E. Frankfurt,Hertha BSC,45.000,3,3,/spielbericht/index/spielbericht/2704259,2016,Bundesliga
+01.10.2016,15:30,Hertha BSC,Hamburger SV,57.656,2,0,/spielbericht/index/spielbericht/2704263,2016,Bundesliga
+14.10.2016,20:30,Bor. Dortmund,Hertha BSC,80.800,1,1,/spielbericht/index/spielbericht/2704269,2016,Bundesliga
+22.10.2016,15:30,Hertha BSC,1.FC Köln,60.576,2,1,/spielbericht/index/spielbericht/2704281,2016,Bundesliga
+30.10.2016,15:30,TSG Hoffenheim,Hertha BSC,28.015,1,0,/spielbericht/index/spielbericht/2704312,2016,Bundesliga
+04.11.2016,20:30,Hertha BSC,Bor. M'gladbach,51.934,3,0,/spielbericht/index/spielbericht/2704316,2016,Bundesliga
+19.11.2016,15:30,FC Augsburg,Hertha BSC,27.007,0,0,/spielbericht/index/spielbericht/2704336,2016,Bundesliga
+27.11.2016,17:30,Hertha BSC,1.FSV Mainz 05,37.852,2,1,/spielbericht/index/spielbericht/2704354,2016,Bundesliga
+03.12.2016,15:30,VfL Wolfsburg,Hertha BSC,25.317,2,3,/spielbericht/index/spielbericht/2704363,2016,Bundesliga
+10.12.2016,18:30,Hertha BSC,Werder Bremen,51.337,0,1,/spielbericht/index/spielbericht/2704428,2016,Bundesliga
+17.12.2016,15:30,RB Leipzig,Hertha BSC,42.558,2,0,/spielbericht/index/spielbericht/2704442,2016,Bundesliga
+21.12.2016,20:03,Hertha BSC,Darmstadt 98,31.912,2,0,/spielbericht/index/spielbericht/2704455,2016,Bundesliga
+22.01.2017,15:30,B. Leverkusen,Hertha BSC,26.904,3,1,/spielbericht/index/spielbericht/2704461,2016,Bundesliga
+29.01.2017,15:30,SC Freiburg,Hertha BSC,23.800,2,1,/spielbericht/index/spielbericht/2704486,2016,Bundesliga
+04.02.2017,15:30,Hertha BSC,FC Ingolstadt,33.425,1,0,/spielbericht/index/spielbericht/2704500,2016,Bundesliga
+11.02.2017,18:30,FC Schalke 04,Hertha BSC,61.981,2,0,/spielbericht/index/spielbericht/2704507,2016,Bundesliga
+18.02.2017,15:30,Hertha BSC,Bayern München,74.667,1,1,/spielbericht/index/spielbericht/2704527,2016,Bundesliga
+25.02.2017,18:30,Hertha BSC,E. Frankfurt,43.323,2,0,/spielbericht/index/spielbericht/2704545,2016,Bundesliga
+05.03.2017,17:32,Hamburger SV,Hertha BSC,44.445,1,0,/spielbericht/index/spielbericht/2704555,2016,Bundesliga
+11.03.2017,15:30,Hertha BSC,Bor. Dortmund,74.667,2,1,/spielbericht/index/spielbericht/2704572,2016,Bundesliga
+18.03.2017,15:30,1.FC Köln,Hertha BSC,49.500,4,2,/spielbericht/index/spielbericht/2704582,2016,Bundesliga
+31.03.2017,20:30,Hertha BSC,TSG Hoffenheim,42.401,1,3,/spielbericht/index/spielbericht/2704590,2016,Bundesliga
+05.04.2017,20:00,Bor. M'gladbach,Hertha BSC,44.347,1,0,/spielbericht/index/spielbericht/2704606,2016,Bundesliga
+09.04.2017,15:30,Hertha BSC,FC Augsburg,43.451,2,0,/spielbericht/index/spielbericht/2704625,2016,Bundesliga
+15.04.2017,15:30,1.FSV Mainz 05,Hertha BSC,30.579,1,0,/spielbericht/index/spielbericht/2704643,2016,Bundesliga
+22.04.2017,15:30,Hertha BSC,VfL Wolfsburg,42.521,1,0,/spielbericht/index/spielbericht/2704653,2016,Bundesliga
+29.04.2017,15:30,Werder Bremen,Hertha BSC,42.100,2,0,/spielbericht/index/spielbericht/2704673,2016,Bundesliga
+06.05.2017,18:30,Hertha BSC,RB Leipzig,62.301,1,4,/spielbericht/index/spielbericht/2704680,2016,Bundesliga
+13.05.2017,15:30,Darmstadt 98,Hertha BSC,17.400,0,2,/spielbericht/index/spielbericht/2704701,2016,Bundesliga
+20.05.2017,15:30,Hertha BSC,B. Leverkusen,55.617,2,6,/spielbericht/index/spielbericht/2704707,2016,Bundesliga
+21.08.2016,18:30,J. Regensburg,Hertha BSC,12.526,4,6,/spielbericht/index/spielbericht/2699230,2016,DFB-Pokal
+25.10.2016,20:45,FC St. Pauli,Hertha BSC,29.123,0,2,/spielbericht/index/spielbericht/2754885,2016,DFB-Pokal
+08.02.2017,20:45,Bor. Dortmund,Hertha BSC,80.500,4,3,/spielbericht/index/spielbericht/2770142,2016,DFB-Pokal
+19.08.2017,15:32,Hertha BSC,VfB Stuttgart,44.751,2,0,/spielbericht/index/spielbericht/2871497,2017,Bundesliga
+26.08.2017,18:30,Bor. Dortmund,Hertha BSC,80.860,2,0,/spielbericht/index/spielbericht/2871543,2017,Bundesliga
+10.09.2017,15:30,Hertha BSC,Werder Bremen,49.118,1,1,/spielbericht/index/spielbericht/2871592,2017,Bundesliga
+17.09.2017,13:30,TSG Hoffenheim,Hertha BSC,27.243,1,1,/spielbericht/index/spielbericht/2871658,2017,Bundesliga
+20.09.2017,20:32,Hertha BSC,B. Leverkusen,32.825,2,1,/spielbericht/index/spielbericht/2871692,2017,Bundesliga
+23.09.2017,15:30,1.FSV Mainz 05,Hertha BSC,23.517,1,0,/spielbericht/index/spielbericht/2871733,2017,Bundesliga
+01.10.2017,15:30,Hertha BSC,Bayern München,71.212,2,2,/spielbericht/index/spielbericht/2871774,2017,Bundesliga
+14.10.2017,15:30,Hertha BSC,FC Schalke 04,50.590,0,2,/spielbericht/index/spielbericht/2871812,2017,Bundesliga
+22.10.2017,15:30,SC Freiburg,Hertha BSC,23.800,1,1,/spielbericht/index/spielbericht/2871856,2017,Bundesliga
+28.10.2017,15:30,Hertha BSC,Hamburger SV,52.131,2,1,/spielbericht/index/spielbericht/2871901,2017,Bundesliga
+05.11.2017,18:00,VfL Wolfsburg,Hertha BSC,25.214,3,3,/spielbericht/index/spielbericht/2871961,2017,Bundesliga
+18.11.2017,18:30,Hertha BSC,Bor. M'gladbach,48.304,2,4,/spielbericht/index/spielbericht/2871991,2017,Bundesliga
+26.11.2017,18:00,1.FC Köln,Hertha BSC,47.800,0,2,/spielbericht/index/spielbericht/2872027,2017,Bundesliga
+03.12.2017,15:30,Hertha BSC,E. Frankfurt,38.781,1,2,/spielbericht/index/spielbericht/2871982,2017,Bundesliga
+10.12.2017,18:00,FC Augsburg,Hertha BSC,26.641,1,1,/spielbericht/index/spielbericht/2871940,2017,Bundesliga
+13.12.2017,20:30,Hertha BSC,Hannover 96,29.231,3,1,/spielbericht/index/spielbericht/2871910,2017,Bundesliga
+17.12.2017,18:00,RB Leipzig,Hertha BSC,36.109,2,3,/spielbericht/index/spielbericht/2871873,2017,Bundesliga
+13.01.2018,15:31,VfB Stuttgart,Hertha BSC,57.181,1,0,/spielbericht/index/spielbericht/2871488,2017,Bundesliga
+19.01.2018,20:30,Hertha BSC,Bor. Dortmund,65.893,1,1,/spielbericht/index/spielbericht/2871504,2017,Bundesliga
+27.01.2018,18:30,Werder Bremen,Hertha BSC,40.030,0,0,/spielbericht/index/spielbericht/2871571,2017,Bundesliga
+03.02.2018,15:30,Hertha BSC,TSG Hoffenheim,32.598,1,1,/spielbericht/index/spielbericht/2871647,2017,Bundesliga
+10.02.2018,15:30,B. Leverkusen,Hertha BSC,25.601,0,2,/spielbericht/index/spielbericht/2871679,2017,Bundesliga
+16.02.2018,20:30,Hertha BSC,1.FSV Mainz 05,30.908,0,2,/spielbericht/index/spielbericht/2871719,2017,Bundesliga
+24.02.2018,15:30,Bayern München,Hertha BSC,75.000,0,0,/spielbericht/index/spielbericht/2871754,2017,Bundesliga
+03.03.2018,15:30,FC Schalke 04,Hertha BSC,61.578,1,0,/spielbericht/index/spielbericht/2872110,2017,Bundesliga
+10.03.2018,15:30,Hertha BSC,SC Freiburg,38.625,0,0,/spielbericht/index/spielbericht/2871794,2017,Bundesliga
+17.03.2018,15:30,Hamburger SV,Hertha BSC,52.159,1,2,/spielbericht/index/spielbericht/2871834,2017,Bundesliga
+31.03.2018,20:30,Hertha BSC,VfL Wolfsburg,34.765,0,0,/spielbericht/index/spielbericht/2872018,2017,Bundesliga
+07.04.2018,15:30,Bor. M'gladbach,Hertha BSC,51.417,2,1,/spielbericht/index/spielbericht/2872047,2017,Bundesliga
+14.04.2018,15:30,Hertha BSC,1.FC Köln,49.253,2,1,/spielbericht/index/spielbericht/2872063,2017,Bundesliga
+21.04.2018,15:30,E. Frankfurt,Hertha BSC,51.000,0,3,/spielbericht/index/spielbericht/2872074,2017,Bundesliga
+28.04.2018,15:31,Hertha BSC,FC Augsburg,40.935,2,2,/spielbericht/index/spielbericht/2872081,2017,Bundesliga
+05.05.2018,15:30,Hannover 96,Hertha BSC,49.000,3,1,/spielbericht/index/spielbericht/2872095,2017,Bundesliga
+12.05.2018,15:30,Hertha BSC,RB Leipzig,60.502,2,6,/spielbericht/index/spielbericht/2872099,2017,Bundesliga
+14.09.2017,21:05,Hertha BSC,Athletic Bilbao,28.832,0,0,/spielbericht/index/spielbericht/2919794,2017,UEFA Europa League
+28.09.2017,19:00,Östersunds FK,Hertha BSC,8.900,1,0,/spielbericht/index/spielbericht/2919807,2017,UEFA Europa League
+19.10.2017,19:00,Zorya Lugansk,Hertha BSC,9.521,2,1,/spielbericht/index/spielbericht/2919839,2017,UEFA Europa League
+02.11.2017,21:05,Hertha BSC,Zorya Lugansk,20.358,2,0,/spielbericht/index/spielbericht/2919873,2017,UEFA Europa League
+23.11.2017,19:00,Athletic Bilbao,Hertha BSC,49.000,3,2,/spielbericht/index/spielbericht/2919886,2017,UEFA Europa League
+07.12.2017,21:05,Hertha BSC,Östersunds FK,15.686,1,1,/spielbericht/index/spielbericht/2919922,2017,UEFA Europa League
+25.08.2018,15:30,Hertha BSC,1.FC Nürnberg,53.729,1,0,/spielbericht/index/spielbericht/3058409,2018,Bundesliga
+02.09.2018,18:00,FC Schalke 04,Hertha BSC,60.181,0,2,/spielbericht/index/spielbericht/3058424,2018,Bundesliga
+15.09.2018,15:30,VfL Wolfsburg,Hertha BSC,25.090,2,2,/spielbericht/index/spielbericht/3058440,2018,Bundesliga
+22.09.2018,15:30,Hertha BSC,Bor. M'gladbach,51.852,4,2,/spielbericht/index/spielbericht/3058447,2018,Bundesliga
+25.09.2018,18:30,Werder Bremen,Hertha BSC,39.100,3,1,/spielbericht/index/spielbericht/3058455,2018,Bundesliga
+28.09.2018,20:30,Hertha BSC,Bayern München,74.669,2,0,/spielbericht/index/spielbericht/3058465,2018,Bundesliga
+06.10.2018,15:30,1.FSV Mainz 05,Hertha BSC,22.405,0,0,/spielbericht/index/spielbericht/3058476,2018,Bundesliga
+21.10.2018,15:30,Hertha BSC,SC Freiburg,53.716,1,1,/spielbericht/index/spielbericht/3058483,2018,Bundesliga
+27.10.2018,15:30,Bor. Dortmund,Hertha BSC,81.000,2,2,/spielbericht/index/spielbericht/3058488,2018,Bundesliga
+03.11.2018,18:30,Hertha BSC,RB Leipzig,50.382,0,3,/spielbericht/index/spielbericht/3058501,2018,Bundesliga
+10.11.2018,15:30,F. Düsseldorf,Hertha BSC,38.743,4,1,/spielbericht/index/spielbericht/3058512,2018,Bundesliga
+24.11.2018,15:30,Hertha BSC,TSG Hoffenheim,44.508,3,3,/spielbericht/index/spielbericht/3058518,2018,Bundesliga
+01.12.2018,15:30,Hannover 96,Hertha BSC,35.800,0,2,/spielbericht/index/spielbericht/3058529,2018,Bundesliga
+08.12.2018,18:30,Hertha BSC,E. Frankfurt,42.578,1,0,/spielbericht/index/spielbericht/3058536,2018,Bundesliga
+15.12.2018,15:30,VfB Stuttgart,Hertha BSC,47.680,2,1,/spielbericht/index/spielbericht/3058544,2018,Bundesliga
+18.12.2018,20:30,Hertha BSC,FC Augsburg,27.939,2,2,/spielbericht/index/spielbericht/3058553,2018,Bundesliga
+22.12.2018,15:30,B. Leverkusen,Hertha BSC,27.647,3,1,/spielbericht/index/spielbericht/3058561,2018,Bundesliga
+20.01.2019,15:30,1.FC Nürnberg,Hertha BSC,36.112,1,3,/spielbericht/index/spielbericht/3058576,2018,Bundesliga
+25.01.2019,20:30,Hertha BSC,FC Schalke 04,43.027,2,2,/spielbericht/index/spielbericht/3058580,2018,Bundesliga
+02.02.2019,15:30,Hertha BSC,VfL Wolfsburg,39.259,0,1,/spielbericht/index/spielbericht/3058590,2018,Bundesliga
+09.02.2019,15:30,Bor. M'gladbach,Hertha BSC,48.232,0,3,/spielbericht/index/spielbericht/3058597,2018,Bundesliga
+16.02.2019,18:30,Hertha BSC,Werder Bremen,49.627,1,1,/spielbericht/index/spielbericht/3058608,2018,Bundesliga
+23.02.2019,15:30,Bayern München,Hertha BSC,75.000,1,0,/spielbericht/index/spielbericht/3058612,2018,Bundesliga
+02.03.2019,15:30,Hertha BSC,1.FSV Mainz 05,33.981,2,1,/spielbericht/index/spielbericht/3058635,2018,Bundesliga
+09.03.2019,15:30,SC Freiburg,Hertha BSC,24.000,2,1,/spielbericht/index/spielbericht/3058645,2018,Bundesliga
+16.03.2019,18:30,Hertha BSC,Bor. Dortmund,74.667,2,3,/spielbericht/index/spielbericht/3058654,2018,Bundesliga
+30.03.2019,18:30,RB Leipzig,Hertha BSC,41.939,5,0,/spielbericht/index/spielbericht/3058659,2018,Bundesliga
+06.04.2019,15:30,Hertha BSC,F. Düsseldorf,51.604,1,2,/spielbericht/index/spielbericht/3058671,2018,Bundesliga
+14.04.2019,13:30,TSG Hoffenheim,Hertha BSC,28.010,2,0,/spielbericht/index/spielbericht/3058675,2018,Bundesliga
+21.04.2019,18:00,Hertha BSC,Hannover 96,38.916,0,0,/spielbericht/index/spielbericht/3058688,2018,Bundesliga
+27.04.2019,15:30,E. Frankfurt,Hertha BSC,51.500,0,0,/spielbericht/index/spielbericht/3058697,2018,Bundesliga
+04.05.2019,15:30,Hertha BSC,VfB Stuttgart,48.668,3,1,/spielbericht/index/spielbericht/3058706,2018,Bundesliga
+11.05.2019,15:30,FC Augsburg,Hertha BSC,29.307,3,4,/spielbericht/index/spielbericht/3058717,2018,Bundesliga
+18.05.2019,15:30,Hertha BSC,B. Leverkusen,59.287,1,5,/spielbericht/index/spielbericht/3058723,2018,Bundesliga
+16.08.2019,20:30,Bayern München,Hertha BSC,75.000,2,2,/spielbericht/index/spielbericht/3203424,2019,Bundesliga
+25.08.2019,18:00,Hertha BSC,VfL Wolfsburg,42.738,0,3,/spielbericht/index/spielbericht/3203445,2019,Bundesliga
+31.08.2019,15:30,FC Schalke 04,Hertha BSC,58.875,3,0,/spielbericht/index/spielbericht/3203458,2019,Bundesliga
+14.09.2019,15:30,1.FSV Mainz 05,Hertha BSC,22.798,2,1,/spielbericht/index/spielbericht/3203464,2019,Bundesliga
+21.09.2019,15:30,Hertha BSC,SC Paderborn,43.588,2,1,/spielbericht/index/spielbericht/3203475,2019,Bundesliga
+29.09.2019,18:00,1.FC Köln,Hertha BSC,49.700,0,4,/spielbericht/index/spielbericht/3203484,2019,Bundesliga
+04.10.2019,20:30,Hertha BSC,F. Düsseldorf,37.128,3,1,/spielbericht/index/spielbericht/3203492,2019,Bundesliga
+19.10.2019,15:30,Werder Bremen,Hertha BSC,41.447,1,1,/spielbericht/index/spielbericht/3203499,2019,Bundesliga
+26.10.2019,15:30,Hertha BSC,TSG Hoffenheim,44.702,2,3,/spielbericht/index/spielbericht/3203509,2019,Bundesliga
+02.11.2019,18:30,Union Berlin,Hertha BSC,22.012,1,0,/spielbericht/index/spielbericht/3203522,2019,Bundesliga
+09.11.2019,15:30,Hertha BSC,RB Leipzig,48.532,2,4,/spielbericht/index/spielbericht/3203526,2019,Bundesliga
+24.11.2019,15:30,FC Augsburg,Hertha BSC,29.233,4,0,/spielbericht/index/spielbericht/3203539,2019,Bundesliga
+30.11.2019,15:30,Hertha BSC,Bor. Dortmund,74.667,1,2,/spielbericht/index/spielbericht/3203545,2019,Bundesliga
+06.12.2019,20:30,E. Frankfurt,Hertha BSC,50.000,2,2,/spielbericht/index/spielbericht/3203554,2019,Bundesliga
+14.12.2019,15:30,Hertha BSC,SC Freiburg,37.343,1,0,/spielbericht/index/spielbericht/3203563,2019,Bundesliga
+18.12.2019,18:30,B. Leverkusen,Hertha BSC,24.472,0,1,/spielbericht/index/spielbericht/3203569,2019,Bundesliga
+21.12.2019,18:30,Hertha BSC,Bor. M'gladbach,50.208,0,0,/spielbericht/index/spielbericht/3203581,2019,Bundesliga
+19.01.2020,15:30,Hertha BSC,Bayern München,74.475,0,4,/spielbericht/index/spielbericht/3203589,2019,Bundesliga
+25.01.2020,15:30,VfL Wolfsburg,Hertha BSC,24.894,1,2,/spielbericht/index/spielbericht/3203599,2019,Bundesliga
+31.01.2020,20:30,Hertha BSC,FC Schalke 04,47.863,0,0,/spielbericht/index/spielbericht/3203608,2019,Bundesliga
+08.02.2020,15:30,Hertha BSC,1.FSV Mainz 05,35.049,1,3,/spielbericht/index/spielbericht/3203619,2019,Bundesliga
+15.02.2020,15:30,SC Paderborn,Hertha BSC,14.687,1,2,/spielbericht/index/spielbericht/3203629,2019,Bundesliga
+22.02.2020,15:30,Hertha BSC,1.FC Köln,46.207,0,5,/spielbericht/index/spielbericht/3203637,2019,Bundesliga
+28.02.2020,20:30,F. Düsseldorf,Hertha BSC,31.632,3,3,/spielbericht/index/spielbericht/3203644,2019,Bundesliga
+07.03.2020,15:30,Hertha BSC,Werder Bremen,58.028,2,2,/spielbericht/index/spielbericht/3203653,2019,Bundesliga
+16.05.2020,15:30,TSG Hoffenheim,Hertha BSC,x,0,3,/spielbericht/index/spielbericht/3203662,2019,Bundesliga
+22.05.2020,20:30,Hertha BSC,Union Berlin,x,4,0,/spielbericht/index/spielbericht/3203670,2019,Bundesliga
+27.05.2020,18:30,RB Leipzig,Hertha BSC,x,2,2,/spielbericht/index/spielbericht/3203677,2019,Bundesliga
+30.05.2020,15:30,Hertha BSC,FC Augsburg,x,2,0,/spielbericht/index/spielbericht/3203688,2019,Bundesliga
+06.06.2020,18:30,Bor. Dortmund,Hertha BSC,x,1,0,/spielbericht/index/spielbericht/3203694,2019,Bundesliga
+13.06.2020,15:30,Hertha BSC,E. Frankfurt,x,1,4,/spielbericht/index/spielbericht/3203707,2019,Bundesliga
+16.06.2020,20:30,SC Freiburg,Hertha BSC,x,2,1,/spielbericht/index/spielbericht/3203718,2019,Bundesliga
+20.06.2020,15:30,Hertha BSC,B. Leverkusen,x,2,0,/spielbericht/index/spielbericht/3203725,2019,Bundesliga
+27.06.2020,15:30,Bor. M'gladbach,Hertha BSC,x,2,1,/spielbericht/index/spielbericht/3203732,2019,Bundesliga
+19.09.2020,15:30,Werder Bremen,Hertha BSC,8.400,1,4,/spielbericht/index/spielbericht/3412890,2020,Bundesliga
+25.09.2020,20:30,Hertha BSC,E. Frankfurt,4.000,1,3,/spielbericht/index/spielbericht/3412905,2020,Bundesliga
+04.10.2020,18:00,Bayern München,Hertha BSC,x,4,3,/spielbericht/index/spielbericht/3412919,2020,Bundesliga
+17.10.2020,15:30,Hertha BSC,VfB Stuttgart,4.000,0,2,/spielbericht/index/spielbericht/3412940,2020,Bundesliga
+24.10.2020,15:30,RB Leipzig,Hertha BSC,999,2,1,/spielbericht/index/spielbericht/3412957,2020,Bundesliga
+01.11.2020,18:00,Hertha BSC,VfL Wolfsburg,x,1,1,/spielbericht/index/spielbericht/3412977,2020,Bundesliga
+07.11.2020,15:30,FC Augsburg,Hertha BSC,x,0,3,/spielbericht/index/spielbericht/3412997,2020,Bundesliga
+21.11.2020,20:30,Hertha BSC,Bor. Dortmund,x,2,5,/spielbericht/index/spielbericht/3413014,2020,Bundesliga
+29.11.2020,15:30,B. Leverkusen,Hertha BSC,x,0,0,/spielbericht/index/spielbericht/3413021,2020,Bundesliga
+04.12.2020,20:30,Hertha BSC,Union Berlin,x,3,1,/spielbericht/index/spielbericht/3413040,2020,Bundesliga
+12.12.2020,15:30,Bor. M'gladbach,Hertha BSC,x,1,1,/spielbericht/index/spielbericht/3413056,2020,Bundesliga
+15.12.2020,20:30,Hertha BSC,1.FSV Mainz 05,x,0,0,/spielbericht/index/spielbericht/3413075,2020,Bundesliga
+20.12.2020,15:30,SC Freiburg,Hertha BSC,x,4,1,/spielbericht/index/spielbericht/3413085,2020,Bundesliga
+02.01.2021,18:30,Hertha BSC,FC Schalke 04,x,3,0,/spielbericht/index/spielbericht/3413103,2020,Bundesliga
+10.01.2021,18:00,Arm. Bielefeld,Hertha BSC,x,1,0,/spielbericht/index/spielbericht/3413125,2020,Bundesliga
+16.01.2021,15:30,1.FC Köln,Hertha BSC,x,0,0,/spielbericht/index/spielbericht/3413141,2020,Bundesliga
+19.01.2021,20:30,Hertha BSC,TSG Hoffenheim,x,0,3,/spielbericht/index/spielbericht/3413157,2020,Bundesliga
+23.01.2021,18:30,Hertha BSC,Werder Bremen,x,1,4,/spielbericht/index/spielbericht/3413175,2020,Bundesliga
+30.01.2021,15:30,E. Frankfurt,Hertha BSC,x,3,1,/spielbericht/index/spielbericht/3413166,2020,Bundesliga
+05.02.2021,20:00,Hertha BSC,Bayern München,x,0,1,/spielbericht/index/spielbericht/3413148,2020,Bundesliga
+13.02.2021,15:30,VfB Stuttgart,Hertha BSC,x,1,1,/spielbericht/index/spielbericht/3413134,2020,Bundesliga
+21.02.2021,15:30,Hertha BSC,RB Leipzig,x,0,3,/spielbericht/index/spielbericht/3413112,2020,Bundesliga
+27.02.2021,15:30,VfL Wolfsburg,Hertha BSC,x,2,0,/spielbericht/index/spielbericht/3413094,2020,Bundesliga
+06.03.2021,15:30,Hertha BSC,FC Augsburg,x,2,1,/spielbericht/index/spielbericht/3413068,2020,Bundesliga
+13.03.2021,18:30,Bor. Dortmund,Hertha BSC,x,2,0,/spielbericht/index/spielbericht/3413045,2020,Bundesliga
+21.03.2021,15:30,Hertha BSC,B. Leverkusen,x,3,0,/spielbericht/index/spielbericht/3413031,2020,Bundesliga
+04.04.2021,18:00,Union Berlin,Hertha BSC,x,1,1,/spielbericht/index/spielbericht/3413005,2020,Bundesliga
+10.04.2021,15:30,Hertha BSC,Bor. M'gladbach,x,2,2,/spielbericht/index/spielbericht/3412985,2020,Bundesliga
+03.05.2021,18:00,1.FSV Mainz 05,Hertha BSC,x,1,1,/spielbericht/index/spielbericht/3412971,2020,Bundesliga
+06.05.2021,18:30,Hertha BSC,SC Freiburg,x,3,0,/spielbericht/index/spielbericht/3412950,2020,Bundesliga
+12.05.2021,18:00,FC Schalke 04,Hertha BSC,x,1,2,/spielbericht/index/spielbericht/3412934,2020,Bundesliga
+09.05.2021,18:00,Hertha BSC,Arm. Bielefeld,x,0,0,/spielbericht/index/spielbericht/3412915,2020,Bundesliga
+15.05.2021,15:30,Hertha BSC,1.FC Köln,x,0,0,/spielbericht/index/spielbericht/3412896,2020,Bundesliga
+22.05.2021,15:30,TSG Hoffenheim,Hertha BSC,100,2,1,/spielbericht/index/spielbericht/3412876,2020,Bundesliga
+15.08.2021,17:30,1.FC Köln,Hertha BSC,16.500,3,1,/spielbericht/index/spielbericht/3588147,2021,Bundesliga
+21.08.2021,15:30,Hertha BSC,VfL Wolfsburg,18.241,1,2,/spielbericht/index/spielbericht/3588154,2021,Bundesliga
+28.08.2021,18:30,Bayern München,Hertha BSC,25.000,5,0,/spielbericht/index/spielbericht/3588166,2021,Bundesliga
+12.09.2021,17:30,VfL Bochum,Hertha BSC,14.000,1,3,/spielbericht/index/spielbericht/3588182,2021,Bundesliga
+17.09.2021,20:30,Hertha BSC,Greuther Fürth,21.372,2,1,/spielbericht/index/spielbericht/3588199,2021,Bundesliga
+25.09.2021,15:30,RB Leipzig,Hertha BSC,23.500,6,0,/spielbericht/index/spielbericht/3588211,2021,Bundesliga
+02.10.2021,15:30,Hertha BSC,SC Freiburg,18.376,1,2,/spielbericht/index/spielbericht/3588226,2021,Bundesliga
+16.10.2021,15:30,E. Frankfurt,Hertha BSC,32.000,1,2,/spielbericht/index/spielbericht/3588239,2021,Bundesliga
+23.10.2021,18:30,Hertha BSC,Bor. M'gladbach,25.000,1,0,/spielbericht/index/spielbericht/3588261,2021,Bundesliga
+29.10.2021,20:30,TSG Hoffenheim,Hertha BSC,8.127,2,0,/spielbericht/index/spielbericht/3588280,2021,Bundesliga
+07.11.2021,15:30,Hertha BSC,B. Leverkusen,22.187,1,1,/spielbericht/index/spielbericht/3588288,2021,Bundesliga
+20.11.2021,18:30,Union Berlin,Hertha BSC,22.012,2,0,/spielbericht/index/spielbericht/3588303,2021,Bundesliga
+27.11.2021,15:30,Hertha BSC,FC Augsburg,14.523,1,1,/spielbericht/index/spielbericht/3588324,2021,Bundesliga
+05.12.2021,15:30,VfB Stuttgart,Hertha BSC,395,2,2,/spielbericht/index/spielbericht/3588341,2021,Bundesliga
+11.12.2021,15:30,Hertha BSC,Arm. Bielefeld,5.000,2,0,/spielbericht/index/spielbericht/3588351,2021,Bundesliga
+14.12.2021,20:30,1.FSV Mainz 05,Hertha BSC,10.000,4,0,/spielbericht/index/spielbericht/3588379,2021,Bundesliga
+18.12.2021,18:30,Hertha BSC,Bor. Dortmund,5.000,3,2,/spielbericht/index/spielbericht/3588387,2021,Bundesliga
+09.01.2022,15:30,Hertha BSC,1.FC Köln,3.000,1,3,/spielbericht/index/spielbericht/3588406,2021,Bundesliga
+15.01.2022,15:30,VfL Wolfsburg,Hertha BSC,500,0,0,/spielbericht/index/spielbericht/3588419,2021,Bundesliga
+23.01.2022,17:30,Hertha BSC,Bayern München,3.000,1,4,/spielbericht/index/spielbericht/3588442,2021,Bundesliga
+04.02.2022,20:30,Hertha BSC,VfL Bochum,3.000,1,1,/spielbericht/index/spielbericht/3588460,2021,Bundesliga
+12.02.2022,15:30,Greuther Fürth,Hertha BSC,7.919,2,1,/spielbericht/index/spielbericht/3588471,2021,Bundesliga
+20.02.2022,19:30,Hertha BSC,RB Leipzig,10.000,1,6,/spielbericht/index/spielbericht/3588487,2021,Bundesliga
+26.02.2022,15:30,SC Freiburg,Hertha BSC,21.000,3,0,/spielbericht/index/spielbericht/3588494,2021,Bundesliga
+05.03.2022,15:30,Hertha BSC,E. Frankfurt,25.000,1,4,/spielbericht/index/spielbericht/3588513,2021,Bundesliga
+12.03.2022,18:30,Bor. M'gladbach,Hertha BSC,30.675,2,0,/spielbericht/index/spielbericht/3588530,2021,Bundesliga
+19.03.2022,15:30,Hertha BSC,TSG Hoffenheim,25.000,3,0,/spielbericht/index/spielbericht/3588549,2021,Bundesliga
+02.04.2022,15:30,B. Leverkusen,Hertha BSC,23.500,2,1,/spielbericht/index/spielbericht/3588564,2021,Bundesliga
+09.04.2022,18:30,Hertha BSC,Union Berlin,74.667,1,4,/spielbericht/index/spielbericht/3588585,2021,Bundesliga
+16.04.2022,15:30,FC Augsburg,Hertha BSC,28.533,0,1,/spielbericht/index/spielbericht/3588596,2021,Bundesliga
+24.04.2022,17:30,Hertha BSC,VfB Stuttgart,54.589,2,0,/spielbericht/index/spielbericht/3588612,2021,Bundesliga
+30.04.2022,15:30,Arm. Bielefeld,Hertha BSC,26.021,1,1,/spielbericht/index/spielbericht/3588633,2021,Bundesliga
+07.05.2022,18:30,Hertha BSC,1.FSV Mainz 05,71.548,1,2,/spielbericht/index/spielbericht/3588654,2021,Bundesliga
+14.05.2022,15:30,Bor. Dortmund,Hertha BSC,80.500,2,1,/spielbericht/index/spielbericht/3588667,2021,Bundesliga
+19.05.2022,20:30,Hertha BSC,Hamburger SV,75.500,0,1,/spielbericht/index/spielbericht/3817596,2021,Relegation Bundesliga
+23.05.2022,20:30,Hamburger SV,Hertha BSC,55.000,0,2,/spielbericht/index/spielbericht/3817597,2021,Relegation Bundesliga
+06.08.2022,15:30,Union Berlin,Hertha BSC,22.012,3,1,/spielbericht/index/spielbericht/3839027,2022,Bundesliga
+13.08.2022,15:30,Hertha BSC,E. Frankfurt,44.694,1,1,/spielbericht/index/spielbericht/3839058,2022,Bundesliga
+19.08.2022,20:30,Bor. M'gladbach,Hertha BSC,48.411,1,0,/spielbericht/index/spielbericht/3839082,2022,Bundesliga
+27.08.2022,15:30,Hertha BSC,Bor. Dortmund,62.142,0,1,/spielbericht/index/spielbericht/3839102,2022,Bundesliga
+04.09.2022,15:30,FC Augsburg,Hertha BSC,25.789,0,2,/spielbericht/index/spielbericht/3839112,2022,Bundesliga
+10.09.2022,15:30,Hertha BSC,B. Leverkusen,40.643,2,2,/spielbericht/index/spielbericht/3839120,2022,Bundesliga
+16.09.2022,20:30,1.FSV Mainz 05,Hertha BSC,25.300,1,1,/spielbericht/index/spielbericht/3839135,2022,Bundesliga
+02.10.2022,15:30,Hertha BSC,TSG Hoffenheim,41.653,1,1,/spielbericht/index/spielbericht/3839156,2022,Bundesliga
+09.10.2022,17:30,Hertha BSC,SC Freiburg,40.481,2,2,/spielbericht/index/spielbericht/3839167,2022,Bundesliga
+15.10.2022,18:30,RB Leipzig,Hertha BSC,47.069,3,2,/spielbericht/index/spielbericht/3839178,2022,Bundesliga
+23.10.2022,17:30,Hertha BSC,FC Schalke 04,60.165,2,1,/spielbericht/index/spielbericht/3839203,2022,Bundesliga
+28.10.2022,20:30,Werder Bremen,Hertha BSC,42.100,1,0,/spielbericht/index/spielbericht/3839221,2022,Bundesliga
+05.11.2022,15:30,Hertha BSC,Bayern München,74.667,2,3,/spielbericht/index/spielbericht/3839238,2022,Bundesliga
+08.11.2022,20:30,VfB Stuttgart,Hertha BSC,44.500,2,1,/spielbericht/index/spielbericht/3839256,2022,Bundesliga
+12.11.2022,15:30,Hertha BSC,1.FC Köln,60.827,2,0,/spielbericht/index/spielbericht/3839264,2022,Bundesliga
+21.01.2023,15:30,VfL Bochum,Hertha BSC,26.000,3,1,/spielbericht/index/spielbericht/3839283,2022,Bundesliga
+24.01.2023,20:30,Hertha BSC,VfL Wolfsburg,29.483,0,5,/spielbericht/index/spielbericht/3839300,2022,Bundesliga
+28.01.2023,15:30,Hertha BSC,Union Berlin,74.667,0,2,/spielbericht/index/spielbericht/3839318,2022,Bundesliga
+04.02.2023,15:30,E. Frankfurt,Hertha BSC,49.500,3,0,/spielbericht/index/spielbericht/3839334,2022,Bundesliga
+12.02.2023,15:30,Hertha BSC,Bor. M'gladbach,40.973,4,1,/spielbericht/index/spielbericht/3839354,2022,Bundesliga
+19.02.2023,17:30,Bor. Dortmund,Hertha BSC,81.365,4,1,/spielbericht/index/spielbericht/3839366,2022,Bundesliga
+25.02.2023,15:30,Hertha BSC,FC Augsburg,40.522,2,0,/spielbericht/index/spielbericht/3839390,2022,Bundesliga
+05.03.2023,15:30,B. Leverkusen,Hertha BSC,30.210,4,1,/spielbericht/index/spielbericht/3839394,2022,Bundesliga
+11.03.2023,15:30,Hertha BSC,1.FSV Mainz 05,41.689,1,1,/spielbericht/index/spielbericht/3839417,2022,Bundesliga
+18.03.2023,15:30,TSG Hoffenheim,Hertha BSC,25.027,3,1,/spielbericht/index/spielbericht/3839433,2022,Bundesliga
+01.04.2023,15:30,SC Freiburg,Hertha BSC,34.700,1,1,/spielbericht/index/spielbericht/3839450,2022,Bundesliga
+08.04.2023,18:30,Hertha BSC,RB Leipzig,50.679,0,1,/spielbericht/index/spielbericht/3839473,2022,Bundesliga
+14.04.2023,20:30,FC Schalke 04,Hertha BSC,61.981,5,2,/spielbericht/index/spielbericht/3839490,2022,Bundesliga
+22.04.2023,15:30,Hertha BSC,Werder Bremen,74.667,2,4,/spielbericht/index/spielbericht/3839509,2022,Bundesliga
+30.04.2023,15:30,Bayern München,Hertha BSC,75.000,2,0,/spielbericht/index/spielbericht/3839510,2022,Bundesliga
+06.05.2023,15:30,Hertha BSC,VfB Stuttgart,63.443,2,1,/spielbericht/index/spielbericht/3839535,2022,Bundesliga
+12.05.2023,20:30,1.FC Köln,Hertha BSC,50.000,5,2,/spielbericht/index/spielbericht/3839550,2022,Bundesliga
+20.05.2023,15:30,Hertha BSC,VfL Bochum,70.692,1,1,/spielbericht/index/spielbericht/3839570,2022,Bundesliga
+27.05.2023,15:30,VfL Wolfsburg,Hertha BSC,26.775,1,2,/spielbericht/index/spielbericht/3839588,2022,Bundesliga
+29.07.2023,20:30,F. Düsseldorf,Hertha BSC,40.466,1,0,/spielbericht/index/spielbericht/4096274,2023,2. Bundesliga
+04.08.2023,18:30,Hertha BSC,Wehen Wiesbaden,40.075,0,1,/spielbericht/index/spielbericht/4096283,2023,2. Bundesliga
+19.08.2023,20:30,Hamburger SV,Hertha BSC,57.000,3,0,/spielbericht/index/spielbericht/4096291,2023,2. Bundesliga
+26.08.2023,13:00,Hertha BSC,Greuther Fürth,35.291,5,0,/spielbericht/index/spielbericht/4096301,2023,2. Bundesliga
+02.09.2023,13:00,1.FC Magdeburg,Hertha BSC,26.872,6,4,/spielbericht/index/spielbericht/4096313,2023,2. Bundesliga
+17.09.2023,13:30,Hertha BSC,E. Braunschweig,42.528,3,0,/spielbericht/index/spielbericht/4096319,2023,2. Bundesliga
+24.09.2023,13:30,Holstein Kiel,Hertha BSC,15.034,2,3,/spielbericht/index/spielbericht/4096329,2023,2. Bundesliga
+30.09.2023,20:30,Hertha BSC,FC St. Pauli,66.113,1,2,/spielbericht/index/spielbericht/4096336,2023,2. Bundesliga
+08.10.2023,13:30,FC Schalke 04,Hertha BSC,62.271,1,2,/spielbericht/index/spielbericht/4096345,2023,2. Bundesliga
+22.10.2023,13:30,1.FC Nürnberg,Hertha BSC,37.320,3,1,/spielbericht/index/spielbericht/4096360,2023,2. Bundesliga
+28.10.2023,13:00,Hertha BSC,SC Paderborn,35.608,3,1,/spielbericht/index/spielbericht/4096364,2023,2. Bundesliga
+05.11.2023,13:30,Hansa Rostock,Hertha BSC,26.500,0,0,/spielbericht/index/spielbericht/4096377,2023,2. Bundesliga
+11.11.2023,20:30,Hertha BSC,Karlsruher SC,58.851,2,2,/spielbericht/index/spielbericht/4096382,2023,2. Bundesliga
+24.11.2023,18:30,Hannover 96,Hertha BSC,45.100,2,2,/spielbericht/index/spielbericht/4096394,2023,2. Bundesliga
+03.12.2023,13:30,Hertha BSC,SV Elversberg,33.097,5,1,/spielbericht/index/spielbericht/4096400,2023,2. Bundesliga
+09.12.2023,13:00,1.FC K'lautern,Hertha BSC,45.308,1,2,/spielbericht/index/spielbericht/4096410,2023,2. Bundesliga
+16.12.2023,13:00,Hertha BSC,VfL Osnabrück,43.650,0,0,/spielbericht/index/spielbericht/4096418,2023,2. Bundesliga
+21.01.2024,13:30,Hertha BSC,F. Düsseldorf,42.902,2,2,/spielbericht/index/spielbericht/4096427,2023,2. Bundesliga
+27.01.2024,13:00,Wehen Wiesbaden,Hertha BSC,10.454,3,1,/spielbericht/index/spielbericht/4096436,2023,2. Bundesliga
+03.02.2024,20:30,Hertha BSC,Hamburger SV,58.013,1,2,/spielbericht/index/spielbericht/4096444,2023,2. Bundesliga
+11.02.2024,13:30,Greuther Fürth,Hertha BSC,13.459,1,2,/spielbericht/index/spielbericht/4096454,2023,2. Bundesliga
+16.02.2024,18:30,Hertha BSC,1.FC Magdeburg,52.652,3,2,/spielbericht/index/spielbericht/4096466,2023,2. Bundesliga
+24.02.2024,13:00,E. Braunschweig,Hertha BSC,22.636,1,1,/spielbericht/index/spielbericht/4096472,2023,2. Bundesliga
+01.03.2024,18:30,Hertha BSC,Holstein Kiel,46.835,2,2,/spielbericht/index/spielbericht/4096482,2023,2. Bundesliga
+10.03.2024,13:30,FC St. Pauli,Hertha BSC,29.546,2,0,/spielbericht/index/spielbericht/4096489,2023,2. Bundesliga
+17.03.2024,13:30,Hertha BSC,FC Schalke 04,69.156,5,2,/spielbericht/index/spielbericht/4096498,2023,2. Bundesliga
+30.03.2024,20:30,Hertha BSC,1.FC Nürnberg,51.981,3,3,/spielbericht/index/spielbericht/4096513,2023,2. Bundesliga
+05.04.2024,18:30,SC Paderborn,Hertha BSC,15.000,2,3,/spielbericht/index/spielbericht/4096517,2023,2. Bundesliga
+12.04.2024,18:30,Hertha BSC,Hansa Rostock,62.177,4,0,/spielbericht/index/spielbericht/4096530,2023,2. Bundesliga
+21.04.2024,13:30,Karlsruher SC,Hertha BSC,33.000,3,2,/spielbericht/index/spielbericht/4096535,2023,2. Bundesliga
+26.04.2024,18:30,Hertha BSC,Hannover 96,59.192,1,1,/spielbericht/index/spielbericht/4096547,2023,2. Bundesliga
+05.05.2024,13:30,SV Elversberg,Hertha BSC,9.502,4,2,/spielbericht/index/spielbericht/4096553,2023,2. Bundesliga
+11.05.2024,13:00,Hertha BSC,1.FC K'lautern,67.144,3,1,/spielbericht/index/spielbericht/4096563,2023,2. Bundesliga
+19.05.2024,15:30,VfL Osnabrück,Hertha BSC,15.741,2,1,/spielbericht/index/spielbericht/4096571,2023,2. Bundesliga
+12.08.2023,13:00,Carl Zeiss Jena,Hertha BSC,13.000,0,5,/spielbericht/index/spielbericht/4088611,2023,DFB-Pokal
+01.11.2023,20:45,Hertha BSC,1.FSV Mainz 05,29.621,3,0,/spielbericht/index/spielbericht/4194151,2023,DFB-Pokal
+06.12.2023,20:45,Hertha BSC,Hamburger SV,58.496,8,6,/spielbericht/index/spielbericht/4222800,2023,DFB-Pokal
+31.01.2024,20:45,Hertha BSC,1.FC K'lautern,74.245,1,3,/spielbericht/index/spielbericht/4240126,2023,DFB-Pokal
+03.08.2024,13:00,Hertha BSC,SC Paderborn,48.591,1,2,/spielbericht/index/spielbericht/4373307,2024,2. Bundesliga
+10.08.2024,20:30,Hamburger SV,Hertha BSC,57.000,1,1,/spielbericht/index/spielbericht/4373330,2024,2. Bundesliga
+24.08.2024,13:00,Hertha BSC,J. Regensburg,42.355,2,0,/spielbericht/index/spielbericht/4373352,2024,2. Bundesliga
+31.08.2024,20:30,1.FC K'lautern,Hertha BSC,48.608,3,4,/spielbericht/index/spielbericht/4373362,2024,2. Bundesliga
+15.09.2024,13:30,Hertha BSC,F. Düsseldorf,50.135,0,2,/spielbericht/index/spielbericht/4373380,2024,2. Bundesliga
+21.09.2024,13:00,1.FC Nürnberg,Hertha BSC,36.553,0,2,/spielbericht/index/spielbericht/4373396,2024,2. Bundesliga
+29.09.2024,13:30,Hertha BSC,SV Elversberg,43.123,1,4,/spielbericht/index/spielbericht/4373415,2024,2. Bundesliga
+05.10.2024,20:30,FC Schalke 04,Hertha BSC,61.939,2,2,/spielbericht/index/spielbericht/4373432,2024,2. Bundesliga
+18.10.2024,18:30,Hertha BSC,E. Braunschweig,45.457,3,1,/spielbericht/index/spielbericht/4373450,2024,2. Bundesliga
+26.10.2024,13:00,Karlsruher SC,Hertha BSC,31.845,1,3,/spielbericht/index/spielbericht/4373467,2024,2. Bundesliga
+02.11.2024,20:30,Hertha BSC,1.FC Köln,68.763,0,1,/spielbericht/index/spielbericht/4373486,2024,2. Bundesliga
+09.11.2024,13:00,Darmstadt 98,Hertha BSC,17.810,3,1,/spielbericht/index/spielbericht/4373501,2024,2. Bundesliga
+23.11.2024,13:00,Hertha BSC,SSV Ulm 1846,41.758,2,2,/spielbericht/index/spielbericht/4373523,2024,2. Bundesliga
+29.11.2024,18:30,1.FC Magdeburg,Hertha BSC,27.300,1,3,/spielbericht/index/spielbericht/4373542,2024,2. Bundesliga
+07.12.2024,13:00,Greuther Fürth,Hertha BSC,12.125,2,1,/spielbericht/index/spielbericht/4373558,2024,2. Bundesliga
+13.12.2024,18:30,Hertha BSC,Pr. Münster,45.767,1,2,/spielbericht/index/spielbericht/4373576,2024,2. Bundesliga
+22.12.2024,13:30,Hannover 96,Hertha BSC,49.000,0,0,/spielbericht/index/spielbericht/4373601,2024,2. Bundesliga
+19.01.2025,13:30,SC Paderborn,Hertha BSC,14.280,1,2,/spielbericht/index/spielbericht/4373619,2024,2. Bundesliga
+25.01.2025,20:30,Hertha BSC,Hamburger SV,71.500,2,3,/spielbericht/index/spielbericht/4373640,2024,2. Bundesliga
+01.02.2025,13:00,J. Regensburg,Hertha BSC,12.025,2,0,/spielbericht/index/spielbericht/4373661,2024,2. Bundesliga
+08.02.2025,20:30,Hertha BSC,1.FC K'lautern,47.443,0,1,/spielbericht/index/spielbericht/4373676,2024,2. Bundesliga
+15.02.2025,20:30,F. Düsseldorf,Hertha BSC,38.912,2,1,/spielbericht/index/spielbericht/4373680,2024,2. Bundesliga
+21.02.2025,18:30,Hertha BSC,1.FC Nürnberg,41.752,0,0,/spielbericht/index/spielbericht/4373704,2024,2. Bundesliga
+02.03.2025,13:30,SV Elversberg,Hertha BSC,10.607,4,0,/spielbericht/index/spielbericht/4373720,2024,2. Bundesliga
+08.03.2025,13:00,Hertha BSC,FC Schalke 04,70.159,1,2,/spielbericht/index/spielbericht/4373738,2024,2. Bundesliga
+16.03.2025,13:30,E. Braunschweig,Hertha BSC,22.613,1,5,/spielbericht/index/spielbericht/4373760,2024,2. Bundesliga
+29.03.2025,13:00,Hertha BSC,Karlsruher SC,63.612,3,1,/spielbericht/index/spielbericht/4373774,2024,2. Bundesliga
+05.04.2025,20:30,1.FC Köln,Hertha BSC,50.000,0,1,/spielbericht/index/spielbericht/4373788,2024,2. Bundesliga
+12.04.2025,13:00,Hertha BSC,Darmstadt 98,46.763,1,1,/spielbericht/index/spielbericht/4373810,2024,2. Bundesliga
+20.04.2025,13:30,SSV Ulm 1846,Hertha BSC,17.600,2,3,/spielbericht/index/spielbericht/4373832,2024,2. Bundesliga
+25.04.2025,18:30,Hertha BSC,1.FC Magdeburg,62.057,1,1,/spielbericht/index/spielbericht/4373847,2024,2. Bundesliga
+04.05.2025,13:30,Hertha BSC,Greuther Fürth,48.047,1,0,/spielbericht/index/spielbericht/4373863,2024,2. Bundesliga
+09.05.2025,18:30,Pr. Münster,Hertha BSC,12.422,2,0,/spielbericht/index/spielbericht/4373885,2024,2. Bundesliga
+18.05.2025,15:30,Hertha BSC,Hannover 96,66.957,1,1,/spielbericht/index/spielbericht/4373900,2024,2. Bundesliga
+18.08.2024,15:30,Hansa Rostock,Hertha BSC,25.600,1,5,/spielbericht/index/spielbericht/4353914,2024,DFB-Pokal
+30.10.2024,18:00,Hertha BSC,1.FC Heidenheim,44.135,2,1,/spielbericht/index/spielbericht/4446791,2024,DFB-Pokal
+04.12.2024,18:00,1.FC Köln,Hertha BSC,50.000,2,1,/spielbericht/index/spielbericht/4485937,2024,DFB-Pokal

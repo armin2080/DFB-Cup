@@ -1,0 +1,412 @@
+date,time,home_team,away_team,participants,home_score,away_score,match_link,season,competition
+26.07.2014,14:00,Hallescher FC,Chemnitzer FC,8.794,0,3,/spielbericht/index/spielbericht/2462899,2014,3. Liga
+02.08.2014,14:00,Chemnitzer FC,VfL Osnabrück,6.071,2,0,/spielbericht/index/spielbericht/2462905,2014,3. Liga
+05.08.2014,19:00,Chemnitzer FC,Arm. Bielefeld,6.834,0,0,/spielbericht/index/spielbericht/2462915,2014,3. Liga
+10.08.2014,14:00,Fortuna Köln,Chemnitzer FC,2.336,1,2,/spielbericht/index/spielbericht/2462927,2014,3. Liga
+24.08.2014,14:00,Chemnitzer FC,MSV Duisburg,6.124,0,0,/spielbericht/index/spielbericht/2462935,2014,3. Liga
+27.08.2014,19:00,Stuttg. Kickers,Chemnitzer FC,3.420,2,0,/spielbericht/index/spielbericht/2462949,2014,3. Liga
+30.08.2014,14:00,Chemnitzer FC,Unterhaching,4.137,2,0,/spielbericht/index/spielbericht/2462955,2014,3. Liga
+17.09.2014,19:00,B. Dortmund II,Chemnitzer FC,1.750,1,3,/spielbericht/index/spielbericht/2462971,2014,3. Liga
+14.09.2014,14:00,Chemnitzer FC,Hansa Rostock,7.240,2,0,/spielbericht/index/spielbericht/2462975,2014,3. Liga
+20.09.2014,14:00,Stuttgart II,Chemnitzer FC,720,0,0,/spielbericht/index/spielbericht/2462984,2014,3. Liga
+23.09.2014,19:00,Chemnitzer FC,Energie Cottbus,6.285,0,1,/spielbericht/index/spielbericht/2462995,2014,3. Liga
+27.09.2014,14:00,Dynamo Dresden,Chemnitzer FC,29.652,1,0,/spielbericht/index/spielbericht/2463005,2014,3. Liga
+04.10.2014,14:00,Chemnitzer FC,Pr. Münster,5.813,1,0,/spielbericht/index/spielbericht/2463015,2014,3. Liga
+18.10.2014,14:00,Rot-Weiß Erfurt,Chemnitzer FC,7.493,2,0,/spielbericht/index/spielbericht/2463027,2014,3. Liga
+25.10.2014,14:00,Chemnitzer FC,Holstein Kiel,5.830,0,0,/spielbericht/index/spielbericht/2463035,2014,3. Liga
+01.11.2014,14:00,Wehen Wiesbaden,Chemnitzer FC,3.210,2,0,/spielbericht/index/spielbericht/2463049,2014,3. Liga
+08.11.2014,14:00,Chemnitzer FC,J. Regensburg,5.070,4,1,/spielbericht/index/spielbericht/2463055,2014,3. Liga
+22.11.2014,14:00,Sonnenhof-Gr.,Chemnitzer FC,2.005,1,0,/spielbericht/index/spielbericht/2463071,2014,3. Liga
+29.11.2014,14:00,Chemnitzer FC,FSV Mainz 05 II,4.060,1,2,/spielbericht/index/spielbericht/2463075,2014,3. Liga
+06.12.2014,14:00,Chemnitzer FC,Hallescher FC,5.603,0,2,/spielbericht/index/spielbericht/2463086,2014,3. Liga
+13.12.2014,14:00,VfL Osnabrück,Chemnitzer FC,8.276,2,0,/spielbericht/index/spielbericht/2463095,2014,3. Liga
+20.12.2014,14:00,Arm. Bielefeld,Chemnitzer FC,13.411,2,0,/spielbericht/index/spielbericht/2463105,2014,3. Liga
+31.01.2015,14:00,Chemnitzer FC,Fortuna Köln,4.631,3,1,/spielbericht/index/spielbericht/2463117,2014,3. Liga
+07.02.2015,14:00,MSV Duisburg,Chemnitzer FC,11.270,3,0,/spielbericht/index/spielbericht/2463125,2014,3. Liga
+14.02.2015,14:00,Chemnitzer FC,Stuttg. Kickers,5.095,1,1,/spielbericht/index/spielbericht/2463139,2014,3. Liga
+20.02.2015,19:00,Unterhaching,Chemnitzer FC,1.750,0,0,/spielbericht/index/spielbericht/2463145,2014,3. Liga
+28.02.2015,14:00,Chemnitzer FC,B. Dortmund II,5.046,3,1,/spielbericht/index/spielbericht/2463161,2014,3. Liga
+07.03.2015,14:00,Hansa Rostock,Chemnitzer FC,11.200,1,0,/spielbericht/index/spielbericht/2463165,2014,3. Liga
+14.03.2015,14:00,Chemnitzer FC,Stuttgart II,4.077,1,0,/spielbericht/index/spielbericht/2463174,2014,3. Liga
+21.03.2015,14:00,Energie Cottbus,Chemnitzer FC,8.043,2,2,/spielbericht/index/spielbericht/2463185,2014,3. Liga
+04.04.2015,14:00,Chemnitzer FC,Dynamo Dresden,10.000,2,0,/spielbericht/index/spielbericht/2463195,2014,3. Liga
+11.04.2015,14:00,Pr. Münster,Chemnitzer FC,8.414,2,3,/spielbericht/index/spielbericht/2463205,2014,3. Liga
+18.04.2015,14:00,Chemnitzer FC,Rot-Weiß Erfurt,7.077,2,1,/spielbericht/index/spielbericht/2463217,2014,3. Liga
+25.04.2015,14:00,Holstein Kiel,Chemnitzer FC,7.381,2,1,/spielbericht/index/spielbericht/2463225,2014,3. Liga
+02.05.2015,14:00,Chemnitzer FC,Wehen Wiesbaden,5.276,2,1,/spielbericht/index/spielbericht/2463239,2014,3. Liga
+09.05.2015,14:00,J. Regensburg,Chemnitzer FC,2.304,0,1,/spielbericht/index/spielbericht/2463245,2014,3. Liga
+16.05.2015,13:30,Chemnitzer FC,Sonnenhof-Gr.,6.081,2,0,/spielbericht/index/spielbericht/2463261,2014,3. Liga
+23.05.2015,13:30,FSV Mainz 05 II,Chemnitzer FC,1.536,1,1,/spielbericht/index/spielbericht/2463265,2014,3. Liga
+15.08.2014,19:00,Chemnitzer FC,1.FSV Mainz 05,10.287,10,9,/spielbericht/index/spielbericht/2458309,2014,DFB-Pokal
+28.10.2014,19:00,Chemnitzer FC,Werder Bremen,10.161,0,2,/spielbericht/index/spielbericht/2488526,2014,DFB-Pokal
+25.07.2015,14:00,VfR Aalen,Chemnitzer FC,6.031,0,0,/spielbericht/index/spielbericht/2584701,2015,3. Liga
+01.08.2015,14:00,Chemnitzer FC,Hansa Rostock,9.112,1,1,/spielbericht/index/spielbericht/2584926,2015,3. Liga
+15.08.2015,14:00,Energie Cottbus,Chemnitzer FC,7.371,0,1,/spielbericht/index/spielbericht/2584940,2015,3. Liga
+22.08.2015,14:00,Chemnitzer FC,Holstein Kiel,9.045,4,2,/spielbericht/index/spielbericht/2584946,2015,3. Liga
+25.08.2015,20:30,1.FC Magdeburg,Chemnitzer FC,19.112,2,0,/spielbericht/index/spielbericht/2584958,2015,3. Liga
+29.08.2015,14:00,Chemnitzer FC,Wehen Wiesbaden,8.085,1,0,/spielbericht/index/spielbericht/2584966,2015,3. Liga
+06.09.2015,14:00,Dynamo Dresden,Chemnitzer FC,29.555,1,0,/spielbericht/index/spielbericht/2584976,2015,3. Liga
+12.09.2015,14:00,Chemnitzer FC,Pr. Münster,6.107,0,1,/spielbericht/index/spielbericht/2584986,2015,3. Liga
+19.09.2015,14:00,Sonnenhof-Gr.,Chemnitzer FC,1.600,4,2,/spielbericht/index/spielbericht/2585003,2015,3. Liga
+22.09.2015,19:00,Chemnitzer FC,Stuttgart II,5.231,2,1,/spielbericht/index/spielbericht/2585006,2015,3. Liga
+25.09.2015,19:00,Würzb. Kickers,Chemnitzer FC,5.501,1,1,/spielbericht/index/spielbericht/2585021,2015,3. Liga
+01.10.2015,19:30,Chemnitzer FC,Rot-Weiß Erfurt,6.897,1,1,/spielbericht/index/spielbericht/2585026,2015,3. Liga
+17.10.2015,14:00,FSV Mainz 05 II,Chemnitzer FC,1.033,0,0,/spielbericht/index/spielbericht/2585039,2015,3. Liga
+25.10.2015,15:00,Chemnitzer FC,Hallescher FC,8.225,3,1,/spielbericht/index/spielbericht/2585046,2015,3. Liga
+01.11.2015,14:00,W. Bremen II,Chemnitzer FC,976,3,2,/spielbericht/index/spielbericht/2585057,2015,3. Liga
+07.11.2015,14:00,Chemnitzer FC,Erzgebirge Aue,12.300,1,2,/spielbericht/index/spielbericht/2585066,2015,3. Liga
+22.11.2015,14:00,Chemnitzer FC,Fortuna Köln,5.119,3,1,/spielbericht/index/spielbericht/2585076,2015,3. Liga
+28.11.2015,14:00,VfL Osnabrück,Chemnitzer FC,8.750,2,0,/spielbericht/index/spielbericht/2585094,2015,3. Liga
+05.12.2015,14:00,Chemnitzer FC,Stuttg. Kickers,4.768,1,0,/spielbericht/index/spielbericht/2585096,2015,3. Liga
+12.12.2015,14:00,Chemnitzer FC,VfR Aalen,4.886,1,1,/spielbericht/index/spielbericht/2585111,2015,3. Liga
+19.12.2015,14:00,Hansa Rostock,Chemnitzer FC,11.600,1,0,/spielbericht/index/spielbericht/2585116,2015,3. Liga
+24.03.2016,19:00,Chemnitzer FC,Energie Cottbus,10.318,4,0,/spielbericht/index/spielbericht/2585130,2015,3. Liga
+30.01.2016,14:00,Holstein Kiel,Chemnitzer FC,4.126,5,2,/spielbericht/index/spielbericht/2585136,2015,3. Liga
+05.02.2016,17:00,Chemnitzer FC,1.FC Magdeburg,8.278,0,0,/spielbericht/index/spielbericht/2585148,2015,3. Liga
+13.02.2016,14:00,Wehen Wiesbaden,Chemnitzer FC,2.106,1,1,/spielbericht/index/spielbericht/2585156,2015,3. Liga
+20.02.2016,15:00,Chemnitzer FC,Dynamo Dresden,10.644,2,2,/spielbericht/index/spielbericht/2585166,2015,3. Liga
+27.02.2016,14:00,Pr. Münster,Chemnitzer FC,6.532,3,1,/spielbericht/index/spielbericht/2585176,2015,3. Liga
+01.03.2016,18:30,Chemnitzer FC,Sonnenhof-Gr.,5.048,0,2,/spielbericht/index/spielbericht/2585193,2015,3. Liga
+06.03.2016,14:00,Stuttgart II,Chemnitzer FC,965,1,1,/spielbericht/index/spielbericht/2585196,2015,3. Liga
+12.03.2016,14:00,Chemnitzer FC,Würzb. Kickers,5.586,0,1,/spielbericht/index/spielbericht/2585211,2015,3. Liga
+20.03.2016,14:05,Rot-Weiß Erfurt,Chemnitzer FC,6.336,0,2,/spielbericht/index/spielbericht/2585216,2015,3. Liga
+02.04.2016,14:00,Chemnitzer FC,FSV Mainz 05 II,6.720,5,1,/spielbericht/index/spielbericht/2585229,2015,3. Liga
+10.04.2016,14:00,Hallescher FC,Chemnitzer FC,9.117,1,2,/spielbericht/index/spielbericht/2585236,2015,3. Liga
+16.04.2016,14:00,Chemnitzer FC,W. Bremen II,6.809,2,1,/spielbericht/index/spielbericht/2585247,2015,3. Liga
+24.04.2016,14:00,Erzgebirge Aue,Chemnitzer FC,10.000,2,0,/spielbericht/index/spielbericht/2585256,2015,3. Liga
+29.04.2016,19:00,Fortuna Köln,Chemnitzer FC,1.473,0,3,/spielbericht/index/spielbericht/2585266,2015,3. Liga
+07.05.2016,13:30,Chemnitzer FC,VfL Osnabrück,8.441,2,1,/spielbericht/index/spielbericht/2585284,2015,3. Liga
+14.05.2016,13:45,Stuttg. Kickers,Chemnitzer FC,5.970,0,1,/spielbericht/index/spielbericht/2585286,2015,3. Liga
+09.08.2015,14:30,Chemnitzer FC,Bor. Dortmund,12.500,0,2,/spielbericht/index/spielbericht/2576679,2015,DFB-Pokal
+30.07.2016,14:00,Chemnitzer FC,Sonnenhof-Gr.,7.228,0,0,/spielbericht/index/spielbericht/2709766,2016,3. Liga
+06.08.2016,14:00,Hallescher FC,Chemnitzer FC,8.716,1,1,/spielbericht/index/spielbericht/2709791,2016,3. Liga
+10.08.2016,19:00,Chemnitzer FC,FSV Frankfurt,6.879,2,1,/spielbericht/index/spielbericht/2709806,2016,3. Liga
+14.08.2016,14:00,VfR Aalen,Chemnitzer FC,3.711,2,2,/spielbericht/index/spielbericht/2709819,2016,3. Liga
+27.08.2016,14:00,Chemnitzer FC,SF Lotte,6.168,0,1,/spielbericht/index/spielbericht/2709836,2016,3. Liga
+10.09.2016,14:00,Fortuna Köln,Chemnitzer FC,1.487,1,0,/spielbericht/index/spielbericht/2709857,2016,3. Liga
+16.09.2016,19:00,Chemnitzer FC,FSV Zwickau,10.770,1,0,/spielbericht/index/spielbericht/2709876,2016,3. Liga
+21.09.2016,18:30,SC Paderborn,Chemnitzer FC,4.203,4,2,/spielbericht/index/spielbericht/2709895,2016,3. Liga
+24.09.2016,14:00,Chemnitzer FC,VfL Osnabrück,5.633,3,0,/spielbericht/index/spielbericht/2709906,2016,3. Liga
+01.10.2016,14:00,MSV Duisburg,Chemnitzer FC,12.151,1,0,/spielbericht/index/spielbericht/2709933,2016,3. Liga
+16.10.2016,14:00,Chemnitzer FC,FSV Mainz 05 II,6.045,4,1,/spielbericht/index/spielbericht/2709936,2016,3. Liga
+22.10.2016,14:00,1.FC Magdeburg,Chemnitzer FC,17.700,2,4,/spielbericht/index/spielbericht/2709961,2016,3. Liga
+29.10.2016,14:00,Chemnitzer FC,W. Bremen II,6.022,1,1,/spielbericht/index/spielbericht/2709976,2016,3. Liga
+05.11.2016,14:00,Wehen Wiesbaden,Chemnitzer FC,2.034,0,3,/spielbericht/index/spielbericht/2709989,2016,3. Liga
+19.11.2016,14:05,Chemnitzer FC,Holstein Kiel,6.262,2,2,/spielbericht/index/spielbericht/2710006,2016,3. Liga
+26.11.2016,14:00,Rot-Weiß Erfurt,Chemnitzer FC,8.216,1,2,/spielbericht/index/spielbericht/2710017,2016,3. Liga
+02.12.2016,19:00,Pr. Münster,Chemnitzer FC,6.333,1,0,/spielbericht/index/spielbericht/2710035,2016,3. Liga
+10.12.2016,14:00,Chemnitzer FC,J. Regensburg,9.087,0,3,/spielbericht/index/spielbericht/2710056,2016,3. Liga
+17.12.2016,14:00,Hansa Rostock,Chemnitzer FC,12.300,1,3,/spielbericht/index/spielbericht/2710083,2016,3. Liga
+28.01.2017,14:00,Sonnenhof-Gr.,Chemnitzer FC,1.600,2,2,/spielbericht/index/spielbericht/2710096,2016,3. Liga
+04.02.2017,14:04,Chemnitzer FC,Hallescher FC,8.283,1,1,/spielbericht/index/spielbericht/2710141,2016,3. Liga
+11.02.2017,14:00,FSV Frankfurt,Chemnitzer FC,2.843,0,3,/spielbericht/index/spielbericht/2710126,2016,3. Liga
+18.02.2017,14:00,Chemnitzer FC,VfR Aalen,6.082,0,1,/spielbericht/index/spielbericht/2710119,2016,3. Liga
+08.03.2017,19:00,SF Lotte,Chemnitzer FC,1.304,3,0,/spielbericht/index/spielbericht/2710106,2016,3. Liga
+03.03.2017,19:00,Chemnitzer FC,Fortuna Köln,6.776,3,1,/spielbericht/index/spielbericht/2710087,2016,3. Liga
+12.03.2017,14:00,FSV Zwickau,Chemnitzer FC,9.673,1,0,/spielbericht/index/spielbericht/2710066,2016,3. Liga
+15.03.2017,19:00,Chemnitzer FC,SC Paderborn,6.289,2,1,/spielbericht/index/spielbericht/2710045,2016,3. Liga
+18.03.2017,14:04,VfL Osnabrück,Chemnitzer FC,7.277,3,0,/spielbericht/index/spielbericht/2710026,2016,3. Liga
+25.03.2017,14:00,Chemnitzer FC,MSV Duisburg,6.841,2,3,/spielbericht/index/spielbericht/2710003,2016,3. Liga
+31.03.2017,18:30,FSV Mainz 05 II,Chemnitzer FC,1.198,0,1,/spielbericht/index/spielbericht/2709966,2016,3. Liga
+04.04.2017,20:30,Chemnitzer FC,1.FC Magdeburg,8.392,1,1,/spielbericht/index/spielbericht/2709951,2016,3. Liga
+08.04.2017,14:00,W. Bremen II,Chemnitzer FC,938,0,0,/spielbericht/index/spielbericht/2709916,2016,3. Liga
+15.04.2017,14:00,Chemnitzer FC,Wehen Wiesbaden,5.532,4,2,/spielbericht/index/spielbericht/2709889,2016,3. Liga
+22.04.2017,14:05,Holstein Kiel,Chemnitzer FC,5.972,2,0,/spielbericht/index/spielbericht/2709866,2016,3. Liga
+29.04.2017,14:00,Chemnitzer FC,Rot-Weiß Erfurt,6.386,1,1,/spielbericht/index/spielbericht/2709847,2016,3. Liga
+07.05.2017,14:05,Chemnitzer FC,Pr. Münster,5.913,0,3,/spielbericht/index/spielbericht/2709825,2016,3. Liga
+13.05.2017,13:30,J. Regensburg,Chemnitzer FC,12.113,3,2,/spielbericht/index/spielbericht/2709796,2016,3. Liga
+20.05.2017,13:30,Chemnitzer FC,Hansa Rostock,7.853,2,0,/spielbericht/index/spielbericht/2709783,2016,3. Liga
+23.07.2017,14:10,Chemnitzer FC,FSV Zwickau,10.494,1,0,/spielbericht/index/spielbericht/2877436,2017,3. Liga
+29.07.2017,14:00,SC Paderborn,Chemnitzer FC,6.181,3,2,/spielbericht/index/spielbericht/2877444,2017,3. Liga
+02.08.2017,19:00,Chemnitzer FC,VfR Aalen,11.115,2,4,/spielbericht/index/spielbericht/2877455,2017,3. Liga
+05.08.2017,14:05,Carl Zeiss Jena,Chemnitzer FC,7.017,1,1,/spielbericht/index/spielbericht/2877462,2017,3. Liga
+19.08.2017,14:05,Chemnitzer FC,VfL Osnabrück,5.710,0,0,/spielbericht/index/spielbericht/2877475,2017,3. Liga
+26.08.2017,14:00,Unterhaching,Chemnitzer FC,3.000,4,2,/spielbericht/index/spielbericht/2877490,2017,3. Liga
+09.09.2017,14:00,Chemnitzer FC,Karlsruher SC,7.013,0,0,/spielbericht/index/spielbericht/2877495,2017,3. Liga
+15.09.2017,19:00,Wehen Wiesbaden,Chemnitzer FC,1.987,2,1,/spielbericht/index/spielbericht/2877508,2017,3. Liga
+20.09.2017,19:00,Chemnitzer FC,Fortuna Köln,5.493,1,2,/spielbericht/index/spielbericht/2877515,2017,3. Liga
+23.09.2017,14:05,Hallescher FC,Chemnitzer FC,7.145,0,3,/spielbericht/index/spielbericht/2877526,2017,3. Liga
+30.09.2017,14:00,W. Bremen II,Chemnitzer FC,590,1,1,/spielbericht/index/spielbericht/2877531,2017,3. Liga
+14.10.2017,14:00,Chemnitzer FC,SF Lotte,6.039,3,1,/spielbericht/index/spielbericht/2877545,2017,3. Liga
+20.10.2017,19:00,Sonnenhof-Gr.,Chemnitzer FC,1.500,3,1,/spielbericht/index/spielbericht/2877553,2017,3. Liga
+27.10.2017,19:00,Chemnitzer FC,Rot-Weiß Erfurt,7.735,1,0,/spielbericht/index/spielbericht/2877565,2017,3. Liga
+04.11.2017,14:05,SV Meppen,Chemnitzer FC,6.235,3,2,/spielbericht/index/spielbericht/2877580,2017,3. Liga
+18.11.2017,14:00,Chemnitzer FC,Würzb. Kickers,5.517,0,3,/spielbericht/index/spielbericht/2877585,2017,3. Liga
+24.11.2017,19:00,Pr. Münster,Chemnitzer FC,6.042,1,0,/spielbericht/index/spielbericht/2877598,2017,3. Liga
+02.12.2017,14:05,Chemnitzer FC,1.FC Magdeburg,7.847,2,3,/spielbericht/index/spielbericht/2877605,2017,3. Liga
+10.12.2017,14:00,Hansa Rostock,Chemnitzer FC,13.000,3,1,/spielbericht/index/spielbericht/2877616,2017,3. Liga
+16.12.2017,14:05,FSV Zwickau,Chemnitzer FC,5.750,3,2,/spielbericht/index/spielbericht/2877626,2017,3. Liga
+20.01.2018,14:00,Chemnitzer FC,SC Paderborn,5.300,0,2,/spielbericht/index/spielbericht/2877638,2017,3. Liga
+27.01.2018,14:00,VfR Aalen,Chemnitzer FC,3.273,3,2,/spielbericht/index/spielbericht/2877645,2017,3. Liga
+03.02.2018,14:00,Chemnitzer FC,Carl Zeiss Jena,6.778,1,0,/spielbericht/index/spielbericht/2877652,2017,3. Liga
+09.02.2018,19:00,VfL Osnabrück,Chemnitzer FC,7.331,6,1,/spielbericht/index/spielbericht/2877665,2017,3. Liga
+17.02.2018,14:00,Chemnitzer FC,Unterhaching,4.668,2,1,/spielbericht/index/spielbericht/2877680,2017,3. Liga
+25.02.2018,14:00,Karlsruher SC,Chemnitzer FC,10.688,2,0,/spielbericht/index/spielbericht/2877685,2017,3. Liga
+27.03.2018,19:02,Chemnitzer FC,Wehen Wiesbaden,5.125,1,4,/spielbericht/index/spielbericht/2877698,2017,3. Liga
+07.03.2018,19:00,Fortuna Köln,Chemnitzer FC,1.883,3,0,/spielbericht/index/spielbericht/2877705,2017,3. Liga
+11.03.2018,14:00,Chemnitzer FC,Hallescher FC,7.719,1,1,/spielbericht/index/spielbericht/2877716,2017,3. Liga
+18.03.2018,14:00,Chemnitzer FC,W. Bremen II,4.931,2,1,/spielbericht/index/spielbericht/2877721,2017,3. Liga
+24.03.2018,14:00,SF Lotte,Chemnitzer FC,2.312,3,1,/spielbericht/index/spielbericht/2877735,2017,3. Liga
+31.03.2018,14:00,Chemnitzer FC,Sonnenhof-Gr.,5.002,2,3,/spielbericht/index/spielbericht/2877743,2017,3. Liga
+08.04.2018,14:05,Rot-Weiß Erfurt,Chemnitzer FC,4.831,0,5,/spielbericht/index/spielbericht/2877755,2017,3. Liga
+14.04.2018,14:00,Chemnitzer FC,SV Meppen,5.060,1,2,/spielbericht/index/spielbericht/2877770,2017,3. Liga
+21.04.2018,14:00,Würzb. Kickers,Chemnitzer FC,5.311,0,0,/spielbericht/index/spielbericht/2877775,2017,3. Liga
+29.04.2018,14:00,Chemnitzer FC,Pr. Münster,4.975,1,2,/spielbericht/index/spielbericht/2877788,2017,3. Liga
+05.05.2018,13:30,1.FC Magdeburg,Chemnitzer FC,21.893,3,1,/spielbericht/index/spielbericht/2877795,2017,3. Liga
+12.05.2018,13:30,Chemnitzer FC,Hansa Rostock,9.197,1,1,/spielbericht/index/spielbericht/2877806,2017,3. Liga
+12.08.2017,15:30,Chemnitzer FC,Bayern München,15.015,0,5,/spielbericht/index/spielbericht/2864712,2017,DFB-Pokal
+28.07.2018,13:30,Chemnitzer FC,U. Fürstenwalde,4.722,3,2,/spielbericht/index/spielbericht/3065506,2018,Regionalliga Nordost
+04.08.2018,14:05,Babelsberg 03,Chemnitzer FC,2.247,1,2,/spielbericht/index/spielbericht/3065511,2018,Regionalliga Nordost
+01.08.2018,19:00,Chemnitzer FC,BFC Dynamo,6.233,2,0,/spielbericht/index/spielbericht/3065524,2018,Regionalliga Nordost
+12.08.2018,14:00,Rot-Weiß Erfurt,Chemnitzer FC,7.264,0,3,/spielbericht/index/spielbericht/3065550,2018,Regionalliga Nordost
+25.08.2018,14:05,Chemnitzer FC,VfB Auerbach,5.489,2,1,/spielbericht/index/spielbericht/3065568,2018,Regionalliga Nordost
+02.09.2018,13:30,G. Halberstadt,Chemnitzer FC,976,2,4,/spielbericht/index/spielbericht/3065586,2018,Regionalliga Nordost
+12.09.2018,18:30,Altglienicke,Chemnitzer FC,742,1,2,/spielbericht/index/spielbericht/3065589,2018,Regionalliga Nordost
+15.09.2018,15:00,Chemnitzer FC,Berliner AK,4.909,3,1,/spielbericht/index/spielbericht/3065603,2018,Regionalliga Nordost
+23.09.2018,13:30,Budissa Bautzen,Chemnitzer FC,1.792,0,1,/spielbericht/index/spielbericht/3065610,2018,Regionalliga Nordost
+29.09.2018,16:00,Chemnitzer FC,Lok Leipzig,7.439,3,1,/spielbericht/index/spielbericht/3065621,2018,Regionalliga Nordost
+03.10.2018,13:30,Optik Rathenow,Chemnitzer FC,934,0,4,/spielbericht/index/spielbericht/3065626,2018,Regionalliga Nordost
+07.10.2018,13:00,Chemnitzer FC,W. Nordhausen,5.578,2,0,/spielbericht/index/spielbericht/3082231,2018,Regionalliga Nordost
+20.10.2018,13:30,Hertha BSC II,Chemnitzer FC,1.356,1,3,/spielbericht/index/spielbericht/3082242,2018,Regionalliga Nordost
+28.10.2018,13:30,Chemnitzer FC,FCO Neugersdorf,4.468,4,0,/spielbericht/index/spielbericht/3082249,2018,Regionalliga Nordost
+04.11.2018,13:30,ZFC Meuselwitz,Chemnitzer FC,2.246,0,5,/spielbericht/index/spielbericht/3082258,2018,Regionalliga Nordost
+10.11.2018,13:30,Chemnitzer FC,Viktoria Berlin,4.588,0,1,/spielbericht/index/spielbericht/3082267,2018,Regionalliga Nordost
+25.11.2018,13:30,Bischofswerda,Chemnitzer FC,1.024,2,1,/spielbericht/index/spielbericht/3082276,2018,Regionalliga Nordost
+02.12.2018,13:30,U. Fürstenwalde,Chemnitzer FC,696,2,4,/spielbericht/index/spielbericht/3082285,2018,Regionalliga Nordost
+08.12.2018,13:30,Chemnitzer FC,Babelsberg 03,4.649,2,0,/spielbericht/index/spielbericht/3082290,2018,Regionalliga Nordost
+13.03.2019,19:00,BFC Dynamo,Chemnitzer FC,911,2,1,/spielbericht/index/spielbericht/3082303,2018,Regionalliga Nordost
+18.02.2019,19:00,Chemnitzer FC,Rot-Weiß Erfurt,6.635,2,0,/spielbericht/index/spielbericht/3082315,2018,Regionalliga Nordost
+03.04.2019,19:00,VfB Auerbach,Chemnitzer FC,1.350,0,2,/spielbericht/index/spielbericht/3082321,2018,Regionalliga Nordost
+03.03.2019,13:30,Chemnitzer FC,G. Halberstadt,4.919,2,0,/spielbericht/index/spielbericht/3082331,2018,Regionalliga Nordost
+09.03.2019,13:30,Chemnitzer FC,Altglienicke,4.006,4,4,/spielbericht/index/spielbericht/3082334,2018,Regionalliga Nordost
+17.03.2019,13:30,Berliner AK,Chemnitzer FC,1.127,2,0,/spielbericht/index/spielbericht/3082348,2018,Regionalliga Nordost
+23.03.2019,13:30,Chemnitzer FC,Budissa Bautzen,4.333,1,0,/spielbericht/index/spielbericht/3082355,2018,Regionalliga Nordost
+31.03.2019,13:30,Lok Leipzig,Chemnitzer FC,5.241,4,2,/spielbericht/index/spielbericht/3082366,2018,Regionalliga Nordost
+06.04.2019,13:30,Chemnitzer FC,Optik Rathenow,3.531,3,0,/spielbericht/index/spielbericht/3082371,2018,Regionalliga Nordost
+12.04.2019,19:00,W. Nordhausen,Chemnitzer FC,1.513,1,2,/spielbericht/index/spielbericht/3082384,2018,Regionalliga Nordost
+18.04.2019,19:00,Chemnitzer FC,Hertha BSC II,4.473,1,0,/spielbericht/index/spielbericht/3082395,2018,Regionalliga Nordost
+27.04.2019,13:30,FCO Neugersdorf,Chemnitzer FC,571,3,2,/spielbericht/index/spielbericht/3082402,2018,Regionalliga Nordost
+04.05.2019,13:30,Chemnitzer FC,ZFC Meuselwitz,2.860,1,1,/spielbericht/index/spielbericht/3082411,2018,Regionalliga Nordost
+12.05.2019,13:30,Viktoria Berlin,Chemnitzer FC,829,4,2,/spielbericht/index/spielbericht/3082420,2018,Regionalliga Nordost
+18.05.2019,13:30,Chemnitzer FC,Bischofswerda,4.208,7,0,/spielbericht/index/spielbericht/3082435,2018,Regionalliga Nordost
+13.10.2018,15:30,K. Markkleeberg,Chemnitzer FC,732,1,3,/spielbericht/index/spielbericht/3108674,2018,Landespokal Sachsen
+31.10.2018,13:30,FC 1910 Lößnitz,Chemnitzer FC,3.450,2,4,/spielbericht/index/spielbericht/3119552,2018,Landespokal Sachsen
+17.11.2018,15:30,Chemnitzer FC,Bischofswerda,2.879,2,1,/spielbericht/index/spielbericht/3126054,2018,Landespokal Sachsen
+24.04.2019,19:30,Chemnitzer FC,Lok Leipzig,7.489,13,12,/spielbericht/index/spielbericht/3175234,2018,Landespokal Sachsen
+25.05.2019,14:15,Chemnitzer FC,FSV Zwickau,11.638,2,0,/spielbericht/index/spielbericht/3182609,2018,Landespokal Sachsen
+21.07.2019,13:00,Chemnitzer FC,W. Mannheim,7.381,1,1,/spielbericht/index/spielbericht/3207393,2019,3. Liga
+28.07.2019,13:00,Viktoria Köln,Chemnitzer FC,2.510,3,2,/spielbericht/index/spielbericht/3208212,2019,3. Liga
+31.07.2019,19:00,Chemnitzer FC,SV Meppen,4.978,2,4,/spielbericht/index/spielbericht/3208214,2019,3. Liga
+03.08.2019,14:00,Hallescher FC,Chemnitzer FC,7.812,3,1,/spielbericht/index/spielbericht/3208231,2019,3. Liga
+16.08.2019,19:00,Chemnitzer FC,1.FC Magdeburg,5.598,0,0,/spielbericht/index/spielbericht/3208234,2019,3. Liga
+24.08.2019,14:00,B. München II,Chemnitzer FC,2.114,2,2,/spielbericht/index/spielbericht/3208250,2019,3. Liga
+30.08.2019,18:00,Chemnitzer FC,1860 München,4.566,0,1,/spielbericht/index/spielbericht/3208254,2019,3. Liga
+16.09.2019,19:00,Unterhaching,Chemnitzer FC,3.300,2,1,/spielbericht/index/spielbericht/3208269,2019,3. Liga
+21.09.2019,14:00,Chemnitzer FC,Carl Zeiss Jena,5.343,3,2,/spielbericht/index/spielbericht/3208274,2019,3. Liga
+28.09.2019,14:00,Sonnenhof-Gr.,Chemnitzer FC,1.512,2,0,/spielbericht/index/spielbericht/3208288,2019,3. Liga
+06.10.2019,14:00,Chemnitzer FC,MSV Duisburg,4.059,3,1,/spielbericht/index/spielbericht/3208294,2019,3. Liga
+19.10.2019,14:00,FC Ingolstadt,Chemnitzer FC,5.551,1,1,/spielbericht/index/spielbericht/3208307,2019,3. Liga
+27.10.2019,13:00,Chemnitzer FC,1.FC K'lautern,7.242,3,1,/spielbericht/index/spielbericht/3208314,2019,3. Liga
+02.11.2019,14:00,Pr. Münster,Chemnitzer FC,5.062,3,3,/spielbericht/index/spielbericht/3208326,2019,3. Liga
+10.11.2019,14:00,Chemnitzer FC,Würzb. Kickers,4.710,0,0,/spielbericht/index/spielbericht/3208334,2019,3. Liga
+23.11.2019,14:00,E. Braunschweig,Chemnitzer FC,16.790,2,1,/spielbericht/index/spielbericht/3208345,2019,3. Liga
+30.11.2019,14:00,Chemnitzer FC,KFC Uerdingen,3.444,1,1,/spielbericht/index/spielbericht/3208354,2019,3. Liga
+06.12.2019,19:00,Chemnitzer FC,FSV Zwickau,7.128,2,2,/spielbericht/index/spielbericht/3208364,2019,3. Liga
+14.12.2019,14:00,Hansa Rostock,Chemnitzer FC,13.661,1,2,/spielbericht/index/spielbericht/3208383,2019,3. Liga
+21.12.2019,14:00,W. Mannheim,Chemnitzer FC,8.905,4,3,/spielbericht/index/spielbericht/3208391,2019,3. Liga
+25.01.2020,14:00,Chemnitzer FC,Viktoria Köln,4.142,2,2,/spielbericht/index/spielbericht/3208402,2019,3. Liga
+01.02.2020,14:00,SV Meppen,Chemnitzer FC,6.259,1,2,/spielbericht/index/spielbericht/3208404,2019,3. Liga
+09.02.2020,14:00,Chemnitzer FC,Hallescher FC,6.910,3,0,/spielbericht/index/spielbericht/3208421,2019,3. Liga
+15.02.2020,14:00,1.FC Magdeburg,Chemnitzer FC,16.578,1,1,/spielbericht/index/spielbericht/3208424,2019,3. Liga
+24.02.2020,19:00,Chemnitzer FC,B. München II,5.667,1,0,/spielbericht/index/spielbericht/3208440,2019,3. Liga
+29.02.2020,14:00,1860 München,Chemnitzer FC,15.000,4,3,/spielbericht/index/spielbericht/3208444,2019,3. Liga
+07.03.2020,14:00,Chemnitzer FC,Unterhaching,3.996,1,0,/spielbericht/index/spielbericht/3208459,2019,3. Liga
+31.05.2020,17:00,Carl Zeiss Jena,Chemnitzer FC,x,0,1,/spielbericht/index/spielbericht/3208464,2019,3. Liga
+03.06.2020,20:30,Chemnitzer FC,Sonnenhof-Gr.,x,0,1,/spielbericht/index/spielbericht/3208478,2019,3. Liga
+06.06.2020,14:00,MSV Duisburg,Chemnitzer FC,x,2,1,/spielbericht/index/spielbericht/3208484,2019,3. Liga
+10.06.2020,19:00,Chemnitzer FC,FC Ingolstadt,x,0,1,/spielbericht/index/spielbericht/3208497,2019,3. Liga
+13.06.2020,14:00,1.FC K'lautern,Chemnitzer FC,x,2,0,/spielbericht/index/spielbericht/3208504,2019,3. Liga
+16.06.2020,19:00,Chemnitzer FC,Pr. Münster,x,1,0,/spielbericht/index/spielbericht/3208516,2019,3. Liga
+19.06.2020,19:00,Würzb. Kickers,Chemnitzer FC,x,3,0,/spielbericht/index/spielbericht/3208524,2019,3. Liga
+23.06.2020,19:00,Chemnitzer FC,E. Braunschweig,x,1,2,/spielbericht/index/spielbericht/3208535,2019,3. Liga
+26.06.2020,19:00,KFC Uerdingen,Chemnitzer FC,x,1,1,/spielbericht/index/spielbericht/3208544,2019,3. Liga
+01.07.2020,19:00,FSV Zwickau,Chemnitzer FC,x,2,1,/spielbericht/index/spielbericht/3208554,2019,3. Liga
+04.07.2020,14:00,Chemnitzer FC,Hansa Rostock,x,4,2,/spielbericht/index/spielbericht/3208573,2019,3. Liga
+11.08.2019,18:30,Chemnitzer FC,Hamburger SV,13.130,7,8,/spielbericht/index/spielbericht/3195530,2019,DFB-Pokal
+15.08.2020,16:00,Chemnitzer FC,Viktoria Berlin,687,1,2,/spielbericht/index/spielbericht/3398897,2020,Regionalliga Nordost
+26.08.2020,19:00,VfB Auerbach,Chemnitzer FC,1.000,2,1,/spielbericht/index/spielbericht/3398908,2020,Regionalliga Nordost
+29.08.2020,16:00,Chemnitzer FC,G. Halberstadt,708,1,0,/spielbericht/index/spielbericht/3398917,2020,Regionalliga Nordost
+02.09.2020,19:00,Babelsberg 03,Chemnitzer FC,859,2,2,/spielbericht/index/spielbericht/3398926,2020,Regionalliga Nordost
+06.09.2020,16:00,Chemnitzer FC,U. Fürstenwalde,1.576,3,2,/spielbericht/index/spielbericht/3398937,2020,Regionalliga Nordost
+19.09.2020,14:05,Lok Leipzig,Chemnitzer FC,2.085,1,1,/spielbericht/index/spielbericht/3398944,2020,Regionalliga Nordost
+23.09.2020,19:00,Chemnitzer FC,BFC Dynamo,2.050,0,1,/spielbericht/index/spielbericht/3398957,2020,Regionalliga Nordost
+27.09.2020,13:30,Hertha BSC II,Chemnitzer FC,54,1,0,/spielbericht/index/spielbericht/3398972,2020,Regionalliga Nordost
+03.10.2020,13:30,Chemnitzer FC,Berliner AK,1.737,4,2,/spielbericht/index/spielbericht/3398977,2020,Regionalliga Nordost
+18.10.2020,13:30,Carl Zeiss Jena,Chemnitzer FC,1.256,2,1,/spielbericht/index/spielbericht/3398990,2020,Regionalliga Nordost
+25.10.2020,13:30,Chemnitzer FC,FSV Luckenwalde,x,3,0,/spielbericht/index/spielbericht/3398997,2020,Regionalliga Nordost
+28.10.2020,19:00,Bischofswerda,Chemnitzer FC,100,0,3,/spielbericht/index/spielbericht/3399008,2020,Regionalliga Nordost
+01.11.2020,13:30,Chemie Leipzig,Chemnitzer FC,999,2,0,/spielbericht/index/spielbericht/3399014,2020,Regionalliga Nordost
+13.09.2020,15:30,Chemnitzer FC,TSG Hoffenheim,3.095,4,5,/spielbericht/index/spielbericht/3422875,2020,DFB-Pokal
+10.10.2020,14:00,FC Grimma,Chemnitzer FC,320,1,5,/spielbericht/index/spielbericht/3453473,2020,Landespokal Sachsen
+01.05.2021,16:00,Chemnitzer FC,VfB Auerbach,x,1,0,/spielbericht/index/spielbericht/3556586,2020,Landespokal Sachsen
+12.05.2021,15:00,Chemnitzer FC,FSV Zwickau,x,3,2,/spielbericht/index/spielbericht/3567368,2020,Landespokal Sachsen
+29.05.2021,14:05,Lok Leipzig,Chemnitzer FC,x,1,0,/spielbericht/index/spielbericht/3571779,2020,Landespokal Sachsen
+23.07.2021,19:00,Chemnitzer FC,TeBe Berlin,2.947,3,1,/spielbericht/index/spielbericht/3593332,2021,Regionalliga Nordost
+27.07.2021,19:00,Babelsberg 03,Chemnitzer FC,1.000,2,1,/spielbericht/index/spielbericht/3596614,2021,Regionalliga Nordost
+30.07.2021,19:00,Chemnitzer FC,U. Fürstenwalde,2.579,1,0,/spielbericht/index/spielbericht/3596616,2021,Regionalliga Nordost
+08.08.2021,14:05,Lichtenberg 47,Chemnitzer FC,574,1,3,/spielbericht/index/spielbericht/3596633,2021,Regionalliga Nordost
+15.08.2021,13:00,Chemnitzer FC,Berliner AK,2.739,0,0,/spielbericht/index/spielbericht/3596636,2021,Regionalliga Nordost
+18.08.2021,19:00,Hertha BSC II,Chemnitzer FC,583,1,0,/spielbericht/index/spielbericht/3596652,2021,Regionalliga Nordost
+21.08.2021,13:00,Chemnitzer FC,Altglienicke,1.853,0,2,/spielbericht/index/spielbericht/3596656,2021,Regionalliga Nordost
+27.08.2021,19:00,Chemie Leipzig,Chemnitzer FC,4.099,1,1,/spielbericht/index/spielbericht/3596671,2021,Regionalliga Nordost
+13.10.2021,19:00,Chemnitzer FC,Lok Leipzig,3.265,2,3,/spielbericht/index/spielbericht/3596676,2021,Regionalliga Nordost
+29.09.2021,19:00,FSV Luckenwalde,Chemnitzer FC,755,1,1,/spielbericht/index/spielbericht/3596690,2021,Regionalliga Nordost
+20.10.2021,19:00,Chemnitzer FC,Energie Cottbus,2.666,1,1,/spielbericht/index/spielbericht/3596696,2021,Regionalliga Nordost
+24.09.2021,19:00,BFC Dynamo,Chemnitzer FC,2.000,1,1,/spielbericht/index/spielbericht/3596709,2021,Regionalliga Nordost
+03.10.2021,13:00,Chemnitzer FC,FC Eilenburg,1.812,2,0,/spielbericht/index/spielbericht/3596716,2021,Regionalliga Nordost
+16.10.2021,13:00,Optik Rathenow,Chemnitzer FC,344,1,2,/spielbericht/index/spielbericht/3596728,2021,Regionalliga Nordost
+23.10.2021,13:00,Chemnitzer FC,G. Halberstadt,1.472,5,2,/spielbericht/index/spielbericht/3596736,2021,Regionalliga Nordost
+31.10.2021,14:05,Carl Zeiss Jena,Chemnitzer FC,3.107,1,1,/spielbericht/index/spielbericht/3596747,2021,Regionalliga Nordost
+06.11.2021,14:05,Chemnitzer FC,ZFC Meuselwitz,1.833,1,1,/spielbericht/index/spielbericht/3596756,2021,Regionalliga Nordost
+20.11.2021,13:00,Chemnitzer FC,VfB Auerbach,1.170,5,1,/spielbericht/index/spielbericht/3596766,2021,Regionalliga Nordost
+28.11.2021,13:00,Tasmania Berlin,Chemnitzer FC,147,0,2,/spielbericht/index/spielbericht/3596785,2021,Regionalliga Nordost
+05.12.2021,13:00,TeBe Berlin,Chemnitzer FC,412,1,2,/spielbericht/index/spielbericht/3596786,2021,Regionalliga Nordost
+11.12.2021,16:04,Chemnitzer FC,Babelsberg 03,x,0,0,/spielbericht/index/spielbericht/3596804,2021,Regionalliga Nordost
+19.12.2021,13:04,U. Fürstenwalde,Chemnitzer FC,272,1,3,/spielbericht/index/spielbericht/3596806,2021,Regionalliga Nordost
+29.01.2022,13:00,Chemnitzer FC,Lichtenberg 47,822,0,0,/spielbericht/index/spielbericht/3596823,2021,Regionalliga Nordost
+05.02.2022,14:15,Berliner AK,Chemnitzer FC,913,1,2,/spielbericht/index/spielbericht/3596826,2021,Regionalliga Nordost
+12.02.2022,13:00,Chemnitzer FC,Hertha BSC II,1.249,2,0,/spielbericht/index/spielbericht/3596842,2021,Regionalliga Nordost
+16.03.2022,19:00,Altglienicke,Chemnitzer FC,132,4,1,/spielbericht/index/spielbericht/3596846,2021,Regionalliga Nordost
+25.02.2022,19:00,Chemnitzer FC,Chemie Leipzig,3.495,1,0,/spielbericht/index/spielbericht/3596861,2021,Regionalliga Nordost
+13.04.2022,19:00,Lok Leipzig,Chemnitzer FC,3.581,1,2,/spielbericht/index/spielbericht/3596866,2021,Regionalliga Nordost
+12.03.2022,14:05,Chemnitzer FC,FSV Luckenwalde,2.048,4,1,/spielbericht/index/spielbericht/3596880,2021,Regionalliga Nordost
+20.03.2022,16:00,Energie Cottbus,Chemnitzer FC,4.124,0,1,/spielbericht/index/spielbericht/3596886,2021,Regionalliga Nordost
+02.04.2022,14:05,Chemnitzer FC,BFC Dynamo,3.478,1,3,/spielbericht/index/spielbericht/3596899,2021,Regionalliga Nordost
+06.04.2022,19:00,FC Eilenburg,Chemnitzer FC,305,1,2,/spielbericht/index/spielbericht/3596906,2021,Regionalliga Nordost
+09.04.2022,13:00,Chemnitzer FC,Optik Rathenow,1.420,1,1,/spielbericht/index/spielbericht/3596918,2021,Regionalliga Nordost
+16.04.2022,13:00,G. Halberstadt,Chemnitzer FC,471,0,2,/spielbericht/index/spielbericht/3596926,2021,Regionalliga Nordost
+22.04.2022,18:30,Chemnitzer FC,Carl Zeiss Jena,3.648,1,1,/spielbericht/index/spielbericht/3596937,2021,Regionalliga Nordost
+29.04.2022,18:30,ZFC Meuselwitz,Chemnitzer FC,706,1,1,/spielbericht/index/spielbericht/3596946,2021,Regionalliga Nordost
+08.05.2022,13:00,VfB Auerbach,Chemnitzer FC,902,1,4,/spielbericht/index/spielbericht/3596956,2021,Regionalliga Nordost
+15.05.2022,13:00,Chemnitzer FC,Tasmania Berlin,2.131,5,0,/spielbericht/index/spielbericht/3596975,2021,Regionalliga Nordost
+09.10.2021,13:00,FC Grimma,Chemnitzer FC,174,1,9,/spielbericht/index/spielbericht/3648738,2021,Landespokal Sachsen
+13.11.2021,13:00,Liebertwolkwitz,Chemnitzer FC,253,0,7,/spielbericht/index/spielbericht/3675649,2021,Landespokal Sachsen
+17.11.2021,13:00,SV Panitzsch,Chemnitzer FC,616,0,3,/spielbericht/index/spielbericht/3699557,2021,Landespokal Sachsen
+27.03.2022,16:00,Bischofswerda,Chemnitzer FC,712,1,3,/spielbericht/index/spielbericht/3778350,2021,Landespokal Sachsen
+19.04.2022,18:00,Motor Wilsdruff,Chemnitzer FC,1.100,0,2,/spielbericht/index/spielbericht/3791781,2021,Landespokal Sachsen
+21.05.2022,16:15,Chemnitzer FC,Chemie Leipzig,10.077,2,1,/spielbericht/index/spielbericht/3817303,2021,Landespokal Sachsen
+06.08.2022,13:00,Chemnitzer FC,TeBe Berlin,2.588,3,0,/spielbericht/index/spielbericht/3855347,2022,Regionalliga Nordost
+14.08.2022,13:00,Greifswalder FC,Chemnitzer FC,2.218,0,0,/spielbericht/index/spielbericht/3866490,2022,Regionalliga Nordost
+19.08.2022,19:00,Chemnitzer FC,BFC Dynamo,4.434,1,0,/spielbericht/index/spielbericht/3866587,2022,Regionalliga Nordost
+29.08.2022,19:00,G. Halberstadt,Chemnitzer FC,553,1,1,/spielbericht/index/spielbericht/3866497,2022,Regionalliga Nordost
+10.09.2022,14:00,Chemnitzer FC,Rot-Weiß Erfurt,4.535,0,3,/spielbericht/index/spielbericht/3866515,2022,Regionalliga Nordost
+17.09.2022,14:00,Energie Cottbus,Chemnitzer FC,4.856,3,1,/spielbericht/index/spielbericht/3866522,2022,Regionalliga Nordost
+01.10.2022,14:00,Chemnitzer FC,Chemie Leipzig,3.364,0,1,/spielbericht/index/spielbericht/3866506,2022,Regionalliga Nordost
+07.10.2022,19:00,Altglienicke,Chemnitzer FC,201,3,3,/spielbericht/index/spielbericht/3866538,2022,Regionalliga Nordost
+16.10.2022,13:00,Chemnitzer FC,FSV Luckenwalde,2.155,2,0,/spielbericht/index/spielbericht/3866542,2022,Regionalliga Nordost
+22.10.2022,13:00,Lichtenberg 47,Chemnitzer FC,830,0,2,/spielbericht/index/spielbericht/3866581,2022,Regionalliga Nordost
+29.10.2022,13:00,Chemnitzer FC,ZFC Meuselwitz,2.420,4,0,/spielbericht/index/spielbericht/3866551,2022,Regionalliga Nordost
+04.11.2022,19:00,Berliner AK,Chemnitzer FC,1.058,2,4,/spielbericht/index/spielbericht/3866570,2022,Regionalliga Nordost
+13.11.2022,13:00,Babelsberg 03,Chemnitzer FC,3.165,0,2,/spielbericht/index/spielbericht/3866558,2022,Regionalliga Nordost
+27.11.2022,14:00,Chemnitzer FC,Carl Zeiss Jena,4.776,4,0,/spielbericht/index/spielbericht/3866740,2022,Regionalliga Nordost
+31.01.2023,19:00,Lok Leipzig,Chemnitzer FC,4.085,2,2,/spielbericht/index/spielbericht/3866755,2022,Regionalliga Nordost
+09.12.2022,19:00,Chemnitzer FC,Hertha BSC II,2.939,1,1,/spielbericht/index/spielbericht/3866623,2022,Regionalliga Nordost
+15.02.2023,19:00,Viktoria Berlin,Chemnitzer FC,516,3,0,/spielbericht/index/spielbericht/3866600,2022,Regionalliga Nordost
+26.01.2023,19:30,TeBe Berlin,Chemnitzer FC,502,0,1,/spielbericht/index/spielbericht/3866641,2022,Regionalliga Nordost
+05.02.2023,13:00,Chemnitzer FC,Greifswalder FC,3.306,2,0,/spielbericht/index/spielbericht/3866607,2022,Regionalliga Nordost
+10.02.2023,19:00,BFC Dynamo,Chemnitzer FC,2.304,0,0,/spielbericht/index/spielbericht/3866650,2022,Regionalliga Nordost
+19.02.2023,16:00,Chemnitzer FC,G. Halberstadt,2.766,3,0,/spielbericht/index/spielbericht/3866731,2022,Regionalliga Nordost
+25.02.2023,14:00,Rot-Weiß Erfurt,Chemnitzer FC,6.653,1,0,/spielbericht/index/spielbericht/3866704,2022,Regionalliga Nordost
+03.03.2023,18:00,Chemnitzer FC,Energie Cottbus,5.278,0,2,/spielbericht/index/spielbericht/3866720,2022,Regionalliga Nordost
+12.03.2023,16:00,Chemie Leipzig,Chemnitzer FC,4.850,3,0,/spielbericht/index/spielbericht/3866614,2022,Regionalliga Nordost
+17.03.2023,19:00,Chemnitzer FC,Altglienicke,2.892,0,1,/spielbericht/index/spielbericht/3866763,2022,Regionalliga Nordost
+02.04.2023,13:00,FSV Luckenwalde,Chemnitzer FC,573,0,0,/spielbericht/index/spielbericht/3866776,2022,Regionalliga Nordost
+08.04.2023,13:00,Chemnitzer FC,Lichtenberg 47,2.716,1,1,/spielbericht/index/spielbericht/3866635,2022,Regionalliga Nordost
+16.04.2023,13:30,ZFC Meuselwitz,Chemnitzer FC,776,0,3,/spielbericht/index/spielbericht/3866659,2022,Regionalliga Nordost
+22.04.2023,13:00,Chemnitzer FC,Berliner AK,2.338,3,0,/spielbericht/index/spielbericht/3866714,2022,Regionalliga Nordost
+30.04.2023,13:00,Chemnitzer FC,Babelsberg 03,3.255,1,1,/spielbericht/index/spielbericht/3866666,2022,Regionalliga Nordost
+07.05.2023,16:00,Carl Zeiss Jena,Chemnitzer FC,4.898,1,0,/spielbericht/index/spielbericht/3866677,2022,Regionalliga Nordost
+12.05.2023,19:00,Chemnitzer FC,Lok Leipzig,4.312,1,1,/spielbericht/index/spielbericht/3866701,2022,Regionalliga Nordost
+21.05.2023,13:00,Hertha BSC II,Chemnitzer FC,796,3,1,/spielbericht/index/spielbericht/3866686,2022,Regionalliga Nordost
+28.05.2023,13:00,Chemnitzer FC,Viktoria Berlin,2.937,1,0,/spielbericht/index/spielbericht/3866771,2022,Regionalliga Nordost
+01.08.2022,18:01,Chemnitzer FC,Union Berlin,13.465,1,2,/spielbericht/index/spielbericht/3825595,2022,DFB-Pokal
+04.09.2022,15:00,BSG Stahl Riesa,Chemnitzer FC,1.112,0,5,/spielbericht/index/spielbericht/3911411,2022,Landespokal Sachsen
+24.09.2022,16:00,Tanne Thalheim,Chemnitzer FC,1.110,0,4,/spielbericht/index/spielbericht/3922510,2022,Landespokal Sachsen
+19.11.2022,13:00,SC Freital,Chemnitzer FC,1.107,1,2,/spielbericht/index/spielbericht/3944898,2022,Landespokal Sachsen
+22.03.2023,20:20,Chemnitzer FC,Erzgebirge Aue,14.006,3,0,/spielbericht/index/spielbericht/4032326,2022,Landespokal Sachsen
+26.04.2023,17:30,FCO Neugersdorf,Chemnitzer FC,1.003,0,1,/spielbericht/index/spielbericht/4055995,2022,Landespokal Sachsen
+03.06.2023,16:15,Lok Leipzig,Chemnitzer FC,10.700,3,0,/spielbericht/index/spielbericht/4078144,2022,Landespokal Sachsen
+29.07.2023,14:05,Chemnitzer FC,Carl Zeiss Jena,6.112,0,0,/spielbericht/index/spielbericht/4110760,2023,Regionalliga Nordost
+05.08.2023,13:00,H. Rostock II,Chemnitzer FC,1.529,6,1,/spielbericht/index/spielbericht/4110771,2023,Regionalliga Nordost
+16.08.2023,19:00,Chemnitzer FC,Greifswalder FC,5.356,1,2,/spielbericht/index/spielbericht/4114114,2023,Regionalliga Nordost
+20.08.2023,13:00,Energie Cottbus,Chemnitzer FC,5.449,2,0,/spielbericht/index/spielbericht/4114281,2023,Regionalliga Nordost
+29.08.2023,19:00,Chemnitzer FC,Babelsberg 03,4.039,0,0,/spielbericht/index/spielbericht/4114284,2023,Regionalliga Nordost
+02.09.2023,16:00,Chemie Leipzig,Chemnitzer FC,4.749,1,0,/spielbericht/index/spielbericht/4114298,2023,Regionalliga Nordost
+15.09.2023,19:00,Chemnitzer FC,Lok Leipzig,7.015,1,0,/spielbericht/index/spielbericht/4114320,2023,Regionalliga Nordost
+22.09.2023,19:00,Berliner AK,Chemnitzer FC,365,0,1,/spielbericht/index/spielbericht/4114315,2023,Regionalliga Nordost
+30.09.2023,14:05,Chemnitzer FC,BFC Dynamo,5.152,0,4,/spielbericht/index/spielbericht/4114302,2023,Regionalliga Nordost
+08.10.2023,14:00,FSV Zwickau,Chemnitzer FC,7.804,1,2,/spielbericht/index/spielbericht/4114395,2023,Regionalliga Nordost
+20.10.2023,19:00,Chemnitzer FC,FSV Luckenwalde,3.672,1,2,/spielbericht/index/spielbericht/4114401,2023,Regionalliga Nordost
+21.11.2023,19:00,Altglienicke,Chemnitzer FC,315,2,1,/spielbericht/index/spielbericht/4114385,2023,Regionalliga Nordost
+05.11.2023,13:00,Chemnitzer FC,Hertha BSC II,3.820,4,1,/spielbericht/index/spielbericht/4114374,2023,Regionalliga Nordost
+12.11.2023,13:30,ZFC Meuselwitz,Chemnitzer FC,1.226,1,0,/spielbericht/index/spielbericht/4114348,2023,Regionalliga Nordost
+25.11.2023,13:00,Chemnitzer FC,Viktoria Berlin,2.937,2,1,/spielbericht/index/spielbericht/4114123,2023,Regionalliga Nordost
+31.01.2024,19:00,Chemnitzer FC,FC Eilenburg,3.252,2,0,/spielbericht/index/spielbericht/4114132,2023,Regionalliga Nordost
+08.12.2023,19:00,Rot-Weiß Erfurt,Chemnitzer FC,3.923,7,2,/spielbericht/index/spielbericht/4114346,2023,Regionalliga Nordost
+16.12.2023,14:00,Carl Zeiss Jena,Chemnitzer FC,4.748,0,1,/spielbericht/index/spielbericht/4114365,2023,Regionalliga Nordost
+26.01.2024,19:00,Chemnitzer FC,H. Rostock II,3.642,2,0,/spielbericht/index/spielbericht/4114336,2023,Regionalliga Nordost
+03.02.2024,13:00,Greifswalder FC,Chemnitzer FC,1.634,0,0,/spielbericht/index/spielbericht/4114356,2023,Regionalliga Nordost
+10.02.2024,14:00,Chemnitzer FC,Energie Cottbus,6.373,1,4,/spielbericht/index/spielbericht/4114147,2023,Regionalliga Nordost
+19.03.2024,19:00,Babelsberg 03,Chemnitzer FC,2.676,1,0,/spielbericht/index/spielbericht/4114150,2023,Regionalliga Nordost
+25.02.2024,13:00,Chemnitzer FC,Chemie Leipzig,6.068,1,1,/spielbericht/index/spielbericht/4114164,2023,Regionalliga Nordost
+02.03.2024,16:00,Lok Leipzig,Chemnitzer FC,4.365,1,1,/spielbericht/index/spielbericht/4114185,2023,Regionalliga Nordost
+10.03.2024,13:00,Chemnitzer FC,Berliner AK,4.165,2,0,/spielbericht/index/spielbericht/4114180,2023,Regionalliga Nordost
+16.03.2024,13:00,BFC Dynamo,Chemnitzer FC,3.034,1,3,/spielbericht/index/spielbericht/4114203,2023,Regionalliga Nordost
+31.03.2024,14:00,Chemnitzer FC,FSV Zwickau,10.301,2,0,/spielbericht/index/spielbericht/4114197,2023,Regionalliga Nordost
+06.04.2024,13:00,FSV Luckenwalde,Chemnitzer FC,688,1,2,/spielbericht/index/spielbericht/4114230,2023,Regionalliga Nordost
+13.04.2024,13:00,Chemnitzer FC,Altglienicke,3.823,1,3,/spielbericht/index/spielbericht/4114214,2023,Regionalliga Nordost
+21.04.2024,13:00,Hertha BSC II,Chemnitzer FC,467,0,5,/spielbericht/index/spielbericht/4114221,2023,Regionalliga Nordost
+27.04.2024,13:00,Chemnitzer FC,ZFC Meuselwitz,3.621,1,2,/spielbericht/index/spielbericht/4114240,2023,Regionalliga Nordost
+05.05.2024,13:00,Viktoria Berlin,Chemnitzer FC,555,2,0,/spielbericht/index/spielbericht/4114248,2023,Regionalliga Nordost
+12.05.2024,13:00,FC Eilenburg,Chemnitzer FC,605,3,2,/spielbericht/index/spielbericht/4114257,2023,Regionalliga Nordost
+19.05.2024,13:00,Chemnitzer FC,Rot-Weiß Erfurt,7.613,2,2,/spielbericht/index/spielbericht/4114274,2023,Regionalliga Nordost
+10.09.2023,15:00,Merkur Oelsnitz,Chemnitzer FC,850,0,8,/spielbericht/index/spielbericht/4173254,2023,Landespokal Sachsen
+14.10.2023,14:00,Bischofswerda,Chemnitzer FC,708,4,2,/spielbericht/index/spielbericht/4193612,2023,Landespokal Sachsen
+25.07.2024,20:20,Chemnitzer FC,Hallescher FC,8.357,0,0,/spielbericht/index/spielbericht/4387187,2024,Regionalliga Nordost
+04.08.2024,13:00,Hertha BSC II,Chemnitzer FC,876,0,1,/spielbericht/index/spielbericht/4387199,2024,Regionalliga Nordost
+11.08.2024,13:00,Chemnitzer FC,FSV Zwickau,9.464,0,1,/spielbericht/index/spielbericht/4387208,2024,Regionalliga Nordost
+21.08.2024,19:00,Carl Zeiss Jena,Chemnitzer FC,7.361,1,0,/spielbericht/index/spielbericht/4391962,2024,Regionalliga Nordost
+25.08.2024,16:30,Chemnitzer FC,Babelsberg 03,4.626,2,3,/spielbericht/index/spielbericht/4391973,2024,Regionalliga Nordost
+30.08.2024,19:00,ZFC Meuselwitz,Chemnitzer FC,1.333,1,0,/spielbericht/index/spielbericht/4391987,2024,Regionalliga Nordost
+10.09.2024,19:00,Chemnitzer FC,Chemie Leipzig,5.573,0,1,/spielbericht/index/spielbericht/4391991,2024,Regionalliga Nordost
+14.09.2024,16:00,BFC Dynamo,Chemnitzer FC,2.399,0,0,/spielbericht/index/spielbericht/4392012,2024,Regionalliga Nordost
+21.09.2024,13:00,Chemnitzer FC,H. Zehlendorf,3.503,0,0,/spielbericht/index/spielbericht/4392027,2024,Regionalliga Nordost
+28.09.2024,16:00,Greifswalder FC,Chemnitzer FC,1.414,1,1,/spielbericht/index/spielbericht/4392001,2024,Regionalliga Nordost
+05.10.2024,13:00,FSV Luckenwalde,Chemnitzer FC,647,0,2,/spielbericht/index/spielbericht/4392051,2024,Regionalliga Nordost
+19.10.2024,14:05,Chemnitzer FC,VFC Plauen,4.857,0,1,/spielbericht/index/spielbericht/4392036,2024,Regionalliga Nordost
+27.10.2024,13:00,Rot-Weiß Erfurt,Chemnitzer FC,7.368,0,0,/spielbericht/index/spielbericht/4392016,2024,Regionalliga Nordost
+01.11.2024,19:00,Chemnitzer FC,Altglienicke,4.128,1,0,/spielbericht/index/spielbericht/4392045,2024,Regionalliga Nordost
+08.11.2024,19:00,Lok Leipzig,Chemnitzer FC,5.792,0,2,/spielbericht/index/spielbericht/4392067,2024,Regionalliga Nordost
+24.11.2024,13:00,Chemnitzer FC,FC Eilenburg,3.297,1,0,/spielbericht/index/spielbericht/4391955,2024,Regionalliga Nordost
+05.02.2025,19:00,Viktoria Berlin,Chemnitzer FC,446,0,2,/spielbericht/index/spielbericht/4392083,2024,Regionalliga Nordost
+07.12.2024,16:00,Hallescher FC,Chemnitzer FC,7.349,0,1,/spielbericht/index/spielbericht/4392072,2024,Regionalliga Nordost
+09.04.2025,19:00,Chemnitzer FC,Hertha BSC II,3.546,1,1,/spielbericht/index/spielbericht/4392135,2024,Regionalliga Nordost
+02.02.2025,14:00,FSV Zwickau,Chemnitzer FC,9.094,2,2,/spielbericht/index/spielbericht/4392099,2024,Regionalliga Nordost
+08.02.2025,16:00,Chemnitzer FC,Carl Zeiss Jena,6.055,1,2,/spielbericht/index/spielbericht/4392115,2024,Regionalliga Nordost
+11.03.2025,19:00,Babelsberg 03,Chemnitzer FC,2.485,0,0,/spielbericht/index/spielbericht/4392189,2024,Regionalliga Nordost
+23.02.2025,14:00,Chemnitzer FC,ZFC Meuselwitz,3.708,4,0,/spielbericht/index/spielbericht/4392113,2024,Regionalliga Nordost
+02.03.2025,13:00,Chemie Leipzig,Chemnitzer FC,4.999,2,2,/spielbericht/index/spielbericht/4392090,2024,Regionalliga Nordost
+08.03.2025,14:00,Chemnitzer FC,BFC Dynamo,4.747,2,1,/spielbericht/index/spielbericht/4392201,2024,Regionalliga Nordost
+16.03.2025,13:00,H. Zehlendorf,Chemnitzer FC,528,1,0,/spielbericht/index/spielbericht/4392126,2024,Regionalliga Nordost
+29.03.2025,13:00,Chemnitzer FC,Greifswalder FC,5.212,2,2,/spielbericht/index/spielbericht/4392163,2024,Regionalliga Nordost
+06.04.2025,13:00,Chemnitzer FC,FSV Luckenwalde,3.467,2,0,/spielbericht/index/spielbericht/4392141,2024,Regionalliga Nordost
+12.04.2025,14:00,VFC Plauen,Chemnitzer FC,2.115,1,1,/spielbericht/index/spielbericht/4392180,2024,Regionalliga Nordost
+20.04.2025,13:00,Chemnitzer FC,Rot-Weiß Erfurt,5.871,2,0,/spielbericht/index/spielbericht/4392205,2024,Regionalliga Nordost
+27.04.2025,13:00,Altglienicke,Chemnitzer FC,336,0,2,/spielbericht/index/spielbericht/4392153,2024,Regionalliga Nordost
+03.05.2025,14:00,Chemnitzer FC,Lok Leipzig,8.758,1,1,/spielbericht/index/spielbericht/4392175,2024,Regionalliga Nordost
+09.05.2025,19:00,FC Eilenburg,Chemnitzer FC,1.015,2,2,/spielbericht/index/spielbericht/4392225,2024,Regionalliga Nordost
+17.05.2025,13:30,Chemnitzer FC,Viktoria Berlin,5.724,1,1,/spielbericht/index/spielbericht/4392218,2024,Regionalliga Nordost
+07.09.2024,15:00,BSV Irfersgrün,Chemnitzer FC,839,0,6,/spielbericht/index/spielbericht/4447048,2024,Landespokal Sachsen
+12.10.2024,14:05,Chemnitzer FC,Dynamo Dresden,10.429,3,1,/spielbericht/index/spielbericht/4460580,2024,Landespokal Sachsen
+15.11.2024,19:00,Dresdner SC,Chemnitzer FC,2.700,0,3,/spielbericht/index/spielbericht/4485793,2024,Landespokal Sachsen
+22.03.2025,15:00,Chemnitzer FC,Erzgebirge Aue,14.812,0,2,/spielbericht/index/spielbericht/4565628,2024,Landespokal Sachsen

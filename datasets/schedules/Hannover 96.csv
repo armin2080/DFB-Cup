@@ -1,0 +1,389 @@
+date,time,home_team,away_team,participants,home_score,away_score,match_link,season,competition
+23.08.2014,15:30,Hannover 96,FC Schalke 04,49.000,2,1,/spielbericht/index/spielbericht/2460630,2014,Bundesliga
+31.08.2014,15:30,1.FSV Mainz 05,Hannover 96,27.647,0,0,/spielbericht/index/spielbericht/2460638,2014,Bundesliga
+14.09.2014,17:30,Hannover 96,Hamburger SV,49.000,2,0,/spielbericht/index/spielbericht/2460649,2014,Bundesliga
+20.09.2014,15:30,SC Paderborn,Hannover 96,15.000,2,0,/spielbericht/index/spielbericht/2460661,2014,Bundesliga
+24.09.2014,20:00,Hannover 96,1.FC Köln,39.400,1,0,/spielbericht/index/spielbericht/2460667,2014,Bundesliga
+27.09.2014,15:30,VfB Stuttgart,Hannover 96,40.500,1,0,/spielbericht/index/spielbericht/2460676,2014,Bundesliga
+04.10.2014,15:30,Bayern München,Hannover 96,71.000,4,0,/spielbericht/index/spielbericht/2460680,2014,Bundesliga
+18.10.2014,15:30,Hannover 96,Bor. M'gladbach,49.000,0,3,/spielbericht/index/spielbericht/2460692,2014,Bundesliga
+25.10.2014,15:30,Bor. Dortmund,Hannover 96,80.667,0,1,/spielbericht/index/spielbericht/2460698,2014,Bundesliga
+01.11.2014,15:30,Hannover 96,E. Frankfurt,42.200,1,0,/spielbericht/index/spielbericht/2460711,2014,Bundesliga
+07.11.2014,20:30,Hertha BSC,Hannover 96,39.710,0,2,/spielbericht/index/spielbericht/2460721,2014,Bundesliga
+22.11.2014,15:30,Hannover 96,B. Leverkusen,40.800,1,3,/spielbericht/index/spielbericht/2460729,2014,Bundesliga
+29.11.2014,18:30,TSG Hoffenheim,Hannover 96,22.716,4,3,/spielbericht/index/spielbericht/2460738,2014,Bundesliga
+06.12.2014,15:30,Hannover 96,VfL Wolfsburg,41.400,1,3,/spielbericht/index/spielbericht/2460746,2014,Bundesliga
+13.12.2014,15:30,Werder Bremen,Hannover 96,40.932,3,3,/spielbericht/index/spielbericht/2460759,2014,Bundesliga
+16.12.2014,20:00,Hannover 96,FC Augsburg,38.000,2,0,/spielbericht/index/spielbericht/2460765,2014,Bundesliga
+21.12.2014,17:30,SC Freiburg,Hannover 96,23.550,2,2,/spielbericht/index/spielbericht/2460777,2014,Bundesliga
+31.01.2015,15:30,FC Schalke 04,Hannover 96,61.646,1,0,/spielbericht/index/spielbericht/2460779,2014,Bundesliga
+03.02.2015,20:00,Hannover 96,1.FSV Mainz 05,30.500,1,1,/spielbericht/index/spielbericht/2460792,2014,Bundesliga
+07.02.2015,18:30,Hamburger SV,Hannover 96,51.779,2,1,/spielbericht/index/spielbericht/2460804,2014,Bundesliga
+15.02.2015,17:30,Hannover 96,SC Paderborn,38.300,1,2,/spielbericht/index/spielbericht/2460811,2014,Bundesliga
+21.02.2015,18:30,1.FC Köln,Hannover 96,47.300,1,1,/spielbericht/index/spielbericht/2460822,2014,Bundesliga
+28.02.2015,15:30,Hannover 96,VfB Stuttgart,40.200,1,1,/spielbericht/index/spielbericht/2460829,2014,Bundesliga
+07.03.2015,15:30,Hannover 96,Bayern München,49.000,1,3,/spielbericht/index/spielbericht/2460836,2014,Bundesliga
+15.03.2015,17:30,Bor. M'gladbach,Hannover 96,49.134,2,0,/spielbericht/index/spielbericht/2460845,2014,Bundesliga
+21.03.2015,15:30,Hannover 96,Bor. Dortmund,49.000,2,3,/spielbericht/index/spielbericht/2460854,2014,Bundesliga
+04.04.2015,15:30,E. Frankfurt,Hannover 96,49.600,2,2,/spielbericht/index/spielbericht/2460867,2014,Bundesliga
+10.04.2015,20:30,Hannover 96,Hertha BSC,46.000,1,1,/spielbericht/index/spielbericht/2460873,2014,Bundesliga
+18.04.2015,15:30,B. Leverkusen,Hannover 96,29.482,4,0,/spielbericht/index/spielbericht/2460879,2014,Bundesliga
+25.04.2015,15:30,Hannover 96,TSG Hoffenheim,46.200,1,2,/spielbericht/index/spielbericht/2460891,2014,Bundesliga
+02.05.2015,15:30,VfL Wolfsburg,Hannover 96,29.514,2,2,/spielbericht/index/spielbericht/2460898,2014,Bundesliga
+09.05.2015,15:30,Hannover 96,Werder Bremen,49.000,1,1,/spielbericht/index/spielbericht/2460908,2014,Bundesliga
+16.05.2015,15:30,FC Augsburg,Hannover 96,29.899,1,2,/spielbericht/index/spielbericht/2460918,2014,Bundesliga
+23.05.2015,15:30,Hannover 96,SC Freiburg,49.000,2,1,/spielbericht/index/spielbericht/2460927,2014,Bundesliga
+15.08.2015,15:30,Darmstadt 98,Hannover 96,17.000,2,2,/spielbericht/index/spielbericht/2581153,2015,Bundesliga
+22.08.2015,15:30,Hannover 96,B. Leverkusen,39.100,0,1,/spielbericht/index/spielbericht/2581179,2015,Bundesliga
+29.08.2015,15:30,1.FSV Mainz 05,Hannover 96,26.872,3,0,/spielbericht/index/spielbericht/2581189,2015,Bundesliga
+12.09.2015,15:30,Hannover 96,Bor. Dortmund,49.000,2,4,/spielbericht/index/spielbericht/2581197,2015,Bundesliga
+20.09.2015,17:30,FC Augsburg,Hannover 96,28.511,2,0,/spielbericht/index/spielbericht/2581637,2015,Bundesliga
+23.09.2015,20:00,Hannover 96,VfB Stuttgart,36.800,1,3,/spielbericht/index/spielbericht/2581646,2015,Bundesliga
+26.09.2015,15:30,VfL Wolfsburg,Hannover 96,29.236,1,1,/spielbericht/index/spielbericht/2581652,2015,Bundesliga
+03.10.2015,15:30,Hannover 96,Werder Bremen,49.000,1,0,/spielbericht/index/spielbericht/2581670,2015,Bundesliga
+18.10.2015,15:30,1.FC Köln,Hannover 96,48.700,0,1,/spielbericht/index/spielbericht/2581682,2015,Bundesliga
+24.10.2015,15:30,Hannover 96,E. Frankfurt,43.000,1,2,/spielbericht/index/spielbericht/2581694,2015,Bundesliga
+01.11.2015,17:30,Hamburger SV,Hannover 96,54.607,1,2,/spielbericht/index/spielbericht/2581701,2015,Bundesliga
+06.11.2015,20:30,Hannover 96,Hertha BSC,40.200,1,3,/spielbericht/index/spielbericht/2581719,2015,Bundesliga
+21.11.2015,15:30,Bor. M'gladbach,Hannover 96,42.214,2,1,/spielbericht/index/spielbericht/2581724,2015,Bundesliga
+28.11.2015,15:30,Hannover 96,FC Ingolstadt,36.000,4,0,/spielbericht/index/spielbericht/2581743,2015,Bundesliga
+04.12.2015,20:30,FC Schalke 04,Hannover 96,61.229,3,1,/spielbericht/index/spielbericht/2581753,2015,Bundesliga
+12.12.2015,15:30,TSG Hoffenheim,Hannover 96,25.531,1,0,/spielbericht/index/spielbericht/2581768,2015,Bundesliga
+19.12.2015,15:30,Hannover 96,Bayern München,49.000,0,1,/spielbericht/index/spielbericht/2581783,2015,Bundesliga
+23.01.2016,15:30,Hannover 96,Darmstadt 98,38.000,1,2,/spielbericht/index/spielbericht/2581791,2015,Bundesliga
+30.01.2016,15:30,B. Leverkusen,Hannover 96,28.790,3,0,/spielbericht/index/spielbericht/2581809,2015,Bundesliga
+06.02.2016,15:30,Hannover 96,1.FSV Mainz 05,35.596,0,1,/spielbericht/index/spielbericht/2581827,2015,Bundesliga
+13.02.2016,15:30,Bor. Dortmund,Hannover 96,81.359,1,0,/spielbericht/index/spielbericht/2581843,2015,Bundesliga
+21.02.2016,17:30,Hannover 96,FC Augsburg,32.400,0,1,/spielbericht/index/spielbericht/2581857,2015,Bundesliga
+27.02.2016,15:30,VfB Stuttgart,Hannover 96,54.356,1,2,/spielbericht/index/spielbericht/2581870,2015,Bundesliga
+01.03.2016,20:00,Hannover 96,VfL Wolfsburg,34.500,0,4,/spielbericht/index/spielbericht/2581892,2015,Bundesliga
+05.03.2016,15:30,Werder Bremen,Hannover 96,42.100,4,1,/spielbericht/index/spielbericht/2581908,2015,Bundesliga
+12.03.2016,15:30,Hannover 96,1.FC Köln,40.600,0,2,/spielbericht/index/spielbericht/2581922,2015,Bundesliga
+19.03.2016,18:30,E. Frankfurt,Hannover 96,43.300,1,0,/spielbericht/index/spielbericht/2581939,2015,Bundesliga
+02.04.2016,15:30,Hannover 96,Hamburger SV,49.000,0,3,/spielbericht/index/spielbericht/2581946,2015,Bundesliga
+08.04.2016,20:30,Hertha BSC,Hannover 96,45.229,2,2,/spielbericht/index/spielbericht/2581958,2015,Bundesliga
+15.04.2016,20:30,Hannover 96,Bor. M'gladbach,46.196,2,0,/spielbericht/index/spielbericht/2581965,2015,Bundesliga
+23.04.2016,15:30,FC Ingolstadt,Hannover 96,14.831,2,2,/spielbericht/index/spielbericht/2581977,2015,Bundesliga
+30.04.2016,15:30,Hannover 96,FC Schalke 04,46.900,1,3,/spielbericht/index/spielbericht/2581983,2015,Bundesliga
+07.05.2016,15:30,Hannover 96,TSG Hoffenheim,38.096,1,0,/spielbericht/index/spielbericht/2581993,2015,Bundesliga
+14.05.2016,15:30,Bayern München,Hannover 96,75.000,3,1,/spielbericht/index/spielbericht/2581996,2015,Bundesliga
+05.08.2016,20:30,1.FC K'lautern,Hannover 96,40.021,0,4,/spielbericht/index/spielbericht/2704213,2016,2. Bundesliga
+14.08.2016,13:30,Hannover 96,Greuther Fürth,38.400,3,1,/spielbericht/index/spielbericht/2704295,2016,2. Bundesliga
+26.08.2016,18:30,VfL Bochum,Hannover 96,19.218,1,1,/spielbericht/index/spielbericht/2704342,2016,2. Bundesliga
+11.09.2016,13:30,Hannover 96,Dynamo Dresden,39.200,0,2,/spielbericht/index/spielbericht/2704382,2016,2. Bundesliga
+18.09.2016,13:30,Arm. Bielefeld,Hannover 96,25.138,3,3,/spielbericht/index/spielbericht/2704292,2016,2. Bundesliga
+21.09.2016,17:30,Hannover 96,Karlsruher SC,31.700,1,0,/spielbericht/index/spielbericht/2704323,2016,2. Bundesliga
+25.09.2016,13:30,1860 München,Hannover 96,26.100,0,2,/spielbericht/index/spielbericht/2704377,2016,2. Bundesliga
+01.10.2016,13:00,Hannover 96,FC St. Pauli,49.000,2,0,/spielbericht/index/spielbericht/2704391,2016,2. Bundesliga
+16.10.2016,13:30,Union Berlin,Hannover 96,22.012,2,1,/spielbericht/index/spielbericht/2704401,2016,2. Bundesliga
+23.10.2016,13:30,1.FC Nürnberg,Hannover 96,27.378,2,0,/spielbericht/index/spielbericht/2704408,2016,2. Bundesliga
+30.10.2016,13:30,Hannover 96,Würzb. Kickers,31.200,3,1,/spielbericht/index/spielbericht/2704416,2016,2. Bundesliga
+06.11.2016,13:30,E. Braunschweig,Hannover 96,23.000,2,2,/spielbericht/index/spielbericht/2704444,2016,2. Bundesliga
+19.11.2016,13:00,Hannover 96,Erzgebirge Aue,31.100,2,0,/spielbericht/index/spielbericht/2704470,2016,2. Bundesliga
+25.11.2016,18:30,F. Düsseldorf,Hannover 96,28.122,2,2,/spielbericht/index/spielbericht/2704494,2016,2. Bundesliga
+02.12.2016,18:30,Hannover 96,1.FC Heidenheim,28.500,3,2,/spielbericht/index/spielbericht/2704515,2016,2. Bundesliga
+12.12.2016,20:15,VfB Stuttgart,Hannover 96,47.125,1,2,/spielbericht/index/spielbericht/2704533,2016,2. Bundesliga
+18.12.2016,13:30,Hannover 96,SV Sandhausen,30.296,0,0,/spielbericht/index/spielbericht/2704560,2016,2. Bundesliga
+30.01.2017,20:15,Hannover 96,1.FC K'lautern,28.800,1,0,/spielbericht/index/spielbericht/2704596,2016,2. Bundesliga
+03.02.2017,18:30,Greuther Fürth,Hannover 96,8.465,4,1,/spielbericht/index/spielbericht/2704617,2016,2. Bundesliga
+13.02.2017,20:15,Hannover 96,VfL Bochum,26.000,2,1,/spielbericht/index/spielbericht/2704633,2016,2. Bundesliga
+19.02.2017,13:30,Dynamo Dresden,Hannover 96,29.820,1,2,/spielbericht/index/spielbericht/2704667,2016,2. Bundesliga
+25.02.2017,13:00,Hannover 96,Arm. Bielefeld,36.700,2,2,/spielbericht/index/spielbericht/2704687,2016,2. Bundesliga
+04.03.2017,13:00,Karlsruher SC,Hannover 96,15.415,2,0,/spielbericht/index/spielbericht/2704715,2016,2. Bundesliga
+11.03.2017,13:01,Hannover 96,1860 München,34.600,1,0,/spielbericht/index/spielbericht/2704723,2016,2. Bundesliga
+18.03.2017,13:00,FC St. Pauli,Hannover 96,29.546,0,0,/spielbericht/index/spielbericht/2704731,2016,2. Bundesliga
+01.04.2017,13:00,Hannover 96,Union Berlin,49.000,2,0,/spielbericht/index/spielbericht/2704741,2016,2. Bundesliga
+04.04.2017,17:30,Hannover 96,1.FC Nürnberg,35.000,1,0,/spielbericht/index/spielbericht/2704749,2016,2. Bundesliga
+07.04.2017,18:30,Würzb. Kickers,Hannover 96,12.450,0,0,/spielbericht/index/spielbericht/2704775,2016,2. Bundesliga
+15.04.2017,13:00,Hannover 96,E. Braunschweig,42.700,1,0,/spielbericht/index/spielbericht/2704776,2016,2. Bundesliga
+22.04.2017,13:03,Erzgebirge Aue,Hannover 96,9.700,2,2,/spielbericht/index/spielbericht/2704801,2016,2. Bundesliga
+30.04.2017,13:30,Hannover 96,F. Düsseldorf,42.800,1,0,/spielbericht/index/spielbericht/2704803,2016,2. Bundesliga
+05.05.2017,18:30,1.FC Heidenheim,Hannover 96,13.000,0,2,/spielbericht/index/spielbericht/2704844,2016,2. Bundesliga
+14.05.2017,15:30,Hannover 96,VfB Stuttgart,49.000,1,0,/spielbericht/index/spielbericht/2704830,2016,2. Bundesliga
+21.05.2017,15:30,SV Sandhausen,Hannover 96,12.470,1,1,/spielbericht/index/spielbericht/2704854,2016,2. Bundesliga
+22.08.2016,18:30,K. Offenbach,Hannover 96,10.573,2,3,/spielbericht/index/spielbericht/2699111,2016,DFB-Pokal
+26.10.2016,18:30,Hannover 96,F. Düsseldorf,20.500,6,1,/spielbericht/index/spielbericht/2754877,2016,DFB-Pokal
+08.02.2017,20:45,Hannover 96,E. Frankfurt,31.000,1,2,/spielbericht/index/spielbericht/2770146,2016,DFB-Pokal
+19.08.2017,15:33,1.FSV Mainz 05,Hannover 96,28.279,0,1,/spielbericht/index/spielbericht/2871502,2017,Bundesliga
+27.08.2017,18:00,Hannover 96,FC Schalke 04,49.000,1,0,/spielbericht/index/spielbericht/2871550,2017,Bundesliga
+09.09.2017,15:30,VfL Wolfsburg,Hannover 96,27.321,1,1,/spielbericht/index/spielbericht/2871599,2017,Bundesliga
+15.09.2017,20:30,Hannover 96,Hamburger SV,49.000,2,0,/spielbericht/index/spielbericht/2871662,2017,Bundesliga
+20.09.2017,20:30,SC Freiburg,Hannover 96,22.900,1,1,/spielbericht/index/spielbericht/2871693,2017,Bundesliga
+24.09.2017,15:30,Hannover 96,1.FC Köln,47.000,0,0,/spielbericht/index/spielbericht/2871734,2017,Bundesliga
+30.09.2017,15:40,Bor. M'gladbach,Hannover 96,50.542,2,1,/spielbericht/index/spielbericht/2871776,2017,Bundesliga
+14.10.2017,15:30,Hannover 96,E. Frankfurt,43.500,1,2,/spielbericht/index/spielbericht/2871816,2017,Bundesliga
+21.10.2017,15:30,FC Augsburg,Hannover 96,25.971,1,2,/spielbericht/index/spielbericht/2871860,2017,Bundesliga
+28.10.2017,15:30,Hannover 96,Bor. Dortmund,49.000,4,2,/spielbericht/index/spielbericht/2871906,2017,Bundesliga
+04.11.2017,15:30,RB Leipzig,Hannover 96,40.461,2,1,/spielbericht/index/spielbericht/2871954,2017,Bundesliga
+19.11.2017,18:00,Werder Bremen,Hannover 96,41.500,4,0,/spielbericht/index/spielbericht/2871992,2017,Bundesliga
+24.11.2017,20:30,Hannover 96,VfB Stuttgart,43.500,1,1,/spielbericht/index/spielbericht/2872033,2017,Bundesliga
+02.12.2017,15:30,Bayern München,Hannover 96,75.000,3,1,/spielbericht/index/spielbericht/2871980,2017,Bundesliga
+10.12.2017,15:30,Hannover 96,TSG Hoffenheim,36.800,2,0,/spielbericht/index/spielbericht/2871942,2017,Bundesliga
+13.12.2017,20:30,Hertha BSC,Hannover 96,29.231,3,1,/spielbericht/index/spielbericht/2871910,2017,Bundesliga
+17.12.2017,15:30,Hannover 96,B. Leverkusen,32.800,4,4,/spielbericht/index/spielbericht/2871879,2017,Bundesliga
+13.01.2018,15:30,Hannover 96,1.FSV Mainz 05,34.500,3,2,/spielbericht/index/spielbericht/2871493,2017,Bundesliga
+21.01.2018,18:00,FC Schalke 04,Hannover 96,60.650,1,1,/spielbericht/index/spielbericht/2871552,2017,Bundesliga
+28.01.2018,18:00,Hannover 96,VfL Wolfsburg,34.300,0,1,/spielbericht/index/spielbericht/2871577,2017,Bundesliga
+04.02.2018,18:00,Hamburger SV,Hannover 96,46.016,1,1,/spielbericht/index/spielbericht/2871652,2017,Bundesliga
+10.02.2018,15:30,Hannover 96,SC Freiburg,37.800,2,1,/spielbericht/index/spielbericht/2871680,2017,Bundesliga
+17.02.2018,15:30,1.FC Köln,Hannover 96,48.400,1,1,/spielbericht/index/spielbericht/2871718,2017,Bundesliga
+24.02.2018,15:30,Hannover 96,Bor. M'gladbach,43.000,0,1,/spielbericht/index/spielbericht/2871761,2017,Bundesliga
+03.03.2018,15:30,E. Frankfurt,Hannover 96,48.500,1,0,/spielbericht/index/spielbericht/2872111,2017,Bundesliga
+10.03.2018,15:30,Hannover 96,FC Augsburg,36.500,1,3,/spielbericht/index/spielbericht/2871798,2017,Bundesliga
+18.03.2018,13:30,Bor. Dortmund,Hannover 96,81.360,1,0,/spielbericht/index/spielbericht/2871827,2017,Bundesliga
+31.03.2018,15:30,Hannover 96,RB Leipzig,42.300,2,3,/spielbericht/index/spielbericht/2872023,2017,Bundesliga
+06.04.2018,20:31,Hannover 96,Werder Bremen,49.000,2,1,/spielbericht/index/spielbericht/2872051,2017,Bundesliga
+14.04.2018,15:30,VfB Stuttgart,Hannover 96,57.131,1,1,/spielbericht/index/spielbericht/2872069,2017,Bundesliga
+21.04.2018,15:32,Hannover 96,Bayern München,49.000,0,3,/spielbericht/index/spielbericht/2872077,2017,Bundesliga
+27.04.2018,20:30,TSG Hoffenheim,Hannover 96,26.452,3,1,/spielbericht/index/spielbericht/2872080,2017,Bundesliga
+05.05.2018,15:30,Hannover 96,Hertha BSC,49.000,3,1,/spielbericht/index/spielbericht/2872095,2017,Bundesliga
+12.05.2018,15:30,B. Leverkusen,Hannover 96,30.210,3,2,/spielbericht/index/spielbericht/2872102,2017,Bundesliga
+25.08.2018,15:30,Werder Bremen,Hannover 96,42.100,1,1,/spielbericht/index/spielbericht/3058410,2018,Bundesliga
+31.08.2018,20:30,Hannover 96,Bor. Dortmund,49.000,0,0,/spielbericht/index/spielbericht/3058431,2018,Bundesliga
+15.09.2018,15:30,RB Leipzig,Hannover 96,38.937,3,2,/spielbericht/index/spielbericht/3058435,2018,Bundesliga
+22.09.2018,15:30,1.FC Nürnberg,Hannover 96,36.736,2,0,/spielbericht/index/spielbericht/3058450,2018,Bundesliga
+25.09.2018,20:30,Hannover 96,TSG Hoffenheim,33.500,1,3,/spielbericht/index/spielbericht/3058456,2018,Bundesliga
+30.09.2018,15:30,E. Frankfurt,Hannover 96,46.300,4,1,/spielbericht/index/spielbericht/3058464,2018,Bundesliga
+06.10.2018,15:30,Hannover 96,VfB Stuttgart,40.800,3,1,/spielbericht/index/spielbericht/3058474,2018,Bundesliga
+20.10.2018,15:30,B. Leverkusen,Hannover 96,26.435,2,2,/spielbericht/index/spielbericht/3058479,2018,Bundesliga
+27.10.2018,15:30,Hannover 96,FC Augsburg,37.600,1,2,/spielbericht/index/spielbericht/3058491,2018,Bundesliga
+03.11.2018,15:30,FC Schalke 04,Hannover 96,61.959,3,1,/spielbericht/index/spielbericht/3058497,2018,Bundesliga
+09.11.2018,20:30,Hannover 96,VfL Wolfsburg,35.800,2,1,/spielbericht/index/spielbericht/3058510,2018,Bundesliga
+25.11.2018,18:00,Bor. M'gladbach,Hannover 96,48.692,4,1,/spielbericht/index/spielbericht/3058517,2018,Bundesliga
+01.12.2018,15:30,Hannover 96,Hertha BSC,35.800,0,2,/spielbericht/index/spielbericht/3058529,2018,Bundesliga
+09.12.2018,15:30,1.FSV Mainz 05,Hannover 96,23.305,1,1,/spielbericht/index/spielbericht/3058539,2018,Bundesliga
+15.12.2018,15:30,Hannover 96,Bayern München,49.000,0,4,/spielbericht/index/spielbericht/3058547,2018,Bundesliga
+19.12.2018,20:30,SC Freiburg,Hannover 96,23.500,1,1,/spielbericht/index/spielbericht/3058555,2018,Bundesliga
+22.12.2018,15:30,Hannover 96,F. Düsseldorf,34.200,0,1,/spielbericht/index/spielbericht/3058566,2018,Bundesliga
+19.01.2019,15:30,Hannover 96,Werder Bremen,44.300,0,1,/spielbericht/index/spielbericht/3058575,2018,Bundesliga
+26.01.2019,15:30,Bor. Dortmund,Hannover 96,81.365,5,1,/spielbericht/index/spielbericht/3058578,2018,Bundesliga
+01.02.2019,20:30,Hannover 96,RB Leipzig,32.400,0,3,/spielbericht/index/spielbericht/3058592,2018,Bundesliga
+09.02.2019,15:30,Hannover 96,1.FC Nürnberg,33.700,2,0,/spielbericht/index/spielbericht/3058599,2018,Bundesliga
+16.02.2019,15:30,TSG Hoffenheim,Hannover 96,23.404,3,0,/spielbericht/index/spielbericht/3058604,2018,Bundesliga
+24.02.2019,15:30,Hannover 96,E. Frankfurt,39.100,0,3,/spielbericht/index/spielbericht/3058617,2018,Bundesliga
+03.03.2019,15:30,VfB Stuttgart,Hannover 96,55.781,5,1,/spielbericht/index/spielbericht/3058632,2018,Bundesliga
+10.03.2019,18:00,Hannover 96,B. Leverkusen,33.800,2,3,/spielbericht/index/spielbericht/3058644,2018,Bundesliga
+16.03.2019,15:30,FC Augsburg,Hannover 96,28.000,3,1,/spielbericht/index/spielbericht/3058655,2018,Bundesliga
+31.03.2019,15:30,Hannover 96,FC Schalke 04,44.500,0,1,/spielbericht/index/spielbericht/3058662,2018,Bundesliga
+06.04.2019,15:30,VfL Wolfsburg,Hannover 96,23.512,3,1,/spielbericht/index/spielbericht/3058674,2018,Bundesliga
+13.04.2019,15:30,Hannover 96,Bor. M'gladbach,40.200,0,1,/spielbericht/index/spielbericht/3058681,2018,Bundesliga
+21.04.2019,18:00,Hertha BSC,Hannover 96,38.916,0,0,/spielbericht/index/spielbericht/3058688,2018,Bundesliga
+27.04.2019,15:30,Hannover 96,1.FSV Mainz 05,30.400,1,0,/spielbericht/index/spielbericht/3058699,2018,Bundesliga
+04.05.2019,15:30,Bayern München,Hannover 96,75.000,3,1,/spielbericht/index/spielbericht/3058702,2018,Bundesliga
+11.05.2019,15:30,Hannover 96,SC Freiburg,38.100,3,0,/spielbericht/index/spielbericht/3058718,2018,Bundesliga
+18.05.2019,15:30,F. Düsseldorf,Hannover 96,50.000,2,1,/spielbericht/index/spielbericht/3058728,2018,Bundesliga
+26.07.2019,20:30,VfB Stuttgart,Hannover 96,52.021,2,1,/spielbericht/index/spielbericht/3203433,2019,2. Bundesliga
+03.08.2019,15:30,Hannover 96,J. Regensburg,28.500,1,1,/spielbericht/index/spielbericht/3203739,2019,2. Bundesliga
+17.08.2019,13:00,Wehen Wiesbaden,Hannover 96,5.607,0,3,/spielbericht/index/spielbericht/3203756,2019,2. Bundesliga
+24.08.2019,13:00,Hannover 96,Greuther Fürth,25.300,1,1,/spielbericht/index/spielbericht/3203764,2019,2. Bundesliga
+01.09.2019,13:30,Hamburger SV,Hannover 96,54.732,3,0,/spielbericht/index/spielbericht/3203782,2019,2. Bundesliga
+14.09.2019,13:00,Hannover 96,Arm. Bielefeld,37.200,0,2,/spielbericht/index/spielbericht/3203796,2019,2. Bundesliga
+20.09.2019,18:30,Holstein Kiel,Hannover 96,15.034,1,2,/spielbericht/index/spielbericht/3203823,2019,2. Bundesliga
+30.09.2019,20:30,Hannover 96,1.FC Nürnberg,27.000,0,4,/spielbericht/index/spielbericht/3203835,2019,2. Bundesliga
+05.10.2019,13:00,Dynamo Dresden,Hannover 96,28.359,0,2,/spielbericht/index/spielbericht/3203850,2019,2. Bundesliga
+20.10.2019,13:30,Hannover 96,VfL Osnabrück,37.600,0,0,/spielbericht/index/spielbericht/3203854,2019,2. Bundesliga
+26.10.2019,13:00,Karlsruher SC,Hannover 96,13.370,3,3,/spielbericht/index/spielbericht/3203870,2019,2. Bundesliga
+01.11.2019,18:30,Hannover 96,SV Sandhausen,24.100,1,1,/spielbericht/index/spielbericht/3203875,2019,2. Bundesliga
+10.11.2019,13:30,1.FC Heidenheim,Hannover 96,11.100,4,0,/spielbericht/index/spielbericht/3203884,2019,2. Bundesliga
+25.11.2019,20:30,Hannover 96,Darmstadt 98,22.100,1,2,/spielbericht/index/spielbericht/3203893,2019,2. Bundesliga
+30.11.2019,13:00,FC St. Pauli,Hannover 96,29.546,0,1,/spielbericht/index/spielbericht/3203903,2019,2. Bundesliga
+07.12.2019,13:00,Hannover 96,Erzgebirge Aue,26.200,3,2,/spielbericht/index/spielbericht/3203918,2019,2. Bundesliga
+13.12.2019,18:30,VfL Bochum,Hannover 96,16.519,2,1,/spielbericht/index/spielbericht/3203932,2019,2. Bundesliga
+21.12.2019,13:00,Hannover 96,VfB Stuttgart,35.200,2,2,/spielbericht/index/spielbericht/3203944,2019,2. Bundesliga
+28.01.2020,20:30,J. Regensburg,Hannover 96,8.418,1,0,/spielbericht/index/spielbericht/3203978,2019,2. Bundesliga
+01.02.2020,13:00,Hannover 96,Wehen Wiesbaden,22.400,2,2,/spielbericht/index/spielbericht/3203990,2019,2. Bundesliga
+09.02.2020,13:30,Greuther Fürth,Hannover 96,9.580,1,3,/spielbericht/index/spielbericht/3204011,2019,2. Bundesliga
+15.02.2020,13:00,Hannover 96,Hamburger SV,49.000,1,1,/spielbericht/index/spielbericht/3204015,2019,2. Bundesliga
+23.02.2020,14:00,Arm. Bielefeld,Hannover 96,26.285,1,0,/spielbericht/index/spielbericht/3204042,2019,2. Bundesliga
+02.03.2020,20:30,Hannover 96,Holstein Kiel,25.200,3,1,/spielbericht/index/spielbericht/3204054,2019,2. Bundesliga
+06.03.2020,18:30,1.FC Nürnberg,Hannover 96,26.745,0,3,/spielbericht/index/spielbericht/3204071,2019,2. Bundesliga
+03.06.2020,18:30,Hannover 96,Dynamo Dresden,x,3,0,/spielbericht/index/spielbericht/3204086,2019,2. Bundesliga
+23.05.2020,13:00,VfL Osnabrück,Hannover 96,x,2,4,/spielbericht/index/spielbericht/3204108,2019,2. Bundesliga
+27.05.2020,18:30,Hannover 96,Karlsruher SC,x,1,1,/spielbericht/index/spielbericht/3204112,2019,2. Bundesliga
+30.05.2020,13:00,SV Sandhausen,Hannover 96,x,3,1,/spielbericht/index/spielbericht/3204133,2019,2. Bundesliga
+07.06.2020,13:30,Hannover 96,1.FC Heidenheim,x,2,1,/spielbericht/index/spielbericht/3204144,2019,2. Bundesliga
+14.06.2020,13:30,Darmstadt 98,Hannover 96,x,3,2,/spielbericht/index/spielbericht/3204163,2019,2. Bundesliga
+17.06.2020,18:30,Hannover 96,FC St. Pauli,x,4,0,/spielbericht/index/spielbericht/3204169,2019,2. Bundesliga
+21.06.2020,15:30,Erzgebirge Aue,Hannover 96,x,2,1,/spielbericht/index/spielbericht/3204182,2019,2. Bundesliga
+28.06.2020,15:30,Hannover 96,VfL Bochum,x,2,0,/spielbericht/index/spielbericht/3204187,2019,2. Bundesliga
+12.08.2019,18:30,Karlsruher SC,Hannover 96,11.779,2,0,/spielbericht/index/spielbericht/3195537,2019,DFB-Pokal
+19.09.2020,13:00,Hannover 96,Karlsruher SC,500,2,0,/spielbericht/index/spielbericht/3413183,2020,2. Bundesliga
+25.09.2020,18:30,VfL Osnabrück,Hannover 96,3.200,2,1,/spielbericht/index/spielbericht/3413193,2020,2. Bundesliga
+03.10.2020,13:00,Hannover 96,E. Braunschweig,7.300,4,1,/spielbericht/index/spielbericht/3413200,2020,2. Bundesliga
+18.10.2020,13:30,SC Paderborn,Hannover 96,2.258,1,0,/spielbericht/index/spielbericht/3413208,2020,2. Bundesliga
+24.10.2020,13:00,Hannover 96,F. Düsseldorf,8.900,3,0,/spielbericht/index/spielbericht/3413219,2020,2. Bundesliga
+01.11.2020,13:30,Greuther Fürth,Hannover 96,x,4,1,/spielbericht/index/spielbericht/3413234,2020,2. Bundesliga
+07.11.2020,13:00,Hannover 96,Erzgebirge Aue,x,0,0,/spielbericht/index/spielbericht/3413245,2020,2. Bundesliga
+22.11.2020,13:30,Würzb. Kickers,Hannover 96,x,2,1,/spielbericht/index/spielbericht/3413260,2020,2. Bundesliga
+29.11.2020,13:30,Hannover 96,Holstein Kiel,x,0,3,/spielbericht/index/spielbericht/3413263,2020,2. Bundesliga
+05.12.2020,13:00,Hamburger SV,Hannover 96,x,0,1,/spielbericht/index/spielbericht/3413281,2020,2. Bundesliga
+12.12.2020,13:00,1.FC Heidenheim,Hannover 96,x,1,0,/spielbericht/index/spielbericht/3413288,2020,2. Bundesliga
+15.12.2020,18:30,Hannover 96,VfL Bochum,x,2,0,/spielbericht/index/spielbericht/3413310,2020,2. Bundesliga
+18.12.2020,18:30,J. Regensburg,Hannover 96,x,0,0,/spielbericht/index/spielbericht/3413318,2020,2. Bundesliga
+03.01.2021,13:30,Hannover 96,SV Sandhausen,x,4,0,/spielbericht/index/spielbericht/3413327,2020,2. Bundesliga
+10.01.2021,13:30,Darmstadt 98,Hannover 96,x,1,2,/spielbericht/index/spielbericht/3413343,2020,2. Bundesliga
+16.01.2021,13:00,Hannover 96,FC St. Pauli,x,2,3,/spielbericht/index/spielbericht/3413353,2020,2. Bundesliga
+24.01.2021,13:30,1.FC Nürnberg,Hannover 96,x,2,5,/spielbericht/index/spielbericht/3413376,2020,2. Bundesliga
+27.01.2021,20:30,Karlsruher SC,Hannover 96,x,1,0,/spielbericht/index/spielbericht/3413384,2020,2. Bundesliga
+01.02.2021,20:30,Hannover 96,VfL Osnabrück,x,1,0,/spielbericht/index/spielbericht/3413398,2020,2. Bundesliga
+06.02.2021,13:00,E. Braunschweig,Hannover 96,x,1,2,/spielbericht/index/spielbericht/3413413,2020,2. Bundesliga
+12.02.2021,18:30,Hannover 96,SC Paderborn,x,0,0,/spielbericht/index/spielbericht/3413426,2020,2. Bundesliga
+21.02.2021,13:30,F. Düsseldorf,Hannover 96,x,3,2,/spielbericht/index/spielbericht/3413441,2020,2. Bundesliga
+27.02.2021,13:00,Hannover 96,Greuther Fürth,x,2,2,/spielbericht/index/spielbericht/3413461,2020,2. Bundesliga
+06.03.2021,13:00,Erzgebirge Aue,Hannover 96,x,1,1,/spielbericht/index/spielbericht/3413480,2020,2. Bundesliga
+08.04.2021,18:30,Hannover 96,Würzb. Kickers,x,1,2,/spielbericht/index/spielbericht/3413470,2020,2. Bundesliga
+10.05.2021,18:00,Holstein Kiel,Hannover 96,x,1,0,/spielbericht/index/spielbericht/3413455,2020,2. Bundesliga
+04.04.2021,13:30,Hannover 96,Hamburger SV,x,3,3,/spielbericht/index/spielbericht/3413434,2020,2. Bundesliga
+11.04.2021,13:30,Hannover 96,1.FC Heidenheim,x,1,3,/spielbericht/index/spielbericht/3413417,2020,2. Bundesliga
+18.04.2021,13:30,VfL Bochum,Hannover 96,x,4,3,/spielbericht/index/spielbericht/3413388,2020,2. Bundesliga
+21.04.2021,18:30,Hannover 96,J. Regensburg,x,3,1,/spielbericht/index/spielbericht/3413364,2020,2. Bundesliga
+25.04.2021,13:30,SV Sandhausen,Hannover 96,x,4,2,/spielbericht/index/spielbericht/3413335,2020,2. Bundesliga
+07.05.2021,18:30,Hannover 96,Darmstadt 98,x,1,2,/spielbericht/index/spielbericht/3413300,2020,2. Bundesliga
+16.05.2021,15:30,FC St. Pauli,Hannover 96,x,1,2,/spielbericht/index/spielbericht/3413275,2020,2. Bundesliga
+23.05.2021,15:30,Hannover 96,1.FC Nürnberg,x,1,2,/spielbericht/index/spielbericht/3413229,2020,2. Bundesliga
+14.09.2020,18:30,Würzb. Kickers,Hannover 96,x,2,3,/spielbericht/index/spielbericht/3404452,2020,DFB-Pokal
+23.12.2020,20:45,Hannover 96,Werder Bremen,x,0,3,/spielbericht/index/spielbericht/3485244,2020,DFB-Pokal
+24.07.2021,20:30,Werder Bremen,Hannover 96,14.000,1,1,/spielbericht/index/spielbericht/3588158,2021,2. Bundesliga
+31.07.2021,13:30,Hannover 96,Hansa Rostock,13.600,0,3,/spielbericht/index/spielbericht/3588190,2021,2. Bundesliga
+14.08.2021,20:30,Dynamo Dresden,Hannover 96,13.780,2,0,/spielbericht/index/spielbericht/3588210,2021,2. Bundesliga
+20.08.2021,18:30,Hannover 96,1.FC Heidenheim,8.600,1,0,/spielbericht/index/spielbericht/3588234,2021,2. Bundesliga
+28.08.2021,13:30,Darmstadt 98,Hannover 96,6.050,4,0,/spielbericht/index/spielbericht/3588250,2021,2. Bundesliga
+11.09.2021,13:30,Hannover 96,FC St. Pauli,16.100,1,0,/spielbericht/index/spielbericht/3588270,2021,2. Bundesliga
+18.09.2021,13:30,Holstein Kiel,Hannover 96,8.165,0,3,/spielbericht/index/spielbericht/3588294,2021,2. Bundesliga
+26.09.2021,13:30,Hannover 96,SV Sandhausen,10.900,1,2,/spielbericht/index/spielbericht/3588314,2021,2. Bundesliga
+02.10.2021,20:30,1.FC Nürnberg,Hannover 96,24.211,0,0,/spielbericht/index/spielbericht/3588333,2021,2. Bundesliga
+15.10.2021,18:30,Hannover 96,FC Schalke 04,40.000,0,1,/spielbericht/index/spielbericht/3588360,2021,2. Bundesliga
+24.10.2021,13:30,J. Regensburg,Hannover 96,8.462,3,1,/spielbericht/index/spielbericht/3588371,2021,2. Bundesliga
+30.10.2021,13:30,Hannover 96,Erzgebirge Aue,9.300,1,1,/spielbericht/index/spielbericht/3588396,2021,2. Bundesliga
+06.11.2021,13:30,F. Düsseldorf,Hannover 96,22.398,1,1,/spielbericht/index/spielbericht/3588411,2021,2. Bundesliga
+19.11.2021,18:30,Hannover 96,SC Paderborn,10.400,0,0,/spielbericht/index/spielbericht/3588431,2021,2. Bundesliga
+27.11.2021,13:30,Karlsruher SC,Hannover 96,10.000,4,0,/spielbericht/index/spielbericht/3588449,2021,2. Bundesliga
+05.12.2021,13:30,Hannover 96,Hamburger SV,22.500,1,0,/spielbericht/index/spielbericht/3588477,2021,2. Bundesliga
+11.12.2021,13:30,FC Ingolstadt,Hannover 96,x,1,2,/spielbericht/index/spielbericht/3588507,2021,2. Bundesliga
+19.12.2021,13:30,Hannover 96,Werder Bremen,5.000,1,4,/spielbericht/index/spielbericht/3588523,2021,2. Bundesliga
+14.01.2022,18:30,Hansa Rostock,Hannover 96,x,0,1,/spielbericht/index/spielbericht/3588543,2021,2. Bundesliga
+23.01.2022,13:30,Hannover 96,Dynamo Dresden,500,0,0,/spielbericht/index/spielbericht/3588558,2021,2. Bundesliga
+04.02.2022,18:30,1.FC Heidenheim,Hannover 96,4.350,3,1,/spielbericht/index/spielbericht/3588575,2021,2. Bundesliga
+13.02.2022,13:30,Hannover 96,Darmstadt 98,3.800,2,2,/spielbericht/index/spielbericht/3588603,2021,2. Bundesliga
+20.02.2022,13:30,FC St. Pauli,Hannover 96,8.470,0,3,/spielbericht/index/spielbericht/3588621,2021,2. Bundesliga
+25.02.2022,18:30,Hannover 96,Holstein Kiel,9.200,2,0,/spielbericht/index/spielbericht/3588638,2021,2. Bundesliga
+05.03.2022,13:30,SV Sandhausen,Hannover 96,3.852,3,1,/spielbericht/index/spielbericht/3588666,2021,2. Bundesliga
+13.03.2022,13:30,Hannover 96,1.FC Nürnberg,14.300,0,3,/spielbericht/index/spielbericht/3588690,2021,2. Bundesliga
+19.03.2022,13:30,FC Schalke 04,Hannover 96,55.152,2,1,/spielbericht/index/spielbericht/3588677,2021,2. Bundesliga
+02.04.2022,13:30,Hannover 96,J. Regensburg,9.200,1,1,/spielbericht/index/spielbericht/3588706,2021,2. Bundesliga
+09.04.2022,13:30,Erzgebirge Aue,Hannover 96,6.196,1,3,/spielbericht/index/spielbericht/3588716,2021,2. Bundesliga
+16.04.2022,13:30,Hannover 96,F. Düsseldorf,17.250,0,0,/spielbericht/index/spielbericht/3588723,2021,2. Bundesliga
+24.04.2022,13:30,SC Paderborn,Hannover 96,8.400,3,0,/spielbericht/index/spielbericht/3588732,2021,2. Bundesliga
+29.04.2022,18:30,Hannover 96,Karlsruher SC,13.700,2,0,/spielbericht/index/spielbericht/3588741,2021,2. Bundesliga
+07.05.2022,13:30,Hamburger SV,Hannover 96,57.000,2,1,/spielbericht/index/spielbericht/3588748,2021,2. Bundesliga
+15.05.2022,15:30,Hannover 96,FC Ingolstadt,22.300,3,2,/spielbericht/index/spielbericht/3588760,2021,2. Bundesliga
+07.08.2021,15:30,E. Norderstedt,Hannover 96,745,0,4,/spielbericht/index/spielbericht/3601606,2021,DFB-Pokal
+27.10.2021,20:45,Hannover 96,F. Düsseldorf,11.300,3,0,/spielbericht/index/spielbericht/3651884,2021,DFB-Pokal
+19.01.2022,18:30,Hannover 96,Bor. M'gladbach,500,3,0,/spielbericht/index/spielbericht/3690466,2021,DFB-Pokal
+02.03.2022,18:30,Hannover 96,RB Leipzig,25.000,0,4,/spielbericht/index/spielbericht/3741198,2021,DFB-Pokal
+15.07.2022,20:30,1.FC K'lautern,Hannover 96,40.579,2,1,/spielbericht/index/spielbericht/3839016,2022,2. Bundesliga
+23.07.2022,20:30,Hannover 96,FC St. Pauli,33.600,2,2,/spielbericht/index/spielbericht/3839041,2022,2. Bundesliga
+06.08.2022,13:00,SC Paderborn,Hannover 96,11.528,4,2,/spielbericht/index/spielbericht/3839045,2022,2. Bundesliga
+14.08.2022,13:30,Hannover 96,J. Regensburg,20.700,1,0,/spielbericht/index/spielbericht/3839067,2022,2. Bundesliga
+19.08.2022,18:30,1.FC Magdeburg,Hannover 96,23.908,0,4,/spielbericht/index/spielbericht/3839077,2022,2. Bundesliga
+28.08.2022,13:30,Hannover 96,Greuther Fürth,22.800,2,1,/spielbericht/index/spielbericht/3839093,2022,2. Bundesliga
+04.09.2022,13:30,Hansa Rostock,Hannover 96,24.500,0,1,/spielbericht/index/spielbericht/3839128,2022,2. Bundesliga
+10.09.2022,13:00,Hannover 96,E. Braunschweig,42.000,1,1,/spielbericht/index/spielbericht/3839146,2022,2. Bundesliga
+16.09.2022,18:30,SV Sandhausen,Hannover 96,4.137,2,3,/spielbericht/index/spielbericht/3839174,2022,2. Bundesliga
+30.09.2022,18:30,Hannover 96,Hamburger SV,49.000,1,2,/spielbericht/index/spielbericht/3839191,2022,2. Bundesliga
+09.10.2022,13:30,1.FC Heidenheim,Hannover 96,8.104,2,1,/spielbericht/index/spielbericht/3839207,2022,2. Bundesliga
+15.10.2022,20:30,Hannover 96,Arm. Bielefeld,29.200,2,0,/spielbericht/index/spielbericht/3839227,2022,2. Bundesliga
+22.10.2022,13:00,1.FC Nürnberg,Hannover 96,28.422,0,0,/spielbericht/index/spielbericht/3839244,2022,2. Bundesliga
+30.10.2022,13:30,Hannover 96,Karlsruher SC,29.100,1,0,/spielbericht/index/spielbericht/3839271,2022,2. Bundesliga
+04.11.2022,18:30,Darmstadt 98,Hannover 96,15.475,1,0,/spielbericht/index/spielbericht/3839287,2022,2. Bundesliga
+08.11.2022,18:30,Hannover 96,F. Düsseldorf,24.100,2,0,/spielbericht/index/spielbericht/3839306,2022,2. Bundesliga
+11.11.2022,18:30,Holstein Kiel,Hannover 96,13.744,1,1,/spielbericht/index/spielbericht/3839326,2022,2. Bundesliga
+28.01.2023,20:30,Hannover 96,1.FC K'lautern,36.800,1,3,/spielbericht/index/spielbericht/3839346,2022,2. Bundesliga
+05.02.2023,13:30,FC St. Pauli,Hannover 96,29.546,2,0,/spielbericht/index/spielbericht/3839358,2022,2. Bundesliga
+11.02.2023,13:00,Hannover 96,SC Paderborn,25.100,3,4,/spielbericht/index/spielbericht/3839382,2022,2. Bundesliga
+18.02.2023,13:00,J. Regensburg,Hannover 96,8.112,1,1,/spielbericht/index/spielbericht/3839408,2022,2. Bundesliga
+26.02.2023,13:30,Hannover 96,1.FC Magdeburg,38.100,1,2,/spielbericht/index/spielbericht/3839426,2022,2. Bundesliga
+05.03.2023,13:30,Greuther Fürth,Hannover 96,10.845,1,1,/spielbericht/index/spielbericht/3839438,2022,2. Bundesliga
+12.03.2023,13:30,Hannover 96,Hansa Rostock,31.600,1,1,/spielbericht/index/spielbericht/3839461,2022,2. Bundesliga
+19.03.2023,13:30,E. Braunschweig,Hannover 96,20.995,1,0,/spielbericht/index/spielbericht/3839482,2022,2. Bundesliga
+01.04.2023,13:00,Hannover 96,SV Sandhausen,22.400,3,1,/spielbericht/index/spielbericht/3839497,2022,2. Bundesliga
+08.04.2023,13:00,Hamburger SV,Hannover 96,57.000,6,1,/spielbericht/index/spielbericht/3839520,2022,2. Bundesliga
+14.04.2023,18:30,Hannover 96,1.FC Heidenheim,25.200,0,3,/spielbericht/index/spielbericht/3839542,2022,2. Bundesliga
+22.04.2023,13:00,Arm. Bielefeld,Hannover 96,25.921,1,3,/spielbericht/index/spielbericht/3839555,2022,2. Bundesliga
+29.04.2023,20:30,Hannover 96,1.FC Nürnberg,28.500,3,0,/spielbericht/index/spielbericht/3839578,2022,2. Bundesliga
+06.05.2023,13:00,Karlsruher SC,Hannover 96,21.477,2,1,/spielbericht/index/spielbericht/3839597,2022,2. Bundesliga
+14.05.2023,13:30,Hannover 96,Darmstadt 98,30.000,2,1,/spielbericht/index/spielbericht/3839604,2022,2. Bundesliga
+21.05.2023,13:30,F. Düsseldorf,Hannover 96,35.512,3,3,/spielbericht/index/spielbericht/3839615,2022,2. Bundesliga
+28.05.2023,15:30,Hannover 96,Holstein Kiel,38.000,1,5,/spielbericht/index/spielbericht/3839621,2022,2. Bundesliga
+31.07.2022,15:31,Schott Mainz,Hannover 96,4.500,0,3,/spielbericht/index/spielbericht/3825590,2022,DFB-Pokal
+19.10.2022,18:00,Hannover 96,Bor. Dortmund,49.000,0,2,/spielbericht/index/spielbericht/3918230,2022,DFB-Pokal
+29.07.2023,13:00,Hannover 96,SV Elversberg,29.200,2,2,/spielbericht/index/spielbericht/4096276,2023,2. Bundesliga
+06.08.2023,13:30,1.FC Nürnberg,Hannover 96,30.012,2,2,/spielbericht/index/spielbericht/4096289,2023,2. Bundesliga
+19.08.2023,13:00,Hansa Rostock,Hannover 96,25.700,1,2,/spielbericht/index/spielbericht/4096296,2023,2. Bundesliga
+26.08.2023,20:30,Hannover 96,Hamburger SV,49.000,0,1,/spielbericht/index/spielbericht/4096305,2023,2. Bundesliga
+03.09.2023,13:30,Greuther Fürth,Hannover 96,10.091,1,3,/spielbericht/index/spielbericht/4096314,2023,2. Bundesliga
+17.09.2023,13:30,Hannover 96,VfL Osnabrück,37.000,7,0,/spielbericht/index/spielbericht/4096323,2023,2. Bundesliga
+24.09.2023,13:30,F. Düsseldorf,Hannover 96,35.444,1,1,/spielbericht/index/spielbericht/4096327,2023,2. Bundesliga
+30.09.2023,13:00,Hannover 96,Wehen Wiesbaden,31.100,2,0,/spielbericht/index/spielbericht/4096340,2023,2. Bundesliga
+06.10.2023,18:30,1.FC K'lautern,Hannover 96,43.017,3,1,/spielbericht/index/spielbericht/4096349,2023,2. Bundesliga
+20.10.2023,18:30,Hannover 96,1.FC Magdeburg,38.200,2,1,/spielbericht/index/spielbericht/4096358,2023,2. Bundesliga
+28.10.2023,13:00,FC Schalke 04,Hannover 96,62.207,3,2,/spielbericht/index/spielbericht/4096363,2023,2. Bundesliga
+05.11.2023,13:30,Hannover 96,E. Braunschweig,42.000,2,0,/spielbericht/index/spielbericht/4096376,2023,2. Bundesliga
+10.11.2023,18:30,FC St. Pauli,Hannover 96,29.546,0,0,/spielbericht/index/spielbericht/4096383,2023,2. Bundesliga
+24.11.2023,18:30,Hannover 96,Hertha BSC,45.100,2,2,/spielbericht/index/spielbericht/4096394,2023,2. Bundesliga
+03.12.2023,13:30,SC Paderborn,Hannover 96,11.950,1,0,/spielbericht/index/spielbericht/4096402,2023,2. Bundesliga
+08.12.2023,18:30,Hannover 96,Karlsruher SC,26.200,2,2,/spielbericht/index/spielbericht/4096411,2023,2. Bundesliga
+16.12.2023,20:30,Holstein Kiel,Hannover 96,13.902,3,0,/spielbericht/index/spielbericht/4096422,2023,2. Bundesliga
+20.01.2024,13:00,SV Elversberg,Hannover 96,8.150,2,2,/spielbericht/index/spielbericht/4096429,2023,2. Bundesliga
+26.01.2024,18:30,Hannover 96,1.FC Nürnberg,25.100,3,0,/spielbericht/index/spielbericht/4096442,2023,2. Bundesliga
+04.02.2024,13:30,Hannover 96,Hansa Rostock,31.500,2,1,/spielbericht/index/spielbericht/4096449,2023,2. Bundesliga
+09.02.2024,18:30,Hamburger SV,Hannover 96,57.000,3,4,/spielbericht/index/spielbericht/4096458,2023,2. Bundesliga
+16.02.2024,18:30,Hannover 96,Greuther Fürth,31.500,2,1,/spielbericht/index/spielbericht/4096467,2023,2. Bundesliga
+24.02.2024,13:00,VfL Osnabrück,Hannover 96,15.741,1,0,/spielbericht/index/spielbericht/4096476,2023,2. Bundesliga
+02.03.2024,13:00,Hannover 96,F. Düsseldorf,38.500,2,2,/spielbericht/index/spielbericht/4096480,2023,2. Bundesliga
+09.03.2024,13:00,Wehen Wiesbaden,Hannover 96,10.089,1,1,/spielbericht/index/spielbericht/4096493,2023,2. Bundesliga
+16.03.2024,20:30,Hannover 96,1.FC K'lautern,42.500,1,1,/spielbericht/index/spielbericht/4096502,2023,2. Bundesliga
+31.03.2024,13:30,1.FC Magdeburg,Hannover 96,26.440,0,3,/spielbericht/index/spielbericht/4096511,2023,2. Bundesliga
+07.04.2024,13:30,Hannover 96,FC Schalke 04,49.000,1,1,/spielbericht/index/spielbericht/4096516,2023,2. Bundesliga
+14.04.2024,13:30,E. Braunschweig,Hannover 96,21.660,0,0,/spielbericht/index/spielbericht/4096529,2023,2. Bundesliga
+21.04.2024,13:30,Hannover 96,FC St. Pauli,49.000,1,2,/spielbericht/index/spielbericht/4096536,2023,2. Bundesliga
+26.04.2024,18:30,Hertha BSC,Hannover 96,59.192,1,1,/spielbericht/index/spielbericht/4096547,2023,2. Bundesliga
+05.05.2024,13:30,Hannover 96,SC Paderborn,36.500,3,2,/spielbericht/index/spielbericht/4096555,2023,2. Bundesliga
+12.05.2024,13:30,Karlsruher SC,Hannover 96,32.140,1,2,/spielbericht/index/spielbericht/4096564,2023,2. Bundesliga
+19.05.2024,15:30,Hannover 96,Holstein Kiel,49.500,1,2,/spielbericht/index/spielbericht/4096575,2023,2. Bundesliga
+11.08.2023,18:00,SV Sandhausen,Hannover 96,4.605,7,5,/spielbericht/index/spielbericht/4088588,2023,DFB-Pokal
+03.08.2024,13:00,Hannover 96,J. Regensburg,31.800,2,0,/spielbericht/index/spielbericht/4373305,2024,2. Bundesliga
+11.08.2024,13:30,Pr. Münster,Hannover 96,12.422,0,0,/spielbericht/index/spielbericht/4373336,2024,2. Bundesliga
+23.08.2024,18:30,Hannover 96,Hamburger SV,49.000,1,0,/spielbericht/index/spielbericht/4373350,2024,2. Bundesliga
+30.08.2024,18:30,F. Düsseldorf,Hannover 96,35.416,1,0,/spielbericht/index/spielbericht/4373356,2024,2. Bundesliga
+14.09.2024,13:00,Hannover 96,1.FC K'lautern,38.100,3,1,/spielbericht/index/spielbericht/4373378,2024,2. Bundesliga
+20.09.2024,18:30,SC Paderborn,Hannover 96,15.000,2,1,/spielbericht/index/spielbericht/4373393,2024,2. Bundesliga
+29.09.2024,13:30,Hannover 96,1.FC Nürnberg,36.500,2,0,/spielbericht/index/spielbericht/4373413,2024,2. Bundesliga
+06.10.2024,13:30,E. Braunschweig,Hannover 96,19.919,2,0,/spielbericht/index/spielbericht/4373436,2024,2. Bundesliga
+19.10.2024,13:00,Hannover 96,FC Schalke 04,49.000,1,0,/spielbericht/index/spielbericht/4373448,2024,2. Bundesliga
+27.10.2024,13:30,1.FC Magdeburg,Hannover 96,27.065,0,3,/spielbericht/index/spielbericht/4373471,2024,2. Bundesliga
+02.11.2024,13:00,Hannover 96,Karlsruher SC,39.500,2,1,/spielbericht/index/spielbericht/4373483,2024,2. Bundesliga
+10.11.2024,13:30,SV Elversberg,Hannover 96,9.337,3,1,/spielbericht/index/spielbericht/4373505,2024,2. Bundesliga
+23.11.2024,13:00,Hannover 96,Darmstadt 98,31.500,1,2,/spielbericht/index/spielbericht/4373520,2024,2. Bundesliga
+30.11.2024,13:00,1.FC Köln,Hannover 96,50.000,2,2,/spielbericht/index/spielbericht/4373536,2024,2. Bundesliga
+07.12.2024,13:00,Hannover 96,SSV Ulm 1846,25.600,3,2,/spielbericht/index/spielbericht/4373556,2024,2. Bundesliga
+15.12.2024,13:30,Greuther Fürth,Hannover 96,12.334,1,0,/spielbericht/index/spielbericht/4373575,2024,2. Bundesliga
+22.12.2024,13:30,Hannover 96,Hertha BSC,49.000,0,0,/spielbericht/index/spielbericht/4373601,2024,2. Bundesliga
+17.01.2025,18:30,J. Regensburg,Hannover 96,11.310,0,1,/spielbericht/index/spielbericht/4373625,2024,2. Bundesliga
+26.01.2025,13:30,Hannover 96,Pr. Münster,36.100,2,2,/spielbericht/index/spielbericht/4373638,2024,2. Bundesliga
+02.02.2025,13:30,Hamburger SV,Hannover 96,57.000,2,2,/spielbericht/index/spielbericht/4373654,2024,2. Bundesliga
+09.02.2025,13:30,Hannover 96,F. Düsseldorf,33.200,1,1,/spielbericht/index/spielbericht/4373674,2024,2. Bundesliga
+15.02.2025,13:00,1.FC K'lautern,Hannover 96,45.779,0,0,/spielbericht/index/spielbericht/4373685,2024,2. Bundesliga
+22.02.2025,20:30,Hannover 96,SC Paderborn,36.200,1,1,/spielbericht/index/spielbericht/4373702,2024,2. Bundesliga
+01.03.2025,13:00,1.FC Nürnberg,Hannover 96,31.961,1,2,/spielbericht/index/spielbericht/4373721,2024,2. Bundesliga
+09.03.2025,13:30,Hannover 96,E. Braunschweig,32.100,1,1,/spielbericht/index/spielbericht/4373736,2024,2. Bundesliga
+14.03.2025,18:30,FC Schalke 04,Hannover 96,62.077,1,2,/spielbericht/index/spielbericht/4373756,2024,2. Bundesliga
+29.03.2025,13:00,Hannover 96,1.FC Magdeburg,42.500,0,0,/spielbericht/index/spielbericht/4373771,2024,2. Bundesliga
+04.04.2025,18:30,Karlsruher SC,Hannover 96,28.818,1,0,/spielbericht/index/spielbericht/4373791,2024,2. Bundesliga
+12.04.2025,13:00,Hannover 96,SV Elversberg,35.500,1,3,/spielbericht/index/spielbericht/4373807,2024,2. Bundesliga
+20.04.2025,13:30,Darmstadt 98,Hannover 96,17.810,3,1,/spielbericht/index/spielbericht/4373825,2024,2. Bundesliga
+27.04.2025,13:30,Hannover 96,1.FC Köln,49.000,1,0,/spielbericht/index/spielbericht/4373844,2024,2. Bundesliga
+03.05.2025,13:00,SSV Ulm 1846,Hannover 96,17.400,1,2,/spielbericht/index/spielbericht/4373868,2024,2. Bundesliga
+11.05.2025,13:30,Hannover 96,Greuther Fürth,36.500,1,1,/spielbericht/index/spielbericht/4373880,2024,2. Bundesliga
+18.05.2025,15:30,Hertha BSC,Hannover 96,66.957,1,1,/spielbericht/index/spielbericht/4373900,2024,2. Bundesliga
+17.08.2024,18:00,Arm. Bielefeld,Hannover 96,26.044,2,0,/spielbericht/index/spielbericht/4353891,2024,DFB-Pokal

@@ -1,0 +1,489 @@
+date,time,home_team,away_team,participants,home_score,away_score,match_link,season,competition
+23.08.2014,15:30,Eintracht Frankfurt,SC Freiburg,46.200,1,0,/spielbericht/index/spielbericht/2460632,2014,Bundesliga
+30.08.2014,15:30,VfL Wolfsburg,Eintracht Frankfurt,27.528,2,2,/spielbericht/index/spielbericht/2460637,2014,Bundesliga
+14.09.2014,15:30,Eintracht Frankfurt,FC Augsburg,43.500,0,1,/spielbericht/index/spielbericht/2460651,2014,Bundesliga
+20.09.2014,15:30,FC Schalke 04,Eintracht Frankfurt,61.798,2,2,/spielbericht/index/spielbericht/2460653,2014,Bundesliga
+23.09.2014,20:00,Eintracht Frankfurt,1.FSV Mainz 05,44.100,2,2,/spielbericht/index/spielbericht/2460670,2014,Bundesliga
+28.09.2014,17:30,Hamburger SV,Eintracht Frankfurt,47.643,1,2,/spielbericht/index/spielbericht/2460677,2014,Bundesliga
+04.10.2014,18:30,Eintracht Frankfurt,1.FC Köln,51.500,3,2,/spielbericht/index/spielbericht/2460688,2014,Bundesliga
+19.10.2014,17:30,SC Paderborn,Eintracht Frankfurt,15.000,3,1,/spielbericht/index/spielbericht/2460697,2014,Bundesliga
+25.10.2014,15:30,Eintracht Frankfurt,VfB Stuttgart,49.700,4,5,/spielbericht/index/spielbericht/2460706,2014,Bundesliga
+01.11.2014,15:30,Hannover 96,Eintracht Frankfurt,42.200,1,0,/spielbericht/index/spielbericht/2460711,2014,Bundesliga
+08.11.2014,15:30,Eintracht Frankfurt,Bayern München,51.500,0,4,/spielbericht/index/spielbericht/2460723,2014,Bundesliga
+22.11.2014,15:30,Bor. M'gladbach,Eintracht Frankfurt,54.010,1,3,/spielbericht/index/spielbericht/2460727,2014,Bundesliga
+30.11.2014,17:30,Eintracht Frankfurt,Bor. Dortmund,51.500,2,0,/spielbericht/index/spielbericht/2460741,2014,Bundesliga
+07.12.2014,17:30,Eintracht Frankfurt,Werder Bremen,46.800,5,2,/spielbericht/index/spielbericht/2460747,2014,Bundesliga
+12.12.2014,20:30,TSG Hoffenheim,Eintracht Frankfurt,28.000,3,2,/spielbericht/index/spielbericht/2460757,2014,Bundesliga
+17.12.2014,20:00,Eintracht Frankfurt,Hertha BSC,40.200,4,4,/spielbericht/index/spielbericht/2460766,2014,Bundesliga
+20.12.2014,15:30,B. Leverkusen,Eintracht Frankfurt,30.210,1,1,/spielbericht/index/spielbericht/2460771,2014,Bundesliga
+31.01.2015,15:30,SC Freiburg,Eintracht Frankfurt,24.000,4,1,/spielbericht/index/spielbericht/2460785,2014,Bundesliga
+03.02.2015,20:00,Eintracht Frankfurt,VfL Wolfsburg,34.400,1,1,/spielbericht/index/spielbericht/2460794,2014,Bundesliga
+08.02.2015,17:30,FC Augsburg,Eintracht Frankfurt,27.122,2,2,/spielbericht/index/spielbericht/2460800,2014,Bundesliga
+14.02.2015,18:30,Eintracht Frankfurt,FC Schalke 04,50.400,1,0,/spielbericht/index/spielbericht/2460814,2014,Bundesliga
+21.02.2015,15:30,1.FSV Mainz 05,Eintracht Frankfurt,33.237,3,1,/spielbericht/index/spielbericht/2460817,2014,Bundesliga
+28.02.2015,18:30,Eintracht Frankfurt,Hamburger SV,50.500,2,1,/spielbericht/index/spielbericht/2460832,2014,Bundesliga
+08.03.2015,15:30,1.FC Köln,Eintracht Frankfurt,50.000,4,2,/spielbericht/index/spielbericht/2460840,2014,Bundesliga
+14.03.2015,15:30,Eintracht Frankfurt,SC Paderborn,46.000,4,0,/spielbericht/index/spielbericht/2460850,2014,Bundesliga
+21.03.2015,15:30,VfB Stuttgart,Eintracht Frankfurt,48.500,3,1,/spielbericht/index/spielbericht/2460856,2014,Bundesliga
+04.04.2015,15:30,Eintracht Frankfurt,Hannover 96,49.600,2,2,/spielbericht/index/spielbericht/2460867,2014,Bundesliga
+11.04.2015,15:30,Bayern München,Eintracht Frankfurt,75.024,3,0,/spielbericht/index/spielbericht/2460869,2014,Bundesliga
+17.04.2015,20:30,Eintracht Frankfurt,Bor. M'gladbach,51.500,0,0,/spielbericht/index/spielbericht/2460885,2014,Bundesliga
+25.04.2015,15:30,Bor. Dortmund,Eintracht Frankfurt,80.667,2,0,/spielbericht/index/spielbericht/2460888,2014,Bundesliga
+02.05.2015,15:30,Werder Bremen,Eintracht Frankfurt,42.100,1,0,/spielbericht/index/spielbericht/2460903,2014,Bundesliga
+09.05.2015,15:30,Eintracht Frankfurt,TSG Hoffenheim,50.600,3,1,/spielbericht/index/spielbericht/2460909,2014,Bundesliga
+16.05.2015,15:30,Hertha BSC,Eintracht Frankfurt,60.168,0,0,/spielbericht/index/spielbericht/2460919,2014,Bundesliga
+23.05.2015,15:30,Eintracht Frankfurt,B. Leverkusen,51.500,2,1,/spielbericht/index/spielbericht/2460928,2014,Bundesliga
+16.08.2014,20:30,BFC Viktoria 89,Eintracht Frankfurt,10.000,0,2,/spielbericht/index/spielbericht/2485834,2014,DFB-Pokal
+29.10.2014,20:30,Eintracht Frankfurt,Bor. M'gladbach,46.500,1,2,/spielbericht/index/spielbericht/2488540,2014,DFB-Pokal
+16.08.2015,15:30,VfL Wolfsburg,Eintracht Frankfurt,29.126,2,1,/spielbericht/index/spielbericht/2581151,2015,Bundesliga
+22.08.2015,15:30,Eintracht Frankfurt,FC Augsburg,45.000,1,1,/spielbericht/index/spielbericht/2581177,2015,Bundesliga
+29.08.2015,15:30,VfB Stuttgart,Eintracht Frankfurt,50.000,1,4,/spielbericht/index/spielbericht/2581186,2015,Bundesliga
+12.09.2015,18:30,Eintracht Frankfurt,1.FC Köln,51.500,6,2,/spielbericht/index/spielbericht/2581196,2015,Bundesliga
+19.09.2015,15:30,Hamburger SV,Eintracht Frankfurt,55.322,0,0,/spielbericht/index/spielbericht/2581635,2015,Bundesliga
+23.09.2015,20:00,FC Schalke 04,Eintracht Frankfurt,60.104,2,0,/spielbericht/index/spielbericht/2581643,2015,Bundesliga
+27.09.2015,15:30,Eintracht Frankfurt,Hertha BSC,46.000,1,1,/spielbericht/index/spielbericht/2581657,2015,Bundesliga
+03.10.2015,15:30,FC Ingolstadt,Eintracht Frankfurt,15.000,2,0,/spielbericht/index/spielbericht/2581673,2015,Bundesliga
+17.10.2015,18:30,Eintracht Frankfurt,Bor. M'gladbach,51.000,1,5,/spielbericht/index/spielbericht/2581681,2015,Bundesliga
+24.10.2015,15:30,Hannover 96,Eintracht Frankfurt,43.000,1,2,/spielbericht/index/spielbericht/2581694,2015,Bundesliga
+30.10.2015,20:30,Eintracht Frankfurt,Bayern München,51.500,0,0,/spielbericht/index/spielbericht/2581705,2015,Bundesliga
+07.11.2015,15:30,TSG Hoffenheim,Eintracht Frankfurt,30.150,0,0,/spielbericht/index/spielbericht/2581720,2015,Bundesliga
+21.11.2015,15:30,Eintracht Frankfurt,B. Leverkusen,47.500,1,3,/spielbericht/index/spielbericht/2581728,2015,Bundesliga
+28.11.2015,15:45,1.FSV Mainz 05,Eintracht Frankfurt,33.098,2,1,/spielbericht/index/spielbericht/2581745,2015,Bundesliga
+06.12.2015,17:30,Eintracht Frankfurt,Darmstadt 98,51.500,0,1,/spielbericht/index/spielbericht/2581758,2015,Bundesliga
+13.12.2015,17:30,Bor. Dortmund,Eintracht Frankfurt,81.359,4,1,/spielbericht/index/spielbericht/2581763,2015,Bundesliga
+19.12.2015,15:30,Eintracht Frankfurt,Werder Bremen,46.000,2,1,/spielbericht/index/spielbericht/2581781,2015,Bundesliga
+24.01.2016,15:30,Eintracht Frankfurt,VfL Wolfsburg,36.000,3,2,/spielbericht/index/spielbericht/2581789,2015,Bundesliga
+30.01.2016,15:30,FC Augsburg,Eintracht Frankfurt,28.653,0,0,/spielbericht/index/spielbericht/2581812,2015,Bundesliga
+06.02.2016,15:30,Eintracht Frankfurt,VfB Stuttgart,42.000,2,4,/spielbericht/index/spielbericht/2581826,2015,Bundesliga
+13.02.2016,18:30,1.FC Köln,Eintracht Frankfurt,49.200,3,1,/spielbericht/index/spielbericht/2581849,2015,Bundesliga
+19.02.2016,20:30,Eintracht Frankfurt,Hamburger SV,47.200,0,0,/spielbericht/index/spielbericht/2581856,2015,Bundesliga
+28.02.2016,19:30,Eintracht Frankfurt,FC Schalke 04,43.500,0,0,/spielbericht/index/spielbericht/2581873,2015,Bundesliga
+02.03.2016,20:00,Hertha BSC,Eintracht Frankfurt,36.608,2,0,/spielbericht/index/spielbericht/2581893,2015,Bundesliga
+05.03.2016,15:30,Eintracht Frankfurt,FC Ingolstadt,40.000,1,1,/spielbericht/index/spielbericht/2581909,2015,Bundesliga
+12.03.2016,15:30,Bor. M'gladbach,Eintracht Frankfurt,54.010,3,0,/spielbericht/index/spielbericht/2581921,2015,Bundesliga
+19.03.2016,18:30,Eintracht Frankfurt,Hannover 96,43.300,1,0,/spielbericht/index/spielbericht/2581939,2015,Bundesliga
+02.04.2016,15:30,Bayern München,Eintracht Frankfurt,75.000,1,0,/spielbericht/index/spielbericht/2581942,2015,Bundesliga
+09.04.2016,15:30,Eintracht Frankfurt,TSG Hoffenheim,51.000,0,2,/spielbericht/index/spielbericht/2581956,2015,Bundesliga
+16.04.2016,15:30,B. Leverkusen,Eintracht Frankfurt,30.210,3,0,/spielbericht/index/spielbericht/2581962,2015,Bundesliga
+24.04.2016,17:30,Eintracht Frankfurt,1.FSV Mainz 05,50.300,2,1,/spielbericht/index/spielbericht/2581974,2015,Bundesliga
+30.04.2016,15:30,Darmstadt 98,Eintracht Frankfurt,14.800,1,2,/spielbericht/index/spielbericht/2581986,2015,Bundesliga
+07.05.2016,15:30,Eintracht Frankfurt,Bor. Dortmund,51.500,1,0,/spielbericht/index/spielbericht/2581991,2015,Bundesliga
+14.05.2016,15:30,Werder Bremen,Eintracht Frankfurt,42.100,1,0,/spielbericht/index/spielbericht/2582001,2015,Bundesliga
+19.05.2016,20:30,Eintracht Frankfurt,1.FC Nürnberg,51.500,1,1,/spielbericht/index/spielbericht/2691834,2015,Relegation Bundesliga
+23.05.2016,20:30,1.FC Nürnberg,Eintracht Frankfurt,50.000,0,1,/spielbericht/index/spielbericht/2691835,2015,Relegation Bundesliga
+08.08.2015,15:30,Bremer SV,Eintracht Frankfurt,3.400,0,3,/spielbericht/index/spielbericht/2576687,2015,DFB-Pokal
+27.10.2015,19:00,Erzgebirge Aue,Eintracht Frankfurt,10.750,1,0,/spielbericht/index/spielbericht/2615033,2015,DFB-Pokal
+27.08.2016,15:30,Eintracht Frankfurt,FC Schalke 04,47.000,1,0,/spielbericht/index/spielbericht/2704212,2016,Bundesliga
+10.09.2016,15:30,Darmstadt 98,Eintracht Frankfurt,17.000,1,0,/spielbericht/index/spielbericht/2704228,2016,Bundesliga
+17.09.2016,15:30,Eintracht Frankfurt,B. Leverkusen,43.000,2,1,/spielbericht/index/spielbericht/2704239,2016,Bundesliga
+20.09.2016,20:00,FC Ingolstadt,Eintracht Frankfurt,14.259,0,2,/spielbericht/index/spielbericht/2704244,2016,Bundesliga
+24.09.2016,15:30,Eintracht Frankfurt,Hertha BSC,45.000,3,3,/spielbericht/index/spielbericht/2704259,2016,Bundesliga
+01.10.2016,15:30,SC Freiburg,Eintracht Frankfurt,24.000,1,0,/spielbericht/index/spielbericht/2704267,2016,Bundesliga
+15.10.2016,15:30,Eintracht Frankfurt,Bayern München,49.500,2,2,/spielbericht/index/spielbericht/2704277,2016,Bundesliga
+21.10.2016,20:30,Hamburger SV,Eintracht Frankfurt,52.258,0,3,/spielbericht/index/spielbericht/2704282,2016,Bundesliga
+28.10.2016,20:30,Bor. M'gladbach,Eintracht Frankfurt,54.014,0,0,/spielbericht/index/spielbericht/2704305,2016,Bundesliga
+05.11.2016,18:30,Eintracht Frankfurt,1.FC Köln,51.500,1,0,/spielbericht/index/spielbericht/2704319,2016,Bundesliga
+20.11.2016,17:30,Werder Bremen,Eintracht Frankfurt,39.261,1,2,/spielbericht/index/spielbericht/2704337,2016,Bundesliga
+26.11.2016,15:30,Eintracht Frankfurt,Bor. Dortmund,51.500,2,1,/spielbericht/index/spielbericht/2704358,2016,Bundesliga
+04.12.2016,17:30,FC Augsburg,Eintracht Frankfurt,26.549,1,1,/spielbericht/index/spielbericht/2704364,2016,Bundesliga
+09.12.2016,20:30,Eintracht Frankfurt,TSG Hoffenheim,47.000,0,0,/spielbericht/index/spielbericht/2704432,2016,Bundesliga
+17.12.2016,18:30,VfL Wolfsburg,Eintracht Frankfurt,26.967,1,0,/spielbericht/index/spielbericht/2704437,2016,Bundesliga
+20.12.2016,20:00,Eintracht Frankfurt,1.FSV Mainz 05,48.500,3,0,/spielbericht/index/spielbericht/2704460,2016,Bundesliga
+21.01.2017,18:30,RB Leipzig,Eintracht Frankfurt,42.558,3,0,/spielbericht/index/spielbericht/2704469,2016,Bundesliga
+27.01.2017,20:30,FC Schalke 04,Eintracht Frankfurt,60.885,0,1,/spielbericht/index/spielbericht/2704480,2016,Bundesliga
+05.02.2017,17:31,Eintracht Frankfurt,Darmstadt 98,51.000,2,0,/spielbericht/index/spielbericht/2704505,2016,Bundesliga
+11.02.2017,15:30,B. Leverkusen,Eintracht Frankfurt,28.882,3,0,/spielbericht/index/spielbericht/2704506,2016,Bundesliga
+18.02.2017,15:30,Eintracht Frankfurt,FC Ingolstadt,46.300,0,2,/spielbericht/index/spielbericht/2704532,2016,Bundesliga
+25.02.2017,18:30,Hertha BSC,Eintracht Frankfurt,43.323,2,0,/spielbericht/index/spielbericht/2704545,2016,Bundesliga
+05.03.2017,15:30,Eintracht Frankfurt,SC Freiburg,51.500,1,2,/spielbericht/index/spielbericht/2704559,2016,Bundesliga
+11.03.2017,15:30,Bayern München,Eintracht Frankfurt,75.000,3,0,/spielbericht/index/spielbericht/2704569,2016,Bundesliga
+18.03.2017,18:30,Eintracht Frankfurt,Hamburger SV,51.500,0,0,/spielbericht/index/spielbericht/2704586,2016,Bundesliga
+01.04.2017,18:30,Eintracht Frankfurt,Bor. M'gladbach,51.500,0,0,/spielbericht/index/spielbericht/2704593,2016,Bundesliga
+04.04.2017,20:00,1.FC Köln,Eintracht Frankfurt,49.300,1,0,/spielbericht/index/spielbericht/2704609,2016,Bundesliga
+07.04.2017,20:30,Eintracht Frankfurt,Werder Bremen,51.000,2,2,/spielbericht/index/spielbericht/2704629,2016,Bundesliga
+15.04.2017,15:30,Bor. Dortmund,Eintracht Frankfurt,81.360,3,1,/spielbericht/index/spielbericht/2704641,2016,Bundesliga
+22.04.2017,15:30,Eintracht Frankfurt,FC Augsburg,50.200,3,1,/spielbericht/index/spielbericht/2704657,2016,Bundesliga
+30.04.2017,17:30,TSG Hoffenheim,Eintracht Frankfurt,30.150,1,0,/spielbericht/index/spielbericht/2704675,2016,Bundesliga
+06.05.2017,15:30,Eintracht Frankfurt,VfL Wolfsburg,49.000,0,2,/spielbericht/index/spielbericht/2704684,2016,Bundesliga
+13.05.2017,15:30,1.FSV Mainz 05,Eintracht Frankfurt,34.000,4,2,/spielbericht/index/spielbericht/2704697,2016,Bundesliga
+20.05.2017,15:30,Eintracht Frankfurt,RB Leipzig,51.000,2,2,/spielbericht/index/spielbericht/2704712,2016,Bundesliga
+21.08.2016,15:30,1.FC Magdeburg,Eintracht Frankfurt,24.606,4,5,/spielbericht/index/spielbericht/2699124,2016,DFB-Pokal
+25.10.2016,20:45,Eintracht Frankfurt,FC Ingolstadt,6.300,4,1,/spielbericht/index/spielbericht/2754881,2016,DFB-Pokal
+08.02.2017,20:45,Hannover 96,Eintracht Frankfurt,31.000,1,2,/spielbericht/index/spielbericht/2770146,2016,DFB-Pokal
+28.02.2017,18:30,Eintracht Frankfurt,Arm. Bielefeld,39.000,1,0,/spielbericht/index/spielbericht/2823314,2016,DFB-Pokal
+25.04.2017,20:45,Bor. M'gladbach,Eintracht Frankfurt,54.014,7,8,/spielbericht/index/spielbericht/2835837,2016,DFB-Pokal
+27.05.2017,20:00,Eintracht Frankfurt,Bor. Dortmund,74.322,1,2,/spielbericht/index/spielbericht/2850642,2016,DFB-Pokal
+20.08.2017,15:30,SC Freiburg,Eintracht Frankfurt,24.000,0,0,/spielbericht/index/spielbericht/2871498,2017,Bundesliga
+26.08.2017,15:30,Eintracht Frankfurt,VfL Wolfsburg,46.000,0,1,/spielbericht/index/spielbericht/2871547,2017,Bundesliga
+09.09.2017,15:30,Bor. M'gladbach,Eintracht Frankfurt,51.431,0,1,/spielbericht/index/spielbericht/2871594,2017,Bundesliga
+16.09.2017,15:30,Eintracht Frankfurt,FC Augsburg,46.500,1,2,/spielbericht/index/spielbericht/2871660,2017,Bundesliga
+20.09.2017,18:30,1.FC Köln,Eintracht Frankfurt,49.000,0,1,/spielbericht/index/spielbericht/2871691,2017,Bundesliga
+23.09.2017,15:30,RB Leipzig,Eintracht Frankfurt,40.606,2,1,/spielbericht/index/spielbericht/2871729,2017,Bundesliga
+30.09.2017,15:30,Eintracht Frankfurt,VfB Stuttgart,51.500,2,1,/spielbericht/index/spielbericht/2871778,2017,Bundesliga
+14.10.2017,15:30,Hannover 96,Eintracht Frankfurt,43.500,1,2,/spielbericht/index/spielbericht/2871816,2017,Bundesliga
+21.10.2017,15:31,Eintracht Frankfurt,Bor. Dortmund,51.500,2,2,/spielbericht/index/spielbericht/2871859,2017,Bundesliga
+27.10.2017,20:30,1.FSV Mainz 05,Eintracht Frankfurt,33.794,1,1,/spielbericht/index/spielbericht/2871905,2017,Bundesliga
+03.11.2017,20:30,Eintracht Frankfurt,Werder Bremen,51.500,2,1,/spielbericht/index/spielbericht/2871958,2017,Bundesliga
+18.11.2017,15:30,TSG Hoffenheim,Eintracht Frankfurt,30.150,1,1,/spielbericht/index/spielbericht/2871990,2017,Bundesliga
+25.11.2017,15:30,Eintracht Frankfurt,B. Leverkusen,49.000,0,1,/spielbericht/index/spielbericht/2872030,2017,Bundesliga
+03.12.2017,15:30,Hertha BSC,Eintracht Frankfurt,38.781,1,2,/spielbericht/index/spielbericht/2871982,2017,Bundesliga
+09.12.2017,15:30,Eintracht Frankfurt,Bayern München,51.500,0,1,/spielbericht/index/spielbericht/2871939,2017,Bundesliga
+12.12.2017,20:31,Hamburger SV,Eintracht Frankfurt,40.983,1,2,/spielbericht/index/spielbericht/2871914,2017,Bundesliga
+16.12.2017,15:30,Eintracht Frankfurt,FC Schalke 04,50.600,2,2,/spielbericht/index/spielbericht/2871877,2017,Bundesliga
+13.01.2018,15:30,Eintracht Frankfurt,SC Freiburg,45.300,1,1,/spielbericht/index/spielbericht/2871489,2017,Bundesliga
+20.01.2018,15:31,VfL Wolfsburg,Eintracht Frankfurt,24.450,1,3,/spielbericht/index/spielbericht/2871508,2017,Bundesliga
+26.01.2018,20:30,Eintracht Frankfurt,Bor. M'gladbach,47.500,2,0,/spielbericht/index/spielbericht/2871573,2017,Bundesliga
+04.02.2018,15:30,FC Augsburg,Eintracht Frankfurt,27.188,3,0,/spielbericht/index/spielbericht/2871651,2017,Bundesliga
+10.02.2018,15:30,Eintracht Frankfurt,1.FC Köln,47.700,4,2,/spielbericht/index/spielbericht/2871678,2017,Bundesliga
+19.02.2018,20:36,Eintracht Frankfurt,RB Leipzig,45.100,2,1,/spielbericht/index/spielbericht/2871723,2017,Bundesliga
+24.02.2018,15:32,VfB Stuttgart,Eintracht Frankfurt,55.418,1,0,/spielbericht/index/spielbericht/2871762,2017,Bundesliga
+03.03.2018,15:30,Eintracht Frankfurt,Hannover 96,48.500,1,0,/spielbericht/index/spielbericht/2872111,2017,Bundesliga
+11.03.2018,18:00,Bor. Dortmund,Eintracht Frankfurt,81.360,3,2,/spielbericht/index/spielbericht/2871792,2017,Bundesliga
+17.03.2018,15:30,Eintracht Frankfurt,1.FSV Mainz 05,49.500,3,0,/spielbericht/index/spielbericht/2871832,2017,Bundesliga
+01.04.2018,15:30,Werder Bremen,Eintracht Frankfurt,42.100,2,1,/spielbericht/index/spielbericht/2872019,2017,Bundesliga
+08.04.2018,18:00,Eintracht Frankfurt,TSG Hoffenheim,50.500,1,1,/spielbericht/index/spielbericht/2872048,2017,Bundesliga
+14.04.2018,15:30,B. Leverkusen,Eintracht Frankfurt,30.210,4,1,/spielbericht/index/spielbericht/2872066,2017,Bundesliga
+21.04.2018,15:30,Eintracht Frankfurt,Hertha BSC,51.000,0,3,/spielbericht/index/spielbericht/2872074,2017,Bundesliga
+28.04.2018,15:31,Bayern München,Eintracht Frankfurt,75.000,4,1,/spielbericht/index/spielbericht/2872079,2017,Bundesliga
+05.05.2018,15:31,Eintracht Frankfurt,Hamburger SV,51.500,3,0,/spielbericht/index/spielbericht/2872093,2017,Bundesliga
+12.05.2018,15:31,FC Schalke 04,Eintracht Frankfurt,61.585,1,0,/spielbericht/index/spielbericht/2872101,2017,Bundesliga
+12.08.2017,15:30,TuS Erndtebrück,Eintracht Frankfurt,13.106,0,3,/spielbericht/index/spielbericht/2864734,2017,DFB-Pokal
+24.10.2017,20:45,Schweinfurt 05,Eintracht Frankfurt,15.060,0,4,/spielbericht/index/spielbericht/2914239,2017,DFB-Pokal
+20.12.2017,20:45,1.FC Heidenheim,Eintracht Frankfurt,11.000,1,2,/spielbericht/index/spielbericht/2957388,2017,DFB-Pokal
+07.02.2018,18:30,Eintracht Frankfurt,1.FSV Mainz 05,48.200,3,0,/spielbericht/index/spielbericht/2988234,2017,DFB-Pokal
+18.04.2018,20:45,FC Schalke 04,Eintracht Frankfurt,61.891,0,1,/spielbericht/index/spielbericht/3002965,2017,DFB-Pokal
+19.05.2018,20:00,Bayern München,Eintracht Frankfurt,74.322,1,3,/spielbericht/index/spielbericht/3034033,2017,DFB-Pokal
+25.08.2018,15:30,SC Freiburg,Eintracht Frankfurt,24.000,0,2,/spielbericht/index/spielbericht/3058411,2018,Bundesliga
+01.09.2018,15:30,Eintracht Frankfurt,Werder Bremen,50.000,1,2,/spielbericht/index/spielbericht/3058429,2018,Bundesliga
+14.09.2018,20:30,Bor. Dortmund,Eintracht Frankfurt,81.000,3,1,/spielbericht/index/spielbericht/3058434,2018,Bundesliga
+23.09.2018,18:00,Eintracht Frankfurt,RB Leipzig,43.800,1,1,/spielbericht/index/spielbericht/3058446,2018,Bundesliga
+26.09.2018,20:30,Bor. M'gladbach,Eintracht Frankfurt,41.257,3,1,/spielbericht/index/spielbericht/3058454,2018,Bundesliga
+30.09.2018,15:30,Eintracht Frankfurt,Hannover 96,46.300,4,1,/spielbericht/index/spielbericht/3058464,2018,Bundesliga
+07.10.2018,15:30,TSG Hoffenheim,Eintracht Frankfurt,29.785,1,2,/spielbericht/index/spielbericht/3058470,2018,Bundesliga
+19.10.2018,20:30,Eintracht Frankfurt,F. Düsseldorf,51.000,7,1,/spielbericht/index/spielbericht/3058481,2018,Bundesliga
+28.10.2018,13:30,1.FC Nürnberg,Eintracht Frankfurt,42.154,1,1,/spielbericht/index/spielbericht/3058495,2018,Bundesliga
+02.11.2018,20:30,VfB Stuttgart,Eintracht Frankfurt,58.000,0,3,/spielbericht/index/spielbericht/3058499,2018,Bundesliga
+11.11.2018,18:00,Eintracht Frankfurt,FC Schalke 04,50.700,3,0,/spielbericht/index/spielbericht/3058508,2018,Bundesliga
+24.11.2018,15:30,FC Augsburg,Eintracht Frankfurt,30.660,1,3,/spielbericht/index/spielbericht/3058519,2018,Bundesliga
+02.12.2018,18:00,Eintracht Frankfurt,VfL Wolfsburg,48.000,1,2,/spielbericht/index/spielbericht/3058527,2018,Bundesliga
+08.12.2018,18:30,Hertha BSC,Eintracht Frankfurt,42.578,1,0,/spielbericht/index/spielbericht/3058536,2018,Bundesliga
+16.12.2018,18:00,Eintracht Frankfurt,B. Leverkusen,46.500,2,1,/spielbericht/index/spielbericht/3058545,2018,Bundesliga
+19.12.2018,20:30,1.FSV Mainz 05,Eintracht Frankfurt,30.805,2,2,/spielbericht/index/spielbericht/3058556,2018,Bundesliga
+22.12.2018,18:30,Eintracht Frankfurt,Bayern München,51.500,0,3,/spielbericht/index/spielbericht/3058564,2018,Bundesliga
+19.01.2019,15:30,Eintracht Frankfurt,SC Freiburg,49.200,3,1,/spielbericht/index/spielbericht/3058573,2018,Bundesliga
+26.01.2019,18:30,Werder Bremen,Eintracht Frankfurt,42.100,2,2,/spielbericht/index/spielbericht/3058581,2018,Bundesliga
+02.02.2019,15:30,Eintracht Frankfurt,Bor. Dortmund,51.500,1,1,/spielbericht/index/spielbericht/3058589,2018,Bundesliga
+09.02.2019,15:30,RB Leipzig,Eintracht Frankfurt,38.330,0,0,/spielbericht/index/spielbericht/3058596,2018,Bundesliga
+17.02.2019,15:30,Eintracht Frankfurt,Bor. M'gladbach,51.500,1,1,/spielbericht/index/spielbericht/3058607,2018,Bundesliga
+24.02.2019,15:30,Hannover 96,Eintracht Frankfurt,39.100,0,3,/spielbericht/index/spielbericht/3058617,2018,Bundesliga
+02.03.2019,15:30,Eintracht Frankfurt,TSG Hoffenheim,49.500,3,2,/spielbericht/index/spielbericht/3058633,2018,Bundesliga
+11.03.2019,20:30,F. Düsseldorf,Eintracht Frankfurt,41.419,0,3,/spielbericht/index/spielbericht/3058647,2018,Bundesliga
+17.03.2019,15:30,Eintracht Frankfurt,1.FC Nürnberg,51.500,1,0,/spielbericht/index/spielbericht/3058652,2018,Bundesliga
+31.03.2019,18:00,Eintracht Frankfurt,VfB Stuttgart,51.500,3,0,/spielbericht/index/spielbericht/3058660,2018,Bundesliga
+06.04.2019,15:30,FC Schalke 04,Eintracht Frankfurt,61.842,1,2,/spielbericht/index/spielbericht/3058667,2018,Bundesliga
+14.04.2019,18:00,Eintracht Frankfurt,FC Augsburg,51.000,1,3,/spielbericht/index/spielbericht/3058679,2018,Bundesliga
+22.04.2019,20:30,VfL Wolfsburg,Eintracht Frankfurt,26.102,1,1,/spielbericht/index/spielbericht/3058692,2018,Bundesliga
+27.04.2019,15:30,Eintracht Frankfurt,Hertha BSC,51.500,0,0,/spielbericht/index/spielbericht/3058697,2018,Bundesliga
+05.05.2019,18:00,B. Leverkusen,Eintracht Frankfurt,30.210,6,1,/spielbericht/index/spielbericht/3058704,2018,Bundesliga
+12.05.2019,18:00,Eintracht Frankfurt,1.FSV Mainz 05,51.500,0,2,/spielbericht/index/spielbericht/3058716,2018,Bundesliga
+18.05.2019,15:30,Bayern München,Eintracht Frankfurt,75.000,5,1,/spielbericht/index/spielbericht/3058720,2018,Bundesliga
+20.09.2018,18:55,Ol. Marseille,Eintracht Frankfurt,x,1,2,/spielbericht/index/spielbericht/3098673,2018,UEFA Europa League
+04.10.2018,21:00,Eintracht Frankfurt,Lazio Rom,47.000,4,1,/spielbericht/index/spielbericht/3098692,2018,UEFA Europa League
+25.10.2018,21:00,Eintracht Frankfurt,Apol. Limassol,47.000,2,0,/spielbericht/index/spielbericht/3098721,2018,UEFA Europa League
+08.11.2018,18:55,Apol. Limassol,Eintracht Frankfurt,6.888,2,3,/spielbericht/index/spielbericht/3098739,2018,UEFA Europa League
+29.11.2018,21:00,Eintracht Frankfurt,Ol. Marseille,47.000,4,0,/spielbericht/index/spielbericht/3098769,2018,UEFA Europa League
+13.12.2018,18:55,Lazio Rom,Eintracht Frankfurt,18.252,1,2,/spielbericht/index/spielbericht/3098782,2018,UEFA Europa League
+14.02.2019,21:00,Shakhtar D.,Eintracht Frankfurt,13.059,2,2,/spielbericht/index/spielbericht/3135842,2018,UEFA Europa League
+21.02.2019,18:55,Eintracht Frankfurt,Shakhtar D.,47.000,4,1,/spielbericht/index/spielbericht/3135868,2018,UEFA Europa League
+07.03.2019,18:55,Eintracht Frankfurt,Inter Mailand,48.000,0,0,/spielbericht/index/spielbericht/3160727,2018,UEFA Europa League
+14.03.2019,21:00,Inter Mailand,Eintracht Frankfurt,49.866,0,1,/spielbericht/index/spielbericht/3160728,2018,UEFA Europa League
+11.04.2019,21:00,Benfica,Eintracht Frankfurt,54.175,4,2,/spielbericht/index/spielbericht/3167773,2018,UEFA Europa League
+18.04.2019,21:00,Eintracht Frankfurt,Benfica,48.000,2,0,/spielbericht/index/spielbericht/3167774,2018,UEFA Europa League
+02.05.2019,21:00,Eintracht Frankfurt,FC Chelsea,48.000,1,1,/spielbericht/index/spielbericht/3177128,2018,UEFA Europa League
+09.05.2019,21:00,FC Chelsea,Eintracht Frankfurt,40.853,5,4,/spielbericht/index/spielbericht/3177130,2018,UEFA Europa League
+18.08.2018,15:30,SSV Ulm 1846,Eintracht Frankfurt,18.440,2,1,/spielbericht/index/spielbericht/3048442,2018,DFB-Pokal
+12.08.2018,20:30,Eintracht Frankfurt,Bayern München,51.500,0,5,/spielbericht/index/spielbericht/3069371,2018,DFL-Supercup
+18.08.2019,15:30,Eintracht Frankfurt,TSG Hoffenheim,50.200,1,0,/spielbericht/index/spielbericht/3203429,2019,Bundesliga
+25.08.2019,15:30,RB Leipzig,Eintracht Frankfurt,40.108,2,1,/spielbericht/index/spielbericht/3203442,2019,Bundesliga
+01.09.2019,18:00,Eintracht Frankfurt,F. Düsseldorf,49.800,2,1,/spielbericht/index/spielbericht/3203455,2019,Bundesliga
+14.09.2019,15:30,FC Augsburg,Eintracht Frankfurt,28.513,2,1,/spielbericht/index/spielbericht/3203465,2019,Bundesliga
+22.09.2019,18:00,Eintracht Frankfurt,Bor. Dortmund,51.500,2,2,/spielbericht/index/spielbericht/3203473,2019,Bundesliga
+27.09.2019,20:30,Union Berlin,Eintracht Frankfurt,22.012,1,2,/spielbericht/index/spielbericht/3203486,2019,Bundesliga
+06.10.2019,18:00,Eintracht Frankfurt,Werder Bremen,51.500,2,2,/spielbericht/index/spielbericht/3203491,2019,Bundesliga
+18.10.2019,20:30,Eintracht Frankfurt,B. Leverkusen,50.800,3,0,/spielbericht/index/spielbericht/3203498,2019,Bundesliga
+27.10.2019,18:00,Bor. M'gladbach,Eintracht Frankfurt,52.300,4,2,/spielbericht/index/spielbericht/3203507,2019,Bundesliga
+02.11.2019,15:30,Eintracht Frankfurt,Bayern München,51.500,5,1,/spielbericht/index/spielbericht/3203517,2019,Bundesliga
+10.11.2019,18:00,SC Freiburg,Eintracht Frankfurt,24.000,1,0,/spielbericht/index/spielbericht/3203528,2019,Bundesliga
+23.11.2019,15:30,Eintracht Frankfurt,VfL Wolfsburg,50.700,0,2,/spielbericht/index/spielbericht/3203535,2019,Bundesliga
+02.12.2019,20:30,1.FSV Mainz 05,Eintracht Frankfurt,33.184,2,1,/spielbericht/index/spielbericht/3203546,2019,Bundesliga
+06.12.2019,20:30,Eintracht Frankfurt,Hertha BSC,50.000,2,2,/spielbericht/index/spielbericht/3203554,2019,Bundesliga
+15.12.2019,18:00,FC Schalke 04,Eintracht Frankfurt,60.811,1,0,/spielbericht/index/spielbericht/3203565,2019,Bundesliga
+18.12.2019,20:30,Eintracht Frankfurt,1.FC Köln,50.300,2,4,/spielbericht/index/spielbericht/3203572,2019,Bundesliga
+22.12.2019,18:00,SC Paderborn,Eintracht Frankfurt,15.000,2,1,/spielbericht/index/spielbericht/3203585,2019,Bundesliga
+18.01.2020,15:30,TSG Hoffenheim,Eintracht Frankfurt,29.610,1,2,/spielbericht/index/spielbericht/3203587,2019,Bundesliga
+25.01.2020,15:30,Eintracht Frankfurt,RB Leipzig,50.300,2,0,/spielbericht/index/spielbericht/3203600,2019,Bundesliga
+01.02.2020,15:30,F. Düsseldorf,Eintracht Frankfurt,45.018,1,1,/spielbericht/index/spielbericht/3203607,2019,Bundesliga
+07.02.2020,20:30,Eintracht Frankfurt,FC Augsburg,48.800,5,0,/spielbericht/index/spielbericht/3203617,2019,Bundesliga
+14.02.2020,20:30,Bor. Dortmund,Eintracht Frankfurt,81.365,4,0,/spielbericht/index/spielbericht/3203622,2019,Bundesliga
+24.02.2020,20:30,Eintracht Frankfurt,Union Berlin,47.000,1,2,/spielbericht/index/spielbericht/3203635,2019,Bundesliga
+03.06.2020,20:30,Werder Bremen,Eintracht Frankfurt,x,0,3,/spielbericht/index/spielbericht/3203642,2019,Bundesliga
+07.03.2020,15:30,B. Leverkusen,Eintracht Frankfurt,30.210,4,0,/spielbericht/index/spielbericht/3203650,2019,Bundesliga
+16.05.2020,18:30,Eintracht Frankfurt,Bor. M'gladbach,x,1,3,/spielbericht/index/spielbericht/3203660,2019,Bundesliga
+23.05.2020,18:30,Bayern München,Eintracht Frankfurt,x,5,2,/spielbericht/index/spielbericht/3203667,2019,Bundesliga
+26.05.2020,20:30,Eintracht Frankfurt,SC Freiburg,x,3,3,/spielbericht/index/spielbericht/3203679,2019,Bundesliga
+30.05.2020,15:30,VfL Wolfsburg,Eintracht Frankfurt,x,1,2,/spielbericht/index/spielbericht/3203687,2019,Bundesliga
+06.06.2020,15:30,Eintracht Frankfurt,1.FSV Mainz 05,x,0,2,/spielbericht/index/spielbericht/3203697,2019,Bundesliga
+13.06.2020,15:30,Hertha BSC,Eintracht Frankfurt,x,1,4,/spielbericht/index/spielbericht/3203707,2019,Bundesliga
+17.06.2020,18:30,Eintracht Frankfurt,FC Schalke 04,x,2,1,/spielbericht/index/spielbericht/3203716,2019,Bundesliga
+20.06.2020,15:30,1.FC Köln,Eintracht Frankfurt,x,1,1,/spielbericht/index/spielbericht/3203728,2019,Bundesliga
+27.06.2020,15:30,Eintracht Frankfurt,SC Paderborn,x,3,2,/spielbericht/index/spielbericht/3203734,2019,Bundesliga
+19.09.2019,18:55,Eintracht Frankfurt,FC Arsenal,47.000,0,3,/spielbericht/index/spielbericht/3252424,2019,UEFA Europa League
+03.10.2019,21:00,Vit. Guimarães,Eintracht Frankfurt,15.187,0,1,/spielbericht/index/spielbericht/3252449,2019,UEFA Europa League
+24.10.2019,21:00,Eintracht Frankfurt,Stand. Lüttich,47.000,2,1,/spielbericht/index/spielbericht/3252559,2019,UEFA Europa League
+07.11.2019,18:55,Stand. Lüttich,Eintracht Frankfurt,18.526,2,1,/spielbericht/index/spielbericht/3252495,2019,UEFA Europa League
+28.11.2019,21:00,FC Arsenal,Eintracht Frankfurt,49.419,1,2,/spielbericht/index/spielbericht/3252519,2019,UEFA Europa League
+12.12.2019,18:55,Eintracht Frankfurt,Vit. Guimarães,47.000,2,3,/spielbericht/index/spielbericht/3252543,2019,UEFA Europa League
+20.02.2020,18:55,Eintracht Frankfurt,RB Salzburg,47.000,4,1,/spielbericht/index/spielbericht/3291994,2019,UEFA Europa League
+28.02.2020,18:00,RB Salzburg,Eintracht Frankfurt,29.000,2,2,/spielbericht/index/spielbericht/3292010,2019,UEFA Europa League
+12.03.2020,18:55,Eintracht Frankfurt,FC Basel,x,0,3,/spielbericht/index/spielbericht/3329381,2019,UEFA Europa League
+06.08.2020,21:00,FC Basel,Eintracht Frankfurt,x,1,0,/spielbericht/index/spielbericht/3329382,2019,UEFA Europa League
+11.08.2019,15:30,W. Mannheim,Eintracht Frankfurt,24.302,3,5,/spielbericht/index/spielbericht/3195531,2019,DFB-Pokal
+30.10.2019,20:45,FC St. Pauli,Eintracht Frankfurt,29.500,1,2,/spielbericht/index/spielbericht/3245525,2019,DFB-Pokal
+04.02.2020,18:30,Eintracht Frankfurt,RB Leipzig,47.400,3,1,/spielbericht/index/spielbericht/3279210,2019,DFB-Pokal
+04.03.2020,20:45,Eintracht Frankfurt,Werder Bremen,51.500,2,0,/spielbericht/index/spielbericht/3319621,2019,DFB-Pokal
+10.06.2020,20:45,Bayern München,Eintracht Frankfurt,x,2,1,/spielbericht/index/spielbericht/3332668,2019,DFB-Pokal
+25.07.2019,19:00,FC Flora,Eintracht Frankfurt,8.537,1,2,/spielbericht/index/spielbericht/3222980,2019,UEFA Europa League Qualifikation
+01.08.2019,20:30,Eintracht Frankfurt,FC Flora,48.000,2,1,/spielbericht/index/spielbericht/3223017,2019,UEFA Europa League Qualifikation
+08.08.2019,20:30,FC Vaduz,Eintracht Frankfurt,5.908,0,5,/spielbericht/index/spielbericht/3232913,2019,UEFA Europa League Qualifikation
+15.08.2019,20:30,Eintracht Frankfurt,FC Vaduz,48.000,1,0,/spielbericht/index/spielbericht/3232914,2019,UEFA Europa League Qualifikation
+22.08.2019,20:30,R. Straßburg,Eintracht Frankfurt,21.703,1,0,/spielbericht/index/spielbericht/3244624,2019,UEFA Europa League Qualifikation
+29.08.2019,20:30,Eintracht Frankfurt,R. Straßburg,47.000,3,0,/spielbericht/index/spielbericht/3244625,2019,UEFA Europa League Qualifikation
+19.09.2020,15:30,Eintracht Frankfurt,Arm. Bielefeld,6.500,1,1,/spielbericht/index/spielbericht/3412887,2020,Bundesliga
+25.09.2020,20:30,Hertha BSC,Eintracht Frankfurt,4.000,1,3,/spielbericht/index/spielbericht/3412905,2020,Bundesliga
+03.10.2020,15:30,Eintracht Frankfurt,TSG Hoffenheim,8.000,2,1,/spielbericht/index/spielbericht/3412923,2020,Bundesliga
+18.10.2020,15:30,1.FC Köln,Eintracht Frankfurt,300,1,1,/spielbericht/index/spielbericht/3412943,2020,Bundesliga
+24.10.2020,15:30,Bayern München,Eintracht Frankfurt,x,5,0,/spielbericht/index/spielbericht/3412955,2020,Bundesliga
+31.10.2020,15:30,Eintracht Frankfurt,Werder Bremen,x,1,1,/spielbericht/index/spielbericht/3412976,2020,Bundesliga
+07.11.2020,15:30,VfB Stuttgart,Eintracht Frankfurt,x,2,2,/spielbericht/index/spielbericht/3412999,2020,Bundesliga
+21.11.2020,18:30,Eintracht Frankfurt,RB Leipzig,x,1,1,/spielbericht/index/spielbericht/3413013,2020,Bundesliga
+28.11.2020,15:30,Union Berlin,Eintracht Frankfurt,x,3,3,/spielbericht/index/spielbericht/3413023,2020,Bundesliga
+05.12.2020,15:30,Eintracht Frankfurt,Bor. Dortmund,x,1,1,/spielbericht/index/spielbericht/3413039,2020,Bundesliga
+11.12.2020,20:30,VfL Wolfsburg,Eintracht Frankfurt,x,2,1,/spielbericht/index/spielbericht/3413058,2020,Bundesliga
+15.12.2020,18:30,Eintracht Frankfurt,Bor. M'gladbach,x,3,3,/spielbericht/index/spielbericht/3413074,2020,Bundesliga
+19.12.2020,15:30,FC Augsburg,Eintracht Frankfurt,x,0,2,/spielbericht/index/spielbericht/3413089,2020,Bundesliga
+02.01.2021,15:30,Eintracht Frankfurt,B. Leverkusen,x,2,1,/spielbericht/index/spielbericht/3413102,2020,Bundesliga
+09.01.2021,15:30,1.FSV Mainz 05,Eintracht Frankfurt,x,0,2,/spielbericht/index/spielbericht/3413123,2020,Bundesliga
+17.01.2021,18:00,Eintracht Frankfurt,FC Schalke 04,x,3,1,/spielbericht/index/spielbericht/3413139,2020,Bundesliga
+20.01.2021,20:30,SC Freiburg,Eintracht Frankfurt,x,2,2,/spielbericht/index/spielbericht/3413156,2020,Bundesliga
+23.01.2021,15:30,Arm. Bielefeld,Eintracht Frankfurt,x,1,5,/spielbericht/index/spielbericht/3413179,2020,Bundesliga
+30.01.2021,15:30,Eintracht Frankfurt,Hertha BSC,x,3,1,/spielbericht/index/spielbericht/3413166,2020,Bundesliga
+07.02.2021,15:30,TSG Hoffenheim,Eintracht Frankfurt,x,1,3,/spielbericht/index/spielbericht/3413146,2020,Bundesliga
+14.02.2021,15:30,Eintracht Frankfurt,1.FC Köln,x,2,0,/spielbericht/index/spielbericht/3413131,2020,Bundesliga
+20.02.2021,15:30,Eintracht Frankfurt,Bayern München,x,2,1,/spielbericht/index/spielbericht/3413111,2020,Bundesliga
+26.02.2021,20:30,Werder Bremen,Eintracht Frankfurt,x,2,1,/spielbericht/index/spielbericht/3413097,2020,Bundesliga
+06.03.2021,15:30,Eintracht Frankfurt,VfB Stuttgart,x,1,1,/spielbericht/index/spielbericht/3413067,2020,Bundesliga
+14.03.2021,15:30,RB Leipzig,Eintracht Frankfurt,x,1,1,/spielbericht/index/spielbericht/3413046,2020,Bundesliga
+20.03.2021,15:30,Eintracht Frankfurt,Union Berlin,x,5,2,/spielbericht/index/spielbericht/3413030,2020,Bundesliga
+03.04.2021,15:30,Bor. Dortmund,Eintracht Frankfurt,x,1,2,/spielbericht/index/spielbericht/3413000,2020,Bundesliga
+10.04.2021,15:30,Eintracht Frankfurt,VfL Wolfsburg,x,4,3,/spielbericht/index/spielbericht/3412984,2020,Bundesliga
+17.04.2021,15:30,Bor. M'gladbach,Eintracht Frankfurt,x,4,0,/spielbericht/index/spielbericht/3412966,2020,Bundesliga
+20.04.2021,20:30,Eintracht Frankfurt,FC Augsburg,x,2,0,/spielbericht/index/spielbericht/3412949,2020,Bundesliga
+24.04.2021,18:30,B. Leverkusen,Eintracht Frankfurt,x,3,1,/spielbericht/index/spielbericht/3412930,2020,Bundesliga
+09.05.2021,15:30,Eintracht Frankfurt,1.FSV Mainz 05,x,1,1,/spielbericht/index/spielbericht/3412914,2020,Bundesliga
+15.05.2021,15:30,FC Schalke 04,Eintracht Frankfurt,x,4,3,/spielbericht/index/spielbericht/3412897,2020,Bundesliga
+22.05.2021,15:30,Eintracht Frankfurt,SC Freiburg,x,3,1,/spielbericht/index/spielbericht/3412878,2020,Bundesliga
+12.09.2020,15:30,1860 München,Eintracht Frankfurt,x,1,2,/spielbericht/index/spielbericht/3432868,2020,DFB-Pokal
+12.01.2021,20:45,B. Leverkusen,Eintracht Frankfurt,x,4,1,/spielbericht/index/spielbericht/3485243,2020,DFB-Pokal
+14.08.2021,18:30,Bor. Dortmund,Eintracht Frankfurt,25.000,5,2,/spielbericht/index/spielbericht/3588140,2021,Bundesliga
+21.08.2021,15:30,Eintracht Frankfurt,FC Augsburg,22.000,0,0,/spielbericht/index/spielbericht/3588150,2021,Bundesliga
+28.08.2021,15:30,Arm. Bielefeld,Eintracht Frankfurt,13.750,1,1,/spielbericht/index/spielbericht/3588173,2021,Bundesliga
+12.09.2021,15:30,Eintracht Frankfurt,VfB Stuttgart,25.000,1,1,/spielbericht/index/spielbericht/3588176,2021,Bundesliga
+19.09.2021,19:30,VfL Wolfsburg,Eintracht Frankfurt,9.266,1,1,/spielbericht/index/spielbericht/3588195,2021,Bundesliga
+25.09.2021,15:30,Eintracht Frankfurt,1.FC Köln,24.000,1,1,/spielbericht/index/spielbericht/3588212,2021,Bundesliga
+03.10.2021,17:30,Bayern München,Eintracht Frankfurt,25.000,1,2,/spielbericht/index/spielbericht/3588220,2021,Bundesliga
+16.10.2021,15:30,Eintracht Frankfurt,Hertha BSC,32.000,1,2,/spielbericht/index/spielbericht/3588239,2021,Bundesliga
+24.10.2021,19:30,VfL Bochum,Eintracht Frankfurt,19.510,2,0,/spielbericht/index/spielbericht/3588264,2021,Bundesliga
+30.10.2021,18:30,Eintracht Frankfurt,RB Leipzig,31.000,1,1,/spielbericht/index/spielbericht/3588275,2021,Bundesliga
+07.11.2021,19:30,Greuther Fürth,Eintracht Frankfurt,10.244,1,2,/spielbericht/index/spielbericht/3588291,2021,Bundesliga
+21.11.2021,15:30,SC Freiburg,Eintracht Frankfurt,32.500,0,2,/spielbericht/index/spielbericht/3588305,2021,Bundesliga
+28.11.2021,15:30,Eintracht Frankfurt,Union Berlin,24.000,2,1,/spielbericht/index/spielbericht/3588322,2021,Bundesliga
+04.12.2021,15:30,TSG Hoffenheim,Eintracht Frankfurt,x,3,2,/spielbericht/index/spielbericht/3588342,2021,Bundesliga
+12.12.2021,17:30,Eintracht Frankfurt,B. Leverkusen,15.000,5,2,/spielbericht/index/spielbericht/3588349,2021,Bundesliga
+15.12.2021,18:30,Bor. M'gladbach,Eintracht Frankfurt,10.028,2,3,/spielbericht/index/spielbericht/3588377,2021,Bundesliga
+18.12.2021,15:30,Eintracht Frankfurt,1.FSV Mainz 05,15.000,1,0,/spielbericht/index/spielbericht/3588384,2021,Bundesliga
+08.01.2022,18:30,Eintracht Frankfurt,Bor. Dortmund,250,2,3,/spielbericht/index/spielbericht/3588402,2021,Bundesliga
+16.01.2022,15:30,FC Augsburg,Eintracht Frankfurt,x,1,1,/spielbericht/index/spielbericht/3588424,2021,Bundesliga
+21.01.2022,20:30,Eintracht Frankfurt,Arm. Bielefeld,1.000,0,2,/spielbericht/index/spielbericht/3588437,2021,Bundesliga
+05.02.2022,15:30,VfB Stuttgart,Eintracht Frankfurt,10.000,2,3,/spielbericht/index/spielbericht/3588457,2021,Bundesliga
+12.02.2022,15:30,Eintracht Frankfurt,VfL Wolfsburg,10.000,0,2,/spielbericht/index/spielbericht/3588464,2021,Bundesliga
+19.02.2022,18:30,1.FC Köln,Eintracht Frankfurt,10.000,1,0,/spielbericht/index/spielbericht/3588489,2021,Bundesliga
+26.02.2022,18:30,Eintracht Frankfurt,Bayern München,25.000,0,1,/spielbericht/index/spielbericht/3588490,2021,Bundesliga
+05.03.2022,15:30,Hertha BSC,Eintracht Frankfurt,25.000,1,4,/spielbericht/index/spielbericht/3588513,2021,Bundesliga
+13.03.2022,17:30,Eintracht Frankfurt,VfL Bochum,24.000,2,1,/spielbericht/index/spielbericht/3588527,2021,Bundesliga
+20.03.2022,15:30,RB Leipzig,Eintracht Frankfurt,43.058,0,0,/spielbericht/index/spielbericht/3588545,2021,Bundesliga
+02.04.2022,15:30,Eintracht Frankfurt,Greuther Fürth,50.500,0,0,/spielbericht/index/spielbericht/3588563,2021,Bundesliga
+10.04.2022,17:30,Eintracht Frankfurt,SC Freiburg,47.000,1,2,/spielbericht/index/spielbericht/3588583,2021,Bundesliga
+17.04.2022,17:30,Union Berlin,Eintracht Frankfurt,22.012,2,0,/spielbericht/index/spielbericht/3588591,2021,Bundesliga
+23.04.2022,15:30,Eintracht Frankfurt,TSG Hoffenheim,50.500,2,2,/spielbericht/index/spielbericht/3588610,2021,Bundesliga
+02.05.2022,20:30,B. Leverkusen,Eintracht Frankfurt,26.492,2,0,/spielbericht/index/spielbericht/3588626,2021,Bundesliga
+08.05.2022,15:30,Eintracht Frankfurt,Bor. M'gladbach,51.500,1,1,/spielbericht/index/spielbericht/3588651,2021,Bundesliga
+14.05.2022,15:30,1.FSV Mainz 05,Eintracht Frankfurt,33.305,2,2,/spielbericht/index/spielbericht/3588673,2021,Bundesliga
+16.09.2021,21:00,Eintracht Frankfurt,Fenerbahce,25.000,1,1,/spielbericht/index/spielbericht/3651571,2021,UEFA Europa League
+30.09.2021,18:45,Royal Antwerpen,Eintracht Frankfurt,13.193,0,1,/spielbericht/index/spielbericht/3651687,2021,UEFA Europa League
+21.10.2021,21:00,Eintracht Frankfurt,Olymp. Piräus,35.000,3,1,/spielbericht/index/spielbericht/3651941,2021,UEFA Europa League
+04.11.2021,18:45,Olymp. Piräus,Eintracht Frankfurt,23.050,1,2,/spielbericht/index/spielbericht/3660441,2021,UEFA Europa League
+25.11.2021,21:00,Eintracht Frankfurt,Royal Antwerpen,30.000,2,2,/spielbericht/index/spielbericht/3683203,2021,UEFA Europa League
+09.12.2021,18:45,Fenerbahce,Eintracht Frankfurt,8.932,1,1,/spielbericht/index/spielbericht/3683257,2021,UEFA Europa League
+09.03.2022,18:45,Betis Sevilla,Eintracht Frankfurt,36.574,1,2,/spielbericht/index/spielbericht/3757964,2021,UEFA Europa League
+17.03.2022,21:00,Eintracht Frankfurt,Betis Sevilla,25.000,1,1,/spielbericht/index/spielbericht/3757972,2021,UEFA Europa League
+07.04.2022,21:00,Eintracht Frankfurt,FC Barcelona,48.000,1,1,/spielbericht/index/spielbericht/3773620,2021,UEFA Europa League
+14.04.2022,21:00,FC Barcelona,Eintracht Frankfurt,79.468,2,3,/spielbericht/index/spielbericht/3773624,2021,UEFA Europa League
+28.04.2022,21:00,West Ham Utd.,Eintracht Frankfurt,59.980,1,2,/spielbericht/index/spielbericht/3796544,2021,UEFA Europa League
+05.05.2022,21:00,Eintracht Frankfurt,West Ham Utd.,48.000,1,0,/spielbericht/index/spielbericht/3796546,2021,UEFA Europa League
+18.05.2022,21:00,Eintracht Frankfurt,Glasgow Rangers,38.842,6,5,/spielbericht/index/spielbericht/3813154,2021,UEFA Europa League
+08.08.2021,15:30,W. Mannheim,Eintracht Frankfurt,12.151,2,0,/spielbericht/index/spielbericht/3601601,2021,DFB-Pokal
+05.08.2022,20:30,Eintracht Frankfurt,Bayern München,51.500,1,6,/spielbericht/index/spielbericht/3839025,2022,Bundesliga
+13.08.2022,15:30,Hertha BSC,Eintracht Frankfurt,44.694,1,1,/spielbericht/index/spielbericht/3839058,2022,Bundesliga
+21.08.2022,15:30,Eintracht Frankfurt,1.FC Köln,50.800,1,1,/spielbericht/index/spielbericht/3839083,2022,Bundesliga
+28.08.2022,17:30,Werder Bremen,Eintracht Frankfurt,41.000,3,4,/spielbericht/index/spielbericht/3839104,2022,Bundesliga
+03.09.2022,18:30,Eintracht Frankfurt,RB Leipzig,49.700,4,0,/spielbericht/index/spielbericht/3839109,2022,Bundesliga
+10.09.2022,15:30,Eintracht Frankfurt,VfL Wolfsburg,49.000,0,1,/spielbericht/index/spielbericht/3839119,2022,Bundesliga
+17.09.2022,15:30,VfB Stuttgart,Eintracht Frankfurt,47.500,1,3,/spielbericht/index/spielbericht/3839140,2022,Bundesliga
+01.10.2022,15:30,Eintracht Frankfurt,Union Berlin,50.500,2,0,/spielbericht/index/spielbericht/3839154,2022,Bundesliga
+08.10.2022,15:30,VfL Bochum,Eintracht Frankfurt,24.850,3,0,/spielbericht/index/spielbericht/3839164,2022,Bundesliga
+15.10.2022,15:30,Eintracht Frankfurt,B. Leverkusen,49.700,5,1,/spielbericht/index/spielbericht/3839181,2022,Bundesliga
+22.10.2022,18:30,Bor. M'gladbach,Eintracht Frankfurt,53.019,1,3,/spielbericht/index/spielbericht/3839200,2022,Bundesliga
+29.10.2022,18:30,Eintracht Frankfurt,Bor. Dortmund,50.000,1,2,/spielbericht/index/spielbericht/3839217,2022,Bundesliga
+05.11.2022,15:30,FC Augsburg,Eintracht Frankfurt,30.087,1,2,/spielbericht/index/spielbericht/3839237,2022,Bundesliga
+09.11.2022,20:30,Eintracht Frankfurt,TSG Hoffenheim,49.000,4,2,/spielbericht/index/spielbericht/3839253,2022,Bundesliga
+13.11.2022,15:30,1.FSV Mainz 05,Eintracht Frankfurt,33.305,1,1,/spielbericht/index/spielbericht/3839260,2022,Bundesliga
+21.01.2023,15:30,Eintracht Frankfurt,FC Schalke 04,50.000,3,0,/spielbericht/index/spielbericht/3839281,2022,Bundesliga
+25.01.2023,20:30,SC Freiburg,Eintracht Frankfurt,34.700,1,1,/spielbericht/index/spielbericht/3839296,2022,Bundesliga
+28.01.2023,18:30,Bayern München,Eintracht Frankfurt,75.000,1,1,/spielbericht/index/spielbericht/3839312,2022,Bundesliga
+04.02.2023,15:30,Eintracht Frankfurt,Hertha BSC,49.500,3,0,/spielbericht/index/spielbericht/3839334,2022,Bundesliga
+12.02.2023,17:30,1.FC Köln,Eintracht Frankfurt,50.000,3,0,/spielbericht/index/spielbericht/3839351,2022,Bundesliga
+18.02.2023,18:30,Eintracht Frankfurt,Werder Bremen,50.000,2,0,/spielbericht/index/spielbericht/3839370,2022,Bundesliga
+25.02.2023,15:30,RB Leipzig,Eintracht Frankfurt,47.069,2,1,/spielbericht/index/spielbericht/3839385,2022,Bundesliga
+05.03.2023,17:30,VfL Wolfsburg,Eintracht Frankfurt,27.853,2,2,/spielbericht/index/spielbericht/3839398,2022,Bundesliga
+11.03.2023,15:30,Eintracht Frankfurt,VfB Stuttgart,50.000,1,1,/spielbericht/index/spielbericht/3839415,2022,Bundesliga
+19.03.2023,15:30,Union Berlin,Eintracht Frankfurt,22.012,2,0,/spielbericht/index/spielbericht/3839431,2022,Bundesliga
+31.03.2023,20:30,Eintracht Frankfurt,VfL Bochum,50.000,1,1,/spielbericht/index/spielbericht/3839452,2022,Bundesliga
+08.04.2023,15:30,B. Leverkusen,Eintracht Frankfurt,30.210,3,1,/spielbericht/index/spielbericht/3839466,2022,Bundesliga
+15.04.2023,18:30,Eintracht Frankfurt,Bor. M'gladbach,50.000,1,1,/spielbericht/index/spielbericht/3839487,2022,Bundesliga
+22.04.2023,18:30,Bor. Dortmund,Eintracht Frankfurt,81.365,4,0,/spielbericht/index/spielbericht/3839501,2022,Bundesliga
+29.04.2023,15:30,Eintracht Frankfurt,FC Augsburg,50.000,1,1,/spielbericht/index/spielbericht/3839514,2022,Bundesliga
+06.05.2023,15:30,TSG Hoffenheim,Eintracht Frankfurt,30.150,3,1,/spielbericht/index/spielbericht/3839532,2022,Bundesliga
+13.05.2023,15:30,Eintracht Frankfurt,1.FSV Mainz 05,50.000,3,0,/spielbericht/index/spielbericht/3839551,2022,Bundesliga
+20.05.2023,15:30,FC Schalke 04,Eintracht Frankfurt,61.575,2,2,/spielbericht/index/spielbericht/3839571,2022,Bundesliga
+27.05.2023,15:30,Eintracht Frankfurt,SC Freiburg,50.500,2,1,/spielbericht/index/spielbericht/3839587,2022,Bundesliga
+07.09.2022,18:45,Eintracht Frankfurt,Sporting,50.500,0,3,/spielbericht/index/spielbericht/3911795,2022,UEFA Champions League
+13.09.2022,21:00,Ol. Marseille,Eintracht Frankfurt,62.500,0,1,/spielbericht/index/spielbericht/3911803,2022,UEFA Champions League
+04.10.2022,21:00,Eintracht Frankfurt,Tottenham,50.500,0,0,/spielbericht/index/spielbericht/3911794,2022,UEFA Champions League
+12.10.2022,21:00,Tottenham,Eintracht Frankfurt,55.180,3,2,/spielbericht/index/spielbericht/3911797,2022,UEFA Champions League
+26.10.2022,21:00,Eintracht Frankfurt,Ol. Marseille,48.700,2,1,/spielbericht/index/spielbericht/3911796,2022,UEFA Champions League
+01.11.2022,21:00,Sporting,Eintracht Frankfurt,41.744,1,2,/spielbericht/index/spielbericht/3911800,2022,UEFA Champions League
+21.02.2023,21:00,Eintracht Frankfurt,Napoli,47.500,0,2,/spielbericht/index/spielbericht/3956696,2022,UEFA Champions League
+15.03.2023,21:00,Napoli,Eintracht Frankfurt,49.082,3,0,/spielbericht/index/spielbericht/3956688,2022,UEFA Champions League
+10.08.2022,21:00,Real Madrid,Eintracht Frankfurt,31.042,2,0,/spielbericht/index/spielbericht/3825466,2022,UEFA Super Cup
+01.08.2022,20:46,1.FC Magdeburg,Eintracht Frankfurt,26.350,0,4,/spielbericht/index/spielbericht/3825617,2022,DFB-Pokal
+18.10.2022,18:00,Stuttg. Kickers,Eintracht Frankfurt,10.000,0,2,/spielbericht/index/spielbericht/3918234,2022,DFB-Pokal
+07.02.2023,20:45,Eintracht Frankfurt,Darmstadt 98,49.500,4,2,/spielbericht/index/spielbericht/3949451,2022,DFB-Pokal
+04.04.2023,18:00,Eintracht Frankfurt,Union Berlin,49.500,2,0,/spielbericht/index/spielbericht/4027695,2022,DFB-Pokal
+03.05.2023,20:45,VfB Stuttgart,Eintracht Frankfurt,47.500,2,3,/spielbericht/index/spielbericht/4055298,2022,DFB-Pokal
+03.06.2023,20:00,RB Leipzig,Eintracht Frankfurt,74.667,2,0,/spielbericht/index/spielbericht/4070233,2022,DFB-Pokal
+20.08.2023,17:30,Eintracht Frankfurt,Darmstadt 98,55.000,1,0,/spielbericht/index/spielbericht/4095971,2023,Bundesliga
+27.08.2023,15:30,1.FSV Mainz 05,Eintracht Frankfurt,33.305,1,1,/spielbericht/index/spielbericht/4095979,2023,Bundesliga
+03.09.2023,15:30,Eintracht Frankfurt,1.FC Köln,54.000,1,1,/spielbericht/index/spielbericht/4095988,2023,Bundesliga
+16.09.2023,18:30,VfL Bochum,Eintracht Frankfurt,26.000,1,1,/spielbericht/index/spielbericht/4096000,2023,Bundesliga
+24.09.2023,17:30,Eintracht Frankfurt,SC Freiburg,55.800,0,0,/spielbericht/index/spielbericht/4096007,2023,Bundesliga
+30.09.2023,15:30,VfL Wolfsburg,Eintracht Frankfurt,28.323,2,0,/spielbericht/index/spielbericht/4096014,2023,Bundesliga
+08.10.2023,19:30,Eintracht Frankfurt,1.FC Heidenheim,55.800,2,0,/spielbericht/index/spielbericht/4096025,2023,Bundesliga
+21.10.2023,15:30,TSG Hoffenheim,Eintracht Frankfurt,30.150,1,3,/spielbericht/index/spielbericht/4096036,2023,Bundesliga
+29.10.2023,15:30,Eintracht Frankfurt,Bor. Dortmund,56.500,3,3,/spielbericht/index/spielbericht/4096042,2023,Bundesliga
+04.11.2023,15:30,Union Berlin,Eintracht Frankfurt,22.012,0,3,/spielbericht/index/spielbericht/4096049,2023,Bundesliga
+12.11.2023,17:30,Werder Bremen,Eintracht Frankfurt,42.100,2,2,/spielbericht/index/spielbericht/4096061,2023,Bundesliga
+25.11.2023,18:30,Eintracht Frankfurt,VfB Stuttgart,58.000,1,2,/spielbericht/index/spielbericht/4096069,2023,Bundesliga
+03.12.2023,19:30,FC Augsburg,Eintracht Frankfurt,26.107,2,1,/spielbericht/index/spielbericht/4096081,2023,Bundesliga
+09.12.2023,15:30,Eintracht Frankfurt,Bayern München,58.000,5,1,/spielbericht/index/spielbericht/4096086,2023,Bundesliga
+17.12.2023,17:30,B. Leverkusen,Eintracht Frankfurt,30.210,3,0,/spielbericht/index/spielbericht/4096096,2023,Bundesliga
+20.12.2023,20:30,Eintracht Frankfurt,Bor. M'gladbach,58.000,2,1,/spielbericht/index/spielbericht/4096105,2023,Bundesliga
+13.01.2024,15:30,RB Leipzig,Eintracht Frankfurt,45.867,0,1,/spielbericht/index/spielbericht/4096112,2023,Bundesliga
+20.01.2024,15:30,Darmstadt 98,Eintracht Frankfurt,17.550,2,2,/spielbericht/index/spielbericht/4096124,2023,Bundesliga
+26.01.2024,20:30,Eintracht Frankfurt,1.FSV Mainz 05,58.000,1,0,/spielbericht/index/spielbericht/4096132,2023,Bundesliga
+03.02.2024,18:30,1.FC Köln,Eintracht Frankfurt,50.000,2,0,/spielbericht/index/spielbericht/4096141,2023,Bundesliga
+10.02.2024,15:30,Eintracht Frankfurt,VfL Bochum,57.500,1,1,/spielbericht/index/spielbericht/4096153,2023,Bundesliga
+18.02.2024,15:30,SC Freiburg,Eintracht Frankfurt,34.700,3,3,/spielbericht/index/spielbericht/4096160,2023,Bundesliga
+25.02.2024,15:30,Eintracht Frankfurt,VfL Wolfsburg,56.500,2,2,/spielbericht/index/spielbericht/4096167,2023,Bundesliga
+02.03.2024,15:30,1.FC Heidenheim,Eintracht Frankfurt,15.000,1,2,/spielbericht/index/spielbericht/4096178,2023,Bundesliga
+10.03.2024,17:30,Eintracht Frankfurt,TSG Hoffenheim,57.000,3,1,/spielbericht/index/spielbericht/4096189,2023,Bundesliga
+17.03.2024,17:30,Bor. Dortmund,Eintracht Frankfurt,81.365,3,1,/spielbericht/index/spielbericht/4096195,2023,Bundesliga
+30.03.2024,15:30,Eintracht Frankfurt,Union Berlin,57.100,0,0,/spielbericht/index/spielbericht/4096202,2023,Bundesliga
+05.04.2024,20:30,Eintracht Frankfurt,Werder Bremen,58.000,1,1,/spielbericht/index/spielbericht/4096214,2023,Bundesliga
+13.04.2024,18:30,VfB Stuttgart,Eintracht Frankfurt,60.000,3,0,/spielbericht/index/spielbericht/4096222,2023,Bundesliga
+19.04.2024,20:30,Eintracht Frankfurt,FC Augsburg,57.600,3,1,/spielbericht/index/spielbericht/4096234,2023,Bundesliga
+27.04.2024,15:30,Bayern München,Eintracht Frankfurt,75.000,2,1,/spielbericht/index/spielbericht/4096239,2023,Bundesliga
+05.05.2024,17:30,Eintracht Frankfurt,B. Leverkusen,58.000,1,5,/spielbericht/index/spielbericht/4096249,2023,Bundesliga
+11.05.2024,15:30,Bor. M'gladbach,Eintracht Frankfurt,54.042,1,1,/spielbericht/index/spielbericht/4096258,2023,Bundesliga
+18.05.2024,15:30,Eintracht Frankfurt,RB Leipzig,57.500,2,2,/spielbericht/index/spielbericht/4096265,2023,Bundesliga
+21.09.2023,18:45,Eintracht Frankfurt,Aberdeen FC,55.500,2,1,/spielbericht/index/spielbericht/4172304,2023,UEFA Conference League
+05.10.2023,21:00,PAOK Saloniki,Eintracht Frankfurt,21.549,2,1,/spielbericht/index/spielbericht/4172305,2023,UEFA Conference League
+26.10.2023,21:00,Eintracht Frankfurt,HJK Helsinki,55.500,6,0,/spielbericht/index/spielbericht/4172303,2023,UEFA Conference League
+09.11.2023,18:45,HJK Helsinki,Eintracht Frankfurt,10.121,0,1,/spielbericht/index/spielbericht/4172308,2023,UEFA Conference League
+30.11.2023,21:00,Eintracht Frankfurt,PAOK Saloniki,58.000,1,2,/spielbericht/index/spielbericht/4172302,2023,UEFA Conference League
+14.12.2023,18:45,Aberdeen FC,Eintracht Frankfurt,14.474,2,0,/spielbericht/index/spielbericht/4172311,2023,UEFA Conference League
+15.02.2024,18:45,Union SG,Eintracht Frankfurt,9.015,2,2,/spielbericht/index/spielbericht/4243781,2023,UEFA Conference League
+22.02.2024,21:00,Eintracht Frankfurt,Union SG,57.300,1,2,/spielbericht/index/spielbericht/4243789,2023,UEFA Conference League
+13.08.2023,15:30,Lok Leipzig,Eintracht Frankfurt,11.100,0,7,/spielbericht/index/spielbericht/4088605,2023,DFB-Pokal
+01.11.2023,20:45,Viktoria Köln,Eintracht Frankfurt,8.343,0,2,/spielbericht/index/spielbericht/4194139,2023,DFB-Pokal
+06.12.2023,18:00,Saarbrücken,Eintracht Frankfurt,15.903,2,0,/spielbericht/index/spielbericht/4222798,2023,DFB-Pokal
+24.08.2023,19:00,Levski Sofia,Eintracht Frankfurt,40.000,1,1,/spielbericht/index/spielbericht/4162615,2023,UEFA Conference League Qualifikation
+31.08.2023,20:30,Eintracht Frankfurt,Levski Sofia,46.000,2,0,/spielbericht/index/spielbericht/4162639,2023,UEFA Conference League Qualifikation
+24.08.2024,18:30,Bor. Dortmund,Eintracht Frankfurt,81.365,2,0,/spielbericht/index/spielbericht/4373054,2024,Bundesliga
+31.08.2024,15:30,Eintracht Frankfurt,TSG Hoffenheim,57.100,3,1,/spielbericht/index/spielbericht/4373314,2024,Bundesliga
+14.09.2024,15:30,VfL Wolfsburg,Eintracht Frankfurt,26.281,1,2,/spielbericht/index/spielbericht/4373325,2024,Bundesliga
+21.09.2024,18:30,Eintracht Frankfurt,Bor. M'gladbach,58.000,2,0,/spielbericht/index/spielbericht/4373340,2024,Bundesliga
+29.09.2024,15:30,Holstein Kiel,Eintracht Frankfurt,15.034,2,4,/spielbericht/index/spielbericht/4373373,2024,Bundesliga
+06.10.2024,17:30,Eintracht Frankfurt,Bayern München,58.000,3,3,/spielbericht/index/spielbericht/4373385,2024,Bundesliga
+19.10.2024,15:30,B. Leverkusen,Eintracht Frankfurt,30.210,2,1,/spielbericht/index/spielbericht/4373401,2024,Bundesliga
+27.10.2024,17:30,Union Berlin,Eintracht Frankfurt,22.012,1,1,/spielbericht/index/spielbericht/4373425,2024,Bundesliga
+02.11.2024,15:30,Eintracht Frankfurt,VfL Bochum,58.000,7,2,/spielbericht/index/spielbericht/4373440,2024,Bundesliga
+10.11.2024,17:30,VfB Stuttgart,Eintracht Frankfurt,60.000,2,3,/spielbericht/index/spielbericht/4373455,2024,Bundesliga
+23.11.2024,18:30,Eintracht Frankfurt,Werder Bremen,58.000,1,0,/spielbericht/index/spielbericht/4373477,2024,Bundesliga
+01.12.2024,17:30,1.FC Heidenheim,Eintracht Frankfurt,15.000,0,4,/spielbericht/index/spielbericht/4373493,2024,Bundesliga
+07.12.2024,15:30,Eintracht Frankfurt,FC Augsburg,57.000,2,2,/spielbericht/index/spielbericht/4373512,2024,Bundesliga
+15.12.2024,19:30,RB Leipzig,Eintracht Frankfurt,40.193,2,1,/spielbericht/index/spielbericht/4373527,2024,Bundesliga
+21.12.2024,15:30,Eintracht Frankfurt,1.FSV Mainz 05,58.000,1,3,/spielbericht/index/spielbericht/4373548,2024,Bundesliga
+11.01.2025,15:30,FC St. Pauli,Eintracht Frankfurt,29.546,0,1,/spielbericht/index/spielbericht/4373571,2024,Bundesliga
+14.01.2025,20:30,Eintracht Frankfurt,SC Freiburg,56.500,4,1,/spielbericht/index/spielbericht/4373584,2024,Bundesliga
+17.01.2025,20:30,Eintracht Frankfurt,Bor. Dortmund,58.000,2,0,/spielbericht/index/spielbericht/4373593,2024,Bundesliga
+26.01.2025,15:30,TSG Hoffenheim,Eintracht Frankfurt,30.150,2,2,/spielbericht/index/spielbericht/4373610,2024,Bundesliga
+02.02.2025,15:30,Eintracht Frankfurt,VfL Wolfsburg,56.900,1,1,/spielbericht/index/spielbericht/4373629,2024,Bundesliga
+08.02.2025,18:30,Bor. M'gladbach,Eintracht Frankfurt,54.042,1,1,/spielbericht/index/spielbericht/4373651,2024,Bundesliga
+16.02.2025,17:30,Eintracht Frankfurt,Holstein Kiel,57.700,3,1,/spielbericht/index/spielbericht/4373664,2024,Bundesliga
+23.02.2025,17:30,Bayern München,Eintracht Frankfurt,75.000,4,0,/spielbericht/index/spielbericht/4373689,2024,Bundesliga
+01.03.2025,18:30,Eintracht Frankfurt,B. Leverkusen,58.000,1,4,/spielbericht/index/spielbericht/4373709,2024,Bundesliga
+09.03.2025,15:30,Eintracht Frankfurt,Union Berlin,58.000,1,2,/spielbericht/index/spielbericht/4373728,2024,Bundesliga
+16.03.2025,15:30,VfL Bochum,Eintracht Frankfurt,26.000,1,3,/spielbericht/index/spielbericht/4373750,2024,Bundesliga
+29.03.2025,18:30,Eintracht Frankfurt,VfB Stuttgart,58.000,1,0,/spielbericht/index/spielbericht/4373764,2024,Bundesliga
+05.04.2025,18:30,Werder Bremen,Eintracht Frankfurt,42.100,2,0,/spielbericht/index/spielbericht/4373781,2024,Bundesliga
+13.04.2025,17:30,Eintracht Frankfurt,1.FC Heidenheim,57.500,3,0,/spielbericht/index/spielbericht/4373800,2024,Bundesliga
+20.04.2025,15:30,FC Augsburg,Eintracht Frankfurt,30.660,0,0,/spielbericht/index/spielbericht/4373820,2024,Bundesliga
+26.04.2025,18:30,Eintracht Frankfurt,RB Leipzig,56.500,4,0,/spielbericht/index/spielbericht/4373836,2024,Bundesliga
+04.05.2025,19:30,1.FSV Mainz 05,Eintracht Frankfurt,33.305,1,1,/spielbericht/index/spielbericht/4373856,2024,Bundesliga
+11.05.2025,17:30,Eintracht Frankfurt,FC St. Pauli,58.000,2,2,/spielbericht/index/spielbericht/4373872,2024,Bundesliga
+17.05.2025,15:30,SC Freiburg,Eintracht Frankfurt,34.700,1,3,/spielbericht/index/spielbericht/4373890,2024,Bundesliga
+26.09.2024,21:00,Eintracht Frankfurt,Viktoria Pilsen,56.500,3,3,/spielbericht/index/spielbericht/4445370,2024,UEFA Europa League
+03.10.2024,21:00,Besiktas,Eintracht Frankfurt,35.305,1,3,/spielbericht/index/spielbericht/4445515,2024,UEFA Europa League
+24.10.2024,18:45,Eintracht Frankfurt,RFS,56.600,1,0,/spielbericht/index/spielbericht/4445371,2024,UEFA Europa League
+07.11.2024,18:45,Eintracht Frankfurt,Slavia Prag,57.350,1,0,/spielbericht/index/spielbericht/4445368,2024,UEFA Europa League
+28.11.2024,21:00,FC Midtjylland,Eintracht Frankfurt,9.521,1,2,/spielbericht/index/spielbericht/4445440,2024,UEFA Europa League
+12.12.2024,21:00,Olympique Lyon,Eintracht Frankfurt,41.091,3,2,/spielbericht/index/spielbericht/4445399,2024,UEFA Europa League
+23.01.2025,21:00,Eintracht Frankfurt,Ferencváros,55.500,2,0,/spielbericht/index/spielbericht/4445369,2024,UEFA Europa League
+30.01.2025,21:00,AS Rom,Eintracht Frankfurt,64.458,2,0,/spielbericht/index/spielbericht/4445343,2024,UEFA Europa League
+06.03.2025,21:00,Ajax Amsterdam,Eintracht Frankfurt,52.641,1,2,/spielbericht/index/spielbericht/4547685,2024,UEFA Europa League
+13.03.2025,18:45,Eintracht Frankfurt,Ajax Amsterdam,57.500,4,1,/spielbericht/index/spielbericht/4547693,2024,UEFA Europa League
+10.04.2025,21:00,Tottenham,Eintracht Frankfurt,57.849,1,1,/spielbericht/index/spielbericht/4547796,2024,UEFA Europa League
+17.04.2025,21:00,Eintracht Frankfurt,Tottenham,57.500,0,1,/spielbericht/index/spielbericht/4547800,2024,UEFA Europa League
+19.08.2024,20:45,E. Braunschweig,Eintracht Frankfurt,21.101,1,4,/spielbericht/index/spielbericht/4353894,2024,DFB-Pokal
+30.10.2024,18:00,Eintracht Frankfurt,Bor. M'gladbach,58.000,2,1,/spielbericht/index/spielbericht/4446794,2024,DFB-Pokal
+04.12.2024,20:45,RB Leipzig,Eintracht Frankfurt,37.187,3,0,/spielbericht/index/spielbericht/4485934,2024,DFB-Pokal
