@@ -1,0 +1,662 @@
+datetime,home_team,away_team,participants,home_score,away_score,season,round,home_division,away_division,match_link
+2021-08-07 15:30:00,1. FC Lokomotive Leipzig,B. Leverkusen,6185,0,3,2021,1,4,1,/spielbericht/index/spielbericht/3601593
+2023-08-13 15:30:00,1. FC Lokomotive Leipzig,E. Frankfurt,11100,0,7,2023,1,4,1,/spielbericht/index/spielbericht/4088605
+2018-08-18 15:30:00,1.CfR Pforzheim,B. Leverkusen,4725,0,1,2018,1,4,1,/spielbericht/index/spielbericht/3048441
+2016-08-21 15:30:00,1.FC Germania Egestorf/Langreder,TSG Hoffenheim,2585,0,6,2016,1,4,1,/spielbericht/index/spielbericht/2699120
+2023-08-13 13:00:00,Rostocker FC,1.FC Heidenheim 1846,3500,0,8,2023,1,4,2,/spielbericht/index/spielbericht/4088595
+2023-10-31 20:45:00,Bor. M'gladbach,1.FC Heidenheim 1846,41660,3,1,2023,2,1,1,/spielbericht/index/spielbericht/4194147
+2024-08-17 15:30:00,FC 08 Villingen,1.FC Heidenheim 1846,6800,0,4,2024,1,4,1,/spielbericht/index/spielbericht/4353902
+2024-10-30 18:00:00,Hertha BSC,1.FC Heidenheim 1846,44135,2,1,2024,2,2,1,/spielbericht/index/spielbericht/4446791
+2022-07-29 18:01:00,1.FC Kaan-Marienborn,1.FC Nürnberg,8000,0,2,2022,1,4,2,/spielbericht/index/spielbericht/3825589
+2014-08-16 18:00:00,Wehen Wiesbaden,1.FC Kaiserslautern,9496,3,5,2014,1,3,2,/spielbericht/index/spielbericht/2458326
+2014-10-28 20:30:00,1.FC Kaiserslautern,Greuther Fürth,23111,2,0,2014,2,2,2,/spielbericht/index/spielbericht/2488536
+2015-03-03 19:00:00,B. Leverkusen,1.FC Kaiserslautern,26601,2,0,2014,3,1,2,/spielbericht/index/spielbericht/2507893
+2015-08-09 18:30:00,Hansa Rostock,1.FC Kaiserslautern,20100,4,5,2015,1,3,2,/spielbericht/index/spielbericht/2576669
+2015-10-27 20:30:00,VfL Bochum,1.FC Kaiserslautern,18514,1,0,2015,2,2,2,/spielbericht/index/spielbericht/2615045
+2016-08-20 15:30:00,Hallescher FC,1.FC Kaiserslautern,10021,4,3,2016,1,3,2,/spielbericht/index/spielbericht/2699235
+2017-08-12 15:30:00,SV Eichede,1.FC Kaiserslautern,4038,0,4,2017,1,4,2,/spielbericht/index/spielbericht/2864738
+2017-10-25 18:30:00,1.FC Kaiserslautern,VfB Stuttgart,28322,1,3,2017,2,2,1,/spielbericht/index/spielbericht/2914251
+2018-08-18 15:30:00,1.FC Kaiserslautern,TSG Hoffenheim,22818,1,6,2018,1,3,1,/spielbericht/index/spielbericht/3048432
+2019-08-10 15:30:00,1.FC Kaiserslautern,1.FSV Mainz 05,40694,2,0,2019,1,3,1,/spielbericht/index/spielbericht/3195514
+2019-10-30 18:30:00,1.FC Kaiserslautern,1.FC Nürnberg,21714,8,7,2019,2,3,2,/spielbericht/index/spielbericht/3245510
+2020-02-04 18:30:00,1.FC Kaiserslautern,F. Düsseldorf,35340,2,5,2019,3,3,1,/spielbericht/index/spielbericht/3279211
+2020-09-13 15:30:00,1.FC Kaiserslautern,J. Regensburg,0,4,5,2020,1,3,2,/spielbericht/index/spielbericht/3422927
+2021-08-09 20:45:00,1.FC Kaiserslautern,Bor. M'gladbach,5000,0,1,2021,1,3,1,/spielbericht/index/spielbericht/3601592
+2022-07-31 15:31:00,1.FC Kaiserslautern,SC Freiburg,38317,1,2,2022,1,2,1,/spielbericht/index/spielbericht/3825604
+2023-08-13 15:30:00,RW Koblenz,1.FC Kaiserslautern,10176,0,5,2023,1,4,2,/spielbericht/index/spielbericht/4088593
+2023-10-31 20:45:00,1.FC Kaiserslautern,1.FC Köln,49327,3,2,2023,2,2,1,/spielbericht/index/spielbericht/4194154
+2023-12-05 18:00:00,1.FC Kaiserslautern,1.FC Nürnberg,48349,2,0,2023,3,2,2,/spielbericht/index/spielbericht/4222803
+2024-01-31 20:45:00,Hertha BSC,1.FC Kaiserslautern,74245,1,3,2023,4,2,2,/spielbericht/index/spielbericht/4240126
+2024-04-02 20:45:00,Saarbrücken,1.FC Kaiserslautern,15903,0,2,2023,5,3,2,/spielbericht/index/spielbericht/4311215
+2024-05-25 20:00:00,1.FC Kaiserslautern,B. Leverkusen,74322,0,1,2023,6,2,1,/spielbericht/index/spielbericht/4323506
+2024-08-17 15:30:00,FC Ingolstadt,1.FC Kaiserslautern,11655,1,2,2024,1,3,2,/spielbericht/index/spielbericht/4353908
+2024-10-29 20:45:00,VfB Stuttgart,1.FC Kaiserslautern,60000,2,1,2024,2,1,2,/spielbericht/index/spielbericht/4446793
+2018-08-19 15:30:00,BFC Dynamo,1.FC Köln,14357,1,9,2018,1,4,2,/spielbericht/index/spielbericht/3048428
+2018-10-31 18:30:00,1.FC Köln,FC Schalke 04,50000,6,7,2018,2,2,1,/spielbericht/index/spielbericht/3096455
+2022-07-30 15:31:00,J. Regensburg,1.FC Köln,13236,6,5,2022,1,2,1,/spielbericht/index/spielbericht/3825586
+2024-08-18 15:30:00,SV Sandhausen,1.FC Köln,9705,2,3,2024,1,3,2,/spielbericht/index/spielbericht/4353909
+2024-10-29 20:45:00,1.FC Köln,Holstein Kiel,48000,3,0,2024,2,2,1,/spielbericht/index/spielbericht/4446802
+2024-12-04 18:00:00,1.FC Köln,Hertha BSC,50000,2,1,2024,3,2,2,/spielbericht/index/spielbericht/4485937
+2025-02-05 20:45:00,B. Leverkusen,1.FC Köln,30210,3,2,2024,4,1,2,/spielbericht/index/spielbericht/4511626
+2018-08-19 15:30:00,1.FC Lok Stendal,Arm. Bielefeld,2870,0,5,2018,1,4,2,/spielbericht/index/spielbericht/3048415
+2014-08-17 18:30:00,1.FC Magdeburg,FC Augsburg,17854,1,0,2014,1,4,1,/spielbericht/index/spielbericht/2458318
+2014-10-29 19:00:00,1.FC Magdeburg,B. Leverkusen,23855,6,7,2014,2,4,1,/spielbericht/index/spielbericht/2488525
+2016-08-21 15:30:00,1.FC Magdeburg,E. Frankfurt,24606,4,5,2016,1,3,1,/spielbericht/index/spielbericht/2699124
+2017-08-13 18:30:00,1.FC Magdeburg,FC Augsburg,21641,2,0,2017,1,3,1,/spielbericht/index/spielbericht/2864719
+2017-10-24 20:45:00,1.FC Magdeburg,Bor. Dortmund,23102,0,5,2017,2,3,1,/spielbericht/index/spielbericht/2914241
+2018-08-17 20:45:00,1.FC Magdeburg,Darmstadt 98,20165,0,1,2018,1,2,2,/spielbericht/index/spielbericht/3048414
+2019-08-10 15:30:00,1.FC Magdeburg,SC Freiburg,14093,0,1,2019,1,3,1,/spielbericht/index/spielbericht/3195551
+2020-09-13 18:30:00,1.FC Magdeburg,Darmstadt 98,5000,2,3,2020,1,3,2,/spielbericht/index/spielbericht/3404455
+2021-08-07 18:30:00,1.FC Magdeburg,FC St. Pauli,14405,2,3,2021,1,3,2,/spielbericht/index/spielbericht/3601614
+2022-08-01 20:46:00,1.FC Magdeburg,E. Frankfurt,26350,0,4,2022,1,2,1,/spielbericht/index/spielbericht/3825617
+2023-08-14 18:00:00,J. Regensburg,1.FC Magdeburg,9464,1,2,2023,1,3,2,/spielbericht/index/spielbericht/4088597
+2023-11-01 18:00:00,Holstein Kiel,1.FC Magdeburg,11112,6,7,2023,2,2,2,/spielbericht/index/spielbericht/4194148
+2023-12-05 18:00:00,1.FC Magdeburg,F. Düsseldorf,20090,1,2,2023,3,2,2,/spielbericht/index/spielbericht/4222804
+2024-08-19 18:00:00,K. Offenbach,1.FC Magdeburg,16847,2,1,2024,1,4,2,/spielbericht/index/spielbericht/4353911
+2014-08-17 16:00:00,1.FC Neubrandenburg 04,Karlsruher SC,3000,1,3,2014,1,4,2,/spielbericht/index/spielbericht/2458331
+2014-08-15 20:00:00,MSV Duisburg,1.FC Nürnberg,18108,1,0,2014,1,3,2,/spielbericht/index/spielbericht/2458320
+2015-08-10 18:30:00,VfR Aalen,1.FC Nürnberg,9172,1,2,2015,1,3,2,/spielbericht/index/spielbericht/2576688
+2015-10-27 19:00:00,1.FC Nürnberg,F. Düsseldorf,19235,5,1,2015,2,2,2,/spielbericht/index/spielbericht/2615042
+2015-12-16 19:00:00,1.FC Nürnberg,Hertha BSC,35204,0,2,2015,3,2,1,/spielbericht/index/spielbericht/2636829
+2016-08-20 15:30:00,Viktoria Köln,1.FC Nürnberg,4787,6,7,2016,1,4,2,/spielbericht/index/spielbericht/2699109
+2016-10-26 20:45:00,1.FC Nürnberg,FC Schalke 04,28281,2,3,2016,2,2,1,/spielbericht/index/spielbericht/2754876
+2017-08-14 18:30:00,MSV Duisburg,1.FC Nürnberg,15576,1,2,2017,1,2,2,/spielbericht/index/spielbericht/2864710
+2017-10-25 18:30:00,VfL Osnabrück,1.FC Nürnberg,13557,2,3,2017,2,3,2,/spielbericht/index/spielbericht/2914240
+2017-12-19 20:45:00,1.FC Nürnberg,VfL Wolfsburg,26104,0,2,2017,3,2,1,/spielbericht/index/spielbericht/2957386
+2019-08-09 20:45:00,FC Ingolstadt,1.FC Nürnberg,14348,0,1,2019,1,3,2,/spielbericht/index/spielbericht/3195545
+2020-09-12 15:30:00,1.FC Nürnberg,RB Leipzig,0,0,3,2020,1,2,1,/spielbericht/index/spielbericht/3404447
+2021-08-07 18:30:00,SSV Ulm 1846,1.FC Nürnberg,6743,0,1,2021,1,4,2,/spielbericht/index/spielbericht/3601587
+2021-10-26 20:45:00,1.FC Nürnberg,Hamburger SV,19267,3,5,2021,2,2,2,/spielbericht/index/spielbericht/3651890
+2022-10-18 18:00:00,W. Mannheim,1.FC Nürnberg,15000,0,1,2022,2,3,2,/spielbericht/index/spielbericht/3918232
+2023-02-08 18:00:00,1.FC Nürnberg,F. Düsseldorf,25216,6,4,2022,3,2,2,/spielbericht/index/spielbericht/3949455
+2023-04-05 18:30:00,1.FC Nürnberg,VfB Stuttgart,50000,0,1,2022,4,2,1,/spielbericht/index/spielbericht/4027698
+2023-08-12 15:30:00,FC Oberneuland,1.FC Nürnberg,2187,1,9,2023,1,4,2,/spielbericht/index/spielbericht/4088599
+2023-11-01 20:45:00,1.FC Nürnberg,Hansa Rostock,28489,3,2,2023,2,2,2,/spielbericht/index/spielbericht/4194146
+2024-08-18 13:00:00,Saarbrücken,1.FC Nürnberg,14868,4,6,2024,1,3,2,/spielbericht/index/spielbericht/4353903
+2024-10-30 20:45:00,TSG Hoffenheim,1.FC Nürnberg,18001,2,1,2024,2,1,2,/spielbericht/index/spielbericht/4446796
+2024-08-17 18:00:00,1.FC Phönix Lübeck,Bor. Dortmund,50971,1,4,2024,1,4,1,/spielbericht/index/spielbericht/4353900
+2017-08-12 15:30:00,1.FC Rielasingen-Arlen,Bor. Dortmund,25000,0,4,2017,1,4,1,/spielbericht/index/spielbericht/2864737
+2020-09-13 15:30:00,1.FC Rielasingen-Arlen,Holstein Kiel,500000,1,7,2020,1,4,2,/spielbericht/index/spielbericht/3422876
+2017-08-13 15:30:00,1.FC Saarbrücken,Union Berlin,6936,1,2,2017,1,4,2,/spielbericht/index/spielbericht/2864716
+2019-08-11 15:30:00,1.FC Saarbrücken,J. Regensburg,5021,3,2,2019,1,4,2,/spielbericht/index/spielbericht/3195542
+2019-10-29 18:30:00,1.FC Saarbrücken,1.FC Köln,6800,3,2,2019,2,4,1,/spielbericht/index/spielbericht/3245513
+2020-02-05 20:45:00,1.FC Saarbrücken,Karlsruher SC,6800,5,3,2019,3,4,2,/spielbericht/index/spielbericht/3279217
+2020-03-03 18:30:00,1.FC Saarbrücken,F. Düsseldorf,6800,8,7,2019,4,4,1,/spielbericht/index/spielbericht/3319622
+2020-06-09 20:45:00,1.FC Saarbrücken,B. Leverkusen,0,0,3,2019,5,4,1,/spielbericht/index/spielbericht/3332669
+2023-08-11 18:00:00,1.FC Saarbrücken,Karlsruher SC,14000,2,1,2023,1,3,2,/spielbericht/index/spielbericht/4088612
+2023-11-01 20:45:00,1.FC Saarbrücken,Bayern München,16003,2,1,2023,2,3,1,/spielbericht/index/spielbericht/4194144
+2023-12-06 18:00:00,1.FC Saarbrücken,E. Frankfurt,15903,2,0,2023,3,3,1,/spielbericht/index/spielbericht/4222798
+2024-03-12 20:30:00,1.FC Saarbrücken,Bor. M'gladbach,15903,2,1,2023,4,3,1,/spielbericht/index/spielbericht/4240125
+2017-08-13 15:30:00,1.FC Schweinfurt 05,SV Sandhausen,4610,2,1,2017,1,4,2,/spielbericht/index/spielbericht/2864715
+2017-10-24 20:45:00,1.FC Schweinfurt 05,E. Frankfurt,15060,0,4,2017,2,4,1,/spielbericht/index/spielbericht/2914239
+2018-08-17 20:45:00,1.FC Schweinfurt 05,FC Schalke 04,15060,0,2,2018,1,4,1,/spielbericht/index/spielbericht/3048427
+2020-11-03 16:30:00,1.FC Schweinfurt 05,FC Schalke 04,0,1,4,2020,1,4,1,/spielbericht/index/spielbericht/3475968
+2019-08-11 15:30:00,G. Halberstadt,1.FC Union Berlin,5966,0,6,2019,1,4,2,/spielbericht/index/spielbericht/3195513
+2019-10-29 18:30:00,SC Freiburg,1.FC Union Berlin,24000,1,3,2019,2,1,1,/spielbericht/index/spielbericht/3245516
+2020-02-05 18:30:00,SC Verl,1.FC Union Berlin,5135,0,1,2019,3,4,1,/spielbericht/index/spielbericht/3279215
+2020-03-04 18:30:00,B. Leverkusen,1.FC Union Berlin,18453,3,1,2019,4,1,1,/spielbericht/index/spielbericht/3319619
+2020-09-12 18:30:00,Karlsruher SC,1.FC Union Berlin,450000,0,1,2020,1,2,1,/spielbericht/index/spielbericht/3404454
+2020-12-22 20:45:00,1.FC Union Berlin,SC Paderborn,0,2,3,2020,2,1,2,/spielbericht/index/spielbericht/3485240
+2021-08-08 15:30:00,Türkgücü Münch.,1.FC Union Berlin,2500,0,1,2021,1,3,1,/spielbericht/index/spielbericht/3601608
+2021-10-27 18:30:00,W. Mannheim,1.FC Union Berlin,14651,1,3,2021,2,3,1,/spielbericht/index/spielbericht/3651880
+2022-01-19 20:45:00,Hertha BSC,1.FC Union Berlin,3000,2,3,2021,3,1,1,/spielbericht/index/spielbericht/3690467
+2022-03-01 20:45:00,1.FC Union Berlin,FC St. Pauli,10000,2,1,2021,4,1,2,/spielbericht/index/spielbericht/3741196
+2022-04-20 20:45:00,RB Leipzig,1.FC Union Berlin,47069,2,1,2021,5,1,1,/spielbericht/index/spielbericht/3763602
+2022-08-01 18:01:00,Chemnitzer FC,1.FC Union Berlin,13465,1,2,2022,1,4,1,/spielbericht/index/spielbericht/3825595
+2022-10-19 20:45:00,1.FC Union Berlin,1.FC Heidenheim,21029,2,0,2022,2,1,2,/spielbericht/index/spielbericht/3918222
+2023-01-31 20:45:00,1.FC Union Berlin,VfL Wolfsburg,22012,2,1,2022,3,1,1,/spielbericht/index/spielbericht/3949450
+2023-04-04 18:00:00,E. Frankfurt,1.FC Union Berlin,49500,2,0,2022,4,1,1,/spielbericht/index/spielbericht/4027695
+2023-08-13 18:00:00,FCA Walldorf,1.FC Union Berlin,4000,0,4,2023,1,4,1,/spielbericht/index/spielbericht/4088606
+2023-10-31 18:00:00,VfB Stuttgart,1.FC Union Berlin,52000,1,0,2023,2,1,1,/spielbericht/index/spielbericht/4194150
+2024-08-17 15:30:00,Greifswalder FC,1.FC Union Berlin,4990,0,1,2024,1,4,1,/spielbericht/index/spielbericht/4353917
+2024-10-30 20:45:00,Arm. Bielefeld,1.FC Union Berlin,26117,2,0,2024,2,3,1,/spielbericht/index/spielbericht/4446787
+2014-08-15 19:00:00,Chemnitzer FC,1.FSV Mainz 05,10287,10,9,2014,1,3,1,/spielbericht/index/spielbericht/2458309
+2015-08-09 20:30:00,Energie Cottbus,1.FSV Mainz 05,11123,0,3,2015,1,3,1,/spielbericht/index/spielbericht/2576666
+2015-10-27 19:00:00,1.FSV Mainz 05,1860 München,17017,1,2,2015,2,1,2,/spielbericht/index/spielbericht/2615041
+2016-08-21 15:30:00,Unterhaching,1.FSV Mainz 05,7500,5,7,2016,1,4,1,/spielbericht/index/spielbericht/2699125
+2016-10-26 18:30:00,Greuther Fürth,1.FSV Mainz 05,5975,2,1,2016,2,2,1,/spielbericht/index/spielbericht/2754887
+2017-08-12 15:30:00,LSK Hansa,1.FSV Mainz 05,4000,1,3,2017,1,4,1,/spielbericht/index/spielbericht/2864901
+2017-10-24 20:45:00,1.FSV Mainz 05,Holstein Kiel,10441,3,2,2017,2,1,2,/spielbericht/index/spielbericht/2914245
+2017-12-19 18:30:00,1.FSV Mainz 05,VfB Stuttgart,22348,3,1,2017,3,1,1,/spielbericht/index/spielbericht/2957385
+2018-02-07 18:30:00,E. Frankfurt,1.FSV Mainz 05,48200,3,0,2017,4,1,1,/spielbericht/index/spielbericht/2988234
+2018-08-18 18:30:00,Erzgebirge Aue,1.FSV Mainz 05,7600,1,3,2018,1,2,1,/spielbericht/index/spielbericht/3048422
+2018-10-30 20:45:00,FC Augsburg,1.FSV Mainz 05,15561,3,2,2018,2,1,1,/spielbericht/index/spielbericht/3096459
+2020-09-11 20:45:00,TSV Havelse,1.FSV Mainz 05,1000,1,5,2020,1,4,1,/spielbericht/index/spielbericht/3423914
+2020-12-23 20:45:00,1.FSV Mainz 05,VfL Bochum,0,2,5,2020,2,1,2,/spielbericht/index/spielbericht/3485246
+2021-08-08 15:30:00,SV Elversberg,1.FSV Mainz 05,2480,9,10,2021,1,4,1,/spielbericht/index/spielbericht/3601594
+2021-10-26 20:45:00,1.FSV Mainz 05,Arm. Bielefeld,9000,3,2,2021,2,1,1,/spielbericht/index/spielbericht/3651891
+2022-01-18 20:45:00,VfL Bochum,1.FSV Mainz 05,750000,3,1,2021,3,1,1,/spielbericht/index/spielbericht/3690470
+2022-07-31 18:01:00,Erzgebirge Aue,1.FSV Mainz 05,8446,0,3,2022,1,2,1,/spielbericht/index/spielbericht/3825611
+2022-10-18 18:00:00,VfB Lübeck,1.FSV Mainz 05,9974,0,3,2022,2,4,1,/spielbericht/index/spielbericht/3918235
+2023-02-01 20:45:00,1.FSV Mainz 05,Bayern München,33305,0,4,2022,3,1,1,/spielbericht/index/spielbericht/3949453
+2023-08-12 18:00:00,SV Elversberg,1.FSV Mainz 05,8561,0,1,2023,1,2,1,/spielbericht/index/spielbericht/4088604
+2023-11-01 20:45:00,Hertha BSC,1.FSV Mainz 05,29621,3,0,2023,2,2,1,/spielbericht/index/spielbericht/4194151
+2024-08-16 18:00:00,Wehen Wiesbaden,1.FSV Mainz 05,12500,1,3,2024,1,3,1,/spielbericht/index/spielbericht/4353907
+2024-10-30 20:45:00,1.FSV Mainz 05,Bayern München,33000,0,4,2024,2,1,1,/spielbericht/index/spielbericht/4446792
+2019-08-10 15:30:00,Alemannia Aachen,B. Leverkusen,30861,1,4,2019,1,4,1,/spielbericht/index/spielbericht/3195532
+2024-08-17 18:00:00,Alemannia Aachen,Holstein Kiel,29555,2,3,2024,1,3,2,/spielbericht/index/spielbericht/4353921
+2014-08-17 16:00:00,Arminia Bielefeld,SV Sandhausen,7305,4,1,2014,1,3,2,/spielbericht/index/spielbericht/2458332
+2014-10-28 19:00:00,Arminia Bielefeld,Hertha BSC,23098,4,2,2014,2,3,1,/spielbericht/index/spielbericht/2488527
+2015-03-04 19:00:00,Arminia Bielefeld,Werder Bremen,26137,3,1,2014,3,3,1,/spielbericht/index/spielbericht/2507898
+2015-04-08 19:00:00,Arminia Bielefeld,Bor. M'gladbach,26137,6,5,2014,4,3,1,/spielbericht/index/spielbericht/2544477
+2015-04-29 20:30:00,Arminia Bielefeld,VfL Wolfsburg,26137,0,4,2014,5,3,1,/spielbericht/index/spielbericht/2551356
+2023-08-12 18:00:00,Arminia Bielefeld,VfL Bochum,21452,6,3,2023,1,3,1,/spielbericht/index/spielbericht/4088616
+2023-10-31 20:45:00,Arminia Bielefeld,Hamburger SV,26561,4,5,2023,2,3,2,/spielbericht/index/spielbericht/4194140
+2024-08-17 18:00:00,Arminia Bielefeld,Hannover 96,26044,2,0,2024,1,3,2,/spielbericht/index/spielbericht/4353891
+2024-12-03 18:00:00,Arminia Bielefeld,SC Freiburg,26311,3,1,2024,3,3,1,/spielbericht/index/spielbericht/4485931
+2025-02-25 20:45:00,Arminia Bielefeld,Werder Bremen,26601,2,1,2024,4,3,1,/spielbericht/index/spielbericht/4511624
+2025-04-01 20:45:00,Arminia Bielefeld,B. Leverkusen,26601,2,1,2024,5,3,1,/spielbericht/index/spielbericht/4570631
+2025-05-24 20:00:00,Arminia Bielefeld,VfB Stuttgart,0,2,4,2024,6,3,1,/spielbericht/index/spielbericht/4608956
+2015-08-09 14:30:00,Bahlinger SC,SV Sandhausen,3890,3,5,2015,1,4,2,/spielbericht/index/spielbericht/2576663
+2014-08-15 19:00:00,Waldalgesheim,Bayer 04 Leverkusen,7524,0,6,2014,1,4,1,/spielbericht/index/spielbericht/2458316
+2015-04-08 20:30:00,Bayer 04 Leverkusen,Bayern München,30210,3,5,2014,4,1,1,/spielbericht/index/spielbericht/2544474
+2015-08-08 15:30:00,SF Lotte,Bayer 04 Leverkusen,5450,0,3,2015,1,4,1,/spielbericht/index/spielbericht/2576670
+2015-10-28 19:00:00,Viktoria Köln,Bayer 04 Leverkusen,6177,0,6,2015,2,4,1,/spielbericht/index/spielbericht/2615032
+2015-12-15 19:15:00,Unterhaching,Bayer 04 Leverkusen,12500,1,3,2015,3,4,1,/spielbericht/index/spielbericht/2636824
+2016-02-09 19:00:00,Bayer 04 Leverkusen,Werder Bremen,24104,1,3,2015,4,1,1,/spielbericht/index/spielbericht/2646706
+2016-08-21 15:30:00,SC Hauenstein,Bayer 04 Leverkusen,4000,1,2,2016,1,4,1,/spielbericht/index/spielbericht/2699232
+2016-10-25 18:30:00,SF Lotte,Bayer 04 Leverkusen,8763,6,5,2016,2,3,1,/spielbericht/index/spielbericht/2754875
+2017-08-11 20:45:00,Karlsruher SC,Bayer 04 Leverkusen,17073,0,3,2017,1,3,1,/spielbericht/index/spielbericht/2864735
+2017-10-24 18:35:00,Bayer 04 Leverkusen,Union Berlin,24326,4,1,2017,2,1,2,/spielbericht/index/spielbericht/2914247
+2017-12-20 18:30:00,Bor. M'gladbach,Bayer 04 Leverkusen,49016,0,1,2017,3,1,1,/spielbericht/index/spielbericht/2957390
+2018-02-06 20:45:00,Bayer 04 Leverkusen,Werder Bremen,25653,4,2,2017,4,1,1,/spielbericht/index/spielbericht/2988235
+2018-04-17 20:45:00,Bayer 04 Leverkusen,Bayern München,30210,2,6,2017,5,1,1,/spielbericht/index/spielbericht/3002964
+2018-10-31 20:45:00,Bor. M'gladbach,Bayer 04 Leverkusen,48755,0,5,2018,2,1,1,/spielbericht/index/spielbericht/3096458
+2019-02-05 18:30:00,1.FC Heidenheim,Bayer 04 Leverkusen,11400,2,1,2018,3,2,1,/spielbericht/index/spielbericht/3122479
+2019-10-29 20:45:00,Bayer 04 Leverkusen,SC Paderborn,15410,1,0,2019,2,1,1,/spielbericht/index/spielbericht/3245515
+2020-02-05 18:30:00,Bayer 04 Leverkusen,VfB Stuttgart,20320,2,1,2019,3,1,2,/spielbericht/index/spielbericht/3279214
+2020-07-04 20:00:00,Bayer 04 Leverkusen,Bayern München,0,2,4,2019,6,1,1,/spielbericht/index/spielbericht/3383750
+2020-09-13 15:30:00,E. Norderstedt,Bayer 04 Leverkusen,300000,0,7,2020,1,4,1,/spielbericht/index/spielbericht/3422872
+2021-01-12 20:45:00,Bayer 04 Leverkusen,E. Frankfurt,0,4,1,2020,2,1,1,/spielbericht/index/spielbericht/3485243
+2021-02-02 18:30:00,RW Essen,Bayer 04 Leverkusen,0,2,1,2020,3,4,1,/spielbericht/index/spielbericht/3505314
+2021-10-27 18:30:00,Bayer 04 Leverkusen,Karlsruher SC,13060,1,2,2021,2,1,2,/spielbericht/index/spielbericht/3651894
+2022-07-30 15:31:00,SV Elversberg,Bayer 04 Leverkusen,7500,4,3,2022,1,4,1,/spielbericht/index/spielbericht/3825596
+2023-08-12 15:30:00,Teutonia 05,Bayer 04 Leverkusen,11035,0,8,2023,1,4,1,/spielbericht/index/spielbericht/4088610
+2023-11-01 18:00:00,SV Sandhausen,Bayer 04 Leverkusen,10222,2,5,2023,2,3,1,/spielbericht/index/spielbericht/4194143
+2023-12-06 18:00:00,Bayer 04 Leverkusen,SC Paderborn,29249,3,1,2023,3,1,2,/spielbericht/index/spielbericht/4222802
+2024-02-06 20:45:00,Bayer 04 Leverkusen,VfB Stuttgart,30210,3,2,2023,4,1,1,/spielbericht/index/spielbericht/4240127
+2024-04-03 20:45:00,Bayer 04 Leverkusen,F. Düsseldorf,30210,4,0,2023,5,1,2,/spielbericht/index/spielbericht/4285967
+2024-08-28 18:00:00,Carl Zeiss Jena,Bayer 04 Leverkusen,15000,0,1,2024,1,4,1,/spielbericht/index/spielbericht/4353912
+2024-10-29 18:00:00,Bayer 04 Leverkusen,SV Elversberg,29787,3,0,2024,2,1,2,/spielbericht/index/spielbericht/4446799
+2024-12-03 20:45:00,Bayern München,Bayer 04 Leverkusen,75000,0,1,2024,3,1,1,/spielbericht/index/spielbericht/4485932
+2015-08-07 19:00:00,BFC Dynamo,FSV Frankfurt,6891,0,2,2015,1,4,2,/spielbericht/index/spielbericht/2576675
+2017-08-14 18:30:00,BFC Dynamo,FC Schalke 04,14117,0,2,2017,1,4,1,/spielbericht/index/spielbericht/2864739
+2021-08-07 15:30:00,BFC Dynamo,VfB Stuttgart,2631,0,6,2021,1,4,1,/spielbericht/index/spielbericht/3601613
+2016-08-20 15:30:00,BFC Preussen,1.FC Köln,6318,0,7,2016,1,4,1,/spielbericht/index/spielbericht/2699121
+2022-07-31 15:31:00,Blau-Weiß Lohne,FC Augsburg,4150,0,4,2022,1,4,1,/spielbericht/index/spielbericht/3825608
+2017-08-13 15:30:00,Bonner SC,Hannover 96,9650,2,6,2017,1,4,2,/spielbericht/index/spielbericht/2864711
+2014-08-16 15:30:00,Stuttg. Kickers,Borussia Dortmund,36000,1,4,2014,1,3,1,/spielbericht/index/spielbericht/2458322
+2014-10-28 20:30:00,FC St. Pauli,Borussia Dortmund,29063,0,3,2014,2,2,1,/spielbericht/index/spielbericht/2488539
+2015-03-03 20:30:00,Dynamo Dresden,Borussia Dortmund,30503,0,2,2014,3,3,1,/spielbericht/index/spielbericht/2507899
+2015-04-07 20:30:00,Borussia Dortmund,TSG Hoffenheim,80667,3,2,2014,4,1,1,/spielbericht/index/spielbericht/2544475
+2015-04-28 20:30:00,Bayern München,Borussia Dortmund,75024,1,3,2014,5,1,1,/spielbericht/index/spielbericht/2551355
+2015-05-30 20:00:00,Borussia Dortmund,VfL Wolfsburg,75815,1,3,2014,6,1,1,/spielbericht/index/spielbericht/2561745
+2015-08-09 14:30:00,Chemnitzer FC,Borussia Dortmund,12500,0,2,2015,1,3,1,/spielbericht/index/spielbericht/2576679
+2015-10-28 19:00:00,Borussia Dortmund,SC Paderborn,74605,7,1,2015,2,1,2,/spielbericht/index/spielbericht/2615039
+2015-12-16 20:30:00,FC Augsburg,Borussia Dortmund,30101,0,2,2015,3,1,1,/spielbericht/index/spielbericht/2636826
+2016-02-09 20:30:00,VfB Stuttgart,Borussia Dortmund,46500,1,3,2015,4,1,1,/spielbericht/index/spielbericht/2646703
+2016-04-20 20:30:00,Hertha BSC,Borussia Dortmund,76233,0,3,2015,5,1,1,/spielbericht/index/spielbericht/2664150
+2016-05-21 20:00:00,Bayern München,Borussia Dortmund,74322,4,3,2015,6,1,1,/spielbericht/index/spielbericht/2684201
+2016-08-22 20:45:00,Eintracht Trier,Borussia Dortmund,10805,0,3,2016,1,4,1,/spielbericht/index/spielbericht/2699227
+2016-10-26 20:45:00,Borussia Dortmund,Union Berlin,79037,4,1,2016,2,1,2,/spielbericht/index/spielbericht/2754882
+2017-02-08 20:45:00,Borussia Dortmund,Hertha BSC,80500,4,3,2016,3,1,1,/spielbericht/index/spielbericht/2770142
+2017-03-14 18:30:00,SF Lotte,Borussia Dortmund,15780,0,3,2016,4,3,1,/spielbericht/index/spielbericht/2823315
+2017-04-26 20:45:00,Bayern München,Borussia Dortmund,75000,2,3,2016,5,1,1,/spielbericht/index/spielbericht/2840056
+2017-05-27 20:00:00,E. Frankfurt,Borussia Dortmund,74322,1,2,2016,6,1,1,/spielbericht/index/spielbericht/2850642
+2017-12-20 20:45:00,Bayern München,Borussia Dortmund,75000,2,1,2017,3,1,1,/spielbericht/index/spielbericht/2957387
+2018-08-20 20:45:00,Greuther Fürth,Borussia Dortmund,15500,1,2,2018,1,2,1,/spielbericht/index/spielbericht/3048419
+2018-10-31 18:30:00,Borussia Dortmund,Union Berlin,72732,3,2,2018,2,1,2,/spielbericht/index/spielbericht/3096460
+2019-02-05 20:45:00,Borussia Dortmund,Werder Bremen,81365,5,7,2018,3,1,1,/spielbericht/index/spielbericht/3122484
+2019-08-09 20:45:00,KFC Uerdingen,Borussia Dortmund,32110,0,2,2019,1,3,1,/spielbericht/index/spielbericht/3195526
+2019-10-30 20:45:00,Borussia Dortmund,Bor. M'gladbach,79800,2,1,2019,2,1,1,/spielbericht/index/spielbericht/3245520
+2020-02-04 20:45:00,Werder Bremen,Borussia Dortmund,42100,3,2,2019,3,1,1,/spielbericht/index/spielbericht/3279213
+2020-09-14 20:45:00,MSV Duisburg,Borussia Dortmund,300000,0,5,2020,1,3,1,/spielbericht/index/spielbericht/3404450
+2020-12-22 20:00:00,E. Braunschweig,Borussia Dortmund,0,0,2,2020,2,2,1,/spielbericht/index/spielbericht/3485242
+2021-02-02 20:45:00,Borussia Dortmund,SC Paderborn,0,3,2,2020,3,1,2,/spielbericht/index/spielbericht/3502340
+2021-03-02 20:45:00,Bor. M'gladbach,Borussia Dortmund,0,0,1,2020,4,1,1,/spielbericht/index/spielbericht/3517359
+2021-05-01 20:30:00,Borussia Dortmund,Holstein Kiel,0,5,0,2020,5,1,2,/spielbericht/index/spielbericht/3532043
+2021-05-13 20:45:00,RB Leipzig,Borussia Dortmund,0,1,4,2020,6,1,1,/spielbericht/index/spielbericht/3560009
+2021-08-07 20:45:00,Wehen Wiesbaden,Borussia Dortmund,4882,0,3,2021,1,3,1,/spielbericht/index/spielbericht/3601602
+2021-10-26 20:00:00,Borussia Dortmund,FC Ingolstadt,25130,2,0,2021,2,1,2,/spielbericht/index/spielbericht/3651893
+2022-01-18 20:45:00,FC St. Pauli,Borussia Dortmund,2000,2,1,2021,3,2,1,/spielbericht/index/spielbericht/3690464
+2022-07-29 20:46:00,1860 München,Borussia Dortmund,15000,0,3,2022,1,3,1,/spielbericht/index/spielbericht/3825603
+2022-10-19 18:00:00,Hannover 96,Borussia Dortmund,49000,0,2,2022,2,2,1,/spielbericht/index/spielbericht/3918230
+2023-02-08 20:45:00,VfL Bochum,Borussia Dortmund,26000,1,2,2022,3,1,1,/spielbericht/index/spielbericht/3949452
+2023-04-05 20:45:00,RB Leipzig,Borussia Dortmund,47069,2,0,2022,4,1,1,/spielbericht/index/spielbericht/4027697
+2023-08-12 15:30:00,Schott Mainz,Borussia Dortmund,32134,1,6,2023,1,4,1,/spielbericht/index/spielbericht/4088602
+2023-11-01 18:00:00,Borussia Dortmund,TSG Hoffenheim,81365,1,0,2023,2,1,1,/spielbericht/index/spielbericht/4194152
+2023-12-06 20:45:00,VfB Stuttgart,Borussia Dortmund,54200,2,0,2023,3,1,1,/spielbericht/index/spielbericht/4222797
+2024-10-29 20:45:00,VfL Wolfsburg,Borussia Dortmund,24806,1,0,2024,2,1,1,/spielbericht/index/spielbericht/4446800
+2014-08-16 15:30:00,FC 08 Homburg,Borussia Mönchengladbach,17000,1,3,2014,1,4,1,/spielbericht/index/spielbericht/2458308
+2014-10-29 20:30:00,E. Frankfurt,Borussia Mönchengladbach,46500,1,2,2014,2,1,1,/spielbericht/index/spielbericht/2488540
+2015-03-04 20:30:00,K. Offenbach,Borussia Mönchengladbach,20500,0,2,2014,3,4,1,/spielbericht/index/spielbericht/2507894
+2015-08-10 20:30:00,FC St. Pauli,Borussia Mönchengladbach,28175,1,4,2015,1,2,1,/spielbericht/index/spielbericht/2576683
+2015-10-28 20:30:00,FC Schalke 04,Borussia Mönchengladbach,60655,0,2,2015,2,1,1,/spielbericht/index/spielbericht/2615037
+2015-12-15 19:15:00,Borussia Mönchengladbach,Werder Bremen,53106,3,4,2015,3,1,1,/spielbericht/index/spielbericht/2636830
+2016-08-20 15:30:00,Drochtersen/A.,Borussia Mönchengladbach,7000,0,1,2016,1,4,1,/spielbericht/index/spielbericht/2699228
+2016-10-25 20:45:00,Borussia Mönchengladbach,VfB Stuttgart,40452,2,0,2016,2,1,2,/spielbericht/index/spielbericht/2754886
+2017-02-07 20:45:00,Greuther Fürth,Borussia Mönchengladbach,12336,0,2,2016,3,2,1,/spielbericht/index/spielbericht/2770148
+2017-03-01 18:30:00,Hamburger SV,Borussia Mönchengladbach,53249,1,2,2016,4,1,1,/spielbericht/index/spielbericht/2823317
+2017-04-25 20:45:00,Borussia Mönchengladbach,E. Frankfurt,54014,7,8,2016,5,1,1,/spielbericht/index/spielbericht/2835837
+2017-08-11 20:45:00,RW Essen,Borussia Mönchengladbach,18500,1,2,2017,1,4,1,/spielbericht/index/spielbericht/2864797
+2017-10-24 18:30:00,F. Düsseldorf,Borussia Mönchengladbach,52500,0,1,2017,2,2,1,/spielbericht/index/spielbericht/2914244
+2018-08-19 18:30:00,BSC Hastedt,Borussia Mönchengladbach,4997,1,11,2018,1,4,1,/spielbericht/index/spielbericht/3048436
+2019-08-09 21:30:00,SV Sandhausen,Borussia Mönchengladbach,13695,0,1,2019,1,2,1,/spielbericht/index/spielbericht/3195529
+2020-09-12 15:30:00,FC Oberneuland,Borussia Mönchengladbach,300000,0,8,2020,1,4,1,/spielbericht/index/spielbericht/3422929
+2020-12-22 20:45:00,SV Elversberg,Borussia Mönchengladbach,0,0,5,2020,2,4,1,/spielbericht/index/spielbericht/3485237
+2021-02-03 20:45:00,VfB Stuttgart,Borussia Mönchengladbach,0,1,2,2020,3,1,1,/spielbericht/index/spielbericht/3502337
+2021-10-27 20:45:00,Borussia Mönchengladbach,Bayern München,48500,5,0,2021,2,1,1,/spielbericht/index/spielbericht/3651886
+2022-01-19 18:30:00,Hannover 96,Borussia Mönchengladbach,500000,3,0,2021,3,2,1,/spielbericht/index/spielbericht/3690466
+2022-07-31 15:31:00,SV Oberachern,Borussia Mönchengladbach,13558,1,9,2022,1,4,1,/spielbericht/index/spielbericht/3825605
+2022-10-18 20:45:00,Darmstadt 98,Borussia Mönchengladbach,15850,2,1,2022,2,2,1,/spielbericht/index/spielbericht/3918220
+2023-08-11 18:00:00,TuS Bersenbrück,Borussia Mönchengladbach,15741,0,7,2023,1,4,1,/spielbericht/index/spielbericht/4088615
+2023-12-05 20:45:00,Borussia Mönchengladbach,VfL Wolfsburg,39827,1,0,2023,3,1,1,/spielbericht/index/spielbericht/4222799
+2024-08-17 13:00:00,Erzgebirge Aue,Borussia Mönchengladbach,14811,1,3,2024,1,3,1,/spielbericht/index/spielbericht/4353895
+2024-10-30 18:00:00,E. Frankfurt,Borussia Mönchengladbach,58000,2,1,2024,2,1,1,/spielbericht/index/spielbericht/4446794
+2014-08-16 15:30:00,Bremer SV,E. Braunschweig,2901,0,1,2014,1,4,2,/spielbericht/index/spielbericht/2458314
+2015-08-08 15:30:00,Bremer SV,E. Frankfurt,3400,0,3,2015,1,4,1,/spielbericht/index/spielbericht/2576687
+2016-08-21 15:30:00,Bremer SV,Darmstadt 98,1993,0,7,2016,1,4,1,/spielbericht/index/spielbericht/2699122
+2021-08-25 20:15:00,Bremer SV,Bayern München,10093,0,12,2021,1,4,1,/spielbericht/index/spielbericht/3601588
+2022-07-31 13:01:00,Bremer SV,FC Schalke 04,10000,0,5,2022,1,4,2,/spielbericht/index/spielbericht/3825613
+2024-08-18 15:30:00,Bremer SV,SC Paderborn,3500,0,4,2024,1,4,2,/spielbericht/index/spielbericht/4353897
+2018-08-19 15:30:00,BSG Chemie Leipzig,J. Regensburg,4999,2,1,2018,1,4,2,/spielbericht/index/spielbericht/3048424
+2018-10-30 18:30:00,BSG Chemie Leipzig,SC Paderborn,4999,0,3,2018,2,4,2,/spielbericht/index/spielbericht/3096440
+2014-08-17 14:30:00,BSV Schwarz-Weiß Rehden,VfR Aalen,780000,4,5,2014,1,4,2,/spielbericht/index/spielbericht/2458312
+2022-07-31 13:01:00,BSV Schwarz-Weiß Rehden,SV Sandhausen,1500,0,4,2022,1,4,2,/spielbericht/index/spielbericht/3825597
+2014-10-28 19:00:00,Chemnitzer FC,Werder Bremen,10161,0,2,2014,2,3,1,/spielbericht/index/spielbericht/2488526
+2017-08-12 15:30:00,Chemnitzer FC,Bayern München,15015,0,5,2017,1,3,1,/spielbericht/index/spielbericht/2864712
+2019-08-11 18:30:00,Chemnitzer FC,Hamburger SV,13130,7,8,2019,1,3,2,/spielbericht/index/spielbericht/3195530
+2020-09-13 15:30:00,Chemnitzer FC,TSG Hoffenheim,3095,4,5,2020,1,4,1,/spielbericht/index/spielbericht/3422875
+2022-07-30 15:31:00,Einheit Wernigerode,SC Paderborn,3264,0,10,2022,1,4,2,/spielbericht/index/spielbericht/3825598
+2014-10-29 19:00:00,Würzb. Kickers,Eintracht Braunschweig,11240,0,1,2014,2,4,2,/spielbericht/index/spielbericht/2488531
+2015-03-04 20:30:00,Bayern München,Eintracht Braunschweig,75000,2,0,2014,3,1,2,/spielbericht/index/spielbericht/2507895
+2015-08-08 15:30:00,Hallescher FC,Eintracht Braunschweig,9549,0,1,2015,1,3,2,/spielbericht/index/spielbericht/2576665
+2015-10-28 20:30:00,SSV Reutlingen,Eintracht Braunschweig,7524,0,4,2015,2,4,2,/spielbericht/index/spielbericht/2615036
+2015-12-16 19:00:00,VfB Stuttgart,Eintracht Braunschweig,21950,3,2,2015,3,1,2,/spielbericht/index/spielbericht/2636831
+2016-08-20 15:30:00,Würzb. Kickers,Eintracht Braunschweig,6384,1,0,2016,1,2,2,/spielbericht/index/spielbericht/2699114
+2017-08-11 20:45:00,Holstein Kiel,Eintracht Braunschweig,10052,2,1,2017,1,2,2,/spielbericht/index/spielbericht/2864736
+2018-08-20 18:30:00,Eintracht Braunschweig,Hertha BSC,16710,1,2,2018,1,3,1,/spielbericht/index/spielbericht/3048439
+2020-09-11 20:45:00,Eintracht Braunschweig,Hertha BSC,500000,5,4,2020,1,3,1,/spielbericht/index/spielbericht/3404449
+2021-08-08 18:30:00,Eintracht Braunschweig,Hamburger SV,6167,1,2,2021,1,3,2,/spielbericht/index/spielbericht/3601612
+2022-07-31 18:01:00,Eintracht Braunschweig,Hertha BSC,14126,10,9,2022,1,2,1,/spielbericht/index/spielbericht/3825602
+2022-10-18 20:45:00,Eintracht Braunschweig,VfL Wolfsburg,22000,1,2,2022,2,2,1,/spielbericht/index/spielbericht/3918231
+2023-08-11 20:45:00,Eintracht Braunschweig,FC Schalke 04,21800,1,3,2023,1,2,2,/spielbericht/index/spielbericht/4088617
+2024-08-19 20:45:00,Eintracht Braunschweig,E. Frankfurt,21101,1,4,2024,1,2,1,/spielbericht/index/spielbericht/4353894
+2014-08-16 20:30:00,BFC Viktoria 89,Eintracht Frankfurt,10000,0,2,2014,1,4,1,/spielbericht/index/spielbericht/2485834
+2015-10-27 19:00:00,Erzgebirge Aue,Eintracht Frankfurt,10750,1,0,2015,2,3,1,/spielbericht/index/spielbericht/2615033
+2016-10-25 20:45:00,Eintracht Frankfurt,FC Ingolstadt,6300,4,1,2016,2,1,1,/spielbericht/index/spielbericht/2754881
+2017-02-08 20:45:00,Hannover 96,Eintracht Frankfurt,31000,1,2,2016,3,2,1,/spielbericht/index/spielbericht/2770146
+2017-02-28 18:30:00,Eintracht Frankfurt,Arm. Bielefeld,39000,1,0,2016,4,1,2,/spielbericht/index/spielbericht/2823314
+2017-08-12 15:30:00,TuS Erndtebrück,Eintracht Frankfurt,13106,0,3,2017,1,4,1,/spielbericht/index/spielbericht/2864734
+2017-12-20 20:45:00,1.FC Heidenheim,Eintracht Frankfurt,11000,1,2,2017,3,2,1,/spielbericht/index/spielbericht/2957388
+2018-04-18 20:45:00,FC Schalke 04,Eintracht Frankfurt,61891,0,1,2017,5,1,1,/spielbericht/index/spielbericht/3002965
+2018-05-19 20:00:00,Bayern München,Eintracht Frankfurt,74322,1,3,2017,6,1,1,/spielbericht/index/spielbericht/3034033
+2018-08-18 15:30:00,SSV Ulm 1846,Eintracht Frankfurt,18440,2,1,2018,1,4,1,/spielbericht/index/spielbericht/3048442
+2019-08-11 15:30:00,W. Mannheim,Eintracht Frankfurt,24302,3,5,2019,1,3,1,/spielbericht/index/spielbericht/3195531
+2019-10-30 20:45:00,FC St. Pauli,Eintracht Frankfurt,29500,1,2,2019,2,2,1,/spielbericht/index/spielbericht/3245525
+2020-02-04 18:30:00,Eintracht Frankfurt,RB Leipzig,47400,3,1,2019,3,1,1,/spielbericht/index/spielbericht/3279210
+2020-03-04 20:45:00,Eintracht Frankfurt,Werder Bremen,51500,2,0,2019,4,1,1,/spielbericht/index/spielbericht/3319621
+2020-06-10 20:45:00,Bayern München,Eintracht Frankfurt,0,2,1,2019,5,1,1,/spielbericht/index/spielbericht/3332668
+2020-09-12 15:30:00,1860 München,Eintracht Frankfurt,0,1,2,2020,1,3,1,/spielbericht/index/spielbericht/3432868
+2021-08-08 15:30:00,W. Mannheim,Eintracht Frankfurt,12151,2,0,2021,1,3,1,/spielbericht/index/spielbericht/3601601
+2022-10-18 18:00:00,Stuttg. Kickers,Eintracht Frankfurt,10000,0,2,2022,2,4,1,/spielbericht/index/spielbericht/3918234
+2023-02-07 20:45:00,Eintracht Frankfurt,Darmstadt 98,49500,4,2,2022,3,1,2,/spielbericht/index/spielbericht/3949451
+2023-05-03 20:45:00,VfB Stuttgart,Eintracht Frankfurt,47500,2,3,2022,5,1,1,/spielbericht/index/spielbericht/4055298
+2023-06-03 20:00:00,RB Leipzig,Eintracht Frankfurt,74667,2,0,2022,6,1,1,/spielbericht/index/spielbericht/4070233
+2023-11-01 20:45:00,Viktoria Köln,Eintracht Frankfurt,8343,0,2,2023,2,3,1,/spielbericht/index/spielbericht/4194139
+2024-12-04 20:45:00,RB Leipzig,Eintracht Frankfurt,37187,3,0,2024,3,1,1,/spielbericht/index/spielbericht/4485934
+2016-08-21 15:30:00,Eintracht Norderstedt,Greuther Fürth,3650,1,4,2016,1,4,2,/spielbericht/index/spielbericht/2699112
+2017-08-13 15:30:00,Eintracht Norderstedt,VfL Wolfsburg,4500,0,1,2017,1,4,1,/spielbericht/index/spielbericht/2864733
+2021-08-07 15:30:00,Eintracht Norderstedt,Hannover 96,745000,0,4,2021,1,4,2,/spielbericht/index/spielbericht/3601606
+2016-08-20 18:30:00,FC 08 Homburg,VfB Stuttgart,10800,0,3,2016,1,4,2,/spielbericht/index/spielbericht/2699233
+2023-08-14 18:00:00,FC 08 Homburg,Darmstadt 98,6150,3,0,2023,1,4,2,/spielbericht/index/spielbericht/4088586
+2023-10-31 18:00:00,FC 08 Homburg,Greuther Fürth,5230,2,1,2023,2,4,2,/spielbericht/index/spielbericht/4194141
+2023-12-05 20:45:00,FC 08 Homburg,FC St. Pauli,12232,1,4,2023,3,4,2,/spielbericht/index/spielbericht/4222801
+2016-08-20 15:30:00,FC 08 Villingen,FC Schalke 04,14400,1,4,2016,1,4,1,/spielbericht/index/spielbericht/2699231
+2019-08-10 15:30:00,FC 08 Villingen,F. Düsseldorf,8300,1,3,2019,1,4,1,/spielbericht/index/spielbericht/3195534
+2021-08-08 15:30:00,FC 08 Villingen,FC Schalke 04,4992,1,4,2021,1,4,2,/spielbericht/index/spielbericht/3601599
+2015-08-07 20:00:00,SV Elversberg,FC Augsburg,5400,1,3,2015,1,4,1,/spielbericht/index/spielbericht/2576681
+2015-10-28 19:00:00,SC Freiburg,FC Augsburg,19600,0,3,2015,2,2,1,/spielbericht/index/spielbericht/2615044
+2016-08-19 20:45:00,FV Ravensburg,FC Augsburg,7200,0,2,2016,1,4,1,/spielbericht/index/spielbericht/2699123
+2016-10-26 20:45:00,Bayern München,FC Augsburg,73500,3,1,2016,2,1,1,/spielbericht/index/spielbericht/2754880
+2018-08-19 15:30:00,TSV Steinbach,FC Augsburg,4204,1,2,2018,1,4,1,/spielbericht/index/spielbericht/3048417
+2019-02-06 18:30:00,Holstein Kiel,FC Augsburg,11198,0,1,2018,3,2,1,/spielbericht/index/spielbericht/3122481
+2019-04-02 20:45:00,FC Augsburg,RB Leipzig,30000,1,2,2018,4,1,1,/spielbericht/index/spielbericht/3158830
+2019-08-10 15:30:00,SC Verl,FC Augsburg,4198,2,1,2019,1,4,1,/spielbericht/index/spielbericht/3195546
+2020-09-12 15:30:00,MTVE Celle,FC Augsburg,0,0,7,2020,1,4,1,/spielbericht/index/spielbericht/3422928
+2020-12-22 18:30:00,FC Augsburg,RB Leipzig,0,0,3,2020,2,1,1,/spielbericht/index/spielbericht/3485248
+2021-08-07 15:30:00,Greifswalder FC,FC Augsburg,4337,2,4,2021,1,4,1,/spielbericht/index/spielbericht/3601603
+2021-10-27 18:30:00,VfL Bochum,FC Augsburg,15220,7,6,2021,2,1,1,/spielbericht/index/spielbericht/3651885
+2022-10-19 20:45:00,FC Augsburg,Bayern München,30660,2,5,2022,2,1,1,/spielbericht/index/spielbericht/3918227
+2023-08-13 15:30:00,Unterhaching,FC Augsburg,12500,2,0,2023,1,3,1,/spielbericht/index/spielbericht/4088594
+2024-08-18 13:00:00,Viktoria Berlin,FC Augsburg,5504,1,4,2024,1,4,1,/spielbericht/index/spielbericht/4353920
+2024-10-29 18:00:00,FC Augsburg,FC Schalke 04,27411,3,0,2024,2,1,2,/spielbericht/index/spielbericht/4446795
+2024-12-04 20:45:00,Karlsruher SC,FC Augsburg,28422,6,7,2024,3,2,1,/spielbericht/index/spielbericht/4485935
+2025-02-04 20:45:00,VfB Stuttgart,FC Augsburg,59000,1,0,2024,4,1,1,/spielbericht/index/spielbericht/4511625
+2014-08-17 16:00:00,Pr. Münster,FC Bayern München,16797,1,4,2014,1,3,1,/spielbericht/index/spielbericht/2458313
+2014-10-29 20:30:00,Hamburger SV,FC Bayern München,57000,1,3,2014,2,1,1,/spielbericht/index/spielbericht/2488533
+2015-08-09 16:00:00,FC Nöttingen,FC Bayern München,29486,1,3,2015,1,4,1,/spielbericht/index/spielbericht/2576682
+2015-10-27 20:30:00,VfL Wolfsburg,FC Bayern München,30000,1,3,2015,2,1,1,/spielbericht/index/spielbericht/2615047
+2015-12-15 20:30:00,FC Bayern München,Darmstadt 98,70000,1,0,2015,3,1,1,/spielbericht/index/spielbericht/2636827
+2016-02-10 20:30:00,VfL Bochum,FC Bayern München,28000,0,3,2015,4,2,1,/spielbericht/index/spielbericht/2646705
+2016-04-19 20:30:00,FC Bayern München,Werder Bremen,75024,2,0,2015,5,1,1,/spielbericht/index/spielbericht/2664151
+2016-08-19 20:45:00,Carl Zeiss Jena,FC Bayern München,19000,0,5,2016,1,4,1,/spielbericht/index/spielbericht/2699234
+2017-02-07 20:45:00,FC Bayern München,VfL Wolfsburg,73500,1,0,2016,3,1,1,/spielbericht/index/spielbericht/2770147
+2017-03-01 20:45:00,FC Bayern München,FC Schalke 04,75000,3,0,2016,4,1,1,/spielbericht/index/spielbericht/2823316
+2017-10-25 20:45:00,RB Leipzig,FC Bayern München,42558,5,6,2017,2,1,1,/spielbericht/index/spielbericht/2914254
+2018-02-06 18:30:00,SC Paderborn,FC Bayern München,15000,0,6,2017,4,3,1,/spielbericht/index/spielbericht/2988236
+2018-08-18 15:30:00,Drochtersen/A.,FC Bayern München,7800,0,1,2018,1,4,1,/spielbericht/index/spielbericht/3048430
+2018-10-30 20:45:00,SV Rödinghausen,FC Bayern München,16000,1,2,2018,2,4,1,/spielbericht/index/spielbericht/3096438
+2019-02-06 20:45:00,Hertha BSC,FC Bayern München,74200,2,3,2018,3,1,1,/spielbericht/index/spielbericht/3122482
+2019-04-03 18:30:00,FC Bayern München,1.FC Heidenheim,75000,5,4,2018,4,1,2,/spielbericht/index/spielbericht/3158831
+2019-04-24 20:45:00,Werder Bremen,FC Bayern München,42100,2,3,2018,5,1,1,/spielbericht/index/spielbericht/3174557
+2019-05-25 20:00:00,RB Leipzig,FC Bayern München,74322,0,3,2018,6,1,1,/spielbericht/index/spielbericht/3179584
+2019-08-12 20:45:00,Energie Cottbus,FC Bayern München,20602,1,3,2019,1,4,1,/spielbericht/index/spielbericht/3195536
+2019-10-29 20:00:00,VfL Bochum,FC Bayern München,26600,1,2,2019,2,2,1,/spielbericht/index/spielbericht/3245518
+2020-02-05 20:45:00,FC Bayern München,TSG Hoffenheim,71500,4,3,2019,3,1,1,/spielbericht/index/spielbericht/3279216
+2020-03-03 20:45:00,FC Schalke 04,FC Bayern München,62271,0,1,2019,4,1,1,/spielbericht/index/spielbericht/3319620
+2020-10-15 20:45:00,1.FC Düren,FC Bayern München,0,0,3,2020,1,4,1,/spielbericht/index/spielbericht/3422910
+2021-01-13 20:45:00,Holstein Kiel,FC Bayern München,0,8,7,2020,2,2,1,/spielbericht/index/spielbericht/3485247
+2022-08-31 20:46:00,Viktoria Köln,FC Bayern München,50000,0,5,2022,1,3,1,/spielbericht/index/spielbericht/3825616
+2023-04-04 20:45:00,FC Bayern München,SC Freiburg,75000,1,2,2022,4,1,1,/spielbericht/index/spielbericht/4027696
+2023-09-26 20:45:00,Pr. Münster,FC Bayern München,12794,0,4,2023,1,3,1,/spielbericht/index/spielbericht/4088596
+2024-08-16 20:45:00,SSV Ulm 1846,FC Bayern München,17400,0,4,2024,1,2,1,/spielbericht/index/spielbericht/4353910
+2014-08-17 14:30:00,FC Carl Zeiss Jena,Erzgebirge Aue,8745,0,1,2014,1,4,2,/spielbericht/index/spielbericht/2458329
+2015-08-09 14:30:00,FC Carl Zeiss Jena,Hamburger SV,13800,3,2,2015,1,4,1,/spielbericht/index/spielbericht/2576658
+2015-10-28 20:30:00,FC Carl Zeiss Jena,VfB Stuttgart,18000,0,2,2015,2,4,1,/spielbericht/index/spielbericht/2615035
+2018-08-19 18:30:00,FC Carl Zeiss Jena,Union Berlin,10600,2,4,2018,1,3,2,/spielbericht/index/spielbericht/3048434
+2020-09-12 20:45:00,FC Carl Zeiss Jena,Werder Bremen,1600,0,2,2020,1,4,1,/spielbericht/index/spielbericht/3422877
+2021-08-08 15:30:00,FC Carl Zeiss Jena,1.FC Köln,2728,3,5,2021,1,4,1,/spielbericht/index/spielbericht/3601598
+2022-07-30 18:01:00,FC Carl Zeiss Jena,VfL Wolfsburg,6100,0,1,2022,1,4,1,/spielbericht/index/spielbericht/3825614
+2023-08-12 13:00:00,FC Carl Zeiss Jena,Hertha BSC,13000,0,5,2023,1,4,2,/spielbericht/index/spielbericht/4088611
+2014-08-18 18:30:00,FC Energie Cottbus,Hamburger SV,16184,3,6,2014,1,3,2,/spielbericht/index/spielbericht/2458337
+2017-08-13 18:30:00,FC Energie Cottbus,VfB Stuttgart,17516,5,6,2017,1,4,2,/spielbericht/index/spielbericht/2864713
+2018-08-20 18:30:00,FC Energie Cottbus,SC Freiburg,15245,5,7,2018,1,3,1,/spielbericht/index/spielbericht/3048437
+2022-08-01 18:01:00,FC Energie Cottbus,Werder Bremen,20078,1,2,2022,1,4,2,/spielbericht/index/spielbericht/3825612
+2023-08-13 18:00:00,FC Energie Cottbus,SC Paderborn,12469,0,7,2023,1,4,2,/spielbericht/index/spielbericht/4088598
+2024-08-19 18:00:00,FC Energie Cottbus,Werder Bremen,20524,1,3,2024,1,3,1,/spielbericht/index/spielbericht/4353904
+2015-08-08 15:30:00,FC Erzgebirge Aue,Greuther Fürth,6000,1,0,2015,1,3,2,/spielbericht/index/spielbericht/2576674
+2015-12-15 20:30:00,FC Erzgebirge Aue,1.FC Heidenheim,8250,0,2,2015,3,3,2,/spielbericht/index/spielbericht/2636825
+2023-08-12 15:30:00,FC Gütersloh,Holstein Kiel,5259,0,2,2023,1,4,2,/spielbericht/index/spielbericht/4088613
+2016-08-20 18:30:00,FC Hansa Rostock,F. Düsseldorf,18100,0,3,2016,1,3,2,/spielbericht/index/spielbericht/2699106
+2017-08-14 20:45:00,FC Hansa Rostock,Hertha BSC,22400,0,2,2017,1,3,1,/spielbericht/index/spielbericht/2864720
+2018-08-18 20:45:00,FC Hansa Rostock,VfB Stuttgart,24400,2,0,2018,1,3,1,/spielbericht/index/spielbericht/3048440
+2018-10-31 18:30:00,FC Hansa Rostock,1.FC Nürnberg,23900,4,6,2018,2,3,1,/spielbericht/index/spielbericht/3096443
+2019-08-12 18:30:00,FC Hansa Rostock,VfB Stuttgart,24000,0,1,2019,1,3,2,/spielbericht/index/spielbericht/3195541
+2020-09-13 15:30:00,FC Hansa Rostock,VfB Stuttgart,7500,0,1,2020,1,3,2,/spielbericht/index/spielbericht/3422909
+2024-08-18 15:30:00,FC Hansa Rostock,Hertha BSC,25600,1,5,2024,1,3,2,/spielbericht/index/spielbericht/4353914
+2020-09-12 18:30:00,FC Ingolstadt 04,F. Düsseldorf,0,0,1,2020,1,3,1,/spielbericht/index/spielbericht/3404453
+2022-08-01 18:01:00,FC Ingolstadt 04,Darmstadt 98,5208,0,3,2022,1,3,2,/spielbericht/index/spielbericht/3825606
+2017-08-13 15:30:00,FC Nöttingen,VfL Bochum,2700,2,5,2017,1,4,2,/spielbericht/index/spielbericht/2864731
+2019-08-11 15:30:00,FC Oberneuland,Darmstadt 98,2353,1,6,2019,1,4,2,/spielbericht/index/spielbericht/3195539
+2018-08-19 15:30:00,FC Rot-Weiß Koblenz,F. Düsseldorf,7500,0,5,2018,1,4,2,/spielbericht/index/spielbericht/3048418
+2021-08-08 15:30:00,FC Rot-Weiß Koblenz,J. Regensburg,1350,0,3,2021,1,4,2,/spielbericht/index/spielbericht/3601607
+2021-10-26 18:30:00,1860 München,FC Schalke 04,15000,1,0,2021,2,3,2,/spielbericht/index/spielbericht/3651883
+2023-10-31 18:00:00,FC St. Pauli,FC Schalke 04,29546,2,1,2023,2,2,2,/spielbericht/index/spielbericht/4194145
+2024-08-17 15:30:00,VfR Aalen,FC Schalke 04,10850,0,2,2024,1,4,2,/spielbericht/index/spielbericht/4353913
+2024-08-16 18:00:00,Hallescher FC,FC St. Pauli,14000,2,3,2024,1,4,2,/spielbericht/index/spielbericht/4353915
+2024-10-29 18:00:00,RB Leipzig,FC St. Pauli,40478,4,2,2024,2,1,1,/spielbericht/index/spielbericht/4446801
+2022-08-30 20:46:00,FC Teutonia 05 Ottensen,RB Leipzig,13084,0,8,2022,1,4,1,/spielbericht/index/spielbericht/3825592
+2024-08-18 15:30:00,FC Teutonia 05 Ottensen,Darmstadt 98,6487,1,3,2024,1,4,2,/spielbericht/index/spielbericht/4353919
+2019-08-10 15:30:00,FC Viktoria 1889 Berlin,Arm. Bielefeld,4503,0,1,2019,1,4,2,/spielbericht/index/spielbericht/3195544
+2022-07-30 13:01:00,FC Viktoria 1889 Berlin,VfL Bochum,5573,0,3,2022,1,3,1,/spielbericht/index/spielbericht/3825594
+2014-08-16 15:30:00,FC Viktoria Köln,Hertha BSC,5239,2,4,2014,1,4,2,/spielbericht/index/spielbericht/2458321
+2015-08-08 15:30:00,FC Viktoria Köln,Union Berlin,4540,2,1,2015,1,4,2,/spielbericht/index/spielbericht/2576660
+2018-08-19 15:30:00,FC Viktoria Köln,RB Leipzig,4712,1,3,2018,1,4,1,/spielbericht/index/spielbericht/3048433
+2021-08-09 18:30:00,FC Viktoria Köln,TSG Hoffenheim,3402,2,3,2021,1,3,1,/spielbericht/index/spielbericht/3601590
+2023-08-12 15:30:00,FC Viktoria Köln,Werder Bremen,8343,3,2,2023,1,3,1,/spielbericht/index/spielbericht/4088607
+2014-08-16 15:30:00,FC-Astoria Walldorf,Hannover 96,3400,1,3,2014,1,4,2,/spielbericht/index/spielbericht/2458333
+2016-08-21 15:30:00,FC-Astoria Walldorf,VfL Bochum,3000,4,3,2016,1,4,2,/spielbericht/index/spielbericht/2699110
+2016-10-26 18:30:00,FC-Astoria Walldorf,Darmstadt 98,5000,1,0,2016,2,4,1,/spielbericht/index/spielbericht/2754873
+2017-02-07 18:30:00,FC-Astoria Walldorf,Arm. Bielefeld,4000,5,6,2016,3,4,2,/spielbericht/index/spielbericht/2770149
+2014-08-17 16:00:00,Würzb. Kickers,Fortuna Düsseldorf,10500,3,2,2014,1,4,2,/spielbericht/index/spielbericht/2458328
+2015-08-09 16:00:00,RW Essen,Fortuna Düsseldorf,17500,1,3,2015,1,4,2,/spielbericht/index/spielbericht/2576672
+2016-10-26 18:30:00,Hannover 96,Fortuna Düsseldorf,20500,6,1,2016,2,2,2,/spielbericht/index/spielbericht/2754877
+2017-08-12 18:30:00,Arm. Bielefeld,Fortuna Düsseldorf,19825,1,3,2017,1,2,2,/spielbericht/index/spielbericht/2864728
+2020-12-23 18:30:00,RW Essen,Fortuna Düsseldorf,0,3,2,2020,2,4,2,/spielbericht/index/spielbericht/3485235
+2021-08-08 15:30:00,VfL Oldenburg,Fortuna Düsseldorf,4200,0,5,2021,1,4,2,/spielbericht/index/spielbericht/3601610
+2021-10-27 20:45:00,Hannover 96,Fortuna Düsseldorf,11300,3,0,2021,2,2,2,/spielbericht/index/spielbericht/3651884
+2022-07-30 18:01:00,K. Offenbach,Fortuna Düsseldorf,16620,1,4,2022,1,4,2,/spielbericht/index/spielbericht/3825601
+2022-10-19 20:45:00,J. Regensburg,Fortuna Düsseldorf,7892,0,3,2022,2,2,2,/spielbericht/index/spielbericht/3918221
+2023-08-13 15:30:00,FV Illertissen,Fortuna Düsseldorf,3719,1,3,2023,1,4,2,/spielbericht/index/spielbericht/4088591
+2023-10-31 20:45:00,Unterhaching,Fortuna Düsseldorf,10000,3,6,2023,2,3,2,/spielbericht/index/spielbericht/4194142
+2024-01-30 20:45:00,FC St. Pauli,Fortuna Düsseldorf,29546,5,6,2023,4,2,2,/spielbericht/index/spielbericht/4240128
+2024-08-18 18:00:00,Dynamo Dresden,Fortuna Düsseldorf,29660,2,0,2024,1,3,2,/spielbericht/index/spielbericht/4353890
+2016-08-20 20:45:00,FSV Frankfurt,VfL Wolfsburg,5050,1,2,2016,1,3,1,/spielbericht/index/spielbericht/2699229
+2023-08-13 18:00:00,FSV Frankfurt,Hansa Rostock,7374,1,4,2023,1,4,2,/spielbericht/index/spielbericht/4088608
+2014-08-16 15:30:00,FSV Optik Rathenow,FC St. Pauli,4500,1,3,2014,1,4,2,/spielbericht/index/spielbericht/2458310
+2015-08-09 14:30:00,FSV Salmrohr,VfL Bochum,4500,0,5,2015,1,4,2,/spielbericht/index/spielbericht/2576676
+2019-08-11 15:30:00,FSV Salmrohr,Holstein Kiel,2000,0,6,2019,1,4,2,/spielbericht/index/spielbericht/3195508
+2020-09-12 15:30:00,FSV Union Fürstenwalde,VfL Wolfsburg,0,1,4,2020,1,4,1,/spielbericht/index/spielbericht/3422871
+2019-08-10 15:30:00,FSV Wacker Nordhausen,Erzgebirge Aue,4347,1,4,2019,1,4,2,/spielbericht/index/spielbericht/3195549
+2016-08-22 18:30:00,FSV Zwickau,Hamburger SV,10134,0,1,2016,1,3,1,/spielbericht/index/spielbericht/2699126
+2014-08-16 15:30:00,FT Braunschweig,1.FC Köln,9067,0,4,2014,1,4,2,/spielbericht/index/spielbericht/2458336
+2020-09-12 15:30:00,FV Engers 07,VfL Bochum,0,0,3,2020,1,4,2,/spielbericht/index/spielbericht/3422874
+2022-07-31 15:31:00,FV Engers 07,Arm. Bielefeld,3558,1,7,2022,1,4,2,/spielbericht/index/spielbericht/3825587
+2014-08-17 14:30:00,FV Illertissen,Werder Bremen,10205,2,3,2014,1,4,1,/spielbericht/index/spielbericht/2458323
+2022-07-30 15:31:00,FV Illertissen,1.FC Heidenheim,3500,0,2,2022,1,4,2,/spielbericht/index/spielbericht/3825600
+2017-08-12 15:30:00,Germania Halberstadt,SC Freiburg,5037,1,2,2017,1,4,1,/spielbericht/index/spielbericht/2864717
+2016-10-25 20:45:00,Hallescher FC,Hamburger SV,14004,0,4,2016,2,3,1,/spielbericht/index/spielbericht/2754874
+2019-08-12 18:30:00,Hallescher FC,VfL Wolfsburg,13500,3,5,2019,1,3,1,/spielbericht/index/spielbericht/3195524
+2023-08-12 18:00:00,Hallescher FC,Greuther Fürth,11251,0,1,2023,1,3,2,/spielbericht/index/spielbericht/4088587
+2018-08-18 18:30:00,TuS Erndtebrück,Hamburger SV,13588,3,5,2018,1,4,2,/spielbericht/index/spielbericht/3048416
+2018-10-30 20:45:00,Wehen Wiesbaden,Hamburger SV,11170,0,3,2018,2,3,2,/spielbericht/index/spielbericht/3096439
+2019-02-05 18:30:00,Hamburger SV,1.FC Nürnberg,47628,1,0,2018,3,2,1,/spielbericht/index/spielbericht/3122478
+2019-04-02 18:30:00,SC Paderborn,Hamburger SV,15000,0,2,2018,4,2,2,/spielbericht/index/spielbericht/3158829
+2019-04-23 20:45:00,Hamburger SV,RB Leipzig,52365,1,3,2018,5,2,1,/spielbericht/index/spielbericht/3174558
+2019-10-29 18:30:00,Hamburger SV,VfB Stuttgart,45503,1,2,2019,2,2,2,/spielbericht/index/spielbericht/3245524
+2020-09-14 18:30:00,Dynamo Dresden,Hamburger SV,10053,4,1,2020,1,2,2,/spielbericht/index/spielbericht/3404451
+2022-01-18 18:30:00,1.FC Köln,Hamburger SV,750000,4,5,2021,3,1,2,/spielbericht/index/spielbericht/3690468
+2022-03-02 18:30:00,Hamburger SV,Karlsruher SC,25000,5,4,2021,4,2,2,/spielbericht/index/spielbericht/3741197
+2022-04-19 20:45:00,Hamburger SV,SC Freiburg,57000,1,3,2021,5,2,1,/spielbericht/index/spielbericht/3763601
+2022-07-30 15:31:00,SpVgg Bayreuth,Hamburger SV,14700,1,3,2022,1,3,2,/spielbericht/index/spielbericht/3825610
+2022-10-18 18:00:00,RB Leipzig,Hamburger SV,44787,4,0,2022,2,1,2,/spielbericht/index/spielbericht/3918228
+2023-08-13 13:00:00,RW Essen,Hamburger SV,18800,3,4,2023,1,3,2,/spielbericht/index/spielbericht/4088603
+2023-12-06 20:45:00,Hertha BSC,Hamburger SV,58496,8,6,2023,3,2,2,/spielbericht/index/spielbericht/4222800
+2024-08-18 18:00:00,SV Meppen,Hamburger SV,12959,1,7,2024,1,4,2,/spielbericht/index/spielbericht/4353898
+2024-10-30 18:00:00,SC Freiburg,Hamburger SV,34700,2,1,2024,2,1,2,/spielbericht/index/spielbericht/4446790
+2016-08-22 18:30:00,K. Offenbach,Hannover 96,10573,2,3,2016,1,4,2,/spielbericht/index/spielbericht/2699111
+2019-08-12 18:30:00,Karlsruher SC,Hannover 96,11779,2,0,2019,1,2,2,/spielbericht/index/spielbericht/3195537
+2020-09-14 18:30:00,Würzb. Kickers,Hannover 96,0,2,3,2020,1,3,2,/spielbericht/index/spielbericht/3404452
+2020-12-23 20:45:00,Hannover 96,Werder Bremen,0,0,3,2020,2,2,1,/spielbericht/index/spielbericht/3485244
+2022-03-02 18:30:00,Hannover 96,RB Leipzig,25000,0,4,2021,4,2,1,/spielbericht/index/spielbericht/3741198
+2022-07-31 15:31:00,Schott Mainz,Hannover 96,4500,0,3,2022,1,4,2,/spielbericht/index/spielbericht/3825590
+2023-08-11 18:00:00,SV Sandhausen,Hannover 96,4605,7,5,2023,1,3,2,/spielbericht/index/spielbericht/4088588
+2016-08-21 18:30:00,J. Regensburg,Hertha BSC,12526,4,6,2016,1,3,1,/spielbericht/index/spielbericht/2699230
+2016-10-25 20:45:00,FC St. Pauli,Hertha BSC,29123,0,2,2016,2,2,1,/spielbericht/index/spielbericht/2754885
+2014-08-17 14:30:00,Holstein Kiel,1860 München,8408,1,2,2014,1,3,2,/spielbericht/index/spielbericht/2458315
+2015-08-08 20:30:00,Holstein Kiel,VfB Stuttgart,9916,1,2,2015,1,3,1,/spielbericht/index/spielbericht/2576685
+2015-08-09 14:30:00,HSV Barmbek-Uhlenhorst,SC Freiburg,4607,0,5,2015,1,4,2,/spielbericht/index/spielbericht/2576668
+2014-10-28 19:00:00,K. Offenbach,Karlsruher SC,16106,1,0,2014,2,4,2,/spielbericht/index/spielbericht/2488528
+2015-08-08 20:30:00,SSV Reutlingen,Karlsruher SC,8166,3,1,2015,1,4,2,/spielbericht/index/spielbericht/2576677
+2016-08-20 18:30:00,1860 München,Karlsruher SC,16800,2,1,2016,1,2,2,/spielbericht/index/spielbericht/2699113
+2018-08-19 15:30:00,Karlsruher SC,Hannover 96,12234,0,6,2018,1,3,1,/spielbericht/index/spielbericht/3048438
+2019-10-29 20:45:00,Darmstadt 98,Karlsruher SC,11240,0,1,2019,2,2,2,/spielbericht/index/spielbericht/3245514
+2021-08-09 18:30:00,SF Lotte,Karlsruher SC,2001,1,4,2021,1,4,2,/spielbericht/index/spielbericht/3601596
+2022-01-18 18:30:00,1860 München,Karlsruher SC,0,0,1,2021,3,3,2,/spielbericht/index/spielbericht/3690465
+2022-07-29 18:01:00,TSG Neustrelitz,Karlsruher SC,5000,0,8,2022,1,4,2,/spielbericht/index/spielbericht/3825591
+2022-10-19 18:00:00,SV Sandhausen,Karlsruher SC,8644,10,9,2022,2,2,2,/spielbericht/index/spielbericht/3918226
+2024-08-18 18:00:00,SF Lotte,Karlsruher SC,4637,0,5,2024,1,4,2,/spielbericht/index/spielbericht/4353896
+2024-10-29 18:00:00,K. Offenbach,Karlsruher SC,20071,0,2,2024,2,4,2,/spielbericht/index/spielbericht/4446789
+2014-08-18 18:30:00,Kickers Offenbach,FC Ingolstadt,7386,4,2,2014,1,4,2,/spielbericht/index/spielbericht/2458335
+2019-08-10 18:30:00,KSV Baunatal,VfL Bochum,5748,2,3,2019,1,4,2,/spielbericht/index/spielbericht/3195535
+2015-08-09 18:30:00,KSV Hessen Kassel,Hannover 96,18482,0,2,2015,1,4,1,/spielbericht/index/spielbericht/2576684
+2017-08-12 15:30:00,Leher TS Bremerhaven,1.FC Köln,8119,0,5,2017,1,4,1,/spielbericht/index/spielbericht/2864723
+2014-10-28 20:30:00,MSV Duisburg,1.FC Köln,30600,1,4,2014,2,3,1,/spielbericht/index/spielbericht/2488530
+2016-08-21 15:30:00,MSV Duisburg,Union Berlin,14209,1,2,2016,1,3,2,/spielbericht/index/spielbericht/2699115
+2019-08-11 18:30:00,MSV Duisburg,Greuther Fürth,13542,2,0,2019,1,3,2,/spielbericht/index/spielbericht/3195538
+2019-10-29 18:30:00,MSV Duisburg,TSG Hoffenheim,14306,0,2,2019,2,3,1,/spielbericht/index/spielbericht/3245512
+2021-08-08 15:30:00,Preußen Münster,VfL Wolfsburg,6703,2,0,2021,1,4,1,/spielbericht/index/spielbericht/3601615
+2021-10-26 18:30:00,Preußen Münster,Hertha BSC,11037,1,3,2021,2,4,1,/spielbericht/index/spielbericht/3653067
+2024-08-27 20:45:00,Preußen Münster,VfB Stuttgart,12672,0,5,2024,1,2,1,/spielbericht/index/spielbericht/4353893
+2016-08-20 15:30:00,Dynamo Dresden,RB Leipzig,29922,7,6,2016,1,2,2,/spielbericht/index/spielbericht/2699119
+2017-08-13 15:30:00,Dorfmerkingen,RB Leipzig,10460,0,5,2017,1,4,1,/spielbericht/index/spielbericht/2864721
+2018-10-31 20:45:00,RB Leipzig,TSG Hoffenheim,21042,2,0,2018,2,1,1,/spielbericht/index/spielbericht/3096454
+2019-02-06 18:30:00,RB Leipzig,VfL Wolfsburg,21135,1,0,2018,3,1,1,/spielbericht/index/spielbericht/3122485
+2019-08-11 15:30:00,VfL Osnabrück,RB Leipzig,14625,2,3,2019,1,2,1,/spielbericht/index/spielbericht/3195550
+2019-10-30 18:30:00,VfL Wolfsburg,RB Leipzig,17705,1,6,2019,2,1,1,/spielbericht/index/spielbericht/3245522
+2021-02-03 18:30:00,RB Leipzig,VfL Bochum,0,4,0,2020,3,1,2,/spielbericht/index/spielbericht/3502339
+2021-03-03 20:45:00,RB Leipzig,VfL Wolfsburg,0,2,0,2020,4,1,1,/spielbericht/index/spielbericht/3517362
+2021-04-30 20:30:00,Werder Bremen,RB Leipzig,0,1,2,2020,5,1,1,/spielbericht/index/spielbericht/3548061
+2021-08-07 15:30:00,SV Sandhausen,RB Leipzig,4067,0,4,2021,1,2,1,/spielbericht/index/spielbericht/3601595
+2021-10-26 18:30:00,Babelsberg 03,RB Leipzig,6218,0,1,2021,2,4,1,/spielbericht/index/spielbericht/3651882
+2022-01-19 18:30:00,RB Leipzig,Hansa Rostock,1000,2,0,2021,3,1,2,/spielbericht/index/spielbericht/3690469
+2022-05-21 20:00:00,SC Freiburg,RB Leipzig,74322,3,5,2021,6,1,1,/spielbericht/index/spielbericht/3800215
+2023-02-01 18:00:00,RB Leipzig,TSG Hoffenheim,34822,3,1,2022,3,1,1,/spielbericht/index/spielbericht/3949454
+2023-05-02 20:45:00,SC Freiburg,RB Leipzig,33300,1,5,2022,5,1,1,/spielbericht/index/spielbericht/4055297
+2023-09-27 20:45:00,Wehen Wiesbaden,RB Leipzig,12100,2,3,2023,1,2,1,/spielbericht/index/spielbericht/4088609
+2023-10-31 18:00:00,VfL Wolfsburg,RB Leipzig,16030,1,0,2023,2,1,1,/spielbericht/index/spielbericht/4194153
+2024-08-17 15:30:00,RW Essen,RB Leipzig,17000,1,4,2024,1,3,1,/spielbericht/index/spielbericht/4353906
+2025-02-26 20:45:00,RB Leipzig,VfL Wolfsburg,40478,1,0,2024,4,1,1,/spielbericht/index/spielbericht/4511623
+2025-04-02 20:45:00,VfB Stuttgart,RB Leipzig,60000,3,1,2024,5,1,1,/spielbericht/index/spielbericht/4570630
+2016-08-20 15:30:00,Rot-Weiss Essen,Arm. Bielefeld,17500,6,7,2016,1,4,2,/spielbericht/index/spielbericht/2699108
+2020-09-14 18:30:00,Rot-Weiss Essen,Arm. Bielefeld,300000,1,0,2020,1,4,2,/spielbericht/index/spielbericht/3422873
+2021-03-03 18:30:00,Rot-Weiss Essen,Holstein Kiel,0,0,3,2020,4,4,2,/spielbericht/index/spielbericht/3517360
+2017-08-12 18:30:00,Rot-Weiß Erfurt,TSG Hoffenheim,8144,0,1,2017,1,3,1,/spielbericht/index/spielbericht/2864714
+2018-08-18 18:30:00,Rot-Weiß Oberhausen,SV Sandhausen,6072,0,6,2018,1,4,2,/spielbericht/index/spielbericht/3048421
+2014-08-17 16:00:00,Eintracht Trier,SC Freiburg,5292,0,2,2014,1,4,1,/spielbericht/index/spielbericht/2458311
+2014-10-29 19:00:00,1860 München,SC Freiburg,18100,2,5,2014,2,2,1,/spielbericht/index/spielbericht/2488532
+2015-03-03 20:30:00,SC Freiburg,1.FC Köln,18800,2,1,2014,3,1,1,/spielbericht/index/spielbericht/2507900
+2015-04-07 19:00:00,VfL Wolfsburg,SC Freiburg,15237,1,0,2014,4,1,1,/spielbericht/index/spielbericht/2544476
+2016-08-20 15:30:00,Babelsberg 03,SC Freiburg,6341,0,4,2016,1,4,2,/spielbericht/index/spielbericht/2699118
+2016-10-25 18:30:00,SC Freiburg,SV Sandhausen,14600,6,7,2016,2,1,2,/spielbericht/index/spielbericht/2754883
+2017-10-25 20:45:00,SC Freiburg,Dynamo Dresden,17800,3,1,2017,2,1,2,/spielbericht/index/spielbericht/2914253
+2017-12-20 18:30:00,Werder Bremen,SC Freiburg,33519,3,2,2017,3,1,1,/spielbericht/index/spielbericht/2957389
+2018-10-31 20:45:00,Holstein Kiel,SC Freiburg,9361,2,1,2018,2,2,1,/spielbericht/index/spielbericht/3096451
+2020-09-13 18:30:00,W. Mannheim,SC Freiburg,500000,1,2,2020,1,3,1,/spielbericht/index/spielbericht/3422906
+2020-12-23 20:45:00,VfB Stuttgart,SC Freiburg,0,1,0,2020,2,1,1,/spielbericht/index/spielbericht/3485241
+2021-08-08 18:30:00,Würzb. Kickers,SC Freiburg,2820,0,1,2021,1,3,1,/spielbericht/index/spielbericht/3601600
+2021-10-26 20:45:00,VfL Osnabrück,SC Freiburg,12000,4,5,2021,2,3,1,/spielbericht/index/spielbericht/3651881
+2022-01-19 20:45:00,TSG Hoffenheim,SC Freiburg,500000,1,4,2021,3,1,1,/spielbericht/index/spielbericht/3690463
+2022-03-02 20:45:00,VfL Bochum,SC Freiburg,10000,1,2,2021,4,1,1,/spielbericht/index/spielbericht/3741199
+2022-10-19 18:00:00,SC Freiburg,FC St. Pauli,33500,2,1,2022,2,1,2,/spielbericht/index/spielbericht/3918229
+2023-02-07 18:00:00,SV Sandhausen,SC Freiburg,11782,0,2,2022,3,2,1,/spielbericht/index/spielbericht/3949448
+2023-08-13 15:30:00,SV Oberachern,SC Freiburg,24500,0,2,2023,1,4,1,/spielbericht/index/spielbericht/4088614
+2023-11-01 18:00:00,SC Freiburg,SC Paderborn,31500,1,3,2023,2,1,2,/spielbericht/index/spielbericht/4194149
+2024-08-17 15:30:00,VfL Osnabrück,SC Freiburg,15741,0,4,2024,1,3,1,/spielbericht/index/spielbericht/4353916
+2015-08-09 16:00:00,VfB Lübeck,SC Paderborn 07,7558,1,2,2015,1,4,2,/spielbericht/index/spielbericht/2576661
+2016-08-22 18:30:00,SC Paderborn 07,SV Sandhausen,4436,1,2,2016,1,3,2,/spielbericht/index/spielbericht/2699105
+2017-08-14 18:30:00,SC Paderborn 07,FC St. Pauli,12500,2,1,2017,1,3,2,/spielbericht/index/spielbericht/2864722
+2017-10-24 18:30:00,SC Paderborn 07,VfL Bochum,15000,2,0,2017,2,3,2,/spielbericht/index/spielbericht/2914242
+2017-12-19 18:30:00,SC Paderborn 07,FC Ingolstadt,14800,1,0,2017,3,3,2,/spielbericht/index/spielbericht/2957391
+2018-08-20 18:30:00,SC Paderborn 07,FC Ingolstadt,9427,2,1,2018,1,2,2,/spielbericht/index/spielbericht/3048435
+2019-02-05 20:45:00,MSV Duisburg,SC Paderborn 07,12509,1,3,2018,3,2,2,/spielbericht/index/spielbericht/3122483
+2020-09-13 15:30:00,SC Wiedenbrück,SC Paderborn 07,300000,0,5,2020,1,4,1,/spielbericht/index/spielbericht/3426220
+2021-08-06 20:45:00,Dynamo Dresden,SC Paderborn 07,12702,2,1,2021,1,2,2,/spielbericht/index/spielbericht/3601609
+2022-10-19 18:00:00,SC Paderborn 07,Werder Bremen,15000,7,6,2022,2,2,1,/spielbericht/index/spielbericht/3918223
+2023-01-31 18:00:00,SC Paderborn 07,VfB Stuttgart,14000,1,2,2022,3,2,1,/spielbericht/index/spielbericht/3949449
+2024-10-30 18:00:00,SC Paderborn 07,Werder Bremen,15000,0,1,2024,2,2,1,/spielbericht/index/spielbericht/4446797
+2019-10-30 18:30:00,SC Verl,Holstein Kiel,5153,9,8,2019,2,4,2,/spielbericht/index/spielbericht/3245511
+2018-08-19 15:30:00,SC Weiche Flensburg 08,VfL Bochum,3500,1,0,2018,1,4,2,/spielbericht/index/spielbericht/3048423
+2018-10-31 18:30:00,SC Weiche Flensburg 08,Werder Bremen,8637,1,5,2018,2,4,1,/spielbericht/index/spielbericht/3096441
+2021-08-07 15:30:00,SC Weiche Flensburg 08,Holstein Kiel,1700,2,4,2021,1,4,2,/spielbericht/index/spielbericht/3601589
+2014-08-18 20:30:00,SG Dynamo Dresden,FC Schalke 04,29590,2,1,2014,1,3,1,/spielbericht/index/spielbericht/2458317
+2014-10-28 20:30:00,SG Dynamo Dresden,VfL Bochum,28053,2,1,2014,2,3,2,/spielbericht/index/spielbericht/2488529
+2020-12-22 20:45:00,SG Dynamo Dresden,Darmstadt 98,0,0,3,2020,2,3,2,/spielbericht/index/spielbericht/3485238
+2022-07-29 18:01:00,SG Dynamo Dresden,VfB Stuttgart,22644,0,1,2022,1,3,1,/spielbericht/index/spielbericht/3825593
+2024-10-30 20:45:00,SG Dynamo Dresden,Darmstadt 98,30070,2,3,2024,2,3,2,/spielbericht/index/spielbericht/4446788
+2016-08-21 18:30:00,SG Wattenscheid 09,1.FC Heidenheim,3323,1,2,2016,1,4,2,/spielbericht/index/spielbericht/2699116
+2016-08-21 15:30:00,Sportfreunde Lotte,Werder Bremen,10059,2,1,2016,1,3,1,/spielbericht/index/spielbericht/2699127
+2017-02-08 18:30:00,Sportfreunde Lotte,1860 München,10056,2,0,2016,3,3,2,/spielbericht/index/spielbericht/2770144
+2014-08-16 20:30:00,Sportfreunde Siegen,FSV Frankfurt,4226,7,8,2014,1,4,2,/spielbericht/index/spielbericht/2458325
+2021-08-07 15:30:00,SpVgg Bayreuth,Arm. Bielefeld,5000,3,6,2021,1,4,1,/spielbericht/index/spielbericht/3601597
+2014-08-16 15:30:00,SV Waldkirch,SpVgg Greuther Fürth,3820,0,3,2014,1,4,2,/spielbericht/index/spielbericht/2458338
+2017-08-13 15:30:00,SV Morlautern,SpVgg Greuther Fürth,2800,0,5,2017,1,4,2,/spielbericht/index/spielbericht/2864725
+2017-10-24 20:45:00,SpVgg Greuther Fürth,FC Ingolstadt,4925,1,3,2017,2,2,2,/spielbericht/index/spielbericht/2914252
+2020-09-12 15:30:00,Meinerzhagen,SpVgg Greuther Fürth,0,1,6,2020,1,4,2,/spielbericht/index/spielbericht/3426221
+2020-12-22 18:30:00,TSG Hoffenheim,SpVgg Greuther Fürth,0,8,9,2020,2,1,2,/spielbericht/index/spielbericht/3485249
+2021-02-02 20:45:00,Werder Bremen,SpVgg Greuther Fürth,0,2,0,2020,3,1,2,/spielbericht/index/spielbericht/3502338
+2022-07-30 18:01:00,Stuttg. Kickers,SpVgg Greuther Fürth,7280,2,0,2022,1,4,2,/spielbericht/index/spielbericht/3825615
+2024-08-17 13:00:00,Schott Mainz,SpVgg Greuther Fürth,4235,0,2,2024,1,4,2,/spielbericht/index/spielbericht/4353918
+2024-10-29 20:45:00,J. Regensburg,SpVgg Greuther Fürth,11627,1,0,2024,2,2,2,/spielbericht/index/spielbericht/4446798
+2015-08-09 16:00:00,SpVgg Unterhaching,FC Ingolstadt,6500,2,1,2015,1,4,2,/spielbericht/index/spielbericht/2576680
+2015-10-27 20:30:00,SpVgg Unterhaching,RB Leipzig,5000,3,0,2015,2,4,2,/spielbericht/index/spielbericht/2615034
+2017-08-12 15:30:00,SpVgg Unterhaching,1.FC Heidenheim,5000,0,4,2017,1,3,2,/spielbericht/index/spielbericht/2864729
+2017-08-12 18:30:00,SSV Jahn Regensburg,Darmstadt 98,8919,3,1,2017,1,2,2,/spielbericht/index/spielbericht/2864726
+2017-10-25 20:45:00,SSV Jahn Regensburg,1.FC Heidenheim,6678,2,5,2017,2,2,2,/spielbericht/index/spielbericht/2914248
+2020-12-23 20:45:00,Wehen Wiesbaden,SSV Jahn Regensburg,0,2,4,2020,2,3,2,/spielbericht/index/spielbericht/3485239
+2021-02-03 20:45:00,SSV Jahn Regensburg,1.FC Köln,0,6,5,2020,3,2,1,/spielbericht/index/spielbericht/3502336
+2021-04-07 18:30:00,SSV Jahn Regensburg,Werder Bremen,0,0,1,2020,4,2,1,/spielbericht/index/spielbericht/3517361
+2021-10-27 20:45:00,SSV Jahn Regensburg,Hansa Rostock,7360,5,7,2021,2,2,2,/spielbericht/index/spielbericht/3651889
+2024-08-18 15:30:00,SSV Jahn Regensburg,VfL Bochum,12581,1,0,2024,1,2,1,/spielbericht/index/spielbericht/4353892
+2024-12-03 18:00:00,SSV Jahn Regensburg,VfB Stuttgart,15210,0,3,2024,3,2,1,/spielbericht/index/spielbericht/4485936
+2018-08-19 15:30:00,SSV Jeddeloh II,1.FC Heidenheim,4805,2,5,2018,1,4,2,/spielbericht/index/spielbericht/3048431
+2018-10-30 18:30:00,SSV Ulm 1846,F. Düsseldorf,17000,1,5,2018,2,4,1,/spielbericht/index/spielbericht/3096444
+2019-08-10 18:30:00,SSV Ulm 1846,1.FC Heidenheim,16523,0,2,2019,1,4,2,/spielbericht/index/spielbericht/3195552
+2020-09-12 18:30:00,SSV Ulm 1846,Erzgebirge Aue,430000,2,0,2020,1,4,2,/spielbericht/index/spielbericht/3422878
+2020-12-22 18:30:00,SSV Ulm 1846,FC Schalke 04,0,1,3,2020,2,4,1,/spielbericht/index/spielbericht/3485236
+2015-08-08 15:30:00,Stuttgarter Kickers,VfL Wolfsburg,9760,1,4,2015,1,3,1,/spielbericht/index/spielbericht/2576667
+2018-08-18 15:30:00,SV 07 Elversberg,VfL Wolfsburg,5321,0,1,2018,1,4,1,/spielbericht/index/spielbericht/3048425
+2020-09-13 15:30:00,SV 07 Elversberg,FC St. Pauli,500000,4,2,2020,1,4,2,/spielbericht/index/spielbericht/3422926
+2022-10-18 20:45:00,SV 07 Elversberg,VfL Bochum,6911,0,1,2022,2,3,1,/spielbericht/index/spielbericht/3918233
+2024-08-18 15:30:00,VfV Hildesheim,SV 07 Elversberg,5186,0,7,2024,1,4,2,/spielbericht/index/spielbericht/4353901
+2019-08-10 20:45:00,SV Atlas Delmenhorst,Werder Bremen,41500,1,6,2019,1,4,1,/spielbericht/index/spielbericht/3195521
+2023-08-12 15:30:00,SV Atlas Delmenhorst,FC St. Pauli,4999,0,5,2023,1,4,2,/spielbericht/index/spielbericht/4088590
+2021-08-07 18:30:00,SV Babelsberg 03,Greuther Fürth,3030,7,6,2021,1,4,2,/spielbericht/index/spielbericht/3601591
+2014-08-17 20:30:00,SV Darmstadt 98,VfL Wolfsburg,13900,4,5,2014,1,2,1,/spielbericht/index/spielbericht/2458327
+2018-10-30 18:45:00,SV Darmstadt 98,Hertha BSC,15000,0,2,2018,2,2,1,/spielbericht/index/spielbericht/3096457
+2021-02-02 18:30:00,Holstein Kiel,SV Darmstadt 98,0,8,7,2020,3,2,2,/spielbericht/index/spielbericht/3506029
+2021-08-06 20:45:00,1860 München,SV Darmstadt 98,4158,6,5,2021,1,3,2,/spielbericht/index/spielbericht/3601616
+2024-12-03 20:45:00,Werder Bremen,SV Darmstadt 98,40000,1,0,2024,3,1,2,/spielbericht/index/spielbericht/4485933
+2019-08-10 15:30:00,SV Drochtersen/Assel,FC Schalke 04,8000,0,5,2019,1,4,1,/spielbericht/index/spielbericht/3195543
+2018-08-18 15:30:00,SV Linx,1.FC Nürnberg,5600,1,2,2018,1,4,2,/spielbericht/index/spielbericht/3048411
+2015-08-08 15:30:00,SV Meppen,1.FC Köln,13815,0,4,2015,1,4,1,/spielbericht/index/spielbericht/2576662
+2021-08-08 15:30:00,SV Meppen,Hertha BSC,5813,0,1,2021,1,3,1,/spielbericht/index/spielbericht/3601586
+2018-08-18 15:30:00,SV Rödinghausen,Dynamo Dresden,3862,3,2,2018,1,4,2,/spielbericht/index/spielbericht/3048413
+2019-08-11 15:30:00,SV Rödinghausen,SC Paderborn,2236,5,7,2019,1,4,2,/spielbericht/index/spielbericht/3195519
+2022-07-31 15:31:00,SV Rödinghausen,TSG Hoffenheim,1606,0,2,2022,1,4,1,/spielbericht/index/spielbericht/3825599
+2022-07-30 13:01:00,SV Straelen,FC St. Pauli,5874,3,4,2022,1,4,2,/spielbericht/index/spielbericht/3825609
+2020-09-12 15:30:00,SV Todesfelde,VfL Osnabrück,500000,0,1,2020,1,4,2,/spielbericht/index/spielbericht/3422911
+2022-07-31 18:01:00,SV Waldhof Mannheim,Holstein Kiel,13137,5,3,2022,1,3,2,/spielbericht/index/spielbericht/3825607
+2017-08-13 18:30:00,SV Wehen Wiesbaden,Erzgebirge Aue,3005,2,0,2017,1,3,2,/spielbericht/index/spielbericht/2864732
+2017-10-24 18:30:00,SV Wehen Wiesbaden,FC Schalke 04,11373,1,3,2017,2,3,1,/spielbericht/index/spielbericht/2914243
+2018-08-17 20:45:00,SV Wehen Wiesbaden,FC St. Pauli,10007,3,2,2018,1,3,2,/spielbericht/index/spielbericht/3048412
+2020-09-13 18:30:00,SV Wehen Wiesbaden,1.FC Heidenheim,250000,1,0,2020,1,2,2,/spielbericht/index/spielbericht/3404448
+2015-08-08 15:30:00,Würzb. Kickers,SV Werder Bremen,9706,0,2,2015,1,3,1,/spielbericht/index/spielbericht/2576673
+2015-10-28 20:30:00,SV Werder Bremen,1.FC Köln,40052,1,0,2015,2,1,1,/spielbericht/index/spielbericht/2615046
+2017-08-12 20:45:00,Würzb. Kickers,SV Werder Bremen,8090,0,3,2017,1,3,1,/spielbericht/index/spielbericht/2864724
+2017-10-25 20:45:00,SV Werder Bremen,TSG Hoffenheim,31210,1,0,2017,2,1,1,/spielbericht/index/spielbericht/2914250
+2018-08-18 15:30:00,Wormatia Worms,SV Werder Bremen,8000,1,6,2018,1,4,1,/spielbericht/index/spielbericht/3048429
+2019-04-03 20:45:00,FC Schalke 04,SV Werder Bremen,61597,0,2,2018,4,1,1,/spielbericht/index/spielbericht/3158832
+2019-10-30 18:30:00,SV Werder Bremen,1.FC Heidenheim,38663,4,1,2019,2,1,2,/spielbericht/index/spielbericht/3245523
+2014-08-17 14:30:00,USC Paloma,TSG 1899 Hoffenheim,5000,0,9,2014,1,4,1,/spielbericht/index/spielbericht/2458330
+2014-10-29 20:30:00,TSG 1899 Hoffenheim,FSV Frankfurt,11441,5,1,2014,2,1,2,/spielbericht/index/spielbericht/2488534
+2015-03-03 19:00:00,VfR Aalen,TSG 1899 Hoffenheim,8252,0,2,2014,3,2,1,/spielbericht/index/spielbericht/2507896
+2015-08-08 18:00:00,1860 München,TSG 1899 Hoffenheim,17800,2,0,2015,1,2,1,/spielbericht/index/spielbericht/2576686
+2016-10-26 20:45:00,1.FC Köln,TSG 1899 Hoffenheim,43000,2,1,2016,2,1,1,/spielbericht/index/spielbericht/2754879
+2019-08-10 18:30:00,Würzb. Kickers,TSG 1899 Hoffenheim,13090,7,8,2019,1,3,1,/spielbericht/index/spielbericht/3195507
+2021-10-26 18:30:00,TSG 1899 Hoffenheim,Holstein Kiel,5033,5,1,2021,2,1,2,/spielbericht/index/spielbericht/3651888
+2022-10-18 20:45:00,TSG 1899 Hoffenheim,FC Schalke 04,15633,5,1,2022,2,1,1,/spielbericht/index/spielbericht/3918225
+2023-08-14 18:00:00,VfB Lübeck,TSG 1899 Hoffenheim,8100,1,4,2023,1,3,1,/spielbericht/index/spielbericht/4088600
+2024-08-16 18:00:00,Würzb. Kickers,TSG 1899 Hoffenheim,9511,5,7,2024,1,4,1,/spielbericht/index/spielbericht/4353899
+2024-12-04 18:00:00,VfL Wolfsburg,TSG 1899 Hoffenheim,13909,3,0,2024,3,1,1,/spielbericht/index/spielbericht/4485939
+2023-08-12 13:00:00,TSG Balingen,VfB Stuttgart,13400,0,4,2023,1,4,4,/spielbericht/index/spielbericht/4088601
+2017-08-13 15:30:00,TSV 1860 München,FC Ingolstadt,12500,1,2,2017,1,4,2,/spielbericht/index/spielbericht/2864709
+2018-08-19 18:30:00,TSV 1860 München,Holstein Kiel,14200,1,3,2018,1,3,2,/spielbericht/index/spielbericht/3048420
+2020-09-13 15:30:00,TSV Steinbach Haiger,SV Sandhausen,670000,1,2,2020,1,4,2,/spielbericht/index/spielbericht/3422908
+2018-08-18 15:30:00,TuS Dassendorf,MSV Duisburg,3500,0,1,2018,1,4,2,/spielbericht/index/spielbericht/3048426
+2019-08-10 15:30:00,TuS Dassendorf,Dynamo Dresden,5673,0,3,2019,1,4,2,/spielbericht/index/spielbericht/3195533
+2015-08-07 19:00:00,TuS Erndtebrück,Darmstadt 98,7857,0,5,2015,1,4,2,/spielbericht/index/spielbericht/2576657
+2017-08-11 19:00:00,TuS Koblenz,Dynamo Dresden,6300,2,3,2017,1,4,2,/spielbericht/index/spielbericht/2864730
+2024-08-19 18:00:00,TuS Koblenz,VfL Wolfsburg,9447,0,1,2024,1,4,1,/spielbericht/index/spielbericht/4353905
+2023-08-13 15:30:00,TuS Makkabi Berlin,VfL Wolfsburg,5000,0,6,2023,1,4,1,/spielbericht/index/spielbericht/4088592
+2019-08-11 15:30:00,VfB Eichstätt,Hertha BSC,7030,1,5,2019,1,4,1,/spielbericht/index/spielbericht/3195548
+2016-08-19 20:45:00,VfB Lübeck,FC St. Pauli,13300,0,3,2016,1,4,2,/spielbericht/index/spielbericht/2699107
+2019-08-11 15:30:00,VfB Lübeck,FC St. Pauli,11000,6,7,2019,1,4,2,/spielbericht/index/spielbericht/3195547
+2022-07-30 15:31:00,VfB Lübeck,Hansa Rostock,10351,1,0,2022,1,4,2,/spielbericht/index/spielbericht/3825588
+2014-08-16 15:30:00,VfL Bochum,VfB Stuttgart,22694,2,0,2014,1,2,1,/spielbericht/index/spielbericht/2458319
+2021-10-27 20:45:00,VfB Stuttgart,1.FC Köln,26375,0,2,2021,2,1,1,/spielbericht/index/spielbericht/3651892
+2022-10-19 20:45:00,VfB Stuttgart,Arm. Bielefeld,24500,6,0,2022,2,1,2,/spielbericht/index/spielbericht/3918224
+2021-08-07 15:30:00,Wuppertaler SV,VfL Bochum,4490,1,2,2021,1,4,2,/spielbericht/index/spielbericht/3601611
+2015-08-10 18:30:00,VfL Osnabrück,RB Leipzig,10000,0,2,2015,1,3,2,/spielbericht/index/spielbericht/2576664
+2017-08-13 15:30:00,VfL Osnabrück,Hamburger SV,16000,3,1,2017,1,3,1,/spielbericht/index/spielbericht/2864718
+2021-08-07 15:30:00,VfL Osnabrück,Werder Bremen,5341,2,0,2021,1,3,2,/spielbericht/index/spielbericht/3601605
+2014-10-29 20:30:00,VfL Wolfsburg,1.FC Heidenheim,7608,4,1,2014,2,1,2,/spielbericht/index/spielbericht/2488537
+2015-03-04 19:00:00,RB Leipzig,VfL Wolfsburg,43348,0,2,2014,3,2,1,/spielbericht/index/spielbericht/2507897
+2016-10-26 18:30:00,1.FC Heidenheim,VfL Wolfsburg,9200,0,1,2016,2,2,1,/spielbericht/index/spielbericht/2754884
+2017-10-25 18:30:00,VfL Wolfsburg,Hannover 96,15508,1,0,2017,2,1,1,/spielbericht/index/spielbericht/2914249
+2018-02-07 20:46:00,FC Schalke 04,VfL Wolfsburg,50642,1,0,2017,4,1,1,/spielbericht/index/spielbericht/2988237
+2018-10-30 18:30:00,Hannover 96,VfL Wolfsburg,34400,0,2,2018,2,1,1,/spielbericht/index/spielbericht/3096456
+2020-12-23 18:30:00,VfL Wolfsburg,SV Sandhausen,0,4,0,2020,2,1,2,/spielbericht/index/spielbericht/3485250
+2021-02-03 18:30:00,VfL Wolfsburg,FC Schalke 04,0,1,0,2020,3,1,1,/spielbericht/index/spielbericht/3502335
+2020-09-12 15:30:00,VSG Altglienicke,1.FC Köln,300000,0,6,2020,1,4,1,/spielbericht/index/spielbericht/3422907
