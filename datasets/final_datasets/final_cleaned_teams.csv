@@ -1,0 +1,160 @@
+team,stadium_name,total_capacity,lawn_heating,field_length,field_width,link
+Borussia Dortmund,SIGNAL IDUNA PARK,813650.0,True,105.0,68.0,/borussia-dortmund/spielplan/verein/16/saison_id/
+VfL Wolfsburg,Volkswagen Arena,289170.0,True,105.0,68.0,/vfl-wolfsburg/spielplan/verein/82/saison_id/
+FC Bayern München,Allianz Arena,750000.0,True,105.0,68.0,/fc-bayern-munchen/spielplan/verein/27/saison_id/
+Arminia Bielefeld,SchücoArena,273320.0,True,105.0,68.0,/arminia-bielefeld/spielplan/verein/10/saison_id/
+SC Freiburg,Europa-Park Stadion,347000.0,True,105.0,68.0,/sc-freiburg/spielplan/verein/60/saison_id/
+TSG 1899 Hoffenheim,PreZero Arena,301500.0,True,105.0,68.0,/tsg-1899-hoffenheim/spielplan/verein/533/saison_id/
+Borussia Mönchengladbach,Stadion im Borussia-Park,540420.0,True,105.0,68.0,/borussia-monchengladbach/spielplan/verein/18/saison_id/
+Bayer 04 Leverkusen,BayArena,302100.0,True,105.0,68.0,/bayer-04-leverkusen/spielplan/verein/15/saison_id/
+VfR Aalen,CENTUS Arena,145000.0,True,105.14285714285714,67.49350649350649,/vfr-aalen/spielplan/verein/83/saison_id/
+1.FC Kaiserslautern,Fritz-Walter-Stadion,493500.0,True,105.0,68.0,/1-fc-kaiserslautern/spielplan/verein/2/saison_id/
+SG Dynamo Dresden,Rudolf-Harbig-Stadion,3.2123e+16,True,105.0,68.0,/sg-dynamo-dresden/spielplan/verein/129/saison_id/
+1.FC Köln,RheinEnergieSTADION,500000.0,True,105.0,68.0,/1-fc-koln/spielplan/verein/3/saison_id/
+SV Werder Bremen,Weserstadion,421000.0,True,105.0,68.0,/sv-werder-bremen/spielplan/verein/86/saison_id/
+RB Leipzig,Red Bull Arena,470690.0,True,105.0,68.0,/rasenballsport-leipzig/spielplan/verein/23826/saison_id/
+Eintracht Braunschweig,EINTRACHT-Stadion,233250.0,True,105.0,68.0,/eintracht-braunschweig/spielplan/verein/23/saison_id/
+Kickers Offenbach,Stadion am Bieberer Berg,205000.0,True,105.14285714285714,67.49350649350649,/kickers-offenbach/spielplan/verein/107/saison_id/
+Hannover 96,Heinz-von-Heiden-Arena,490000.0,True,105.0,68.0,/hannover-96/spielplan/verein/42/saison_id/
+Chemnitzer FC,Stadion - An der Gellertstraße,152000.0,True,105.14285714285714,67.49350649350649,/chemnitzer-fc/spielplan/verein/21/saison_id/
+Karlsruher SC,BBBank Wildpark,3.219e+16,True,105.0,68.0,/karlsruher-sc/spielplan/verein/48/saison_id/
+Hertha BSC,Olympiastadion Berlin,746670.0,True,105.0,68.0,/hertha-bsc/spielplan/verein/44/saison_id/
+FC St. Pauli,Millerntor-Stadion,295460.0,True,105.0,68.0,/fc-st-pauli/spielplan/verein/35/saison_id/
+SpVgg Greuther Fürth,Sportpark Ronhof | Thomas Sommer,166260.0,True,105.0,68.0,/spvgg-greuther-furth/spielplan/verein/65/saison_id/
+VfL Bochum,Vonovia Ruhrstadion,260000.0,True,105.0,68.0,/vfl-bochum/spielplan/verein/80/saison_id/
+MSV Duisburg,Schauinsland-Reisen-Arena,315020.0,True,105.0,68.0,/msv-duisburg/spielplan/verein/52/saison_id/
+1.FC Magdeburg,Avnet-Arena,300980.0,True,105.0,68.0,/1-fc-magdeburg/spielplan/verein/187/saison_id/
+Würzburger Kickers,AKON ARENA,130900.0,True,105.0,68.0,/wurzburger-kickers/spielplan/verein/1557/saison_id/
+TSV 1860 München,Städtisches Stadion an der Grünwalder Straße,150000.0,True,105.14285714285714,67.49350649350649,/tsv-1860-munchen/spielplan/verein/72/saison_id/
+FC Erzgebirge Aue,Erzgebirgsstadion,155000.0,True,105.0,70.0,/fc-erzgebirge-aue/spielplan/verein/94/saison_id/
+Hamburger SV,Volksparkstadion,570000.0,True,105.0,68.0,/hamburger-sv/spielplan/verein/41/saison_id/
+FSV Frankfurt,PSD Bank Arena,125420.0,True,105.14285714285714,67.49350649350649,/fsv-frankfurt/spielplan/verein/293/saison_id/
+1.FC Heidenheim 1846,Voith-Arena,150000.0,True,105.0,68.0,/1-fc-heidenheim-1846/spielplan/verein/2036/saison_id/
+Eintracht Frankfurt,Deutsche Bank Park,580000.0,True,105.0,68.0,/eintracht-frankfurt/spielplan/verein/24/saison_id/
+1.FSV Mainz 05,Mewa Arena,333050.0,True,105.0,68.0,/1-fsv-mainz-05/spielplan/verein/39/saison_id/
+SV Alemannia Waldalgesheim,Stadion an der Waldstraße,35000.0,False,105.14285714285714,67.49350649350649,/sv-alemannia-waldalgesheim/spielplan/verein/5446/saison_id/
+1.FC Nürnberg,Max-Morlock-Stadion,500000.0,True,105.0,68.0,/1-fc-nurnberg/spielplan/verein/4/saison_id/
+SV Waldkirch,Elztalstadion,5000.0,False,105.14285714285714,67.49350649350649,/sv-waldkirch/spielplan/verein/9487/saison_id/
+FC 08 Homburg,Waldstadion Homburg,164880.0,False,105.0,68.0,/fc-08-homburg/spielplan/verein/459/saison_id/
+FSV Optik Rathenow,Stadion Vogelgesang,50000.0,False,105.14285714285714,67.49350649350649,/fsv-optik-rathenow/spielplan/verein/562/saison_id/
+Bremer SV,Stadion am Panzenberg,80000.0,False,105.14285714285714,67.49350649350649,/bremer-sv/spielplan/verein/1328/saison_id/
+VfB Stuttgart,MHPArena Stuttgart,604490.0,True,105.0,68.0,/vfb-stuttgart/spielplan/verein/79/saison_id/
+FC Viktoria Köln,Sportpark Höhenberg,83430.0,True,105.14285714285714,67.49350649350649,/fc-viktoria-koln/spielplan/verein/1622/saison_id/
+Stuttgarter Kickers,GAZi-Stadion auf der Waldau,115440.0,True,105.0,67.0,/stuttgarter-kickers/spielplan/verein/71/saison_id/
+FT Braunschweig,FT-Stadion im Prinzenpark (A-Platz),35000.0,False,105.14285714285714,67.49350649350649,/ft-braunschweig/spielplan/verein/5460/saison_id/
+FC-Astoria Walldorf,Dietmar-Hopp-Sportpark,50000.0,False,105.14285714285714,67.49350649350649,/fc-astoria-walldorf/spielplan/verein/1348/saison_id/
+SV Wehen Wiesbaden,BRITA-Arena,125180.0,True,105.14285714285714,67.49350649350649,/sv-wehen-wiesbaden/spielplan/verein/108/saison_id/
+BFC Viktoria 89 (- 2013),Friedrich-Ebert-Stadion (Hauptplatz),50000.0,False,109.0,73.0,/bfc-viktoria-89/spielplan/verein/10968/saison_id/
+Sportfreunde Siegen,Leimbachstadion,187160.0,False,105.0,67.0,/sportfreunde-siegen/spielplan/verein/63/saison_id/
+FV Illertissen,Vöhlinstadion im Sportzentrum Nautilla,40000.0,False,105.14285714285714,67.49350649350649,/fv-illertissen/spielplan/verein/1468/saison_id/
+USC Paloma Hamburg,Jonny Rehbein Sportplatz,5000.0,False,105.14285714285714,67.49350649350649,/usc-paloma-hamburg/spielplan/verein/6150/saison_id/
+BSV Schwarz-Weiß Rehden,Waldsportstätten (A-Platz),44640.0,False,105.14285714285714,67.49350649350649,/bsv-schwarz-weiss-rehden/spielplan/verein/5560/saison_id/
+Holstein Kiel,Holstein-Stadion,150340.0,True,104.0,68.0,/holstein-kiel/spielplan/verein/269/saison_id/
+FC Carl Zeiss Jena,ad hoc Arena im Ernst-Abbe-Sportfeld,150000.0,True,105.0,68.0,/fc-carl-zeiss-jena/spielplan/verein/113/saison_id/
+1.FC Neubrandenburg 04,neu.sw-Stadion im Jahn-Sportpark,50000.0,False,105.14285714285714,67.49350649350649,/1-fc-neubrandenburg-04/spielplan/verein/1279/saison_id/
+SV Sandhausen,GP Stadion am Hardtwald,154140.0,True,105.14285714285714,67.49350649350649,/sv-sandhausen/spielplan/verein/254/saison_id/
+Preußen Münster,Preußenstadion,127940.0,True,105.0,68.0,/preussen-munster/spielplan/verein/91/saison_id/
+Fortuna Düsseldorf,MERKUR SPIEL-ARENA,546000.0,True,105.0,68.0,/fortuna-dusseldorf/spielplan/verein/38/saison_id/
+SV Eintracht Trier 05,Moselstadion,102560.0,False,90.0,0.0,/sv-eintracht-trier-05/spielplan/verein/104/saison_id/
+FC Augsburg,WWK ARENA,306600.0,True,105.0,68.0,/fc-augsburg/spielplan/verein/167/saison_id/
+SC Paderborn 07,Home Deluxe Arena,150000.0,True,110.0,70.0,/sc-paderborn-07/spielplan/verein/127/saison_id/
+SV Darmstadt 98,Merck-Stadion am Böllenfalltor,178100.0,True,105.0,68.0,/sv-darmstadt-98/spielplan/verein/105/saison_id/
+1.FC Union Berlin,Stadion An der Alten Försterei,220120.0,True,105.0,68.0,/1-fc-union-berlin/spielplan/verein/89/saison_id/
+FC Ingolstadt 04,Audi Sportpark,152000.0,True,105.0,68.0,/fc-ingolstadt-04/spielplan/verein/4795/saison_id/
+FC Energie Cottbus,LEAG Energie Stadion,206020.0,True,105.0,68.0,/fc-energie-cottbus/spielplan/verein/25/saison_id/
+FC Schalke 04,Veltins-Arena,622710.0,True,105.0,68.0,/fc-schalke-04/spielplan/verein/33/saison_id/
+SpVgg Unterhaching,Uhlsport Park,150530.0,True,105.0,68.0,/spvgg-unterhaching/spielplan/verein/66/saison_id/
+SSV Reutlingen 05,Stadion an der Kreuzeiche,152280.0,True,105.14285714285714,67.49350649350649,/ssv-reutlingen-05/spielplan/verein/68/saison_id/
+BFC Dynamo,Sportforum Hohenschönhausen,45000.0,False,110.0,72.0,/bfc-dynamo/spielplan/verein/222/saison_id/
+TuS Erndtebrück,Pulverwaldstadion,30000.0,False,105.14285714285714,67.49350649350649,/tus-erndtebruck/spielplan/verein/5263/saison_id/
+SV 07 Elversberg,Ursapharm-Arena an der Kaiserlinde,100000.0,True,105.0,68.0,/sv-07-elversberg/spielplan/verein/64/saison_id/
+Sportfreunde Lotte,Stadion am Lotter Kreuz,100590.0,True,105.0,68.0,/sportfreunde-lotte/spielplan/verein/668/saison_id/
+Hallescher FC,Leuna-Chemie-Stadion,150570.0,True,105.0,68.0,/hallescher-fc/spielplan/verein/440/saison_id/
+SV Meppen,Hänsch-Arena,132410.0,True,105.0,68.0,/sv-meppen/spielplan/verein/247/saison_id/
+HSV Barmbek-Uhlenhorst,Stadion an der Dieselstraße,30000.0,False,105.14285714285714,67.49350649350649,/hsv-barmbek-uhlenhorst/spielplan/verein/1481/saison_id/
+Bahlinger SC,Kaiserstuhlstadion,50000.0,False,105.14285714285714,67.49350649350649,/bahlinger-sc/spielplan/verein/1193/saison_id/
+FSV Salmrohr,Salmtalstadion,75000.0,False,105.0,68.0,/fsv-salmrohr/spielplan/verein/442/saison_id/
+FC Nöttingen,Kleiner Arena,38000.0,False,105.14285714285714,67.49350649350649,/fc-nottingen/spielplan/verein/1203/saison_id/
+FK Pirmasens,Framas Stadion,99990.0,False,105.14285714285714,67.49350649350649,/fk-pirmasens/spielplan/verein/726/saison_id/
+Rot-Weiss Essen,Stadion an der Hafenstraße,199620.0,True,105.0,68.0,/rot-weiss-essen/spielplan/verein/56/saison_id/
+VfB Lübeck,Stadion an der Lohmühle,104340.0,True,105.14285714285714,67.49350649350649,/vfb-lubeck/spielplan/verein/78/saison_id/
+KSV Hessen Kassel,Auestadion,187370.0,False,106.0,65.0,/ksv-hessen-kassel/spielplan/verein/373/saison_id/
+FC Hansa Rostock,Ostseestadion,290000.0,True,120.0,80.0,/fc-hansa-rostock/spielplan/verein/30/saison_id/
+VfL Osnabrück,Bremer Brücke,1.6097999999999998e+16,True,105.0,68.0,/vfl-osnabruck/spielplan/verein/81/saison_id/
+FV Ravensburg,cteam arena,30000.0,False,105.14285714285714,67.49350649350649,/fv-ravensburg/spielplan/verein/10780/saison_id/
+SV Babelsberg 03,Karl-Liebknecht-Stadion,107870.0,False,105.14285714285714,67.49350649350649,/sv-babelsberg-03/spielplan/verein/90/saison_id/
+BFC Preussen,Preussenstadion Malteserstraße (Hauptplatz),70000.0,False,98.0,74.0,/bfc-preussen/spielplan/verein/4700/saison_id/
+SV Drochtersen/Assel,Kehdinger Stadion,25000.0,False,105.14285714285714,67.49350649350649,/sv-drochtersen-assel/spielplan/verein/10213/saison_id/
+FC 08 Villingen,MS-Technologie-Arena,120000.0,False,105.14285714285714,67.49350649350649,/fc-08-villingen/spielplan/verein/951/saison_id/
+1.FC Germania Egestorf/Langreder,Stadion an der Ammerke,30000.0,False,105.14285714285714,67.49350649350649,/1-fc-germania-egestorf-langreder/spielplan/verein/10381/saison_id/
+SC Hauenstein,Stadion am Neding,35000.0,False,105.14285714285714,67.49350649350649,/sc-hauenstein/spielplan/verein/2162/saison_id/
+Eintracht Norderstedt,Edmund-Plambeck-Stadion,50680.0,False,105.14285714285714,67.49350649350649,/eintracht-norderstedt/spielplan/verein/117/saison_id/
+SG Wattenscheid 09,Lohrheidestadion,162330.0,False,105.14285714285714,67.49350649350649,/sg-wattenscheid-09/spielplan/verein/97/saison_id/
+SSV Jahn Regensburg,Jahnstadion Regensburg,152100.0,True,105.0,68.0,/ssv-jahn-regensburg/spielplan/verein/109/saison_id/
+FSV Zwickau,GGZ-Arena,101340.0,True,105.14285714285714,67.49350649350649,/fsv-zwickau/spielplan/verein/275/saison_id/
+1.FC Schweinfurt 05,Sachs-Stadion,165000.0,False,105.0,68.0,/1-fc-schweinfurt-05/spielplan/verein/103/saison_id/
+TuS Koblenz,Stadion Oberwerth,95000.0,True,105.0,68.0,/tus-koblenz/spielplan/verein/996/saison_id/
+Germania Halberstadt,Friedensstadion,50000.0,False,105.14285714285714,67.49350649350649,/germania-halberstadt/spielplan/verein/364/saison_id/
+Leher TS Bremerhaven,Bezirkssportanlage Speckenbüttel Platz 2,6000.0,False,105.14285714285714,67.49350649350649,/leher-ts-bremerhaven/spielplan/verein/9470/saison_id/
+1.FC Rielasingen-Arlen,Sportanlage an den Talwiesen Fußballplatz 2,17600.0,False,105.14285714285714,67.49350649350649,/1-fc-rielasingen-arlen/spielplan/verein/24718/saison_id/
+SV Eichede,Ernst-Wagener-Stadion,30000.0,False,105.14285714285714,67.49350649350649,/sv-eichede/spielplan/verein/4882/saison_id/
+Lüneburger SK Hansa,Sportanlage Sülzwiesen (A-Platz),40000.0,False,105.14285714285714,67.49350649350649,/luneburger-sk-hansa/spielplan/verein/18324/saison_id/
+Rot-Weiß Erfurt,Steigerwaldstadion,187110.0,True,105.0,68.0,/rot-weiss-erfurt/spielplan/verein/111/saison_id/
+Bonner SC,Sportpark Nord,101640.0,False,100.0,68.0,/bonner-sc/spielplan/verein/215/saison_id/
+SV Morlautern,Stadion am Kieferberg,10000.0,False,105.14285714285714,67.49350649350649,/sv-morlautern/spielplan/verein/26837/saison_id/
+Sportfreunde Dorfmerkingen,Ingenieurbeton Röser Arena,20000.0,False,105.14285714285714,67.49350649350649,/sportfreunde-dorfmerkingen/spielplan/verein/1410/saison_id/
+1.FC Saarbrücken,Ludwigsparkstadion,160030.0,True,105.14285714285714,67.49350649350649,/1-fc-saarbrucken/spielplan/verein/1/saison_id/
+BSG Chemie Leipzig,Alfred-Kunze-Sportpark,49990.0,False,104.0,62.0,/bsg-chemie-leipzig/spielplan/verein/9572/saison_id/
+SSV Ulm 1846,Donaustadion,174000.0,True,105.0,68.0,/ssv-ulm-1846/spielplan/verein/69/saison_id/
+SV Rödinghausen,Häcker Wiehenstadion,31400.0,False,105.0,68.0,/sv-rodinghausen/spielplan/verein/26957/saison_id/
+SC Weiche Flensburg 08,Manfred-Werner-Stadion,25000.0,False,105.14285714285714,67.49350649350649,/sc-weiche-flensburg-08/spielplan/verein/10284/saison_id/
+VfR Wormatia Worms,EWR-Arena Worms,56240.0,False,105.14285714285714,67.49350649350649,/vfr-wormatia-worms/spielplan/verein/158/saison_id/
+SV Linx,Hans-Weber Stadion,30000.0,False,105.14285714285714,67.49350649350649,/sv-linx/spielplan/verein/657/saison_id/
+1.CfR Pforzheim,KRAMSKI-ARENA,65000.0,False,105.14285714285714,67.49350649350649,/1-cfr-pforzheim/spielplan/verein/30006/saison_id/
+TuS Dassendorf,Sportanlage Wendelweg,25000.0,False,105.14285714285714,67.49350649350649,/tus-dassendorf/spielplan/verein/907/saison_id/
+Rot-Weiß Oberhausen,Stadion Niederrhein,171650.0,True,110.0,75.0,/rot-weiss-oberhausen/spielplan/verein/57/saison_id/
+1.FC Lok Stendal,Stadion am Hölzchen,65000.0,False,105.14285714285714,67.49350649350649,/1-fc-lok-stendal/spielplan/verein/4043/saison_id/
+TSV Steinbach,SIBRE-Sportzentrum Haarwasen,49700.0,False,105.14285714285714,67.49350649350649,/tsv-steinbach-haiger/spielplan/verein/39470/saison_id/
+TuS Rot-Weiß Koblenz,Stadion Oberwerth,95000.0,True,105.0,68.0,/tus-rot-weiss-koblenz/spielplan/verein/22327/saison_id/
+SSV Jeddeloh II,HASKAMP-Arena,20000.0,False,105.14285714285714,67.49350649350649,/ssv-jeddeloh-ii/spielplan/verein/6776/saison_id/
+BSC Hastedt,Sportanlage Jakobsberg,3000.0,False,105.14285714285714,67.49350649350649,/bsc-hastedt/spielplan/verein/29638/saison_id/
+SC Verl,SPORTCLUB Arena,51530.0,False,105.14285714285714,67.49350649350649,/sc-verl/spielplan/verein/93/saison_id/
+KFC Uerdingen 05,Grotenburg-Stadion,345000.0,True,105.14285714285714,67.49350649350649,/kfc-uerdingen-05/spielplan/verein/95/saison_id/
+Alemannia Aachen,Tivoli,329600.0,True,105.0,68.0,/alemannia-aachen/spielplan/verein/8/saison_id/
+FC Viktoria 1889 Berlin,Stadion Lichterfelde,36000.0,False,108.0,70.0,/fc-viktoria-1889-berlin/spielplan/verein/40373/saison_id/
+FSV Wacker Nordhausen,Albert-Kuntz-Sportpark Platz 3,15000.0,False,105.14285714285714,67.49350649350649,/fsv-wacker-nordhausen/spielplan/verein/490/saison_id/
+KSV Baunatal,Parkstadion,75780.0,False,105.0,67.0,/ksv-baunatal/spielplan/verein/1315/saison_id/
+SV Atlas Delmenhorst,Städtisches Stadion (Platz A),49990.0,False,105.14285714285714,67.49350649350649,/sv-atlas-delmenhorst/spielplan/verein/29988/saison_id/
+FC Oberneuland,Marko Mock Arena,50500.0,False,105.14285714285714,67.49350649350649,/fc-oberneuland/spielplan/verein/115/saison_id/
+VfB Eichstätt,Liqui Moly Stadion,30000.0,False,105.14285714285714,67.49350649350649,/vfb-eichstatt/spielplan/verein/5646/saison_id/
+SV Waldhof Mannheim,Carl-Benz-Stadion,257210.0,False,105.14285714285714,67.49350649350649,/sv-waldhof-mannheim/spielplan/verein/85/saison_id/
+TSV Havelse,Wilhelm-Langrehr-Stadion,35000.0,False,105.0,70.0,/tsv-havelse/spielplan/verein/476/saison_id/
+SV Todesfelde,Joda-Sportpark,15000.0,False,105.14285714285714,67.49350649350649,/sv-todesfelde/spielplan/verein/7025/saison_id/
+VSG Altglienicke,HOWOGE-Arena „Hans Zoschke“,99000.0,False,105.14285714285714,67.49350649350649,/vsg-altglienicke/spielplan/verein/17847/saison_id/
+RSV Meinerzhagen,Stadion an der Oststraße,80000.0,False,105.14285714285714,67.49350649350649,/rsv-meinerzhagen/spielplan/verein/1931/saison_id/
+MTV Eintracht Celle,Immobilien-Wilharm-Arena,20000.0,False,105.14285714285714,67.49350649350649,/mtv-eintracht-celle/spielplan/verein/17835/saison_id/
+FV Engers 07,Stadion am Wasserturm,40000.0,False,105.14285714285714,67.49350649350649,/fv-engers-07/spielplan/verein/2085/saison_id/
+FSV Union Fürstenwalde,Bonava-Arena,50000.0,False,105.14285714285714,67.49350649350649,/fsv-union-furstenwalde/spielplan/verein/5300/saison_id/
+SC Wiedenbrück,Jahnstadion,25500.0,False,108.0,69.0,/sc-wiedenbruck/spielplan/verein/4955/saison_id/
+1.FC Düren,Westkampfbahn,60000.0,False,105.14285714285714,67.49350649350649,/1-fc-duren/spielplan/verein/67453/saison_id/
+Greifswalder FC,Volksstadion Greifswald,49000.0,False,105.14285714285714,67.49350649350649,/greifswalder-fc/spielplan/verein/48991/saison_id/
+SpVgg Bayreuth,Hans-Walter-Wild-Stadion,215000.0,True,105.14285714285714,67.49350649350649,/spvgg-bayreuth/spielplan/verein/752/saison_id/
+1. FC Lokomotive Leipzig,Bruno-Plache-Stadion,123210.0,False,104.0,68.0,/1-fc-lokomotive-leipzig/spielplan/verein/497/saison_id/
+Wuppertaler SV,Stadion am Zoo,230670.0,True,105.0,68.0,/wuppertaler-sv/spielplan/verein/299/saison_id/
+VfL Oldenburg,Hans-Prull-Stadion,35000.0,False,105.14285714285714,67.49350649350649,/vfl-oldenburg/spielplan/verein/6128/saison_id/
+Türkgücü München,Stadion im ATS-Sportpark,28000.0,False,105.14285714285714,67.49350649350649,/turkgucu-munchen/spielplan/verein/12456/saison_id/
+1.FC Kaan-Marienborn,Herkules Arena,40000.0,False,105.14285714285714,67.49350649350649,/1-fc-kaan-marienborn/spielplan/verein/10226/saison_id/
+TSG Neustrelitz,Parkstadion,70000.0,False,105.14285714285714,67.49350649350649,/tsg-neustrelitz/spielplan/verein/1151/saison_id/
+SV Straelen,Stadion Römerstraße,35000.0,False,105.14285714285714,67.49350649350649,/sv-straelen/spielplan/verein/1068/saison_id/
+Einheit Wernigerode,Mannsberg-Stadion,40000.0,False,105.14285714285714,67.49350649350649,/einheit-wernigerode/spielplan/verein/7021/saison_id/
+TSV Schott Mainz,Bezirkssportanlage Mainz-Mombach,25000.0,False,105.14285714285714,67.49350649350649,/tsv-schott-mainz/spielplan/verein/9695/saison_id/
+SV Oberachern,Waldsee-Stadion,16000.0,False,105.14285714285714,67.49350649350649,/sv-oberachern/spielplan/verein/8354/saison_id/
+Blau-Weiß Lohne,Heinz-Dettmer-Stadion,60000.0,False,105.14285714285714,67.49350649350649,/blau-weiss-lohne/spielplan/verein/4883/saison_id/
+FC Teutonia 05 Ottensen,Stadion Hoheluft,50040.0,False,105.14285714285714,67.49350649350649,/fc-teutonia-05-ottensen/spielplan/verein/14361/saison_id/
+TuS Bersenbrück,Hasestadion (A-Platz),30000.0,False,105.14285714285714,67.49350649350649,/tus-bersenbruck/spielplan/verein/18603/saison_id/
+TSG Balingen,Bizerba-Arena (Spielfeld 1),80000.0,False,105.14285714285714,67.49350649350649,/tsg-balingen/spielplan/verein/834/saison_id/
+FC Gütersloh,Ohlendorf Stadion im Heidewald,125000.0,False,105.0,68.0,/fc-gutersloh/spielplan/verein/220/saison_id/
+Rostocker FC 1895,Sportplatz Damerower Weg,20000.0,False,105.14285714285714,67.49350649350649,/rostocker-fc-1895/spielplan/verein/5647/saison_id/
+TuS Makkabi Berlin,Julius-Hirsch-Sportanlage,35000.0,False,105.14285714285714,67.49350649350649,/tus-makkabi-berlin/spielplan/verein/5008/saison_id/
+1.FC Phönix Lübeck,Buniamshof,85490.0,False,105.14285714285714,67.49350649350649,/1-fc-phonix-lubeck/spielplan/verein/2773/saison_id/
+VfV Borussia 06 Hildesheim,Friedrich-Ebert-Stadion,100000.0,False,105.0,66.0,/vfv-borussia-06-hildesheim/spielplan/verein/2540/saison_id/
