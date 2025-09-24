@@ -1,8 +1,8 @@
 datetime,home_team,away_team,participants,home_score,away_score,season,round,home_division,away_division,match_link,month
 8/15/2014 19:00,Chemnitzer FC,1.FSV Mainz 05,10287,10,9,2014,1,3,1,/spielbericht/index/spielbericht/2458309,8
-8/15/2014 20:00,MSV Duisburg,1.FC NÃ¼rnberg,18108,1,0,2014,1,3,2,/spielbericht/index/spielbericht/2458320,8
+8/15/2014 20:00,MSV Duisburg,FC Nuremberg,18108,1,0,2014,1,3,2,/spielbericht/index/spielbericht/2458320,8
 8/16/2014 15:30,VfL Bochum,VfB Stuttgart,22694,2,0,2014,1,2,1,/spielbericht/index/spielbericht/2458319,8
-8/17/2014 16:00,WÃ¼rzb. Kickers,Fortuna DÃ¼sseldorf,10500,3,2,2014,1,4,2,/spielbericht/index/spielbericht/2458328,8
+8/17/2014 16:00,Würzburger Kickers,Fortuna Düsseldorf,10500,3,2,2014,1,4,2,/spielbericht/index/spielbericht/2458328,8
 8/17/2014 16:00,Arminia Bielefeld,SV Sandhausen,7305,4,1,2014,1,3,2,/spielbericht/index/spielbericht/2458332,8
 8/17/2014 18:30,1.FC Magdeburg,FC Augsburg,17854,1,0,2014,1,4,1,/spielbericht/index/spielbericht/2458318,8
 8/18/2014 18:30,Kickers Offenbach,FC Ingolstadt,7386,4,2,2014,1,4,2,/spielbericht/index/spielbericht/2458335,8
@@ -11,14 +11,14 @@ datetime,home_team,away_team,participants,home_score,away_score,season,round,hom
 10/28/2014 19:00,Arminia Bielefeld,Hertha BSC,23098,4,2,2014,2,3,1,/spielbericht/index/spielbericht/2488527,10
 10/28/2014 20:30,SG Dynamo Dresden,VfL Bochum,28053,2,1,2014,2,3,2,/spielbericht/index/spielbericht/2488529,10
 3/4/2015 19:00,Arminia Bielefeld,Werder Bremen,26137,3,1,2014,3,3,1,/spielbericht/index/spielbericht/2507898,3
-4/8/2015 19:00,Arminia Bielefeld,Borussia MÃ¶nchengladbach,26137,6,5,2014,4,3,1,/spielbericht/index/spielbericht/2544477,4
-8/8/2015 15:30,FC Viktoria KÃ¶ln,Union Berlin,4540,2,1,2015,1,4,2,/spielbericht/index/spielbericht/2576660,8
-8/8/2015 15:30,FC Erzgebirge Aue,Greuther FÃ¼rth,6000,1,0,2015,1,3,2,/spielbericht/index/spielbericht/2576674,8
-8/8/2015 18:00,1860 MÃ¼nchen,TSG 1899 Hoffenheim,17800,2,0,2015,1,2,1,/spielbericht/index/spielbericht/2576686,8
+4/8/2015 19:00,Arminia Bielefeld,Borussia Mönchengladbach,26137,6,5,2014,4,3,1,/spielbericht/index/spielbericht/2544477,4
+8/8/2015 15:30,FC Viktoria Köln,Union Berlin,4540,2,1,2015,1,4,2,/spielbericht/index/spielbericht/2576660,8
+8/8/2015 15:30,FC Erzgebirge Aue,Greuther Fürth,6000,1,0,2015,1,3,2,/spielbericht/index/spielbericht/2576674,8
+8/8/2015 18:00,1860 München,TSG 1899 Hoffenheim,17800,2,0,2015,1,2,1,/spielbericht/index/spielbericht/2576686,8
 8/8/2015 20:30,SSV Reutlingen,Karlsruher SC,8166,3,1,2015,1,4,2,/spielbericht/index/spielbericht/2576677,8
 8/9/2015 14:30,FC Carl Zeiss Jena,Hamburger SV,13800,3,2,2015,1,4,1,/spielbericht/index/spielbericht/2576658,8
 8/9/2015 16:00,SpVgg Unterhaching,FC Ingolstadt,6500,2,1,2015,1,4,2,/spielbericht/index/spielbericht/2576680,8
-10/27/2015 19:00,1.FSV Mainz 05,1860 MÃ¼nchen,17017,1,2,2015,2,1,2,/spielbericht/index/spielbericht/2615041,10
+10/27/2015 19:00,1.FSV Mainz 05,1860 München,17017,1,2,2015,2,1,2,/spielbericht/index/spielbericht/2615041,10
 10/27/2015 19:00,Erzgebirge Aue,Eintracht Frankfurt,10750,1,0,2015,2,3,1,/spielbericht/index/spielbericht/2615033,10
 10/27/2015 20:30,SpVgg Unterhaching,RB Leipzig,5000,3,0,2015,2,4,2,/spielbericht/index/spielbericht/2615034,10
 8/20/2016 15:30,Hallescher FC,1.FC Kaiserslautern,10021,4,3,2016,1,3,2,/spielbericht/index/spielbericht/2699235,8
@@ -27,9 +27,9 @@ datetime,home_team,away_team,participants,home_score,away_score,season,round,hom
 10/25/2016 18:30,SC Freiburg,SV Sandhausen,14600,6,7,2016,2,1,2,/spielbericht/index/spielbericht/2754883,10
 10/25/2016 18:30,SF Lotte,Bayer 04 Leverkusen,8763,6,5,2016,2,3,1,/spielbericht/index/spielbericht/2754875,10
 10/26/2016 18:30,FC-Astoria Walldorf,Darmstadt 98,5000,1,0,2016,2,4,1,/spielbericht/index/spielbericht/2754873,10
-10/26/2016 18:30,Greuther FÃ¼rth,1.FSV Mainz 05,5975,2,1,2016,2,2,1,/spielbericht/index/spielbericht/2754887,10
-2/8/2017 18:30,Sportfreunde Lotte,1860 MÃ¼nchen,10056,2,0,2016,3,3,2,/spielbericht/index/spielbericht/2770144,2
-8/13/2017 15:30,VfL OsnabrÃ¼ck,Hamburger SV,16000,3,1,2017,1,3,1,/spielbericht/index/spielbericht/2864718,8
+10/26/2016 18:30,Greuther Fürth,1.FSV Mainz 05,5975,2,1,2016,2,2,1,/spielbericht/index/spielbericht/2754887,10
+2/8/2017 18:30,Sportfreunde Lotte,1860 München,10056,2,0,2016,3,3,2,/spielbericht/index/spielbericht/2770144,2
+8/13/2017 15:30,VfL Osnabrück,Hamburger SV,16000,3,1,2017,1,3,1,/spielbericht/index/spielbericht/2864718,8
 8/13/2017 15:30,1.FC Schweinfurt 05,SV Sandhausen,4610,2,1,2017,1,4,2,/spielbericht/index/spielbericht/2864715,8
 8/13/2017 18:30,SV Wehen Wiesbaden,Erzgebirge Aue,3005,2,0,2017,1,3,2,/spielbericht/index/spielbericht/2864732,8
 8/13/2017 18:30,1.FC Magdeburg,FC Augsburg,21641,2,0,2017,1,3,1,/spielbericht/index/spielbericht/2864719,8
@@ -38,69 +38,69 @@ datetime,home_team,away_team,participants,home_score,away_score,season,round,hom
 12/19/2017 18:30,SC Paderborn 07,FC Ingolstadt,14800,1,0,2017,3,3,2,/spielbericht/index/spielbericht/2957391,12
 8/17/2018 20:45,SV Wehen Wiesbaden,FC St. Pauli,10007,3,2,2018,1,3,2,/spielbericht/index/spielbericht/3048412,8
 8/18/2018 15:30,SSV Ulm 1846,Eintracht Frankfurt,18440,2,1,2018,1,4,1,/spielbericht/index/spielbericht/3048442,8
-8/18/2018 15:30,SV RÃ¶dinghausen,Dynamo Dresden,3862,3,2,2018,1,4,2,/spielbericht/index/spielbericht/3048413,8
+8/18/2018 15:30,SV Rödinghausen,Dynamo Dresden,3862,3,2,2018,1,4,2,/spielbericht/index/spielbericht/3048413,8
 8/18/2018 20:45,FC Hansa Rostock,VfB Stuttgart,24400,2,0,2018,1,3,1,/spielbericht/index/spielbericht/3048440,8
-8/19/2018 15:30,BSG Chemie Leipzig,J. Regensburg,4999,2,1,2018,1,4,2,/spielbericht/index/spielbericht/3048424,8
+8/19/2018 15:30,BSG Chemie Leipzig,SSV Jahn Regensburg,4999,2,1,2018,1,4,2,/spielbericht/index/spielbericht/3048424,8
 8/19/2018 15:30,SC Weiche Flensburg 08,VfL Bochum,3500,1,0,2018,1,4,2,/spielbericht/index/spielbericht/3048423,8
 10/31/2018 20:45,Holstein Kiel,SC Freiburg,9361,2,1,2018,2,2,1,/spielbericht/index/spielbericht/3096451,10
 2/5/2019 18:30,1.FC Heidenheim 1846,Bayer 04 Leverkusen,11400,2,1,2018,3,2,1,/spielbericht/index/spielbericht/3122479,2
-2/5/2019 18:30,Hamburger SV,1.FC NÃ¼rnberg,47628,1,0,2018,3,2,1,/spielbericht/index/spielbericht/3122478,2
+2/5/2019 18:30,Hamburger SV,FC Nuremberg,47628,1,0,2018,3,2,1,/spielbericht/index/spielbericht/3122478,2
 8/10/2019 15:30,1.FC Kaiserslautern,1.FSV Mainz 05,40694,2,0,2019,1,3,1,/spielbericht/index/spielbericht/3195514,8
 8/10/2019 15:30,SC Verl,FC Augsburg,4198,2,1,2019,1,4,1,/spielbericht/index/spielbericht/3195546,8
-8/11/2019 15:30,1.FC SaarbrÃ¼cken,J. Regensburg,5021,3,2,2019,1,4,2,/spielbericht/index/spielbericht/3195542,8
-8/11/2019 18:30,MSV Duisburg,Greuther FÃ¼rth,13542,2,0,2019,1,3,2,/spielbericht/index/spielbericht/3195538,8
-10/29/2019 18:30,1.FC SaarbrÃ¼cken,1.FC KÃ¶ln,6800,3,2,2019,2,4,1,/spielbericht/index/spielbericht/3245513,10
-10/30/2019 18:30,1.FC Kaiserslautern,1.FC NÃ¼rnberg,21714,8,7,2019,2,3,2,/spielbericht/index/spielbericht/3245510,10
+8/11/2019 15:30,1.FC Saarbrücken,SSV Jahn Regensburg,5021,3,2,2019,1,4,2,/spielbericht/index/spielbericht/3195542,8
+8/11/2019 18:30,MSV Duisburg,Greuther Fürth,13542,2,0,2019,1,3,2,/spielbericht/index/spielbericht/3195538,8
+10/29/2019 18:30,1.FC Saarbrücken,1.FC Köln,6800,3,2,2019,2,4,1,/spielbericht/index/spielbericht/3245513,10
+10/30/2019 18:30,1.FC Kaiserslautern,Fortuna Düsseldorf,21714,8,7,2019,2,3,2,/spielbericht/index/spielbericht/3245510,10
 10/30/2019 18:30,SC Verl,Holstein Kiel,5153,9,8,2019,2,4,2,/spielbericht/index/spielbericht/3245511,10
-2/5/2020 20:45,1.FC SaarbrÃ¼cken,Karlsruher SC,6800,5,3,2019,3,4,2,/spielbericht/index/spielbericht/3279217,2
-3/3/2020 18:30,1.FC SaarbrÃ¼cken,Fortuna DÃ¼sseldorf,6800,8,7,2019,4,4,1,/spielbericht/index/spielbericht/3319622,3
+2/5/2020 20:45,1.FC Saarbrücken,Karlsruher SC,6800,5,3,2019,3,4,2,/spielbericht/index/spielbericht/3279217,2
+3/3/2020 18:30,1.FC Saarbrücken,Fortuna Düsseldorf,6800,8,7,2019,4,4,1,/spielbericht/index/spielbericht/3319622,3
 9/11/2020 20:45,Eintracht Braunschweig,Hertha BSC,500000,5,4,2020,1,3,1,/spielbericht/index/spielbericht/3404449,9
 9/12/2020 18:30,SSV Ulm 1846,Erzgebirge Aue,430000,2,0,2020,1,4,2,/spielbericht/index/spielbericht/3422878,9
 9/13/2020 15:30,SV 07 Elversberg,FC St. Pauli,500000,4,2,2020,1,4,2,/spielbericht/index/spielbericht/3422926,9
 9/14/2020 18:30,RW Essen,Arminia Bielefeld,300000,1,0,2020,1,4,2,/spielbericht/index/spielbericht/3422873,9
-12/22/2020 18:30,TSG 1899 Hoffenheim,SpVgg Greuther FÃ¼rth,0,8,9,2020,2,1,2,/spielbericht/index/spielbericht/3485249,12
+12/22/2020 18:30,TSG 1899 Hoffenheim,Greuther Fürth,0,8,9,2020,2,1,2,/spielbericht/index/spielbericht/3485249,12
 12/22/2020 20:45,1.FC Union Berlin,SC Paderborn,0,2,3,2020,2,1,2,/spielbericht/index/spielbericht/3485240,12
-12/23/2020 18:30,RW Essen,Fortuna DÃ¼sseldorf,0,3,2,2020,2,4,2,/spielbericht/index/spielbericht/3485235,12
+12/23/2020 18:30,RW Essen,Fortuna Düsseldorf,0,3,2,2020,2,4,2,/spielbericht/index/spielbericht/3485235,12
 12/23/2020 20:45,1.FSV Mainz 05,VfL Bochum,0,2,5,2020,2,1,2,/spielbericht/index/spielbericht/3485246,12
-1/13/2021 20:45,Holstein Kiel,FC Bayern MÃ¼nchen,0,8,7,2020,2,2,1,/spielbericht/index/spielbericht/3485247,1
+1/13/2021 20:45,Holstein Kiel,FC Bayern Munich,0,8,7,2020,2,2,1,/spielbericht/index/spielbericht/3485247,1
 2/2/2021 18:30,RW Essen,Bayer 04 Leverkusen,0,2,1,2020,3,4,1,/spielbericht/index/spielbericht/3505314,2
-2/3/2021 20:45,SSV Jahn Regensburg,1.FC KÃ¶ln,0,6,5,2020,3,2,1,/spielbericht/index/spielbericht/3502336,2
-8/6/2021 20:45,1860 MÃ¼nchen,SV Darmstadt 98,4158,6,5,2021,1,3,2,/spielbericht/index/spielbericht/3601616,8
-8/7/2021 15:30,VfL OsnabrÃ¼ck,Werder Bremen,5341,2,0,2021,1,3,2,/spielbericht/index/spielbericht/3601605,8
-8/7/2021 18:30,SV Babelsberg 03,Greuther FÃ¼rth,3030,7,6,2021,1,4,2,/spielbericht/index/spielbericht/3601591,8
-8/8/2021 15:30,PreuÃŸen MÃ¼nster,VfL Wolfsburg,6703,2,0,2021,1,4,1,/spielbericht/index/spielbericht/3601615,8
+2/3/2021 20:45,SSV Jahn Regensburg,1.FC Köln,0,6,5,2020,3,2,1,/spielbericht/index/spielbericht/3502336,2
+8/6/2021 20:45,1860 München,SV Darmstadt 98,4158,6,5,2021,1,3,2,/spielbericht/index/spielbericht/3601616,8
+8/7/2021 15:30,VfL Osnabrück,Werder Bremen,5341,2,0,2021,1,3,2,/spielbericht/index/spielbericht/3601605,8
+8/7/2021 18:30,SV Babelsberg 03,Greuther Fürth,3030,7,6,2021,1,4,2,/spielbericht/index/spielbericht/3601591,8
+8/8/2021 15:30,Preußen Münster,VfL Wolfsburg,6703,2,0,2021,1,4,1,/spielbericht/index/spielbericht/3601615,8
 8/8/2021 15:30,SV Waldhof Mannheim,Eintracht Frankfurt,12151,2,0,2021,1,3,1,/spielbericht/index/spielbericht/3601601,8
-10/26/2021 18:30,1860 MÃ¼nchen,FC Schalke 04,15000,1,0,2021,2,3,2,/spielbericht/index/spielbericht/3651883,10
+10/26/2021 18:30,1860 München,FC Schalke 04,15000,1,0,2021,2,3,2,/spielbericht/index/spielbericht/3651883,10
 10/27/2021 18:30,Bayer 04 Leverkusen,Karlsruher SC,13060,1,2,2021,2,1,2,/spielbericht/index/spielbericht/3651894,10
-1/18/2022 18:30,1.FC KÃ¶ln,Hamburger SV,750000,4,5,2021,3,1,2,/spielbericht/index/spielbericht/3690468,1
+1/18/2022 18:30,1.FC Köln,Hamburger SV,750000,4,5,2021,3,1,2,/spielbericht/index/spielbericht/3690468,1
 1/18/2022 20:45,FC St. Pauli,Borussia Dortmund,2000,2,1,2021,3,2,1,/spielbericht/index/spielbericht/3690464,1
-1/19/2022 18:30,Hannover 96,Borussia MÃ¶nchengladbach,500000,3,0,2021,3,2,1,/spielbericht/index/spielbericht/3690466,1
-7/30/2022 15:31,J. Regensburg,1.FC KÃ¶ln,13236,6,5,2022,1,2,1,/spielbericht/index/spielbericht/3825586,7
+1/19/2022 18:30,Hannover 96,Borussia Mönchengladbach,500000,3,0,2021,3,2,1,/spielbericht/index/spielbericht/3690466,1
+7/30/2022 15:31,SSV Jahn Regensburg,1.FC Köln,13236,6,5,2022,1,2,1,/spielbericht/index/spielbericht/3825586,7
 7/30/2022 15:31,SV Elversberg,Bayer 04 Leverkusen,7500,4,3,2022,1,4,1,/spielbericht/index/spielbericht/3825596,7
-7/30/2022 15:31,VfB LÃ¼beck,Hansa Rostock,10351,1,0,2022,1,4,2,/spielbericht/index/spielbericht/3825588,7
-7/30/2022 18:01,Stuttg. Kickers,SpVgg Greuther FÃ¼rth,7280,2,0,2022,1,4,2,/spielbericht/index/spielbericht/3825615,7
+7/30/2022 15:31,VfB Lübeck,Hansa Rostock,10351,1,0,2022,1,4,2,/spielbericht/index/spielbericht/3825588,7
+7/30/2022 18:01,Stuttg. Kickers,Greuther Fürth,7280,2,0,2022,1,4,2,/spielbericht/index/spielbericht/3825615,7
 7/31/2022 18:01,Eintracht Braunschweig,Hertha BSC,14126,10,9,2022,1,2,1,/spielbericht/index/spielbericht/3825602,7
 7/31/2022 18:01,SV Waldhof Mannheim,Holstein Kiel,13137,5,3,2022,1,3,2,/spielbericht/index/spielbericht/3825607,7
-10/18/2022 20:45,Darmstadt 98,Borussia MÃ¶nchengladbach,15850,2,1,2022,2,2,1,/spielbericht/index/spielbericht/3918220,10
+10/18/2022 20:45,Darmstadt 98,Borussia Mönchengladbach,15850,2,1,2022,2,2,1,/spielbericht/index/spielbericht/3918220,10
 10/19/2022 18:00,SC Paderborn 07,Werder Bremen,15000,7,6,2022,2,2,1,/spielbericht/index/spielbericht/3918223,10
 8/11/2023 18:00,SV Sandhausen,Hannover 96,4605,7,5,2023,1,3,2,/spielbericht/index/spielbericht/4088588,8
-8/11/2023 18:00,1.FC SaarbrÃ¼cken,Karlsruher SC,14000,2,1,2023,1,3,2,/spielbericht/index/spielbericht/4088612,8
-8/12/2023 15:30,FC Viktoria KÃ¶ln,Werder Bremen,8343,3,2,2023,1,3,1,/spielbericht/index/spielbericht/4088607,8
+8/11/2023 18:00,1.FC Saarbrücken,Karlsruher SC,14000,2,1,2023,1,3,2,/spielbericht/index/spielbericht/4088612,8
+8/12/2023 15:30,FC Viktoria Köln,Werder Bremen,8343,3,2,2023,1,3,1,/spielbericht/index/spielbericht/4088607,8
 8/12/2023 18:00,Arminia Bielefeld,VfL Bochum,21452,6,3,2023,1,3,1,/spielbericht/index/spielbericht/4088616,8
 8/13/2023 15:30,Unterhaching,FC Augsburg,12500,2,0,2023,1,3,1,/spielbericht/index/spielbericht/4088594,8
 8/14/2023 18:00,FC 08 Homburg,Darmstadt 98,6150,3,0,2023,1,4,2,/spielbericht/index/spielbericht/4088586,8
-10/31/2023 18:00,FC 08 Homburg,Greuther FÃ¼rth,5230,2,1,2023,2,4,2,/spielbericht/index/spielbericht/4194141,10
-10/31/2023 20:45,1.FC Kaiserslautern,1.FC KÃ¶ln,49327,3,2,2023,2,2,1,/spielbericht/index/spielbericht/4194154,10
+10/31/2023 18:00,FC 08 Homburg,Greuther Fürth,5230,2,1,2023,2,4,2,/spielbericht/index/spielbericht/4194141,10
+10/31/2023 20:45,1.FC Kaiserslautern,1.FC Köln,49327,3,2,2023,2,2,1,/spielbericht/index/spielbericht/4194154,10
 11/1/2023 18:00,SC Freiburg,SC Paderborn,31500,1,3,2023,2,1,2,/spielbericht/index/spielbericht/4194149,11
 11/1/2023 20:45,Hertha BSC,1.FSV Mainz 05,29621,3,0,2023,2,2,1,/spielbericht/index/spielbericht/4194151,11
-11/1/2023 20:45,1.FC SaarbrÃ¼cken,Bayern MÃ¼nchen,16003,2,1,2023,2,3,1,/spielbericht/index/spielbericht/4194144,11
-12/6/2023 18:00,1.FC SaarbrÃ¼cken,Eintracht Frankfurt,15903,2,0,2023,3,3,1,/spielbericht/index/spielbericht/4222798,12
-3/12/2024 20:30,1.FC SaarbrÃ¼cken,Borussia MÃ¶nchengladbach,15903,2,1,2023,4,3,1,/spielbericht/index/spielbericht/4240125,3
+11/1/2023 20:45,1.FC Saarbrücken,FC Bayern Munich,16003,2,1,2023,2,3,1,/spielbericht/index/spielbericht/4194144,11
+12/6/2023 18:00,1.FC Saarbrücken,Eintracht Frankfurt,15903,2,0,2023,3,3,1,/spielbericht/index/spielbericht/4222798,12
+3/12/2024 20:30,1.FC Saarbrücken,Borussia Mönchengladbach,15903,2,1,2023,4,3,1,/spielbericht/index/spielbericht/4240125,3
 8/17/2024 18:00,Arminia Bielefeld,Hannover 96,26044,2,0,2024,1,3,2,/spielbericht/index/spielbericht/4353891,8
 8/18/2024 15:30,SSV Jahn Regensburg,VfL Bochum,12581,1,0,2024,1,2,1,/spielbericht/index/spielbericht/4353892,8
-8/18/2024 18:00,Dynamo Dresden,Fortuna DÃ¼sseldorf,29660,2,0,2024,1,3,2,/spielbericht/index/spielbericht/4353890,8
+8/18/2024 18:00,Dynamo Dresden,Fortuna Düsseldorf,29660,2,0,2024,1,3,2,/spielbericht/index/spielbericht/4353890,8
 8/19/2024 18:00,K. Offenbach,1.FC Magdeburg,16847,2,1,2024,1,4,2,/spielbericht/index/spielbericht/4353911,8
-10/29/2024 20:45,1.FC KÃ¶ln,Holstein Kiel,48000,3,0,2024,2,2,1,/spielbericht/index/spielbericht/4446802,10
+10/29/2024 20:45,1.FC Köln,Holstein Kiel,48000,3,0,2024,2,2,1,/spielbericht/index/spielbericht/4446802,10
 10/30/2024 18:00,Hertha BSC,1.FC Heidenheim 1846,44135,2,1,2024,2,2,1,/spielbericht/index/spielbericht/4446791,10
 10/30/2024 20:45,Arminia Bielefeld,1.FC Union Berlin,26117,2,0,2024,2,3,1,/spielbericht/index/spielbericht/4446787,10
 12/3/2024 18:00,Arminia Bielefeld,SC Freiburg,26311,3,1,2024,3,3,1,/spielbericht/index/spielbericht/4485931,12
