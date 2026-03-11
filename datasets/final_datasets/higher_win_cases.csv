@@ -54,10 +54,10 @@ datetime,home_team,away_team,participants,home_score,away_score,season,round,hom
 10/30/2019 18:30,SC Verl,Holstein Kiel,5153,9,8,2019,2,4,2,/spielbericht/index/spielbericht/3245511,10
 2/5/2020 20:45,1.FC Saarbrücken,Karlsruher SC,6800,5,3,2019,3,4,2,/spielbericht/index/spielbericht/3279217,2
 3/3/2020 18:30,1.FC Saarbrücken,Fortuna Düsseldorf,6800,8,7,2019,4,4,1,/spielbericht/index/spielbericht/3319622,3
-9/11/2020 20:45,Eintracht Braunschweig,Hertha BSC,500000,5,4,2020,1,3,1,/spielbericht/index/spielbericht/3404449,9
-9/12/2020 18:30,SSV Ulm 1846,Erzgebirge Aue,430000,2,0,2020,1,4,2,/spielbericht/index/spielbericht/3422878,9
-9/13/2020 15:30,SV 07 Elversberg,FC St. Pauli,500000,4,2,2020,1,4,2,/spielbericht/index/spielbericht/3422926,9
-9/14/2020 18:30,RW Essen,Arminia Bielefeld,300000,1,0,2020,1,4,2,/spielbericht/index/spielbericht/3422873,9
+9/11/2020 20:45,Eintracht Braunschweig,Hertha BSC,5000,5,4,2020,1,3,1,/spielbericht/index/spielbericht/3404449,9
+9/12/2020 18:30,SSV Ulm 1846,Erzgebirge Aue,4300,2,0,2020,1,4,2,/spielbericht/index/spielbericht/3422878,9
+9/13/2020 15:30,SV 07 Elversberg,FC St. Pauli,5000,4,2,2020,1,4,2,/spielbericht/index/spielbericht/3422926,9
+9/14/2020 18:30,RW Essen,Arminia Bielefeld,3000,1,0,2020,1,4,2,/spielbericht/index/spielbericht/3422873,9
 12/22/2020 18:30,TSG 1899 Hoffenheim,Greuther Fürth,0,8,9,2020,2,1,2,/spielbericht/index/spielbericht/3485249,12
 12/22/2020 20:45,1.FC Union Berlin,SC Paderborn,0,2,3,2020,2,1,2,/spielbericht/index/spielbericht/3485240,12
 12/23/2020 18:30,RW Essen,Fortuna Düsseldorf,0,3,2,2020,2,4,2,/spielbericht/index/spielbericht/3485235,12
@@ -72,9 +72,9 @@ datetime,home_team,away_team,participants,home_score,away_score,season,round,hom
 8/8/2021 15:30,SV Waldhof Mannheim,Eintracht Frankfurt,12151,2,0,2021,1,3,1,/spielbericht/index/spielbericht/3601601,8
 10/26/2021 18:30,1860 München,FC Schalke 04,15000,1,0,2021,2,3,2,/spielbericht/index/spielbericht/3651883,10
 10/27/2021 18:30,Bayer 04 Leverkusen,Karlsruher SC,13060,1,2,2021,2,1,2,/spielbericht/index/spielbericht/3651894,10
-1/18/2022 18:30,1.FC Köln,Hamburger SV,750000,4,5,2021,3,1,2,/spielbericht/index/spielbericht/3690468,1
+1/18/2022 18:30,1.FC Köln,Hamburger SV,7500,4,5,2021,3,1,2,/spielbericht/index/spielbericht/3690468,1
 1/18/2022 20:45,FC St. Pauli,Borussia Dortmund,2000,2,1,2021,3,2,1,/spielbericht/index/spielbericht/3690464,1
-1/19/2022 18:30,Hannover 96,Borussia Mönchengladbach,500000,3,0,2021,3,2,1,/spielbericht/index/spielbericht/3690466,1
+1/19/2022 18:30,Hannover 96,Borussia Mönchengladbach,5000,3,0,2021,3,2,1,/spielbericht/index/spielbericht/3690466,1
 7/30/2022 15:31,SSV Jahn Regensburg,1.FC Köln,13236,6,5,2022,1,2,1,/spielbericht/index/spielbericht/3825586,7
 7/30/2022 15:31,SV Elversberg,Bayer 04 Leverkusen,7500,4,3,2022,1,4,1,/spielbericht/index/spielbericht/3825596,7
 7/30/2022 15:31,VfB Lübeck,Hansa Rostock,10351,1,0,2022,1,4,2,/spielbericht/index/spielbericht/3825588,7
